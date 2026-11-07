@@ -25,7 +25,7 @@ watchlist:
 llm:
   enabled: true
   provider: gemini          # gemini（免費額度）| anthropic（收費，好平）
-  model: gemini-2.5-flash   # anthropic 用 claude-haiku-5-5；Gemini 新型號可以喺 AI Studio 睇
+  model: auto               # auto = 自動揀最新 Gemini Flash；anthropic 用 claude-haiku-5-5
   min_score: 3              # 1–5，低過呢個唔推；想更靜改 4
   drop_flags: [stale, irrelevant, duplicate, mis-tagged]   # 有呢啲 flag 一律唔推
   scan_unmatched: true      # filter: true 嘅 feed 冇命中關鍵字都交俾 AI 睇，佢覺得重要（≥4 分）先推

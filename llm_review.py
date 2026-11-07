@@ -49,6 +49,32 @@ Watchlist：{watchlist}
 """
 
 
+CHOSEN_MODEL = ""  # 實際用咗邊個型號（俾測試模式顯示）
+
+
+def pick_gemini_model(key: str) -> str:
+    """問 Google 有邊啲型號，揀最新、非 preview、非 lite 嘅 Flash（揀唔到就退而求其次）。"""
+    r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
+                     params={"pageSize": 1000}, headers={"x-goog-api-key": key}, timeout=30)
+    r.raise_for_status()
+    best = None
+    for m in r.json().get("models", []):
+        name = m.get("name", "").split("/")[-1]
+        if "generateContent" not in m.get("supportedGenerationMethods", []):
+            continue
+        mm = re.match(r"^gemini-(\d+(?:\.\d+)?)-flash(-lite)?(?:-(.+))?$", name)
+        if not mm or re.search(r"image|tts|live|audio|native|embed|vision", name):
+            continue
+        suffix = mm.group(3) or ""
+        unstable = bool(re.search(r"preview|exp", suffix))
+        rank = (float(mm.group(1)), not unstable, not mm.group(2), suffix == "")
+        if best is None or rank > best[0]:
+            best = (rank, name)
+    if not best:
+        raise RuntimeError("搵唔到可用嘅 Gemini Flash 型號")
+    return best[1]
+
+
 def _call_gemini(prompt: str, model: str, key: str) -> str:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     body = {"contents": [{"parts": [{"text": prompt}]}],
@@ -77,7 +103,7 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
     """返回同 items 對應嘅 verdict list；失敗返回 None。"""
     llm = cfg.get("llm", {})
     provider = llm.get("provider", "gemini")
-    model = llm.get("model") or ("gemini-2.5-flash" if provider == "gemini" else "claude-haiku-5-5")
+    model = llm.get("model") or ("auto" if provider == "gemini" else "claude-haiku-5-5")
     key = os.environ.get("GEMINI_API_KEY" if provider == "gemini" else "ANTHROPIC_API_KEY")
     global LAST_ERROR
     if not key:
@@ -85,6 +111,16 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
         print(f"  ! LLM: {LAST_ERROR}，跳過 AI 審核", file=sys.stderr)
         return None
 
+    global CHOSEN_MODEL
+    if provider == "gemini" and model == "auto":
+        try:
+            model = pick_gemini_model(key)
+        except Exception as ex:
+            LAST_ERROR = f"揀型號失敗 {type(ex).__name__}: {str(ex)[:150]}"
+            print(f"  ! LLM: {LAST_ERROR}", file=sys.stderr)
+            return None
+    CHOSEN_MODEL = model
+    print(f"  · LLM 型號：{model}")
     now = now or time.time()
     payload = [{"id": str(i), "source": it["source"], "title": it["title"],
                 "summary": it.get("summary", "")[:300], "keyword_tags": it["tags"],
@@ -109,6 +145,14 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
                 break
             except Exception as ex:  # 網絡、429、JSON 唔合格
                 LAST_ERROR = f"{type(ex).__name__}: {str(ex)[:150]}"
+                code = getattr(getattr(ex, "response", None), "status_code", None)
+                if provider == "gemini" and code == 404 and attempt == 0:  # 型號退役：自動換
+                    try:
+                        model = CHOSEN_MODEL = pick_gemini_model(key)
+                        print(f"  · 型號 404，改用 {model}")
+                        continue
+                    except Exception:
+                        pass
                 print(f"  ! LLM {provider} 失敗（第 {attempt + 1} 次）：{type(ex).__name__}: {str(ex)[:150]}",
                       file=sys.stderr)
                 time.sleep(5)

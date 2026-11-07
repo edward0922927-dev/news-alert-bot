@@ -443,7 +443,7 @@ def ai_test(cfg: dict, hours: float, dry: bool) -> int:
         d = " ".join(f"{k}分×{dist[k]}" for k in sorted(dist, reverse=True))
         head = {"source": "AI 測試", "ts": now, "tags": [], "sent": "🧪",
                 "link": "https://github.com/edward0922927-dev/news-alert-bot/actions",
-                "title": f"✅ {len(items)} 條候選 → 推 {len(kept)} 條（最高分）。分佈：{d}"}
+                "title": f"✅ [{llm_review.CHOSEN_MODEL}] {len(items)} 條候選 → 推 {len(kept)} 條（最高分）。分佈：{d}"}
     out = [head] + kept
     lines = [format_item(i) for i in out]
     if dry:
