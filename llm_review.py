@@ -17,6 +17,8 @@ import time
 
 import requests
 
+LAST_ERROR = ""  # 最近一次失敗原因（俾測試模式顯示）
+
 PROMPT = """你係一個交易新聞分流分析員，幫一位做 Stage Analysis / VCP 嘅交易員過濾新聞推送。
 今日 UTC 日期：{today}
 Watchlist：{watchlist}
@@ -77,8 +79,10 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
     provider = llm.get("provider", "gemini")
     model = llm.get("model") or ("gemini-2.5-flash" if provider == "gemini" else "claude-haiku-5-5")
     key = os.environ.get("GEMINI_API_KEY" if provider == "gemini" else "ANTHROPIC_API_KEY")
+    global LAST_ERROR
     if not key:
-        print(f"  ! LLM: 未設定 {provider} API key，跳過 AI 審核", file=sys.stderr)
+        LAST_ERROR = f"未設定 {'GEMINI_API_KEY' if provider == 'gemini' else 'ANTHROPIC_API_KEY'}"
+        print(f"  ! LLM: {LAST_ERROR}，跳過 AI 審核", file=sys.stderr)
         return None
 
     now = now or time.time()
@@ -104,6 +108,7 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
                     verdicts[str(v.get("id"))] = v
                 break
             except Exception as ex:  # 網絡、429、JSON 唔合格
+                LAST_ERROR = f"{type(ex).__name__}: {str(ex)[:150]}"
                 print(f"  ! LLM {provider} 失敗（第 {attempt + 1} 次）：{type(ex).__name__}: {str(ex)[:150]}",
                       file=sys.stderr)
                 time.sleep(5)

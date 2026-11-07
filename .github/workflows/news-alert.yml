@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/10 * * * *"     # 每 10 分鐘（GitHub 實際經常遲 5–15 分鐘）
   workflow_dispatch:            # 可以喺 Actions 頁手動撳 Run 測試
+    inputs:
+      ai_test:
+        description: "AI 測試：攞過去 24 小時新聞俾 AI 審，推最高分幾條（唔影響正常運作）"
+        type: boolean
+        default: false
 
 concurrency:
   group: news-alert
@@ -37,7 +42,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-        run: python news_bot.py
+        run: python news_bot.py ${{ inputs.ai_test && '--ai-test 24' || '' }}
 
       - name: Save state
         run: |

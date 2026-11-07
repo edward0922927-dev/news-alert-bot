@@ -395,14 +395,75 @@ def format_item(it: dict) -> str:
             f"<a href=\"{html.escape(it['link'], quote=True)}\">開原文</a>")
 
 
+def push_all(items: list[dict], lines: list[str]) -> bool:
+    env = os.environ.get
+    token, chat = env("TELEGRAM_BOT_TOKEN"), env("TELEGRAM_CHAT_ID")
+    topic, discord = env("NTFY_TOPIC"), env("DISCORD_WEBHOOK_URL")
+    ok = True
+    if token and chat:
+        for msg in chunk_messages(lines):
+            ok &= send_telegram(token, chat, msg)
+            time.sleep(1)
+    if topic:
+        for it in items:
+            ok &= send_ntfy(topic, it, env("NTFY_SERVER") or "https://ntfy.sh")
+            time.sleep(2)
+    groups: dict[str, list] = {}
+    for it in items:
+        hook = env(it.get("discord_env") or "") or discord
+        if hook:
+            groups.setdefault(hook, []).append(it)
+    for hook, its in groups.items():
+        ok &= send_discord(hook, its)
+    return ok
+
+
+def ai_test(cfg: dict, hours: float, dry: bool) -> int:
+    """唔理 state，攞過去 N 個鐘嘅新聞俾 AI 審，推最高分嘅（最多 8 條），唔儲 state。"""
+    import llm_review
+    cfg = dict(cfg, max_age_hours=hours)
+    cfg["llm"] = dict(cfg.get("llm", {}), enabled=True)
+    fake = {"seen": {}, "titles": {}, "seeded_feeds": [f["name"] for f in cfg.get("feeds", [])]}
+    items = [i for i in run(cfg, fake) if not i.get("skip_ai")]
+    items = items[-80:]  # 控制 token 用量
+    print(f"AI 測試：{len(items)} 條候選（過去 {hours:g} 小時）")
+    verdicts = llm_review.review(items, cfg)
+    now = time.time()
+    if verdicts is None:
+        head = {"source": "AI 測試", "title": f"❌ AI 審核失敗：{llm_review.LAST_ERROR or '未知原因'}",
+                "link": "https://aistudio.google.com/", "ts": now, "tags": [], "sent": "🧪"}
+        kept = []
+    else:
+        kept = apply_ai(items, verdicts, cfg)
+        kept = sorted(kept, key=lambda x: (x.get("score", 0), x["ts"]))[-8:]
+        dist = {}
+        for v in verdicts:
+            if v:
+                dist[int(v.get("score", 0) or 0)] = dist.get(int(v.get("score", 0) or 0), 0) + 1
+        d = " ".join(f"{k}分×{dist[k]}" for k in sorted(dist, reverse=True))
+        head = {"source": "AI 測試", "ts": now, "tags": [], "sent": "🧪",
+                "link": "https://github.com/edward0922927-dev/news-alert-bot/actions",
+                "title": f"✅ {len(items)} 條候選 → 推 {len(kept)} 條（最高分）。分佈：{d}"}
+    out = [head] + kept
+    lines = [format_item(i) for i in out]
+    if dry:
+        print("\n".join(re.sub(r"<[^>]+>", "", ln) for ln in lines))
+        return 0
+    return 0 if push_all(out, lines) else 1
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", default="config.yaml")
     ap.add_argument("--state", default="state/seen.json")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--ai-test", type=float, metavar="HOURS",
+                    help="測試 AI：攞過去 N 個鐘嘅新聞俾 AI 審，推最高分幾條；唔改 state")
     a = ap.parse_args()
 
     cfg = yaml.safe_load(Path(a.config).read_text("utf-8"))
+    if a.ai_test:
+        return ai_test(cfg, a.ai_test, a.dry_run)
     st_path = Path(a.state)
     state = load_state(st_path)
 
