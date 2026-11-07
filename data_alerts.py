@@ -98,14 +98,44 @@ def _fred(series_id: str) -> dict[str, float]:
     return out
 
 
+def _kraken(pair: str) -> dict[str, float]:
+    """Kraken 每小時收市價（最近 720 個鐘）；最後一支未收市，唔要。key = 'YYYY-MM-DDTHH:00'（UTC）"""
+    key = f"kraken:{pair}"
+    if key in _cache:
+        return _cache[key]
+    r = requests.get("https://api.kraken.com/0/public/OHLC", params={"pair": pair, "interval": 60},
+                     headers=UA, timeout=20)
+    r.raise_for_status()
+    js = r.json()
+    if js.get("error"):
+        raise RuntimeError(str(js["error"]))
+    rows = next(v for k, v in js["result"].items() if k != "last")[:-1]
+    out = {datetime.utcfromtimestamp(int(c[0])).strftime("%Y-%m-%dT%H:00"): float(c[4]) for c in rows}
+    _cache[key] = out
+    return out
+
+
+def _fng(_: str = "") -> dict[str, float]:
+    """Crypto Fear & Greed 指數（alternative.me，每日一個）"""
+    if "fng" in _cache:
+        return _cache["fng"]
+    r = requests.get("https://api.alternative.me/fng/", params={"limit": 400, "format": "json"},
+                     headers=UA, timeout=20)
+    r.raise_for_status()
+    out = {datetime.utcfromtimestamp(int(d["timestamp"])).date().isoformat(): float(d["value"])
+           for d in r.json().get("data", [])}
+    _cache["fng"] = out
+    return out
+
+
 def load_series(spec: dict) -> dict[str, float]:
     """支援 derived：例如 a - b（兩個同來源嘅 column/symbol 相減）。"""
     src = spec["source"]
-    fn = {"treasury": _treasury, "cboe": _cboe, "fred": _fred}[src]
+    fn = {"treasury": _treasury, "cboe": _cboe, "fred": _fred, "kraken": _kraken, "fng": _fng}[src]
     if "minus" in spec:  # derived spread
         a, b = fn(spec["field"]), fn(spec["minus"])
         return {d: a[d] - b[d] for d in a if d in b}
-    return fn(spec["field"])
+    return fn(spec.get("field", ""))
 
 
 # ───────────────────────── 規則判斷 ─────────────────────────
@@ -138,6 +168,15 @@ def evaluate(spec: dict, series: dict[str, float], idx: int | None = None) -> tu
         hits.append(("chg5d" + ("+" if d5 > 0 else "-"), f"5日{'累升' if d5 > 0 else '累跌'} {d5:+.0f}{u}（門檻 {rules['change_5d']}）"))
     if "change_1d_pct" in rules and abs(pct) >= rules["change_1d_pct"]:
         hits.append(("pct1d", f"1日{'急升' if pct > 0 else '急跌'} {pct:+.1f}%（門檻 {rules['change_1d_pct']}%）"))
+    per_day = float(spec.get("obs_per_day", 1))
+    span = (lambda n: f"{n:g}小時" if per_day == 24 else f"{n:g}日")
+    for n, thr in (rules.get("change_pct") or {}).items():
+        n = int(n)
+        if i - n >= 0 and vals[i - n]:
+            pn = (v / vals[i - n] - 1) * 100
+            if abs(pn) >= thr:
+                hits.append((f"pct{n}{'+' if pn > 0 else '-'}",
+                             f"{span(n)}{'急升' if pn > 0 else '急跌'} {pn:+.1f}%（門檻 {thr}%）"))
     if "zscore" in rules:
         diffs = [(vals[k] - vals[k - 1]) * mult for k in range(max(1, i - 120), i)]
         if len(diffs) >= 30:
@@ -146,25 +185,40 @@ def evaluate(spec: dict, series: dict[str, float], idx: int | None = None) -> tu
                 hits.append(("z", f"異常波動 {abs(d1) / sd:.1f}σ（門檻 {rules['zscore']}σ）"))
     if "breakout_days" in rules:
         n = rules["breakout_days"]
-        win = vals[max(0, i - n):i]
-        if len(win) >= n * 0.8:
+        w = int(n * per_day)
+        win = vals[max(0, i - w):i]
+        if len(win) >= w * 0.8:
             if v > max(win):
                 hits.append(("high", f"{n}日新高"))
             elif v < min(win):
                 hits.append(("low", f"{n}日新低"))
     dirs = spec.get("level_dirs", "both")  # up = 只推上穿；down = 只推下穿
+    ll = {str(k): v for k, v in (spec.get("level_labels") or {}).items()}
     for lv in rules.get("levels", []):
         if p < lv <= v and dirs in ("both", "up"):
-            hits.append((f"lv{lv}+", spec["label_up"] if "label_up" in spec and lv == 0 else spec.get("label_up", "上穿") + f" {lv}"))
+            hits.append((f"lv{lv}+", ll.get(f"{lv}+") or (spec["label_up"] if "label_up" in spec and lv == 0 else spec.get("label_up", "上穿") + f" {lv}")))
         elif p > lv >= v and dirs in ("both", "down"):
-            hits.append((f"lv{lv}-", spec["label_down"] if "label_down" in spec and lv == 0 else spec.get("label_down", "下穿") + f" {lv}"))
+            hits.append((f"lv{lv}-", ll.get(f"{lv}-") or (spec["label_down"] if "label_down" in spec and lv == 0 else spec.get("label_down", "下穿") + f" {lv}")))
 
-    info = {"date": dates[i], "value": v, "d1": d1, "d5": d5, "pct": pct, "unit": u}
+    info = {"date": dates[i], "value": v, "d1": d1, "d5": d5, "pct": pct, "unit": u,
+            "chg": {int(n): (v / vals[i - int(n)] - 1) * 100 for n in spec.get("show_changes", [])
+                    if i - int(n) >= 0 and vals[i - int(n)]}}
     return hits, info
 
 
 def apply_cooldown(hits: list[tuple[str, str]], cool: dict, day: str, spec: dict) -> list[str]:
     """同一條規則（例如同一個水平、新高）喺冷卻期內唔再推；急升急跌類（chg/pct/z）冷卻 1 日。"""
+    if "cooldown_hours" in spec:  # 每小時數據（crypto）：所有規則用同一個冷卻期
+        cd_h = float(spec["cooldown_hours"])
+        out = []
+        for key, text in hits:
+            last = cool.get(key)
+            need = max(cd_h, 48) if key in ("high", "low") else cd_h  # 趨勢中日日新低，唔好每 6 個鐘推一次
+            if last and (datetime.fromisoformat(day) - datetime.fromisoformat(last)).total_seconds() < need * 3600:
+                continue
+            cool[key] = day
+            out.append(text)
+        return out
     days = int(spec.get("cooldown_days", 10))
     out = []
     for key, text in hits:
@@ -224,9 +278,13 @@ def check(cfg: dict, state: dict, now: float | None = None) -> list[dict]:
             continue
         rising = info["d1"] > 0
         stress = rising if spec.get("rise_is_stress", True) else not rising
-        lvl = _fmt_level(info["value"], spec.get("unit", "bp"))
+        lvl = spec["fmt"].format(info["value"]) if spec.get("fmt") else _fmt_level(info["value"], spec.get("unit", "bp"))
         u = info["unit"]
-        title = (f"{spec['name']} {lvl}（1日 {info['d1']:+.0f}{u}｜5日 {info['d5']:+.0f}{u}）"
+        if info.get("chg"):
+            span = (lambda n: f"{n}h" if float(spec.get("obs_per_day", 1)) == 24 else f"{n}日")
+            title = f"{spec['name']} {lvl}（" + "｜".join(f"{span(n)} {p:+.1f}%" for n, p in info["chg"].items()) + "）"
+        else:
+          title = (f"{spec['name']} {lvl}（1日 {info['d1']:+.0f}{u}｜5日 {info['d5']:+.0f}{u}）"
                  if spec.get("unit", "bp") == "bp" else
                  (f"{spec['name']} {lvl}（1日 {info['d1']:+.2f}）" if "minus" in spec else
                   f"{spec['name']} {lvl}（1日 {info['d1']:+.2f}，{info['pct']:+.1f}%）"))
