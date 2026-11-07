@@ -260,3 +260,90 @@ feeds:
   #   type: google_news
   #   query: 'site:seekingalpha.com (Tesla OR Nvidia)'
   #   filter: false
+
+# ─────────────────────────────────────────────
+#  📊 重要數據警報（每日收市後更新；bot 每個鐘 check 一次，唔經 AI，一定推）
+#  unit: bp = 數值係 %，變動用基點計；pt = 指數點數
+#  rise_is_stress: true = 升 = 壓力（🔴），跌 = 🟢
+# ─────────────────────────────────────────────
+data_alerts:
+  enabled: true
+  check_every_minutes: 60
+  series:
+    # ── 息率：估值同借貸成本 ──
+    - id: UST10Y
+      name: 美國10年債息
+      source: treasury
+      field: "10 Yr"
+      unit: bp
+      rules: {change_1d: 12, change_5d: 30, breakout_days: 120, levels: [4.5, 5.0]}
+      why: 長債息急升 = 科技股估值受壓、借貸成本上升
+      link: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve
+    - id: UST2Y
+      name: 美國2年債息
+      source: treasury
+      field: "2 Yr"
+      unit: bp
+      rules: {change_1d: 15, breakout_days: 120}
+      why: 2年息反映市場對聯儲局加減息嘅預期
+      link: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve
+    - id: CURVE_10Y3M
+      name: 孳息曲線 10年-3個月
+      source: treasury
+      field: "10 Yr"
+      minus: "3 Mo"
+      unit: bp
+      rise_is_stress: false
+      rules: {levels: [0]}
+      label_up: 解除倒掛（上穿）
+      label_down: 倒掛（下穿）
+      why: 曲線倒掛／解除倒掛係經典衰退訊號
+      link: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve
+
+    # ── 波動率：恐慌程度 ──
+    - id: VIX
+      name: VIX 恐慌指數
+      source: cboe
+      field: VIX
+      unit: pt
+      rules: {change_1d_pct: 25, levels: [20, 25, 30, 40]}
+      level_dirs: up            # 只推上穿（壓力升級）
+      why: VIX > 30 通常係急跌／去槓桿階段
+      link: https://www.cboe.com/tradable_products/vix/
+    - id: VIX_TERM
+      name: VIX 期限結構（VIX − VIX3M）
+      source: cboe
+      field: VIX
+      minus: VIX3M
+      unit: pt
+      rules: {levels: [0]}
+      label_up: 倒掛（短期恐慌高過中期）
+      label_down: 回復正常
+      why: 倒掛 = 市場預期短期有事，通常伴隨急跌；回復正常 = 恐慌消退
+      link: https://www.cboe.com/tradable_products/vix/term_structure/
+
+    # ── 信貸：借貸鏈有冇斷裂（要 FRED_API_KEY，冇就試公開 CSV）──
+    - id: HY_OAS
+      name: 高收益債息差（垃圾債）
+      source: fred
+      field: BAMLH0A0HYM2
+      unit: bp
+      rules: {change_1d: 20, change_5d: 45, breakout_days: 120, levels: [4.0, 5.0, 6.0]}
+      why: 息差急擴 = 投資者唔肯借錢俾高風險公司，AI 高負債買家（CoreWeave、數據中心）首當其衝
+      link: https://fred.stlouisfed.org/series/BAMLH0A0HYM2
+    - id: IG_OAS
+      name: 投資級債息差
+      source: fred
+      field: BAMLC0A0CM
+      unit: bp
+      rules: {change_5d: 12, breakout_days: 120, levels: [1.2, 1.5]}
+      why: Big Tech 大量發債；IG 息差擴闊 = 連大公司借錢都貴咗
+      link: https://fred.stlouisfed.org/series/BAMLC0A0CM
+    - id: USD
+      name: 美元指數（廣義）
+      source: fred
+      field: DTWEXBGS
+      unit: pt
+      rules: {change_1d_pct: 1.0, breakout_days: 120}
+      why: 美元急升 = 全球資金收緊，風險資產（包括 crypto）受壓
+      link: https://fred.stlouisfed.org/series/DTWEXBGS

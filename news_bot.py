@@ -469,6 +469,12 @@ def main() -> int:
     state = load_state(st_path)
 
     items = run(cfg, state)
+    if cfg.get("data_alerts", {}).get("enabled"):
+        import data_alerts
+        try:
+            items += data_alerts.check(cfg, state)
+        except Exception as ex:  # 數據出事唔好拖死新聞推送
+            print(f"  ! 數據警報：{type(ex).__name__}: {ex}", file=sys.stderr)
     to_review = [i for i in items if not i.get("skip_ai")]
     if to_review and cfg.get("llm", {}).get("enabled"):
         import llm_review
