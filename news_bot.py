@@ -221,7 +221,7 @@ def send_ntfy(topic: str, it: dict, server: str = "https://ntfy.sh") -> bool:
     body = {"topic": topic, "title": f"{it['sent']} {it['source']} · {t} UTC",
             "message": it["title"] + (f"\n{it['ai']}" if it.get("ai") else "")
                        + (f"\n{' '.join('#' + x for x in it['tags'][:4])}" if it["tags"] else ""),
-            "click": it["link"]}
+            **({"click": it["link"]} if it.get("link") else {})}
     for attempt in range(3):
         try:
             r = requests.post(server.rstrip("/") + "/", json=body, timeout=15)
@@ -458,6 +458,7 @@ def main() -> int:
     ap.add_argument("--config", default="config.yaml")
     ap.add_argument("--state", default="state/seen.json")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--force", action="store_true", help="無視排程規則（靜音時段／週末頻率），即刻跑")
     ap.add_argument("--ai-test", type=float, metavar="HOURS",
                     help="測試 AI：攞過去 N 個鐘嘅新聞俾 AI 審，推最高分幾條；唔改 state")
     a = ap.parse_args()
@@ -469,6 +470,17 @@ def main() -> int:
         return ai_test(cfg, a.ai_test, a.dry_run)
     st_path = Path(a.state)
     state = load_state(st_path)
+
+    import schedule_gate
+    ok_run, why = schedule_gate.should_run(cfg, state)
+    if not ok_run and not a.force:
+        print(f"⏸ 跳過：{why}")
+        return 0  # 唔改 state → 唔會 commit
+    print(f"▶ {why}{'（--force）' if a.force and not ok_run else ''}")
+    gap_h = schedule_gate.catchup_hours(cfg, state)
+    if gap_h:  # 補發：放寬「太舊」門檻，覆蓋晒上次 run 之後嘅新聞（最多 24 個鐘）
+        cfg["max_age_hours"] = max(float(cfg.get("max_age_hours", 6)), min(gap_h + 1, 24))
+        print(f"🌅 補發模式：距離上次 run {gap_h:.1f} 小時，max_age → {cfg['max_age_hours']:.1f}h")
 
     items = run(cfg, state)
     if cfg.get("data_alerts", {}).get("enabled"):
@@ -487,8 +499,24 @@ def main() -> int:
         print(f"  AI 審核：{n0} → {len(kept)}")
         items = sorted([i for i in items if i.get("skip_ai")] + kept, key=lambda x: x["ts"])
     cap = cfg.get("max_items_per_run", 25)
-    overflow = max(0, len(items) - cap)
-    items = items[-cap:]  # 保留最新嘅
+    if gap_h:
+        # 補發：阿豬／數據一定保留；其餘按 AI 分數揀最重要嘅，再按時間排返
+        cap = int((cfg.get("schedule") or {}).get("catchup_max_items", 30))
+        must = [i for i in items if i.get("skip_ai")]
+        rest = sorted([i for i in items if not i.get("skip_ai")],
+                      key=lambda x: (x.get("score", 3), x["ts"]), reverse=True)
+        chosen = must + rest[:max(0, cap - len(must))]
+        dropped = len(items) - len(chosen)
+        items = sorted(chosen, key=lambda x: x["ts"])
+        if items:
+            top = sum(1 for i in items if i.get("score", 0) >= 4)
+            items.insert(0, {"source": "🌅 補發", "ts": time.time(), "tags": [], "sent": "🌅", "link": "",
+                             "title": f"過去 {gap_h:.0f} 小時：推 {len(items)} 條（⭐4 分以上 {top} 條）"
+                                      + (f"，略過 {dropped} 條較低分" if dropped else "")})
+        overflow = 0
+    else:
+        overflow = max(0, len(items) - cap)
+        items = items[-cap:]  # 保留最新嘅
 
     lines = [format_item(i) for i in items]
     if overflow:
@@ -524,6 +552,7 @@ def main() -> int:
             if not ok:  # 照儲 state：避免下輪重推已經成功嗰啲（重複通知）同埋死循環
                 print("⚠️ 部分推送失敗（照儲 state，避免重複通知）", file=sys.stderr)
     print(f"done: {len(items)} pushed")
+    state["last_run"] = time.time()
     save_state(st_path, state)
     return 0
 

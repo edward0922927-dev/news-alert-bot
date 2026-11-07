@@ -9,6 +9,10 @@ on:
         description: "AI 測試：攞過去 24 小時新聞俾 AI 審，推最高分幾條（唔影響正常運作）"
         type: boolean
         default: false
+      force:
+        description: "即刻跑（無視靜音時段／週末每小時規則）"
+        type: boolean
+        default: false
 
 concurrency:
   group: news-alert
@@ -43,7 +47,7 @@ jobs:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-        run: python news_bot.py ${{ inputs.ai_test && '--ai-test 24' || '' }}
+        run: python news_bot.py ${{ inputs.ai_test && '--ai-test 24' || '' }} ${{ inputs.force && '--force' || '' }}
 
       - name: Save state
         run: |

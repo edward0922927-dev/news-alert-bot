@@ -2,6 +2,16 @@
 #  News Alert Bot 設定檔（改呢度就得，唔使改 code）
 # ─────────────────────────────────────────────
 
+# ── 排程規則（cron-job.org 照舊每 10 分鐘觸發；由 bot 決定跑唔跑，時間以倫敦時間計，夏令時間自動處理）──
+schedule:
+  timezone: Europe/London
+  quiet_hours: "00:00-07:00"     # 呢段時間唔跑；之後第一次 run 會補晒
+  quiet_days: [0, 1, 2, 3, 4, 5, 6]   # 邊幾日有靜音（0=星期一 … 5=星期六 6=星期日）
+  weekday_every_minutes: 10
+  weekend_every_minutes: 60      # 星期六、日每個鐘一次
+  catchup_after_minutes: 120     # 距離上次 run 超過 2 個鐘 = 補發模式
+  catchup_max_items: 30          # 補發最多推幾多條（按 AI 分數揀最重要；阿豬／數據一定保留）
+
 # 每次最多推幾多條（防止大新聞日洗版）
 max_items_per_run: 25
 # 超過幾多個鐘嘅舊新聞唔推
