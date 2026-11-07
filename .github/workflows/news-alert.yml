@@ -1,0 +1,47 @@
+name: news-alert
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"     # 每 10 分鐘（GitHub 實際經常遲 5–15 分鐘）
+  workflow_dispatch:            # 可以喺 Actions 頁手動撳 Run 測試
+
+concurrency:
+  group: news-alert
+  cancel-in-progress: false
+
+permissions:
+  contents: write               # 要寫返 state/seen.json
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch & push
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_AJU: ${{ secrets.DISCORD_WEBHOOK_AJU }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: python news_bot.py
+
+      - name: Save state
+        run: |
+          git config user.name  "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add state/seen.json
+          git diff --cached --quiet || (git commit -q -m "state $(date -u +%FT%TZ)" && git push -q)

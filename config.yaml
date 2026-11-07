@@ -1,0 +1,180 @@
+# ─────────────────────────────────────────────
+#  News Alert Bot 設定檔（改呢度就得，唔使改 code）
+# ─────────────────────────────────────────────
+
+# 每次最多推幾多條（防止大新聞日洗版）
+max_items_per_run: 25
+# 超過幾多個鐘嘅舊新聞唔推
+max_age_hours: 6
+
+# ── Watchlist：ticker + 別名（標題/摘要出現任何一個就算命中）──
+# ticker 用大小寫敏感 + 字界匹配（避免 "NOW" 呢類誤中）；別名唔分大小寫
+watchlist:
+  - ticker: TSLA
+    aliases: [Tesla, Musk]
+  - ticker: NVDA
+    aliases: [Nvidia]
+  - ticker: "000660"
+    aliases: ["SK hynix", "SK Hynix", HBM]
+  - ticker: BTC
+    aliases: [Bitcoin, "spot ETF"]
+  - ticker: ETH
+    aliases: [Ethereum, Ether]
+
+# ── AI 審核（預設開；冇設 API key 會自動跳過，照用關鍵字）──
+llm:
+  enabled: true
+  provider: gemini          # gemini（免費額度）| anthropic（收費，好平）
+  model: gemini-2.5-flash   # anthropic 用 claude-haiku-5-5；Gemini 新型號可以喺 AI Studio 睇
+  min_score: 3              # 1–5，低過呢個唔推；想更靜改 4
+  drop_flags: [stale, irrelevant, duplicate, mis-tagged]   # 有呢啲 flag 一律唔推
+  scan_unmatched: true      # filter: true 嘅 feed 冇命中關鍵字都交俾 AI 睇，佢覺得重要（≥4 分）先推
+  batch_size: 40
+
+# ── 宏觀/事件關鍵字：唔理 ticker，出現就推（只對 filter: true 嘅 feed 生效）──
+keywords:
+  - FOMC
+  - Powell
+  - rate cut
+  - rate hike
+  - CPI
+  - payrolls
+  - tariff
+  - trading halt
+  - export controls
+
+# ── 排除：標題命中任何一條 regex 就唔推（Google News 會夾雜公司簡介/報價頁）──
+exclude_patterns:
+  - 'Profile and Biography'
+  - 'Stock Price & Latest News'
+  - 'Stock Quote'
+  - '^[^:]{2,60}(Inc|Corp|Corporation|Ltd|LLC|Co|PLC|AG|SA)\.?\s+-\s+Bloomberg(\.com)?$'
+  - '^(Video|Watch|Podcast)\b'
+  - 'Podcast:'
+
+# ── 情緒標籤（純關鍵字，免費；唔準就自己加減）──
+bullish_words: [upgrade, upgraded, beats, beat estimates, raises guidance, raised guidance,
+                record, surge, surges, soars, jumps, rallies, outperform, buy rating, approval, approved]
+bearish_words: [downgrade, downgraded, misses, missed estimates, cuts guidance, lowered guidance,
+                plunge, plunges, slumps, tumbles, falls, probe, investigation, recall, recalls, lawsuit, warns, slower,
+                halt, halted, underperform, sell rating, delay, delayed, ban]
+
+# ── 新聞來源 ──
+# type: rss         → 直接 RSS
+# type: google_news → 自動砌 Google News RSS（用嚟攞 Reuters / Bloomberg）
+# filter: true      → 只推命中 watchlist 或 keywords 嘅；false → 全部推
+feeds:
+  # Seeking Alpha 官方 RSS
+  - name: SA 快訊
+    type: rss
+    url: https://seekingalpha.com/market_currents.xml
+    filter: true
+  - name: SA TSLA
+    type: rss
+    url: https://seekingalpha.com/api/sa/combined/TSLA.xml
+    filter: false
+  - name: SA NVDA
+    type: rss
+    url: https://seekingalpha.com/api/sa/combined/NVDA.xml
+    filter: false
+
+  # Reuters（官方 RSS 2020 年已停，用 Google News 代替）
+  - name: Reuters
+    type: google_news
+    query: 'site:reuters.com (Tesla OR Nvidia OR "SK hynix")'
+    filter: true
+  - name: Reuters 宏觀
+    type: google_news
+    query: 'site:reuters.com/markets'
+    filter: true
+
+  # Bloomberg（同樣經 Google News）
+  - name: Bloomberg
+    type: google_news
+    query: 'site:bloomberg.com/news (Tesla OR Nvidia OR "SK hynix")'
+    filter: true
+  - name: Bloomberg 宏觀
+    type: google_news
+    query: 'site:bloomberg.com/news/articles (Fed OR stocks OR markets)'
+    filter: true
+
+  # ── 阿豬（唔經 AI、一定推）──
+  - name: 阿豬 Patreon
+    type: patreon
+    campaign_id: 5320930      # patreon.com/ahju；只攞標題同連結，內容要登入會員先睇到
+    filter: false
+    skip_ai: true
+    icon: "🐷"
+    discord_webhook_env: DISCORD_WEBHOOK_AJU   # 有設呢個 secret 就推去阿豬專用頻道，冇就推去預設頻道
+  - name: 阿豬 YouTube
+    type: rss
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCBbTnorwzva0ZIMGW0ttwVA
+    filter: false
+    skip_ai: true
+    icon: "🐷"
+    discord_webhook_env: DISCORD_WEBHOOK_AJU   # 有設呢個 secret 就推去阿豬專用頻道，冇就推去預設頻道
+
+  # ── X 帳戶（官方 API pay-per-use；要設 X_BEARER_TOKEN secret，否則自動跳過）──
+  - name: X @trading_for_bj
+    type: x_user
+    username: trading_for_bj
+    filter: false
+    skip_ai: true             # 你揀嚟跟嘅人，唔經 AI 審核；想 AI 篩就改 false
+    icon: "𝕏"
+
+  # ── 官方一手來源 ──
+  # SEC 8-K（公司重大事件／業績，通常比新聞早）。要設 SEC_USER_AGENT secret，否則自動跳過
+  - name: SEC TSLA
+    type: rss
+    url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605&type=8-K&dateb=&owner=include&count=10&output=atom
+    sec: true
+    tags: [TSLA]
+    filter: false
+  - name: SEC NVDA
+    type: rss
+    url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=8-K&dateb=&owner=include&count=10&output=atom
+    sec: true
+    tags: [NVDA]
+    filter: false
+  - name: Fed
+    type: rss
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    filter: true             # 大部分係銀行執法公告；FOMC 會命中關鍵字，其他交俾 AI
+
+  # ── 綜合財經 ──
+  - name: MarketWatch
+    type: rss
+    url: https://feeds.marketwatch.com/marketwatch/topstories
+    filter: true
+  - name: Investing.com
+    type: rss
+    url: https://www.investing.com/rss/news_25.rss
+    filter: true
+
+  # ── 韓國（SK hynix 本地消息通常早過西方媒體）──
+  - name: 韓媒 SK hynix
+    type: google_news
+    query: '"SK hynix" (site:koreaherald.com OR site:koreatimes.co.kr OR site:en.yna.co.kr OR site:kedglobal.com)'
+    filter: false
+
+  # ── Crypto ──
+  - name: CoinDesk
+    type: rss
+    url: https://www.coindesk.com/arc/outboundfeeds/rss/
+    filter: true
+  - name: The Block
+    type: rss
+    url: https://www.theblock.co/rss.xml
+    filter: true
+
+  # ── 散戶情緒（嘈，預設關；開之前建議 AI 審核要開住）──
+  # - name: r/wallstreetbets
+  #   type: rss
+  #   url: https://www.reddit.com/r/wallstreetbets/.rss
+  #   filter: true
+
+  # 後備：如果 Seeking Alpha 封咗 GitHub 嘅 IP（403），開返呢條
+  # - name: SA (via Google)
+  #   type: google_news
+  #   query: 'site:seekingalpha.com (Tesla OR Nvidia)'
+  #   filter: false
