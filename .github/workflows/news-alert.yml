@@ -2,7 +2,7 @@ name: news-alert
 
 on:
   schedule:
-    - cron: "*/10 * * * *"     # 每 10 分鐘（GitHub 實際經常遲 5–15 分鐘）
+    - cron: "17 * * * *"       # 後備：每個鐘一次（主力靠 cron-job.org 每 10 分鐘經 workflow_dispatch 觸發）
   workflow_dispatch:            # 可以喺 Actions 頁手動撳 Run 測試
     inputs:
       ai_test:
