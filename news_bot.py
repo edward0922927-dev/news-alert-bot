@@ -222,13 +222,13 @@ def send_ntfy(topic: str, it: dict, server: str = "https://ntfy.sh") -> bool:
             "message": it["title"] + (f"\n{it['ai']}" if it.get("ai") else "")
                        + (f"\n{' '.join('#' + x for x in it['tags'][:4])}" if it["tags"] else ""),
             "click": it["link"]}
-    for attempt in range(4):
+    for attempt in range(3):
         try:
-            r = requests.post(server.rstrip("/") + "/", json=body, timeout=20)
+            r = requests.post(server.rstrip("/") + "/", json=body, timeout=15)
             if r.status_code == 200:
                 return True
             if r.status_code == 429:  # ntfy.sh 限流：等一陣再試
-                time.sleep(5 * (attempt + 1))
+                time.sleep(4 * (attempt + 1))
                 continue
             print(f"  ! ntfy {r.status_code}: {r.text[:200]}", file=sys.stderr)
             return False
@@ -463,6 +463,8 @@ def main() -> int:
     a = ap.parse_args()
 
     cfg = yaml.safe_load(Path(a.config).read_text("utf-8"))
+    t_start = time.time()
+    budget = float(os.environ.get("BOT_BUDGET_SECONDS", 200))  # 成個 run 嘅時間預算（workflow 上限 8 分鐘）
     if a.ai_test:
         return ai_test(cfg, a.ai_test, a.dry_run)
     st_path = Path(a.state)
@@ -478,6 +480,8 @@ def main() -> int:
     to_review = [i for i in items if not i.get("skip_ai")]
     if to_review and cfg.get("llm", {}).get("enabled"):
         import llm_review
+        left = budget - (time.time() - t_start) - 60  # 留 60 秒推送
+        cfg["llm"] = dict(cfg["llm"], max_seconds=max(15, min(float(cfg["llm"].get("max_seconds", 90)), left)))
         n0 = len(to_review)
         kept = apply_ai(to_review, llm_review.review(to_review, cfg), cfg)
         print(f"  AI 審核：{n0} → {len(kept)}")
@@ -517,9 +521,8 @@ def main() -> int:
                     groups.setdefault(hook, []).append(it)
             for hook, its in groups.items():
                 ok &= send_discord(hook, its)
-            if not ok:
-                print("推送失敗，唔儲 state，下輪重試", file=sys.stderr)
-                return 1
+            if not ok:  # 照儲 state：避免下輪重推已經成功嗰啲（重複通知）同埋死循環
+                print("⚠️ 部分推送失敗（照儲 state，避免重複通知）", file=sys.stderr)
     print(f"done: {len(items)} pushed")
     save_state(st_path, state)
     return 0

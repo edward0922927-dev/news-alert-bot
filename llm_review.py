@@ -67,7 +67,7 @@ def pick_gemini_model(key: str) -> str:
 def gemini_candidates(key: str, n: int = 4) -> list[str]:
     """問 Google 有邊啲型號，按「新、穩定、非 lite」排序，返回頭 n 個 Flash 型號。"""
     r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
-                     params={"pageSize": 1000}, headers={"x-goog-api-key": key}, timeout=30)
+                     params={"pageSize": 1000}, headers={"x-goog-api-key": key}, timeout=15)
     r.raise_for_status()
     ranked = []
     for m in r.json().get("models", []):
@@ -97,13 +97,13 @@ def _call_gemini(prompt: str, model: str, key: str) -> str:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     body = {"contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"temperature": 0.1, "responseMimeType": "application/json"}}
-    r = requests.post(url, json=body, headers={"x-goog-api-key": key}, timeout=60)
+    r = requests.post(url, json=body, headers={"x-goog-api-key": key}, timeout=35)
     r.raise_for_status()
     return r.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 
 def _call_anthropic(prompt: str, model: str, key: str) -> str:
-    r = requests.post("https://api.anthropic.com/v1/messages", timeout=60,
+    r = requests.post("https://api.anthropic.com/v1/messages", timeout=35,
                       headers={"x-api-key": key, "anthropic-version": "2023-06-01"},
                       json={"model": model, "max_tokens": 4000, "temperature": 0.1,
                             "messages": [{"role": "user", "content": prompt}]})
@@ -151,7 +151,7 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
     wl = "; ".join(f"{w['ticker']} ({'/'.join(w.get('aliases', []))})" + (f"〔{w['note']}〕" if w.get("note") else "")
                    for w in cfg.get("watchlist", []))
     batch = int(llm.get("batch_size", 40))
-    deadline = time.time() + float(llm.get("max_seconds", 150))  # 唔好拖死成個 workflow
+    deadline = time.time() + float(llm.get("max_seconds", 90))  # 唔好拖死成個 workflow
     verdicts: dict[str, dict] = {}
 
     for start in range(0, len(payload), batch):

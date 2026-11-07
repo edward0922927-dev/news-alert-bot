@@ -41,7 +41,7 @@ def _treasury(column: str) -> dict[str, float]:
         url = ("https://home.treasury.gov/resource-center/data-chart-center/interest-rates/"
                f"daily-treasury-rates.csv/{yr}/all?type=daily_treasury_yield_curve"
                f"&field_tdr_date_value={yr}&page&_format=csv")
-        r = requests.get(url, headers=UA, timeout=30)
+        r = requests.get(url, headers=UA, timeout=20)
         r.raise_for_status()
         for row in csv.DictReader(io.StringIO(r.text)):
             v = row.get(column)
@@ -57,7 +57,7 @@ def _cboe(symbol: str) -> dict[str, float]:
     if key in _cache:
         return _cache[key]
     r = requests.get(f"https://cdn.cboe.com/api/global/us_indices/daily_prices/{symbol}_History.csv",
-                     headers=UA, timeout=30)
+                     headers=UA, timeout=20)
     r.raise_for_status()
     out: dict[str, float] = {}
     cutoff = (date.today() - timedelta(days=800)).isoformat()
@@ -79,7 +79,7 @@ def _fred(series_id: str) -> dict[str, float]:
     api_key = os.environ.get("FRED_API_KEY")
     out: dict[str, float] = {}
     if api_key:
-        r = requests.get("https://api.stlouisfed.org/fred/series/observations", headers=UA, timeout=30,
+        r = requests.get("https://api.stlouisfed.org/fred/series/observations", headers=UA, timeout=15,
                          params={"series_id": series_id, "api_key": api_key, "file_type": "json",
                                  "observation_start": start})
         r.raise_for_status()
@@ -88,7 +88,7 @@ def _fred(series_id: str) -> dict[str, float]:
                 out[o["date"]] = float(o["value"])
     else:  # 冇 key：試公開 CSV（有啲網絡環境會好慢／擋）
         r = requests.get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series_id}&cosd={start}",
-                         headers=UA, timeout=25)
+                         headers=UA, timeout=12)
         r.raise_for_status()
         rows = list(csv.reader(io.StringIO(r.text)))[1:]
         for d, v in (x for x in rows if len(x) == 2):
@@ -190,11 +190,20 @@ def check(cfg: dict, state: dict, now: float | None = None) -> list[dict]:
     ds["_last_check"] = now
     _cache.clear()
     out = []
+    t0, budget = time.time(), float(dc.get("max_seconds", 45))
+    dead_sources: set[str] = set()
     for spec in dc.get("series", []):
         sid = spec["id"]
+        if time.time() - t0 > budget:
+            print(f"  ! 數據：超過 {budget:.0f}s 預算，其餘下個鐘再 check", file=sys.stderr)
+            ds["_last_check"] = 0  # 下次 run 再試
+            break
+        if spec["source"] in dead_sources:
+            continue
         try:
             series = load_series(spec)
         except Exception as ex:
+            dead_sources.add(spec["source"])  # 同一來源一次失敗就唔再等
             print(f"  ! 數據 {sid}：{type(ex).__name__}: {str(ex)[:120]}", file=sys.stderr)
             continue
         if len(series) < 10:
