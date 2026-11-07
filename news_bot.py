@@ -336,7 +336,8 @@ def run(cfg: dict, state: dict, fetcher=fetch, now: float | None = None) -> list
                               "tags": tags, "sent": f.get("icon") or m.sentiment(title),
                               "summary": summary[:400], "unmatched": unmatched,
                               "skip_ai": bool(f.get("skip_ai")),
-                              "discord_env": f.get("discord_webhook_env")})
+                              "discord_env": f.get("discord_webhook_env"),
+                              "ai_required": bool(f.get("ai_required"))})
             cnt += 1
         if first_time:
             seeded.add(name)
@@ -360,13 +361,13 @@ def apply_ai(items: list[dict], verdicts: list[dict | None] | None, cfg: dict) -
     out = []
     if verdicts is None:
         for it in items:
-            if not it.get("unmatched"):
+            if not it.get("unmatched") and not it.get("ai_required"):
                 it["ai"] = "⚠️AI未審"
                 out.append(it)
         return out
     for it, v in zip(items, verdicts):
         if not v:  # AI 漏咗呢條：保守處理，同失敗一樣
-            if not it.get("unmatched"):
+            if not it.get("unmatched") and not it.get("ai_required"):
                 it["ai"] = "⚠️AI未審"
                 out.append(it)
             continue

@@ -16,6 +16,38 @@ watchlist:
     aliases: [Nvidia]
   - ticker: "000660"
     aliases: ["SK hynix", "SK Hynix", HBM]
+  # ── AI 供應鏈：大客（佢哋嘅 capex／算力合約／融資 = NVDA 同 HBM 嘅需求）──
+  - ticker: MSFT
+    aliases: [Microsoft, Azure]
+    note: 只關心 AI／雲端／capex／算力合約／晶片採購
+  - ticker: ORCL
+    aliases: [Oracle]
+    note: 只關心 AI 雲端、數據中心、債務／融資、OpenAI 合約
+  - ticker: GOOGL
+    aliases: [Alphabet, Google]
+    note: 只關心 AI／雲端／capex／TPU／數據中心
+  - ticker: AMZN
+    aliases: [Amazon, AWS]
+    note: 只關心 AWS／AI／capex／Trainium／數據中心；零售新聞唔相關
+  - ticker: META
+    aliases: [Meta Platforms]
+    note: 只關心 AI capex／數據中心／融資
+  - ticker: CRWV
+    aliases: [CoreWeave]
+    note: AI 雲端，高負債，佢嘅融資／違約風險係 AI 借貸鏈嘅先兆
+  - ticker: OpenAI
+    aliases: [OpenAI, Stargate]
+    note: 最大算力買家；融資、合約、燒錢速度
+  # ── AI 供應鏈：同業 ──
+  - ticker: TSM
+    aliases: [TSMC, "Taiwan Semiconductor"]
+  - ticker: AMD
+    aliases: ["Advanced Micro Devices"]
+  - ticker: MU
+    aliases: [Micron]
+  - ticker: SSNLF
+    aliases: [Samsung Electronics, "Samsung's chip", "Samsung chip"]
+    note: 只關心記憶體／HBM／晶圓代工
   - ticker: BTC
     aliases: [Bitcoin, "spot ETF"]
   - ticker: ETH
@@ -42,6 +74,39 @@ keywords:
   - tariff
   - trading halt
   - export controls
+  - Treasury yields
+  - 10-year yield
+  # AI 基建／需求
+  - data center
+  - data centers
+  - hyperscaler
+  - hyperscalers
+  - AI cloud
+  - cloud capacity
+  - capex
+  - capital expenditure
+  - compute deal
+  - GPU
+  - GPUs
+  # AI 融資／信貸（借貸鏈斷裂嘅先兆）
+  - private credit
+  - credit default swap
+  - CDS
+  - bond sale
+  - bond sales
+  - debt sale
+  - debt sales
+  - debt financing
+  - vendor financing
+  - circular
+  - AI bubble
+  # 晶片供應鏈
+  - CoWoS
+  - DRAM prices
+  - memory prices
+  - chip ban
+  - entity list
+  - ASML
 
 # ── 排除：標題命中任何一條 regex 就唔推（Google News 會夾雜公司簡介/報價頁）──
 exclude_patterns:
@@ -121,6 +186,23 @@ feeds:
     filter: false
     skip_ai: true             # 你揀嚟跟嘅人，唔經 AI 審核；想 AI 篩就改 false
     icon: "𝕏"
+
+  # ── 主題 feed：AI 需求／融資／供應鏈（量大：每日大約 100 條，ai_required = AI 失效就唔推，費事洗版）──
+  - name: AI 基建
+    type: google_news
+    query: '(site:reuters.com OR site:bloomberg.com OR site:cnbc.com) ("data center" OR hyperscaler OR "AI cloud" OR "cloud capacity" OR capex OR "compute deal" OR CoreWeave OR Stargate)'
+    filter: false
+    ai_required: true
+  - name: AI 融資
+    type: google_news
+    query: '(site:reuters.com OR site:bloomberg.com OR site:ft.com) (AI OR "data center" OR OpenAI OR Oracle OR CoreWeave) (debt OR bond OR "private credit" OR financing OR CDS OR "credit default")'
+    filter: false
+    ai_required: true
+  - name: 晶片供應鏈
+    type: google_news
+    query: '(site:reuters.com OR site:bloomberg.com OR site:digitimes.com) (HBM OR CoWoS OR "DRAM prices" OR "memory prices" OR TSMC OR ASML OR "export controls" OR "chip ban")'
+    filter: false
+    ai_required: true
 
   # ── 官方一手來源 ──
   # SEC 8-K（公司重大事件／業績，通常比新聞早）。要設 SEC_USER_AGENT secret，否則自動跳過

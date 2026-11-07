@@ -28,6 +28,14 @@ Watchlist：{watchlist}
 評分 score（1–5）：
 5 = 即時影響價格嘅硬消息（業績/指引、評級大改、監管/出口管制、停牌、重大併購、FOMC 決定、CPI/非農數據）
 4 = 明確相關嘅重要新聞（大客戶/訂單、產品延誤/召回、管理層變動、重要宏觀政策）
+
+AI 晶片需求鏈（交易員最關心，呢類消息可以扭轉成個晶片需求）：
+- Hyperscaler（MSFT/GOOGL/AMZN/META/ORCL）加減 capex、取消/縮減/延遲算力或數據中心合約、轉用自家晶片 → 4–5
+- AI 融資鏈出現壓力：AI 公司或數據中心發債困難、信貸息差/CDS 擴闊、private credit 收緊、監管審查數據中心貸款、
+  OpenAI/CoreWeave/Oracle 等高負債買家嘅資金問題、vendor/circular financing 被質疑 → 4–5
+- 供應鏈瓶頸或競爭格局改變：HBM/DRAM 價格、CoWoS 產能、TSMC/Samsung 搶 HBM、出口管制 → 4
+- 一般 AI 行業評論、未落實嘅計劃、重複報道 → 2–3
+- 大科技公司同 AI/雲端/晶片無關嘅新聞（例如 Amazon 零售、Google 反壟斷官司未影響 capex）→ 1–2
 3 = 相關但影響一般（行業動態、可信嘅報道）
 2 = 觀點文章、評論、重溫舊聞、「Stock Movers」類綜合
 1 = 唔相關／標錯 ticker／廣告／垃圾
@@ -140,7 +148,8 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
                 "published_utc": time.strftime("%Y-%m-%d %H:%M", time.gmtime(it["ts"]))}
                for i, it in enumerate(items)]
     year = int(time.strftime("%Y", time.gmtime(now)))
-    wl = ", ".join(f"{w['ticker']} ({'/'.join(w.get('aliases', []))})" for w in cfg.get("watchlist", []))
+    wl = "; ".join(f"{w['ticker']} ({'/'.join(w.get('aliases', []))})" + (f"〔{w['note']}〕" if w.get("note") else "")
+                   for w in cfg.get("watchlist", []))
     batch = int(llm.get("batch_size", 40))
     deadline = time.time() + float(llm.get("max_seconds", 150))  # 唔好拖死成個 workflow
     verdicts: dict[str, dict] = {}
