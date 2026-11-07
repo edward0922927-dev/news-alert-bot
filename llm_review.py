@@ -53,11 +53,15 @@ CHOSEN_MODEL = ""  # 實際用咗邊個型號（俾測試模式顯示）
 
 
 def pick_gemini_model(key: str) -> str:
-    """問 Google 有邊啲型號，揀最新、非 preview、非 lite 嘅 Flash（揀唔到就退而求其次）。"""
+    return gemini_candidates(key)[0]
+
+
+def gemini_candidates(key: str, n: int = 4) -> list[str]:
+    """問 Google 有邊啲型號，按「新、穩定、非 lite」排序，返回頭 n 個 Flash 型號。"""
     r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
                      params={"pageSize": 1000}, headers={"x-goog-api-key": key}, timeout=30)
     r.raise_for_status()
-    best = None
+    ranked = []
     for m in r.json().get("models", []):
         name = m.get("name", "").split("/")[-1]
         if "generateContent" not in m.get("supportedGenerationMethods", []):
@@ -67,12 +71,18 @@ def pick_gemini_model(key: str) -> str:
             continue
         suffix = mm.group(3) or ""
         unstable = bool(re.search(r"preview|exp", suffix))
-        rank = (float(mm.group(1)), not unstable, not mm.group(2), suffix == "")
-        if best is None or rank > best[0]:
-            best = (rank, name)
-    if not best:
+        ranked.append(((float(mm.group(1)), not unstable, not mm.group(2), suffix == ""), name))
+    if not ranked:
         raise RuntimeError("搵唔到可用嘅 Gemini Flash 型號")
-    return best[1]
+    ranked.sort(reverse=True)
+    out = [ranked[0][1]]
+    # 後備：同代 lite、上一代穩定版 —— 503 通常係單一型號爆滿，換型號就得
+    for _, name in ranked[1:]:
+        if name not in out:
+            out.append(name)
+        if len(out) >= n:
+            break
+    return out
 
 
 def _call_gemini(prompt: str, model: str, key: str) -> str:
@@ -112,15 +122,17 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
         return None
 
     global CHOSEN_MODEL
-    if provider == "gemini" and model == "auto":
+    models = [model]
+    if provider == "gemini":
         try:
-            model = pick_gemini_model(key)
+            cands = gemini_candidates(key)
+            models = cands if model == "auto" else [model] + [c for c in cands if c != model]
         except Exception as ex:
-            LAST_ERROR = f"揀型號失敗 {type(ex).__name__}: {str(ex)[:150]}"
-            print(f"  ! LLM: {LAST_ERROR}", file=sys.stderr)
-            return None
-    CHOSEN_MODEL = model
-    print(f"  · LLM 型號：{model}")
+            if model == "auto":
+                LAST_ERROR = f"揀型號失敗 {type(ex).__name__}: {str(ex)[:150]}"
+                print(f"  ! LLM: {LAST_ERROR}", file=sys.stderr)
+                return None
+    print(f"  · LLM 候選型號：{models}")
     now = now or time.time()
     payload = [{"id": str(i), "source": it["source"], "title": it["title"],
                 "summary": it.get("summary", "")[:300], "keyword_tags": it["tags"],
@@ -130,6 +142,7 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
     year = int(time.strftime("%Y", time.gmtime(now)))
     wl = ", ".join(f"{w['ticker']} ({'/'.join(w.get('aliases', []))})" for w in cfg.get("watchlist", []))
     batch = int(llm.get("batch_size", 40))
+    deadline = time.time() + float(llm.get("max_seconds", 150))  # 唔好拖死成個 workflow
     verdicts: dict[str, dict] = {}
 
     for start in range(0, len(payload), batch):
@@ -137,26 +150,33 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
         prompt = PROMPT.format(today=time.strftime("%Y-%m-%d", time.gmtime(now)), year=year,
                                prev_year=year - 1, watchlist=wl,
                                items=json.dumps(chunk, ensure_ascii=False, indent=1))
-        for attempt in range(2):
-            try:
-                fn = _call_gemini if provider == "gemini" else _call_anthropic
-                for v in _parse(fn(prompt, model, key)):
-                    verdicts[str(v.get("id"))] = v
+        fn = _call_gemini if provider == "gemini" else _call_anthropic
+        done = False
+        for mdl in models:
+            for attempt in range(3):
+                if time.time() > deadline:
+                    LAST_ERROR = f"超時（{LAST_ERROR}）"
+                    return None
+                try:
+                    for v in _parse(fn(prompt, mdl, key)):
+                        verdicts[str(v.get("id"))] = v
+                    CHOSEN_MODEL = mdl
+                    models = [mdl] + [m for m in models if m != mdl]  # 下一批先用呢個
+                    done = True
+                    break
+                except Exception as ex:  # 網絡、429、5xx、JSON 唔合格
+                    LAST_ERROR = f"[{mdl}] {type(ex).__name__}: {str(ex)[:150]}"
+                    code = getattr(getattr(ex, "response", None), "status_code", None)
+                    print(f"  ! LLM {mdl} 失敗（第 {attempt + 1} 次）：{LAST_ERROR}", file=sys.stderr)
+                    if code in (400, 401, 403):
+                        return None  # key／請求有問題，換型號都冇用
+                    if code == 404:
+                        break        # 型號退役：即刻換下一個
+                    if attempt < 2:
+                        time.sleep(4 * (attempt + 1))
+            if done:
                 break
-            except Exception as ex:  # 網絡、429、JSON 唔合格
-                LAST_ERROR = f"{type(ex).__name__}: {str(ex)[:150]}"
-                code = getattr(getattr(ex, "response", None), "status_code", None)
-                if provider == "gemini" and code == 404 and attempt == 0:  # 型號退役：自動換
-                    try:
-                        model = CHOSEN_MODEL = pick_gemini_model(key)
-                        print(f"  · 型號 404，改用 {model}")
-                        continue
-                    except Exception:
-                        pass
-                print(f"  ! LLM {provider} 失敗（第 {attempt + 1} 次）：{type(ex).__name__}: {str(ex)[:150]}",
-                      file=sys.stderr)
-                time.sleep(5)
-        else:
+        if not done:
             return None
 
     return [verdicts.get(str(i)) for i in range(len(items))]
