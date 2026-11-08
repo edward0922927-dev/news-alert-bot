@@ -505,22 +505,45 @@ def main() -> int:
         except Exception as ex:  # 數據出事唔好拖死新聞推送
             print(f"  ! 數據警報：{type(ex).__name__}: {ex}", file=sys.stderr)
     to_review = [i for i in items if not i.get("skip_ai")]
-    if to_review and cfg.get("llm", {}).get("enabled"):
+    items = [i for i in items if i.get("skip_ai")]  # 阿豬／數據：即刻推
+    llm = cfg.get("llm", {})
+    if llm.get("enabled"):
         import llm_review
-        left = budget - (time.time() - t_start) - 60  # 留 60 秒推送
-        cfg["llm"] = dict(cfg["llm"], max_seconds=max(15, min(float(cfg["llm"].get("max_seconds", 90)), left)))
-        n0 = len(to_review)
-        verdicts = llm_review.review(to_review, cfg, state=state)
-        why = "" if verdicts is not None else short_err(llm_review.LAST_ERROR)
-        kept = apply_ai(to_review, verdicts, cfg, why)
-        print(f"  AI 審核：{n0} → {len(kept)}")
-        log = state.setdefault("ai_log", [])  # 診斷：最近 60 次 AI 結果（寫入 state，唔使睇 GitHub log）
-        log.append({"t": time.strftime("%m-%d %H:%M", time.gmtime()), "n": n0, "kept": len(kept),
-                    "ok": verdicts is not None, "model": llm_review.CHOSEN_MODEL,
-                    "missing": sum(1 for v in (verdicts or []) if not v),
-                    "err": "" if verdicts is not None else llm_review.LAST_ERROR[:160]})
-        del log[:-60]
-        items = sorted([i for i in items if i.get("skip_ai")] + kept, key=lambda x: x["ts"])
+        # ⚡ 緊急快線：命中緊急字眼（而且命中 watchlist／關鍵字）→ 唔等 AI，即刻推
+        urgent = word_re(llm.get("urgent_keywords", []))
+        fast = [i for i in to_review if urgent and not i.get("unmatched") and urgent.search(i["title"])]
+        for i in fast:
+            i["ai"] = "⚡ 緊急字眼，即時推（未經 AI）"
+        items += fast
+        # 其餘排隊，每 review_every_minutes 分鐘夾埋一次過問 AI（慳免費額度）
+        queue = state.setdefault("ai_queue", [])
+        queue += [i for i in to_review if i not in fast]
+        del queue[:-int(llm.get("max_queue", 150))]
+        every = float(llm.get("review_every_minutes", 0))
+        last_rev = state.get("ai_last_review", 0)
+        due = bool(gap_h) or every <= 0 or time.time() - last_rev >= every * 60 - 120 or a.force
+        if queue and due:
+            left = budget - (time.time() - t_start) - 60  # 留 60 秒推送
+            cfg["llm"] = dict(llm, max_seconds=max(15, min(float(llm.get("max_seconds", 90)), left)))
+            n0 = len(queue)
+            verdicts = llm_review.review(queue, cfg, state=state)
+            why = "" if verdicts is not None else short_err(llm_review.LAST_ERROR)
+            kept = apply_ai(queue, verdicts, cfg, why)
+            print(f"  AI 審核（夾埋 {n0} 條）：→ 推 {len(kept)} 條")
+            log = state.setdefault("ai_log", [])  # 診斷：最近 60 次 AI 結果
+            log.append({"t": time.strftime("%m-%d %H:%M", time.gmtime()), "n": n0, "kept": len(kept),
+                        "ok": verdicts is not None, "model": llm_review.CHOSEN_MODEL,
+                        "missing": sum(1 for v in (verdicts or []) if not v),
+                        "err": "" if verdicts is not None else llm_review.LAST_ERROR[:160]})
+            del log[:-60]
+            items += kept
+            state["ai_queue"] = []
+            state["ai_last_review"] = time.time()
+        elif queue:
+            print(f"  ⏳ AI 排隊中：{len(queue)} 條，距離上次審核 {(time.time() - last_rev) / 60:.0f} 分鐘（每 {every:g} 分鐘夾埋審一次）")
+    else:
+        items += to_review
+    items.sort(key=lambda x: x["ts"])
     cap = cfg.get("max_items_per_run", 25)
     if gap_h:
         # 補發：阿豬／數據一定保留；其餘按 AI 分數揀最重要嘅，再按時間排返

@@ -58,7 +58,8 @@ Crypto（交易員本身喺 crypto 行業工作）：
 只輸出 JSON array，每條一個 object，唔好有其他文字：
 [{{"id": "...", "score": 1-5, "direction": "bull|bear|neutral|mixed",
    "tickers": ["NVDA"], "flags": ["stale","opinion","rumor","duplicate","mis-tagged","irrelevant"],
-   "reason": "≤25字繁體中文，講點解重要／點解唔重要"}}]
+   "reason": "≤20字繁體中文，講點解重要／點解唔重要"}}]
+score ≤ 2 嘅條目：reason 留空字串、flags 只填最主要一個，慳位。
 
 候選新聞：
 {items}
@@ -72,39 +73,44 @@ def pick_gemini_model(key: str) -> str:
     return gemini_candidates(key)[0]
 
 
-def gemini_candidates(key: str, n: int = 4) -> list[str]:
-    """問 Google 有邊啲型號，按「新、穩定、非 lite」排序，返回頭 n 個 Flash 型號。"""
+def gemini_candidates(key: str, n: int = 5, prefer: list[str] | None = None) -> list[str]:
+    """問 Google 有邊啲型號，按 prefer 次序分組（預設：flash-lite → gemma → flash），組內揀最新、最穩定。
+    免費額度（2026-11，以 AI Studio 為準）：Flash Lite 每日 500、Gemma 4 每日 1,500、Flash 每日 20。"""
+    prefer = prefer or ["flash-lite", "gemma", "flash"]
     r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
                      params={"pageSize": 1000}, headers={"x-goog-api-key": key}, timeout=15)
     r.raise_for_status()
-    ranked = []
+    groups: dict[str, list] = {p: [] for p in prefer}
     for m in r.json().get("models", []):
         name = m.get("name", "").split("/")[-1]
         if "generateContent" not in m.get("supportedGenerationMethods", []):
             continue
-        mm = re.match(r"^gemini-(\d+(?:\.\d+)?)-flash(-lite)?(?:-(.+))?$", name)
-        if not mm or re.search(r"image|tts|live|audio|native|embed|vision", name):
+        if re.search(r"image|tts|live|audio|native|embed|vision|thinking", name):
             continue
-        suffix = mm.group(3) or ""
-        unstable = bool(re.search(r"preview|exp", suffix))
-        ranked.append(((float(mm.group(1)), not unstable, not mm.group(2), suffix == ""), name))
-    if not ranked:
-        raise RuntimeError("搵唔到可用嘅 Gemini Flash 型號")
-    ranked.sort(reverse=True)
-    out = [ranked[0][1]]
-    # 後備：同代 lite、上一代穩定版 —— 503 通常係單一型號爆滿，換型號就得
-    for _, name in ranked[1:]:
-        if name not in out:
-            out.append(name)
-        if len(out) >= n:
-            break
-    return out
+        mg = re.match(r"^gemma-(\d+)-(\d+)b(?:-[a-z0-9]+)*-it$", name)
+        mf = re.match(r"^gemini-(\d+(?:\.\d+)?)-flash(-lite)?(?:-(.+))?$", name)
+        if mg and int(mg.group(1)) >= 3:
+            kind, rank = "gemma", (int(mg.group(1)), int(mg.group(2)), True)
+        elif mf:
+            kind = "flash-lite" if mf.group(2) else "flash"
+            rank = (float(mf.group(1)), not re.search(r"preview|exp", mf.group(3) or ""), not mf.group(3))
+        else:
+            continue
+        if kind in groups:
+            groups[kind].append((rank, name))
+    out = []
+    for p in prefer:
+        out += [name for _, name in sorted(groups[p], reverse=True)[:1 if p == "flash-lite" else 2]]  # lite 淨係最新嗰個（舊 lite 額度得 20）
+    if not out:
+        raise RuntimeError("搵唔到可用嘅 Gemini／Gemma 型號")
+    return out[:n]
 
 
 def _call_gemini(prompt: str, model: str, key: str) -> str:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     body = {"contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.1, "responseMimeType": "application/json"}}
+            "generationConfig": {"temperature": 0.1,
+                                 **({} if model.startswith("gemma") else {"responseMimeType": "application/json"})}}
     r = requests.post(url, json=body, headers={"x-goog-api-key": key}, timeout=35)
     r.raise_for_status()
     return r.json()["candidates"][0]["content"]["parts"][0]["text"]
@@ -149,7 +155,7 @@ def review(items: list[dict], cfg: dict, now: float | None = None, state: dict |
     models = [model]
     if provider == "gemini":
         try:
-            cands = gemini_candidates(key)
+            cands = gemini_candidates(key, prefer=llm.get("prefer"))
             models = cands if model == "auto" else [model] + [c for c in cands if c != model]
         except Exception as ex:
             if model == "auto":
@@ -203,8 +209,11 @@ def review(items: list[dict], cfg: dict, now: float | None = None, state: dict |
                     LAST_ERROR = f"[{mdl}] {type(ex).__name__}: {str(ex)[:150]}"
                     code = getattr(getattr(ex, "response", None), "status_code", None)
                     print(f"  ! LLM {mdl} 失敗（第 {attempt + 1} 次）：{LAST_ERROR}", file=sys.stderr)
-                    if code in (400, 401, 403):
-                        return None  # key／請求有問題，換型號都冇用
+                    body_txt = str(getattr(getattr(ex, "response", None), "text", ""))
+                    if code in (401, 403) or (code == 400 and "API_KEY" in body_txt):
+                        return None  # key 有問題，換型號都冇用
+                    if code == 400:
+                        break        # 呢個型號唔接受呢個請求：換下一個
                     if code == 404:
                         break        # 型號退役：即刻換下一個
                     if code == 429 and re.search(r"quota|RESOURCE_EXHAUSTED|per.?day", str(getattr(ex.response, "text", "")), re.I):

@@ -81,11 +81,18 @@ watchlist:
 llm:
   enabled: true
   provider: gemini          # gemini（免費額度）| anthropic（收費，好平）
-  model: auto               # auto = 自動揀最新 Gemini Flash；anthropic 用 claude-haiku-5-5
+  model: auto               # auto = 按 prefer 次序自動揀；anthropic 用 claude-haiku-5-5
+  prefer: [flash-lite, gemma, flash]   # 免費每日：Flash Lite 500、Gemma 4 1,500、Flash 得 20 ⚠️（以 AI Studio 為準）
+  review_every_minutes: 20  # 新聞排隊，每 20 分鐘夾埋一次過問 AI（平日每日大約 50 次 call）
+  max_queue: 150
+  # ⚡ 緊急快線：命中呢啲字眼（而且命中 watchlist／關鍵字）就唔等 AI，即刻推
+  urgent_keywords: [trading halt, halted, halts withdrawals, pauses withdrawals, hacked, exploit, depeg, depegged,
+                    bankruptcy, insolvency, FOMC statement, rate decision, emergency, export controls, chip ban,
+                    entity list, guidance cut, profit warning]
   min_score: 3              # 1–5，低過呢個唔推；想更靜改 4
   drop_flags: [stale, irrelevant, duplicate, mis-tagged]   # 有呢啲 flag 一律唔推
   scan_unmatched: true      # filter: true 嘅 feed 冇命中關鍵字都交俾 AI 睇，佢覺得重要（≥4 分）先推
-  batch_size: 40
+  batch_size: 80
 
 # ── 宏觀/事件關鍵字：唔理 ticker，出現就推（只對 filter: true 嘅 feed 生效）──
 keywords:
