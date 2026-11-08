@@ -125,7 +125,15 @@ def _parse(text: str) -> list[dict]:
     return json.loads(m.group(0) if m else text)
 
 
-def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict] | None:
+def _next_reset_pacific(now: float) -> float:
+    """Gemini 免費額度喺太平洋時間午夜重置。"""
+    from datetime import datetime, timedelta
+    from zoneinfo import ZoneInfo
+    pt = datetime.fromtimestamp(now, ZoneInfo("America/Los_Angeles"))
+    return (pt.replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)).timestamp()
+
+
+def review(items: list[dict], cfg: dict, now: float | None = None, state: dict | None = None) -> list[dict] | None:
     """返回同 items 對應嘅 verdict list；失敗返回 None。"""
     llm = cfg.get("llm", {})
     provider = llm.get("provider", "gemini")
@@ -148,7 +156,17 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
                 LAST_ERROR = f"揀型號失敗 {type(ex).__name__}: {str(ex)[:150]}"
                 print(f"  ! LLM: {LAST_ERROR}", file=sys.stderr)
                 return None
-    print(f"  · LLM 候選型號：{models}")
+    exhausted = state.setdefault("llm_exhausted", {}) if state is not None else {}
+    t_now = time.time()
+    for k in [k for k, until in exhausted.items() if until <= t_now]:
+        del exhausted[k]
+    usable = [m for m in models if m not in exhausted]
+    if not usable:
+        LAST_ERROR = f"429 所有候選型號今日額度用完：{list(exhausted)}"
+        print(f"  ! LLM: {LAST_ERROR}", file=sys.stderr)
+        return None
+    models = usable
+    print(f"  · LLM 候選型號：{models}（今日額度用完：{list(exhausted) or '冇'}）")
     now = now or time.time()
     payload = [{"id": str(i), "source": it["source"], "title": it["title"],
                 "summary": it.get("summary", "")[:300], "keyword_tags": it["tags"],
@@ -189,6 +207,9 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
                         return None  # key／請求有問題，換型號都冇用
                     if code == 404:
                         break        # 型號退役：即刻換下一個
+                    if code == 429 and re.search(r"quota|RESOURCE_EXHAUSTED|per.?day", str(getattr(ex.response, "text", "")), re.I):
+                        exhausted[mdl] = _next_reset_pacific(t_now)  # 今日額度用完：記住，直到太平洋時間午夜
+                        break
                     if attempt < 2:
                         time.sleep(4 * (attempt + 1))
             if done:
@@ -196,4 +217,17 @@ def review(items: list[dict], cfg: dict, now: float | None = None) -> list[dict]
         if not done:
             return None
 
+    # AI 漏咗嘅條目：用細批補問一次（大批量時 Gemini 間中會跳過幾條）
+    missing = [i for i in range(len(items)) if str(i) not in verdicts]
+    if missing and len(missing) < len(items) and time.time() < deadline - 20:
+        sub = [payload[i] for i in missing]
+        prompt = PROMPT.format(today=time.strftime("%Y-%m-%d", time.gmtime(now)), year=year,
+                               prev_year=year - 1, watchlist=wl, items=json.dumps(sub, ensure_ascii=False, indent=1))
+        try:
+            fn = _call_gemini if provider == "gemini" else _call_anthropic
+            for v in _parse(fn(prompt, CHOSEN_MODEL or models[0], key)):
+                verdicts.setdefault(str(v.get("id")), v)
+            print(f"  · AI 補審 {len(missing)} 條漏咗嘅")
+        except Exception as ex:
+            print(f"  ! AI 補審失敗：{type(ex).__name__}", file=sys.stderr)
     return [verdicts.get(str(i)) for i in range(len(items))]

@@ -322,6 +322,9 @@ def run(cfg: dict, state: dict, fetcher=fetch, now: float | None = None) -> list
                 continue
             if any(p.search(title) for p in m.excl):
                 continue
+            mw = f.get("min_title_words")
+            if mw and len(re.sub(r"\s+-\s+[^-]{2,40}$", "", title).split()) < mw:
+                continue
             summary = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", e.get("summary", ""))).strip()
             forced = [str(x) for x in f.get("tags", [])]
             if f.get("sec"):
@@ -329,7 +332,7 @@ def run(cfg: dict, state: dict, fetcher=fetch, now: float | None = None) -> list
             tags = forced + [t for t in m.tags(f"{title} {summary}") if t not in forced]
             unmatched = False
             if f.get("filter", True) and not tags:
-                if not scan_unmatched:
+                if not scan_unmatched or f.get("scan_unmatched") is False:
                     continue
                 unmatched = True  # 冇命中關鍵字，交俾 AI 決定
             new_items.append({"source": name, "title": title, "link": link, "ts": ts or now,
@@ -353,7 +356,7 @@ def run(cfg: dict, state: dict, fetcher=fetch, now: float | None = None) -> list
 DIR_ICON = {"bull": "📈", "bear": "📉", "mixed": "↔️", "neutral": "▫️"}
 
 
-def apply_ai(items: list[dict], verdicts: list[dict | None] | None, cfg: dict) -> list[dict]:
+def apply_ai(items: list[dict], verdicts: list[dict | None] | None, cfg: dict, why: str = "") -> list[dict]:
     """套用 AI 判斷；verdicts=None（AI 失敗）→ 照推關鍵字命中嘅，標「AI未審」。"""
     llm = cfg.get("llm", {})
     min_score = int(llm.get("min_score", 3))
@@ -362,13 +365,13 @@ def apply_ai(items: list[dict], verdicts: list[dict | None] | None, cfg: dict) -
     if verdicts is None:
         for it in items:
             if not it.get("unmatched") and not it.get("ai_required"):
-                it["ai"] = "⚠️AI未審"
+                it["ai"] = f"⚠️AI未審（{why}）" if why else "⚠️AI未審"
                 out.append(it)
         return out
     for it, v in zip(items, verdicts):
         if not v:  # AI 漏咗呢條：保守處理，同失敗一樣
             if not it.get("unmatched") and not it.get("ai_required"):
-                it["ai"] = "⚠️AI未審"
+                it["ai"] = "⚠️AI未審（AI 漏咗呢條）"
                 out.append(it)
             continue
         score, flags = int(v.get("score", 0) or 0), set(v.get("flags") or [])
@@ -385,6 +388,18 @@ def apply_ai(items: list[dict], verdicts: list[dict | None] | None, cfg: dict) -
         it["score"] = score
         out.append(it)
     return out
+
+
+def short_err(e: str) -> str:
+    if "429" in e or "RESOURCE_EXHAUSTED" in e or "quota" in e.lower():
+        return "Gemini 額度用完"
+    if "503" in e or "overloaded" in e.lower():
+        return "Gemini 爆滿"
+    if "超時" in e or "Timeout" in e:
+        return "AI 超時"
+    if "未設定" in e:
+        return "冇 API key"
+    return "AI 出錯"
 
 
 def format_item(it: dict) -> str:
@@ -495,8 +510,16 @@ def main() -> int:
         left = budget - (time.time() - t_start) - 60  # 留 60 秒推送
         cfg["llm"] = dict(cfg["llm"], max_seconds=max(15, min(float(cfg["llm"].get("max_seconds", 90)), left)))
         n0 = len(to_review)
-        kept = apply_ai(to_review, llm_review.review(to_review, cfg), cfg)
+        verdicts = llm_review.review(to_review, cfg, state=state)
+        why = "" if verdicts is not None else short_err(llm_review.LAST_ERROR)
+        kept = apply_ai(to_review, verdicts, cfg, why)
         print(f"  AI 審核：{n0} → {len(kept)}")
+        log = state.setdefault("ai_log", [])  # 診斷：最近 60 次 AI 結果（寫入 state，唔使睇 GitHub log）
+        log.append({"t": time.strftime("%m-%d %H:%M", time.gmtime()), "n": n0, "kept": len(kept),
+                    "ok": verdicts is not None, "model": llm_review.CHOSEN_MODEL,
+                    "missing": sum(1 for v in (verdicts or []) if not v),
+                    "err": "" if verdicts is not None else llm_review.LAST_ERROR[:160]})
+        del log[:-60]
         items = sorted([i for i in items if i.get("skip_ai")] + kept, key=lambda x: x["ts"])
     cap = cfg.get("max_items_per_run", 25)
     if gap_h:

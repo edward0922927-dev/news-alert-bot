@@ -127,6 +127,11 @@ keywords:
   # 晶片供應鏈
   - CoWoS
   - DRAM prices
+  - DRAM
+  - NAND
+  - memory chip
+  - memory chips
+  - foundry
   - memory prices
   - chip ban
   - entity list
@@ -161,6 +166,8 @@ exclude_patterns:
   - 'Stock Quote'
   - '^[^:]{2,60}(Inc|Corp|Corporation|Ltd|LLC|Co|PLC|AG|SA)\.?\s+-\s+Bloomberg(\.com)?$'
   - '^(Video|Watch|Podcast)\b'
+  - 'Page \d+\s+-\s+'                    # 分類頁第 N 頁，例如 "stock investment, Page 3 - KED Global"
+  - '^(.{2,40})\s+-\s+\1$'               # 標題同網站名一樣，例如 "The Korea Times - The Korea Times"
   - 'Podcast:'
 
 # ── 情緒標籤（純關鍵字，免費；唔準就自己加減）──
@@ -279,11 +286,22 @@ feeds:
     url: https://www.investing.com/rss/news_25.rss
     filter: true
 
-  # ── 韓國（SK hynix 本地消息通常早過西方媒體）──
-  - name: 韓媒 SK hynix
-    type: google_news
-    query: '"SK hynix" (site:koreaherald.com OR site:koreatimes.co.kr OR site:en.yna.co.kr OR site:kedglobal.com)'
-    filter: false
+  # ── 韓國（SK hynix／Samsung 本地消息通常早過西方媒體；Google News 收錄韓媒好差，所以直接用 RSS）──
+  - name: Yonhap
+    type: rss
+    url: https://en.yna.co.kr/RSS/news.xml
+    filter: true
+    scan_unmatched: false     # 大部分係一般韓國新聞：冇命中關鍵字就唔交俾 AI，慳額度
+  - name: The Elec
+    type: rss
+    url: https://www.thelec.net/rss/allArticle.xml
+    filter: true
+    scan_unmatched: false
+  - name: Korea Times
+    type: rss
+    url: https://www.koreatimes.co.kr/www/rss/biz.xml
+    filter: true
+    scan_unmatched: false
 
   # ── Crypto ──
   - name: Crypto 主流媒體
