@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794264652.0165987,
+"ai_last_review": 1794265836.1877723,
 "ai_log": [
-{
-"err": "",
-"kept": 1,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 9,
-"ok": true,
-"t": "11-08 12:22"
-},
 {
 "err": "",
 "kept": 4,
@@ -540,122 +531,18 @@
 "n": 18,
 "ok": true,
 "t": "11-09 22:50"
+},
+{
+"err": "",
+"kept": 4,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 10,
+"ok": true,
+"t": "11-09 23:10"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT09jaEZiM3FVcWRIMzNEeEU0QV9OcU5IZ1FGMW0tdnNVM2UxSnNlVmNPbVV0aEFheG1CT1NqYTRVRHJxUWllZ21FaHg3SDlrSkZQb0FrSG5ieGFvSHRubFZXUkN4aEJEWWlmcXgySDQ0ajRkdlpLMUtIR1Y3aUZuNTd1Y2FJbjlKNFhkUVV1NFJNdldEaFJWeHRxaW41WGV5Q3dINDRsRUZHMGdkTWRZa1V1SVoxRzA?oc=5",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Trump approval holds at 32%, near lowest of his career, Reuters Ipsos poll finds &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Trump approval holds at 32%, near lowest of his career, Reuters Ipsos poll finds - Reuters",
-"ts": 1794258528,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbW9FTGJGOUVRZXB0SHN3WHdBS3JnOExrSlB1OU5rWVJDT252OTNfTnlVdkdiQzJieG9IZFJmZnVfeVFsbU82LVNNVlI3QkhjMzNyYXZzUWtCSEpvOVJfOTFBZUdWRmRqYkRmSFlPUVRxRVhhQWpfbDQ2emZNRzhaVEpFX1EzeEpxY2llUkNWWnhZTWc3dWw0ZWJRZk4zbnZ4WlpQN0s4WFU2YzhxMXE3bVp5cFNRMThfWE9HQ3JydmlfRnJlLVhN?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Hims & Hers cuts 2026 profit forecast as margins contract &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Hims & Hers cuts 2026 profit forecast as margins contract - Reuters",
-"ts": 1794260341,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmRRUEE2YVdpM2Y3QkRQS0RPdnpLc3J1VzE5NjBRM09xM3E4aHZsVnBoU3RnSlVITXNCeWU5ZnlhNjlkSUZMcmQ1MUo1VlJTbmYyc1FrOFUzVEFnSndqRjkyVTNka3JfWWFSWFZNNDZfTWN3VzZIUU8yN2x2a3AzemFCUzFFeHVIVHRvWjZLZ3pRbTV0VUhGMlNfRTBNbWFUT29CX2dNNzE1WktrOWYtWVRSeGI?oc=5",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Nvidia Sees Historic Split From S&amp;P as Stock Sinks, Market Soars &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia Sees Historic Split From S&P as Stock Sinks, Market Soars - Bloomberg.com",
-"ts": 1794260476,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy-5013619",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
-"ts": 1794264506,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-"tags": [],
-"title": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
-"ts": 1794264540,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "CryptoSlate",
-"summary": "The share class announced Nov. 5 represents fund units, while Amundi&#039;s release leaves investor access, transfer and redemption terms unspecified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-"tags": [
-"ETH"
-],
-"title": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
-"ts": 1794264600,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "CoinDesk",
-"summary": "",
-"tags": [],
-"title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
-"ts": 1794264987,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://en.yna.co.kr/view/AEN20261110001300315",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Yonhap",
-"summary": "WASHINGTON, Nov. 9 (Yonhap) -- U.S. President Donald Trump said Monday that Nvid...",
-"tags": [
-"NVDA"
-],
-"title": "Trump says Nvidia chief Huang had no knowledge of alleged Chinese espionage activities",
-"ts": 1794264992,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -713,7 +600,7 @@
 },
 "_last_check": 1794263453.323751
 },
-"last_run": 1794265266.435064,
+"last_run": 1794265844.9594123,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -805,6 +692,7 @@
 "0418397b735a4ff2": 1794053146.8970654,
 "044479363aa95712": 1794207655.353521,
 "0445fbeeb4630298": 1794207655.353521,
+"0452265a24df9556": 1794265822.861851,
 "045883141924fa14": 1794228625.7348583,
 "0487f7ce0df09b93": 1794172824.1624086,
 "048b65c9bdce9ad5": 1794207655.353521,
@@ -3959,6 +3847,7 @@
 "d312e8c7f8cd8131": 1794207655.353521,
 "d3141741a97a57f3": 1794207655.353521,
 "d3160c285b9c8dea": 1794263443.2975552,
+"d319f9f4cb2def7a": 1794265822.861851,
 "d3439083fdb98bb0": 1794154823.0343263,
 "d345433dd9dd966f": 1794129624.9673119,
 "d35c975fb03d40ea": 1794256242.8438334,
@@ -4668,6 +4557,7 @@
 "05b433ac52047cc7": 1794151225.6597934,
 "05cac1a4ca67ffc2": 1794176424.6910276,
 "05d83bbd28a17163": 1794176424.6910276,
+"05dda0683b8ea73f": 1794265822.861851,
 "05ec73fe156d42bb": 1794090024.092463,
 "05fda8a2c75aabc5": 1794237626.3538754,
 "060552645977eb59": 1794053146.8970654,
@@ -5570,6 +5460,7 @@
 "440ee1b8e629a8f6": 1794053146.8970654,
 "4420f548092fe204": 1794144023.650658,
 "443a69fae568db84": 1794180024.180841,
+"44830961f096e352": 1794265822.861851,
 "448597d450e4aafa": 1794207655.353521,
 "449378d9c0872f7b": 1794227444.8368437,
 "449c2981fa6d12d8": 1794060010.396961,
