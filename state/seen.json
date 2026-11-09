@@ -1,5 +1,5 @@
 {
-"ai_last_review": 1794255041.8941424,
+"ai_last_review": 1794256328.2704399,
 "ai_log": [
 {
 "err": "",
@@ -495,145 +495,18 @@
 "n": 11,
 "ok": true,
 "t": "11-09 20:10"
+},
+{
+"err": "",
+"kept": 1,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 18,
+"ok": true,
+"t": "11-09 20:32"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSHNOd1ota3l2RXcxR3JfWW0zVXZPSktFV29RLU9iZVVEQzBpUk5NdDNHSjlCMHVpSzJabWJZTDhlcjNCOFV2ZmFKRlZHcGEwNkJaVG1jRmhTbzY1NjRoLVJ0RklJMW5jQlp0Z1IySWx1aHdQeWxpNTB3dWppdDBUaWs3dXdLSXNmN2cwRXQxUllrcHA4UHpMWDNQcE9sTk90XzkzRHBkcmVIdFFOS0dTNnlGTHJlMmN3Z0hoNkVxaDBieXgyX0hCd3F3?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Explosion at Top Turkish Steel Exporter\u2019s Izmir Mill Kills Six &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Explosion at Top Turkish Steel Exporter\u2019s Izmir Mill Kills Six - Bloomberg.com",
-"ts": 1794241401,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1M4ajA4SWJ0OUxmWnBNZFhVaGJaVmxmNXY1eGR0dU5ERDVTd0lzcHBLYnNJTjZicFhvbWxDaGlOZ1FLekZQM3pIUTFpRnFNTHRIRkpPS2k5aEllNEtBNUhXaldQTnJYWTdPaG1MQVd0OXFjRlVEUnZCQ0dGOHp4UXdFSVdiY2F0NkI3SGRIekZoeTRZT2F4MlNaSlA1cmw0cjZTQnR2em9LUHFXUjRMZlhPMGtSNXNra09J?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Impossible Metals says it has successfully tested AI seabed mining robot &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Impossible Metals says it has successfully tested AI seabed mining robot - Reuters",
-"ts": 1794244065,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXhtQ01sMkNWc05UbEI3bVUxc2t4ZDM1Vm15aC1iMFV4MXc0OXNsMXpWSmE2TVdzVldTLWljanY5QUlvRm1UUjZ6VEwtZW9uWkZvYVlxczFrY0hjMktLczhmSGdTYmptMGU4YTdjQ3lmZkgwTWl0OWVxUExlV2tYeW45dHNLWjZTdkdoMHlVbVZEUTlXdGNDWjJjSjhETkxoMlJfM3VlVnZsWTFpZHNveE9ZWmg?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "NY Fed survey finds Americans more worried over future jobless levels &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "NY Fed survey finds Americans more worried over future jobless levels - Reuters",
-"ts": 1794248634,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVIyT1NYT1F2UWdQenBDSFcxdFdBWGtHN1dyR0pCVTBMUTJ3SWROVTNnUGlzUXlILTl6RU1oRzF3a1QyTU5jbFhPVi04UUJNZEFmQkFYS2UzNEZwOTA3T1Ywa1BNMi01Z0V3aG9YS2xHTVQ4ZFdJSUNHV0k3c0s2Q2I4U2diRUxoN19naFVCRTA?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "EU close to full backing from members on new tobacco tax &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "EU close to full backing from members on new tobacco tax - Reuters",
-"ts": 1794253501,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/guggenheim-reaffirms-top-pick-in-biotech-after-q3-results-5013076",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Guggenheim reaffirms top pick in Biotech after Q3 results",
-"ts": 1794254197,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/spacex-plans-24-billion-gas-power-plant-data-center-project-in-texas-5013083",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"data center"
-],
-"title": "SpaceX plans $24 billion gas power plant, data center project in Texas",
-"ts": 1794254441,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV1VXUkxRdTdLZXItTkV0MVZxZXBid0kxU0ZVaE1fQVJ5Yk5vMGdtbFkyNl9qa1BHVjJ3MkZJX0VpazJOcjY2WGZnckliQWxqeTI4Vk13cDhCZnZfZkFsdWZlMzV6OUg5bXRQU2phajhSV3pZWUdpb3A0LWlZZGxEX3RWTWJCU1IxeU04Z3E2akFHYWRvaThPREZFSHJJUTJxSlZFTXlaY1Ffa2JscDMycHJxSFUydTRDMkwxdmtKdEdEeGVzekM3cE9Ecmk?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Stocks extend recovery from Thursday's sell-off. Plus, new trial data from Lilly, J&amp;J &nbsp;&nbsp; CNBC",
-"tags": [],
-"title": "Stocks extend recovery from Thursday's sell-off. Plus, new trial data from Lilly, J&J - CNBC",
-"ts": 1794254539,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/walt-disney-and-skydance-eye-french-ligue-1-tv-rights--bloomberg-93CH-5013090",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Walt Disney and Skydance eye French Ligue 1 TV rights - Bloomberg",
-"ts": 1794254585,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669196-cnh-outlines-300m-450m-2026-industrial-free-cash-flow-as-kobelco-deal-targets-endminus-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Cnh outlines $300M-$450M 2026 industrial free cash flow as Kobelco deal targets end-2027 close",
-"ts": 1794255132,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://decrypt.co/resources/google-nvidia-new-ai-chips-privacy-massive-memory-ai",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Decrypt",
-"summary": "Google\u2019s TPU 8tx protects sensitive AI workloads, while the dual-chip TPU 8i Max targets memory-hungry AI agents.",
-"tags": [
-"NVDA",
-"GOOGL"
-],
-"title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
-"ts": 1794255362,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -686,9 +559,9 @@
 "VIX_TERM": {
 "last_date": "2026-11-06"
 },
-"_last_check": 1794252036.347804
+"_last_check": 0
 },
-"last_run": 1794255635.4408507,
+"last_run": 1794256330.3253155,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -923,6 +796,7 @@
 "10025faca0df2e98": 1794053146.8970654,
 "100951286dcde77d": 1794053146.8970654,
 "100a84df95204fe3": 1794090024.092463,
+"1011d8222a8f91d9": 1794256242.8438334,
 "101ba6c30d4bdc4a": 1794129624.9673119,
 "101fbdd4cb6d24cd": 1794053146.8970654,
 "10335f8848b057fe": 1794144023.650658,
@@ -1943,6 +1817,7 @@
 "54e62d381ca40880": 1794218488.7102273,
 "54eb6a4310f8e5c9": 1794176424.6910276,
 "54f26f2eba416f55": 1794180024.180841,
+"54f4c0950a98b3bc": 1794256242.8438334,
 "54f5edee35b2940b": 1794058663.5416367,
 "54fe470794024b9a": 1794207655.353521,
 "5518f64e708f005a": 1794246625.4162037,
@@ -2793,6 +2668,7 @@
 "9093cd6730f66105": 1794053146.8970654,
 "909bb6a1c8e3d10f": 1794090024.092463,
 "90b428e7daede938": 1794063069.3473625,
+"90daa25adbf74f59": 1794256242.8438334,
 "90e42f5fe5b79a80": 1794207655.353521,
 "90e87f3d0289b327": 1794053146.8970654,
 "9104f3bab7655525": 1794067878.5266922,
@@ -3159,6 +3035,7 @@
 "abbe5edf050cb497": 1794066518.762267,
 "abd48f034991be70": 1794207655.353521,
 "abe775b14db2e330": 1794213043.0947626,
+"abea81bd24e05a13": 1794256242.8438334,
 "ac332a927553b6bc": 1794151225.6597934,
 "ac3e2308971c015b": 1794246625.4162037,
 "ac474d60be9e2c2b": 1794053146.8970654,
@@ -3174,6 +3051,7 @@
 "ad03234881fcd673": 1794125424.4951053,
 "ad25074c61ff78ce": 1794207655.353521,
 "ad25487ceb9551e9": 1794090024.092463,
+"ad325a880d075193": 1794256242.8438334,
 "ad4a564f52978a8b": 1794053146.8970654,
 "ad4f1b5e5b6b7f54": 1794207655.353521,
 "ad58c61f19740b17": 1794053146.8970654,
@@ -3748,6 +3626,7 @@
 "d3141741a97a57f3": 1794207655.353521,
 "d3439083fdb98bb0": 1794154823.0343263,
 "d345433dd9dd966f": 1794129624.9673119,
+"d35c975fb03d40ea": 1794256242.8438334,
 "d3723374c31647dd": 1794176424.6910276,
 "d38227341c5961aa": 1794058663.5416367,
 "d38b376f1cdeb34f": 1794090024.092463,
@@ -3782,6 +3661,7 @@
 "d5973190f047fbd1": 1794245441.3708878,
 "d59a3ba5214f7279": 1794231044.761608,
 "d59ef2627c7c2cfc": 1794213043.0947626,
+"d5a048906b66ad5a": 1794256242.8438334,
 "d5a95044c48290a9": 1794154823.0343263,
 "d5b9f18f2d029d5d": 1794090024.092463,
 "d5c77a5c07411397": 1794248479.105261,
@@ -4144,6 +4024,7 @@
 "f1283144435f0af8": 1794053146.8970654,
 "f12dadb77c7f65b7": 1794228023.5425556,
 "f130101992ceb7c3": 1794090024.092463,
+"f13d2a54dcdf48ca": 1794256242.8438334,
 "f13d2daf0697cd9a": 1794154823.0343263,
 "f13fcb92bedb3ff6": 1794053146.8970654,
 "f14407fa242bd519": 1794063069.3473625,
@@ -4790,6 +4671,7 @@
 "224383141e03597c": 1794232224.3910127,
 "22741f69f194348d": 1794140423.8128505,
 "22770010cd310ab7": 1794053146.8970654,
+"2285d54a8530c60d": 1794256242.8438334,
 "228abfd7476ba82e": 1794053146.8970654,
 "22ae3bc5dada7b16": 1794090024.092463,
 "22b53f65ce9d7dbf": 1794207655.353521,
@@ -5305,6 +5187,7 @@
 "48280f37ecb58eb3": 1794073224.1004374,
 "48445cf45589c0b3": 1794219024.1165798,
 "4846c4d8a1e49dc2": 1794066518.762267,
+"485ce53ed418154b": 1794256242.8438334,
 "4864ce415e9de40d": 1794223228.835452,
 "48658b255566ae83": 1794207655.353521,
 "48b49fcb9c775b9c": 1794147624.409764,
@@ -6465,6 +6348,7 @@
 "a2041d207382b22b": 1794090024.092463,
 "a23f3fe43f6c884b": 1794224423.8500595,
 "a240c38d7915df92": 1794154823.0343263,
+"a24477b9e21e73e0": 1794256242.8438334,
 "a24f7bd553576517": 1794252026.8992693,
 "a2550b211cf7a218": 1794207655.353521,
 "a2573de13d3e5d73": 1794053146.8970654,
@@ -7031,6 +6915,7 @@
 "cb6d90a1b6ac669d": 1794158423.5148294,
 "cb6d973cc0eb0cf6": 1794207655.353521,
 "cb980306f14856a7": 1794235227.58563,
+"cba178bbfb01433b": 1794256242.8438334,
 "cba48e05d0dcb108": 1794240054.5770936,
 "cbb048bbfc792383": 1794125424.4951053,
 "cbce247252c48f11": 1794207655.353521,
@@ -7270,6 +7155,7 @@
 "debe3e61bd23a02d": 1794058663.5416367,
 "df0c58229575f806": 1794058663.5416367,
 "df22e71bf2460be4": 1794053146.8970654,
+"df341cbff74a2b38": 1794256242.8438334,
 "df385a81ef3574c7": 1794053146.8970654,
 "df4aecee4c9e3256": 1794053146.8970654,
 "df5b3aae0c237441": 1794090024.092463,
@@ -7430,6 +7316,7 @@
 "eb437746d5eeb945": 1794053146.8970654,
 "eb4433d564869bbe": 1794053146.8970654,
 "eb56921960488c7a": 1794222625.9546466,
+"eb67ebdba43531f8": 1794256242.8438334,
 "eb8fdd45bab8029c": 1794207655.353521,
 "eba3e5874af2985d": 1794058663.5416367,
 "ebb02a888272f6cb": 1794231044.761608,
@@ -7515,6 +7402,7 @@
 "f12980ffbd0344a2": 1794222054.6299663,
 "f12f47abcdef719c": 1794227444.8368437,
 "f13148afeb47f24f": 1794154823.0343263,
+"f138a6f93c9538d1": 1794256242.8438334,
 "f14be372f2c2c5c7": 1794208823.7725184,
 "f191775bc022e58c": 1794219625.99357,
 "f1a1cd31bdf15127": 1794211253.7643282,
@@ -7680,6 +7568,7 @@
 "fdcfe1e275153e4d": 1794066518.762267,
 "fdd64c99a39624d1": 1794207655.353521,
 "fdf1bfe93f8864b6": 1794063069.3473625,
+"fe00c16abdcf980a": 1794256242.8438334,
 "fe27da5bf575a882": 1794053146.8970654,
 "fe3226060a165d33": 1794207655.353521,
 "fe61d60fa60374ef": 1794207655.353521,
