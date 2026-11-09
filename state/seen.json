@@ -263,13 +263,126 @@
 "t": "11-09 11:21"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "CoinDesk",
+"summary": "",
+"tags": [],
+"title": "Zcash developers want 20-second blocks just days after major speed upgrade",
+"ts": 1794221569,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSS03VE9KOWU5bk1JZ1hvZ0dtNmNIdUJSdTNfejRySXA2U2JXLXRjemhzdjUzbmpyNXJINnBJUG9QZEhsOUxMTk9nblBZclFNaUdQUmhyODVoZWpnUmx1WDhiZ21mNDZISmFXSnhNNzRQN0dFV3BiVlFlYlpXWHROUDZRTHlabW1QVVp2dFBGYmlUWTFoa1oyN0paUFlEcDQ0YU5YaVJOTEVhaHFHaDRrQzY4cW5WZV96RGVfZFMzLXBiLWlJc2VjU3ZqSE1GWGFyV1E?oc=5",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "NHTSA opens probe into 1.2 million Ford vehicles over airbag deployment &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "NHTSA opens probe into 1.2 million Ford vehicles over airbag deployment - Reuters",
+"ts": 1794223063,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4668842-cenovus-renews-normal-course-issuer-bid-for-up-to-126_5-million-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Cenovus renews normal course issuer bid for up to 126.5 million shares",
+"ts": 1794223166,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjkzdGExT0hNNDZ3eEJZdGppQjcyYkZ0MlYyYUc2dUpNSjdUaEk4T1ROaEZYbFpxUDg4VGh5SGxHV2VXelZOWnZoSmUzeDRqSWNWRkJIc2JPRWh4ZS1WdTVkbTlEYk81bkRWbWN6Tl9vQTItUkszTHdiaDNzbllmVnNna3VQWEJMTVd6dWhjTXN5bVdoV095SHZ0aXRvd050RXFGTVQ5RmlGYmpxcUs0dFhodm0?oc=5",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Nvidia CEO\u2019s Affair Engulfs AI Giant in Chinese Spying Probe &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"NVDA"
+],
+"title": "Nvidia CEO\u2019s Affair Engulfs AI Giant in Chinese Spying Probe - Bloomberg.com",
+"ts": 1794223230,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcms4NmFRS0JiemF2SGRaMDczOXZ5LXRlTVFFanhvSEZxMlV0VVBXaDh6RWl5VXBTM1hWeXpNZHRuY2NmM25PNVM1eXE4NmF2VHdvWnJzREwtNXRXeUFBWGl6Y0lDWXdLdDF0VGRabXFwQ2RNZ3p2czY0TGY4aU9zbkt4ekZRd0dkZkVhdHJLZUd1dWFnZEdSdGRoMmFHMl9CWENDN0JFZUs1QldJSFR5SzFR?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Jensen Huang Puts $200 Billion Dent in Nvidia\u2019s Stock Price &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"NVDA"
+],
+"title": "Jensen Huang Puts $200 Billion Dent in Nvidia\u2019s Stock Price - Bloomberg.com",
+"ts": 1794223346,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4668830-whats-next-for-nvidias-jensen-huang-as-internal-inquiry-begins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"NVDA"
+],
+"title": "What's next for Nvidia's Jensen Huang as internal inquiry begins?",
+"ts": 1794223533,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://decrypt.co/382813/trump-says-he-knows-nothing-about-world-liberty-financial-as-he-defends-uae-ties",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Decrypt",
+"summary": "Pressed on why he doesn't divest from the family's crypto venture, Trump said his sons run the business and every president faces conflicts.",
+"tags": [],
+"title": "Trump Says He Knows 'Nothing' About World Liberty Financial as He Defends UAE Ties",
+"ts": 1794223587,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeExIMG9FM09YaHRFZFhkVTJOQVdkQjVMb1o1OHRRY1pGU1duSDU5TGFObU5vWmxreEU3dEVpaDZId1Z2N28tdU1kSmxrdVJydFp5ZC16TTg0a0s0b2plYllBeDNodjZUeG4zOFRqZGFZdDhPamVOb3RZTDVMeU54S0VCMGU0X1F3azhETFRWSmVXS3RTemY2bmxiY1R0QW1OUlhhT3RBWDNQZGI1djVN?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "CEO's Affair Hits Nvidia, Trump Says Iran Strikes Unlikely, More &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"NVDA"
+],
+"title": "CEO's Affair Hits Nvidia, Trump Says Iran Strikes Unlikely, More - Bloomberg.com",
+"ts": 1794223793,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T09:00"
+"last_date": "2026-11-09T10:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -279,7 +392,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T09:00"
+"last_date": "2026-11-09T10:00"
 },
 "FNG": {
 "cool": {},
@@ -296,11 +409,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-09T09:00"
+"last_date": "2026-11-09T10:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-09T09:00"
+"last_date": "2026-11-09T10:00"
 },
 "UST10Y": {
 "last_date": "2026-11-06"
@@ -314,9 +427,9 @@
 "VIX_TERM": {
 "last_date": "2026-11-06"
 },
-"_last_check": 0
+"_last_check": 1794223852.6868043
 },
-"last_run": 1794223332.319176,
+"last_run": 1794223875.053077,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -573,6 +686,7 @@
 "14c70f5d662925d0": 1794154823.0343263,
 "14d34ce7e3f5a0ac": 1794207655.353521,
 "1502365569c0a7ff": 1794215424.0711486,
+"154ebe7dbeb10900": 1794223842.150146,
 "156d850abf6b867b": 1794058663.5416367,
 "157f0c17024e69cf": 1794053146.8970654,
 "15b4b4b5fa4c87a3": 1794053146.8970654,
@@ -794,6 +908,7 @@
 "294293ad46e5364e": 1794211829.3207283,
 "295445c77bb5f702": 1794144023.650658,
 "29583051f842053f": 1794080428.0610616,
+"29a7d8606ef71e57": 1794223842.150146,
 "29bdd7c4d4729342": 1794207655.353521,
 "29d1f014a3d7cc06": 1794090024.092463,
 "29e28ed6b01b0731": 1794093624.3200548,
@@ -823,6 +938,7 @@
 "2bddda3df5debdc7": 1794053146.8970654,
 "2c260048c050a940": 1794207655.353521,
 "2c35f114a071968d": 1794169225.368316,
+"2c46802aa3b78920": 1794223842.150146,
 "2c4bd4e5bd726673": 1794180024.180841,
 "2c4c18ded5cc7a1c": 1794053146.8970654,
 "2c5bc3454deb1085": 1794216642.1444197,
@@ -1119,6 +1235,7 @@
 "445cda2e44c18ecb": 1794090024.092463,
 "446954b287328b49": 1794053146.8970654,
 "449534ada8aaf416": 1794090024.092463,
+"44987794921b54d8": 1794223842.150146,
 "44b055bfb32fa455": 1794069624.2005684,
 "44c5010671dbbba8": 1794223228.835452,
 "44e2eefcb2475f34": 1794129624.9673119,
@@ -1336,6 +1453,7 @@
 "56ba6a987e738efd": 1794211829.3207283,
 "56c6f1dd3a21de23": 1794125424.4951053,
 "56c73480e94bca85": 1794090024.092463,
+"56de8352c0f764e9": 1794223842.150146,
 "56e1eedb376827aa": 1794125424.4951053,
 "56e59f3dc555a7ad": 1794207655.353521,
 "56f45fedb74cd3e8": 1794090024.092463,
@@ -2098,6 +2216,7 @@
 "9adca4535d62006d": 1794208823.7725184,
 "9aee9a96c8ce200c": 1794211829.3207283,
 "9b1e97ae0af24459": 1794151225.6597934,
+"9b4eb82dbe481be5": 1794223842.150146,
 "9b53e8da958470a6": 1794053146.8970654,
 "9b56fb7c1018f6e2": 1794090024.092463,
 "9b80b19d4a636c13": 1794075624.4430547,
@@ -2128,6 +2247,7 @@
 "9db6a5a213aede10": 1794147624.409764,
 "9dbc00c0ea61aba2": 1794172824.1624086,
 "9de1c234c3482bc6": 1794066518.762267,
+"9e46a07fd6fbdd8f": 1794223842.150146,
 "9e592eb511327bab": 1794129624.9673119,
 "9e651344e06f281a": 1794165625.0596616,
 "9e6e26d1de9e5e73": 1794125424.4951053,
@@ -2348,6 +2468,7 @@
 "b234efe629b1665d": 1794169225.368316,
 "b23b7763a3e2dcec": 1794121251.8481042,
 "b24d71895037d736": 1794208823.7725184,
+"b279f998fbd8d677": 1794223842.150146,
 "b27b84f8de81061c": 1794125424.4951053,
 "b28dcf43aa4ac191": 1794214856.1278765,
 "b299c35e9dfc2f81": 1794090024.092463,
@@ -2510,6 +2631,7 @@
 "c0ff5cc4bdc7a17a": 1794172824.1624086,
 "c12f1d30394b022e": 1794129624.9673119,
 "c14b4f3aef77bd4d": 1794084023.8763885,
+"c1504f6919c2a0a0": 1794223842.150146,
 "c1705310a9c03250": 1794058663.5416367,
 "c17bcb14f7be4b38": 1794053146.8970654,
 "c1990f71918a9b57": 1794207655.353521,
@@ -2593,6 +2715,7 @@
 "c7f2000f0fc8bf4e": 1794067878.5266922,
 "c833ee24ffe82fe7": 1794076826.2653458,
 "c8636e4f83ca8179": 1794207655.353521,
+"c888793f0804fbaa": 1794223842.150146,
 "c88c560211aeff4f": 1794058663.5416367,
 "c88d45ade2618429": 1794055787.7739694,
 "c89663c889454ea9": 1794066518.762267,
@@ -3051,6 +3174,7 @@
 "f1a07b5f5f5903cc": 1794066518.762267,
 "f1a6907aca1f773d": 1794129624.9673119,
 "f1b8ce17e4034ef7": 1794214856.1278765,
+"f1b970a98ad589c4": 1794223842.150146,
 "f1c8ae991fa4c6fe": 1794215424.0711486,
 "f1cf0f8f56d3df47": 1794053146.8970654,
 "f1f63a0d380ab456": 1794215424.0711486,
@@ -3170,6 +3294,7 @@
 "fcb24612e61e5d83": 1794129624.9673119,
 "fcd2f09ea16c0baa": 1794154823.0343263,
 "fcfddbc2e736e8d2": 1794208823.7725184,
+"fd0bc1c23d746da8": 1794223842.150146,
 "fd0bcf142f4df6fc": 1794070853.5888453,
 "fd10133be3514b15": 1794129624.9673119,
 "fd408e1de8539320": 1794207655.353521,
@@ -3349,6 +3474,7 @@
 "0f0b3ac1786d3b50": 1794053146.8970654,
 "0f13e4a72175e92b": 1794090024.092463,
 "0f1b40966df298ab": 1794053146.8970654,
+"0f3344f25db26bbc": 1794223842.150146,
 "0f3effbc46596f5b": 1794090024.092463,
 "0f5849986efc7598": 1794067878.5266922,
 "0f7d9ed426631fac": 1794129624.9673119,
@@ -3889,6 +4015,7 @@
 "3faf21a3596d7b30": 1794053146.8970654,
 "4025f9ccab3ff4b6": 1794207655.353521,
 "4046492fdd3ab050": 1794070201.937629,
+"405b50f803602436": 1794223842.150146,
 "405db81ef756df50": 1794060010.396961,
 "40602c2071b0592d": 1794058663.5416367,
 "406f02f36265a4eb": 1794069624.2005684,
@@ -4358,6 +4485,7 @@
 "6f2673074b38829e": 1794053146.8970654,
 "6f280dc1acd5c173": 1794066518.762267,
 "6f526f67cc67ec2b": 1794090024.092463,
+"6f566d8e1c7121c0": 1794223842.150146,
 "6fbc632606988087": 1794053146.8970654,
 "6fbe7484b8454b94": 1794154823.0343263,
 "6fc63170c9531007": 1794053146.8970654,
@@ -4389,6 +4517,7 @@
 "71f356f4d81a650d": 1794176424.6910276,
 "71feb63f9646aa55": 1794067878.5266922,
 "72097003d8e3cee5": 1794176424.6910276,
+"721d8a6e0364b51f": 1794223842.150146,
 "721f26475bd80273": 1794207655.353521,
 "72281bafffc85df4": 1794129624.9673119,
 "7261d83998212e29": 1794090024.092463,
@@ -4498,6 +4627,7 @@
 "7cb70b86692746f6": 1794053146.8970654,
 "7cbe2846d6145ebc": 1794053146.8970654,
 "7cd1eb799de09f69": 1794129624.9673119,
+"7cdff38e10d8b990": 1794223842.150146,
 "7ce247ca072494a8": 1794172824.1624086,
 "7d3427f66846220c": 1794090024.092463,
 "7d35002a2b95b060": 1794053146.8970654,
@@ -4600,6 +4730,7 @@
 "87b6d2eb54096c8e": 1794069624.2005684,
 "87c5c87c54b3c816": 1794053146.8970654,
 "87cdb0e68a00f680": 1794090024.092463,
+"88396685cc364c39": 1794223842.150146,
 "886f40a3ba2a9f99": 1794090024.092463,
 "88709e80d50bb7e1": 1794053146.8970654,
 "887ac0b6ae623679": 1794211829.3207283,
@@ -5051,6 +5182,7 @@
 "b151a255daafd703": 1794129624.9673119,
 "b188df1c16cc4b01": 1794144023.650658,
 "b19a7a0e9e5cfdf1": 1794129624.9673119,
+"b1d1a165f8bac2e2": 1794223842.150146,
 "b1e49d3f674c3a74": 1794053146.8970654,
 "b1e590bdc8b22a89": 1794129624.9673119,
 "b21d51df54af9733": 1794133224.9019783,
@@ -5372,6 +5504,7 @@
 "cf5a587992f8d930": 1794066518.762267,
 "cf65570cf016e521": 1794207655.353521,
 "cfca70f9ced35f96": 1794075624.4430547,
+"cfd6891647a4e6f0": 1794223842.150146,
 "cfee93a51f914d44": 1794223228.835452,
 "cffd49f832fd2a5c": 1794090024.092463,
 "d0163fef281e8cdb": 1794090024.092463,
@@ -5384,6 +5517,7 @@
 "d0c783ef54e43bad": 1794209441.2028658,
 "d0f5774c42197c08": 1794090024.092463,
 "d0f5a9dd7192d15a": 1794066518.762267,
+"d10eb14007d4e76e": 1794223842.150146,
 "d15bb35344ed411a": 1794053146.8970654,
 "d16790c229a10098": 1794060010.396961,
 "d1770a3f52120964": 1794058663.5416367,
@@ -5550,6 +5684,7 @@
 "e20346a5e75d700e": 1794169225.368316,
 "e211d01613932afd": 1794207655.353521,
 "e234923c9cb74860": 1794090024.092463,
+"e23d302985c748d4": 1794223842.150146,
 "e25c97780c529439": 1794158423.5148294,
 "e263455f17620246": 1794125424.4951053,
 "e2906dd6780a1b9f": 1794129624.9673119,
@@ -5705,6 +5840,7 @@
 "f0e79d9653934475": 1794053146.8970654,
 "f0ff26fdc3433f62": 1794144023.650658,
 "f11f6d48c9feceef": 1794176424.6910276,
+"f1221530d8eb14e6": 1794223842.150146,
 "f12980ffbd0344a2": 1794222054.6299663,
 "f13148afeb47f24f": 1794154823.0343263,
 "f14be372f2c2c5c7": 1794208823.7725184,
