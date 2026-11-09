@@ -470,13 +470,109 @@
 "t": "11-09 19:11"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGJzcGxkTnBpdHlIOGthV3UzVFZ4eVJPUlFEWm1nTDlxOE5scnJLUkEtRFlsYlJObTZRSnE1VFpmN3RkU3JWa1lnRURib1JnZ1BnZWJ1Zjg4cF9PUUY4YzdDTVFoMndaOE0zYmZWMk5URnRoSTNnUi1jQ19BVU5VNkI0eVZVU1YzZC1JRlI5WmV2TUhOT0dVTjQwS0dQcDN0YW1XcTZJeU5qXzRKQlFzdHNB?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "FDA Adds Warning Label to Weight-Loss Drugs for Eye Condition &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "FDA Adds Warning Label to Weight-Loss Drugs for Eye Condition - Bloomberg.com",
+"ts": 1794243877,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/cpi-data-and-fed-speakers-highlight-tuesdays-economic-calendar-93CH-5013020",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [
+"CPI"
+],
+"title": "CPI data and Fed speakers highlight Tuesday\u2019s economic calendar",
+"ts": 1794250854,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/amd-applied-materials-among-market-cap-stock-movers-on-monday-93CH-5013028",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [
+"AMD"
+],
+"title": "AMD, Applied Materials among market cap stock movers on Monday",
+"ts": 1794251074,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/anthropic-launches-fable-52-and-mythos-52-ai-models-ahead-of-ipo-5013030",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Anthropic launches Fable 5.2 and Mythos 5.2 AI models ahead of IPO",
+"ts": 1794251169,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://cryptoslate.com/a-brazilian-crypto-exchange-plans-to-show-customers-their-money-not-let-them-move-it/",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "CryptoSlate",
+"summary": "The staged restart will show the November 2 crypto snapshot, while withdrawals and trading await later phases. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+"tags": [],
+"title": "A Brazilian crypto exchange plans to show customers their money, not let them move it",
+"ts": 1794251421,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/pepsico-to-cut-around-1000-jobs-in-north-america-wsj-reports-5013034",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "PepsiCo to cut around 1,000 jobs in North America, WSJ reports",
+"ts": 1794251545,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/goldman-ceo-says-ai-infrastructure-demand-remains-strong-5013036",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Goldman CEO says AI infrastructure demand remains strong",
+"ts": 1794251633,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T15:00"
+"last_date": "2026-11-09T18:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -486,7 +582,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T15:00"
+"last_date": "2026-11-09T18:00"
 },
 "FNG": {
 "cool": {},
@@ -505,11 +601,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-09T15:00"
+"last_date": "2026-11-09T18:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-09T15:00"
+"last_date": "2026-11-09T18:00"
 },
 "UST10Y": {
 "last_date": "2026-11-06"
@@ -523,9 +619,9 @@
 "VIX_TERM": {
 "last_date": "2026-11-06"
 },
-"_last_check": 0
+"_last_check": 1794252036.347804
 },
-"last_run": 1794251528.9661343,
+"last_run": 1794252078.4430747,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -645,6 +741,7 @@
 "07163954971244f2": 1794219625.99357,
 "07220d07c7b90ff9": 1794121251.8481042,
 "0722ac5167ec21bc": 1794212427.3416302,
+"07279bd6d5584cec": 1794252026.8992693,
 "072cd7cf943cec78": 1794129624.9673119,
 "0733af4308096c8b": 1794236457.02748,
 "076e693feeccc17e": 1794176424.6910276,
@@ -702,6 +799,7 @@
 "0b7dac8cd7396cc4": 1794090024.092463,
 "0b8944e816db91e2": 1794066518.762267,
 "0b9df2c9defbe305": 1794070853.5888453,
+"0ba104ba94a1b8fd": 1794252026.8992693,
 "0bacc4a8e69d9228": 1794158423.5148294,
 "0bce135039c9fa3e": 1794079224.7359486,
 "0bd4abd7f6514226": 1794224423.8500595,
@@ -1482,6 +1580,7 @@
 "4275c7d545de6e16": 1794053146.8970654,
 "42a697692c258b05": 1794151225.6597934,
 "42adcb81a8b9ed1b": 1794053146.8970654,
+"42cc97059e1e4134": 1794252026.8992693,
 "42d3bca4f378a7b6": 1794053146.8970654,
 "42d596ad02798c2b": 1794232853.9654045,
 "42f191efbce4bd82": 1794229828.2811856,
@@ -2196,6 +2295,7 @@
 "74dc3282cd8a94c3": 1794207655.353521,
 "750a03825069e4f9": 1794058663.5416367,
 "7512e5b8167e9fd5": 1794244224.5102243,
+"7520ea1485263b9f": 1794252026.8992693,
 "752b5222bf83322a": 1794083441.9529276,
 "75327663a305c258": 1794231625.7466462,
 "75541b2b0454c86c": 1794207655.353521,
@@ -2625,6 +2725,7 @@
 "935dfd78ffb09152": 1794066518.762267,
 "9374537fd400e0d9": 1794079224.7359486,
 "9376be25c55484a6": 1794129624.9673119,
+"9391bdee3d203392": 1794252026.8992693,
 "939ca54942f6f35b": 1794090024.092463,
 "93a6ad233be8a135": 1794066518.762267,
 "93cfa9cc3adde29e": 1794063069.3473625,
@@ -2661,6 +2762,7 @@
 "968b3cb5224923f1": 1794053146.8970654,
 "9691594e7151a5aa": 1794158423.5148294,
 "969208768404cd62": 1794090024.092463,
+"969c6ddff916e85a": 1794252026.8992693,
 "96a4c738ecaa0e2e": 1794158423.5148294,
 "96f1be648ffba4ed": 1794086423.3945913,
 "96fcbe0918cd7224": 1794125424.4951053,
@@ -2771,6 +2873,7 @@
 "9e8fc8b08720628e": 1794151225.6597934,
 "9f2dec84c41c9bee": 1794230425.0439425,
 "9f3fa83e3fd3fbd8": 1794144023.650658,
+"9f414b936b4f960a": 1794252026.8992693,
 "9f41a4c44bd23a26": 1794241843.488906,
 "9f436e474194c7f0": 1794073825.720103,
 "9f4c1a9acfa566da": 1794217823.792214,
@@ -3069,6 +3172,7 @@
 "b434bab0654b4c9c": 1794058663.5416367,
 "b44003c759015f6a": 1794053146.8970654,
 "b4422831d8f601b9": 1794207655.353521,
+"b453f3d780d42a7a": 1794252026.8992693,
 "b4840d2a0c82b90b": 1794207655.353521,
 "b493282fa49c0946": 1794090024.092463,
 "b499b0082c0099bf": 1794207655.353521,
@@ -3312,6 +3416,7 @@
 "c5394fa9b0e21ead": 1794207655.353521,
 "c5490099fddde40c": 1794162024.6325307,
 "c549ba60c780c527": 1794076826.2653458,
+"c54bbf6abb84fcc0": 1794252026.8992693,
 "c55127f9e422993f": 1794129624.9673119,
 "c55cff861f47949e": 1794121251.8481042,
 "c56756b93a8e9522": 1794053146.8970654,
@@ -4339,6 +4444,7 @@
 "130a66b6ffb86e96": 1794082823.0034523,
 "1313210ee09269ea": 1794090024.092463,
 "1318153977999a3d": 1794207655.353521,
+"13289f6245bc7fe4": 1794252026.8992693,
 "133b0573c9ca3f87": 1794090024.092463,
 "136ce30d0cc086f1": 1794067878.5266922,
 "1389ab1ae99919e2": 1794218488.7102273,
@@ -4451,6 +4557,7 @@
 "1b5f82cce3303223": 1794053146.8970654,
 "1b7dfab04bc03429": 1794090024.092463,
 "1b9d610448d84163": 1794151225.6597934,
+"1bb16f0932a80650": 1794252026.8992693,
 "1bb27255558ce4ff": 1794066518.762267,
 "1be5d4df59f02afb": 1794246025.5884385,
 "1be5f024d6802248": 1794243659.0740352,
@@ -4535,6 +4642,7 @@
 "213bf9580023ff94": 1794090024.092463,
 "2161f9f9c2f07861": 1794207655.353521,
 "217462ed795ac9a7": 1794129624.9673119,
+"21985da04fb8d813": 1794252026.8992693,
 "21b0c519e3e8fe09": 1794090024.092463,
 "21b17b264ad383e9": 1794053146.8970654,
 "21b5ddedb2a716da": 1794090024.092463,
@@ -4583,6 +4691,7 @@
 "24a874dc48d1a260": 1794053146.8970654,
 "24baaa8e40f82a01": 1794250859.8781228,
 "24d228d5c56bbc21": 1794090024.092463,
+"24e689f93b4a39c0": 1794252026.8992693,
 "24f3f46db68bde4d": 1794075023.4417136,
 "251cf29c42b9b188": 1794219024.1165798,
 "251d50bc24e70764": 1794176424.6910276,
@@ -4720,6 +4829,7 @@
 "2dea7e1b4f736e38": 1794053146.8970654,
 "2df4511a916a14fe": 1794210624.6922936,
 "2df707044f4ab868": 1794066518.762267,
+"2e112f3ce12a47ef": 1794252026.8992693,
 "2e22765293c05bdb": 1794227444.8368437,
 "2e3ac5c9ac45ecb0": 1794211253.7643282,
 "2e3b0c91c8c9370a": 1794151225.6597934,
@@ -4885,6 +4995,7 @@
 "3ac5cb04b9c39787": 1794075624.4430547,
 "3ae9db0491cac103": 1794223228.835452,
 "3aed863a15fa422d": 1794133224.9019783,
+"3af0b5b416b3d3bb": 1794252026.8992693,
 "3afee280caf60693": 1794216024.5700488,
 "3b06af1fc4ed8611": 1794224423.8500595,
 "3b1d61aab2dbb6e7": 1794241225.0884333,
@@ -6193,6 +6304,7 @@
 "a2041d207382b22b": 1794090024.092463,
 "a23f3fe43f6c884b": 1794224423.8500595,
 "a240c38d7915df92": 1794154823.0343263,
+"a24f7bd553576517": 1794252026.8992693,
 "a2550b211cf7a218": 1794207655.353521,
 "a2573de13d3e5d73": 1794053146.8970654,
 "a25861eab1234954": 1794053146.8970654,
@@ -6894,6 +7006,7 @@
 "d725988a5af0d761": 1794058663.5416367,
 "d743560455fb22f6": 1794240627.3822312,
 "d74abbc3d569c210": 1794053146.8970654,
+"d74b6f93bc5a4882": 1794252026.8992693,
 "d759e5324f1f8259": 1794133224.9019783,
 "d75b2bd01e6dd2cd": 1794133224.9019783,
 "d76d3020d99aee1d": 1794129624.9673119,
