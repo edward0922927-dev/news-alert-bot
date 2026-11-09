@@ -371,13 +371,83 @@
 "t": "11-09 15:21"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHQxOXpyMDFLVE92bE5rYm9GdW9YQkhkNWlEaFBSZUNZdHNtMlByUXdTQ1JJV3dod0FYWWk4WUJPZzM3dGJLam5OSlVaaDhPQkN5SjVTdGU5aFpUZXczX0pwVXVDenlUYmVGTXJ0bnpFQVVvbWhKemlNOG03bnhnajJjWFRnYWY2a3FvRDVWSzhrZ3poVHRxbE1QVmVlY09FckpIQWFnS0Z6Wk94?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u57fa\u5efa",
+"summary": "Trump\u2019s Congeniality Didn\u2019t Last the Weekend. Buckle Up &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Trump\u2019s Congeniality Didn\u2019t Last the Weekend. Buckle Up - Bloomberg.com",
+"ts": 1794218424,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVRvSTdlcFlWQmhWaE84VEhUelVORVRqc0FlVTRHdDFqTW1GWTBGRzBrbVFhbE9ua3R3T21pOEYyM1ZhRUkyOV9fVlhjNDg3VS1LRWhfSVE5d3FhRlVPN29CdkcwOG5LWWZ6bVBySXlKQXkwb0x0dHhsNGdSNzNHb3VPaFkzMzRlMEV5cUdodFRTNXpVQjE1MUI3YjdUMTdPRkZNUi1aTTNtYjR4azBmQUx4UER5U2RNbzd4WW5WZ3lWaUtsSkpWeA?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Carney Recruits Bridgewater Co-CIO to Run Canada Sovereign Wealth Fund &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Carney Recruits Bridgewater Co-CIO to Run Canada Sovereign Wealth Fund - Bloomberg.com",
+"ts": 1794232547,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669023-pnc-bank-starts-stablecoin-payments-for-corporate-and-institutional-clients?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"USDT"
+],
+"title": "PNC Bank starts stablecoin payments for corporate and institutional clients",
+"ts": 1794237715,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669025-teledyne-wins-lockheed-martin-subcontract-for-next-generation-missile-defense?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Teledyne wins Lockheed Martin subcontract for next-generation missile defense",
+"ts": 1794237862,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669021-amd-upgraded-as-sales-continue-to-accelerate-despite-constraints-oppenheimer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"AMD"
+],
+"title": "AMD upgraded as sales continue to accelerate despite constraints: Oppenheimer",
+"ts": 1794238096,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T11:00"
+"last_date": "2026-11-09T14:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -387,28 +457,30 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T11:00"
+"last_date": "2026-11-09T14:00"
 },
 "FNG": {
 "cool": {},
 "last_date": "2026-11-09"
 },
 "HY_OAS": {
-"last_date": "2026-11-05"
+"cool": {},
+"last_date": "2026-11-06"
 },
 "IG_OAS": {
-"last_date": "2026-11-05"
+"cool": {},
+"last_date": "2026-11-06"
 },
 "USD": {
 "last_date": "2026-10-30"
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-09T11:00"
+"last_date": "2026-11-09T14:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-09T11:00"
+"last_date": "2026-11-09T14:00"
 },
 "UST10Y": {
 "last_date": "2026-11-06"
@@ -422,9 +494,9 @@
 "VIX_TERM": {
 "last_date": "2026-11-06"
 },
-"_last_check": 0
+"_last_check": 1794238276.274876
 },
-"last_run": 1794237703.2563505,
+"last_run": 1794238299.0822446,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -687,6 +759,7 @@
 "1352f4975a5c13ba": 1794074452.1558738,
 "135f23587a8ffb2d": 1794093624.3200548,
 "136296ae73419ac3": 1794234645.282263,
+"13716d371bfbab0b": 1794238265.7345989,
 "137ddcf2cab2dae1": 1794207655.353521,
 "13827a8b06d827ec": 1794154823.0343263,
 "139d211713cf53d0": 1794090024.092463,
@@ -736,6 +809,7 @@
 "16809c77403a072d": 1794228625.7348583,
 "1681ce9a6e1d160a": 1794158423.5148294,
 "168f2ced1e905fe0": 1794058663.5416367,
+"16a92eafda1e5d87": 1794238265.7345989,
 "16b38d1a14615459": 1794125424.4951053,
 "16bcb8a5e5550bd9": 1794176424.6910276,
 "16eeac74b49e627c": 1794207655.353521,
@@ -1239,6 +1313,7 @@
 "3cbb61a47824cd5f": 1794232224.3910127,
 "3cd598b35d6d470a": 1794063069.3473625,
 "3cf37847575daedc": 1794053146.8970654,
+"3cf5d2fd8c279947": 1794238265.7345989,
 "3cfe4a587bc43def": 1794207655.353521,
 "3d173559c5492b49": 1794212427.3416302,
 "3d2597e2a60beffd": 1794219625.99357,
@@ -3159,6 +3234,7 @@
 "d104314b88d96246": 1794053146.8970654,
 "d121732a145e556d": 1794217228.4060323,
 "d123ce5f706bc7b2": 1794223228.835452,
+"d136378ba932531a": 1794238265.7345989,
 "d13ca7953b65b0ca": 1794090024.092463,
 "d1712c44ad307a23": 1794236457.02748,
 "d18e25648374b6a9": 1794234029.8370936,
@@ -3442,6 +3518,7 @@
 "e7b806ad3dc30593": 1794058663.5416367,
 "e7c8bc71da93bd21": 1794129624.9673119,
 "e7c8e75a9b106121": 1794090024.092463,
+"e7ce11f9407e1dd8": 1794238265.7345989,
 "e7d6f36f8c035075": 1794211829.3207283,
 "e7fb2527f102a1a3": 1794172824.1624086,
 "e8032146e02bcbfa": 1794227444.8368437,
@@ -4524,6 +4601,7 @@
 "4233569f7da09e9a": 1794053146.8970654,
 "4244766e5ce15f4b": 1794066518.762267,
 "42562571d7fd40a0": 1794151225.6597934,
+"4265f2c58d25dc0e": 1794238265.7345989,
 "4292ae67616045f1": 1794053146.8970654,
 "42a6813eac415d7d": 1794090024.092463,
 "42adba319d4a406b": 1794231625.7466462,
@@ -4820,6 +4898,7 @@
 "5c05a372c380f6dd": 1794216024.5700488,
 "5c065867c7afc3ae": 1794154823.0343263,
 "5c0ff1197de8c735": 1794214224.3574343,
+"5c1cca0e51e9c9bb": 1794238265.7345989,
 "5c53e5beb5882863": 1794213043.0947626,
 "5c5a9995dfe9a2da": 1794169225.368316,
 "5c698a5a64882d8f": 1794212427.3416302,
@@ -4834,6 +4913,7 @@
 "5d6a93d9cf79bf17": 1794180024.180841,
 "5d6d670b2c57e945": 1794090024.092463,
 "5da3958b6e255bfe": 1794090024.092463,
+"5da95aa70bec0acc": 1794238265.7345989,
 "5daf86ca0b5322f8": 1794066518.762267,
 "5de25ed4c1c2b38b": 1794078057.3592389,
 "5dfb1599d6a78c6b": 1794058663.5416367,
@@ -5915,6 +5995,7 @@
 "b8b44afc11c5aaff": 1794237626.3538754,
 "b8ba17c8f74b42b6": 1794053146.8970654,
 "b8c4d2789d9c5db9": 1794053146.8970654,
+"b8d921f67aedbd88": 1794238265.7345989,
 "b905f88cc36cefbd": 1794129624.9673119,
 "b90b626c2a11a040": 1794210624.6922936,
 "b91e8dbff7ef71ab": 1794060010.396961,
@@ -6496,6 +6577,7 @@
 "eaec86b2e43ab72a": 1794129624.9673119,
 "eaf0e111dd06f74f": 1794053146.8970654,
 "eb12f025a00f08af": 1794234029.8370936,
+"eb1d010be0cae509": 1794238265.7345989,
 "eb437746d5eeb945": 1794053146.8970654,
 "eb4433d564869bbe": 1794053146.8970654,
 "eb56921960488c7a": 1794222625.9546466,
