@@ -542,13 +542,40 @@
 "t": "11-09 23:30"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0Q1dF91TjRsdE8tTy0wZ3hOSEtjYUxwVHJzd2N5YmUxcmFMbG9YMEp2UHZJbUZERUh3cGFrcEthM25rNHF6U0pJTnNuUXJYeGdWRWNvbEJ4TC1yNTNPUGZfT3NRM3JNRjlVOXBhaHRCNDAydEQxQW5hTXFTcXo1NjQ2aXdkRjFhdHNmZDBxUnhjZi11azgwLWJxV2wxTUZPY3dwWmROaE9aX2NJVGlwbw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Fed\u2019s Goolsbee Says Officials Must Address Inflation Failure &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Fed\u2019s Goolsbee Says Officials Must Address Inflation Failure - Bloomberg.com",
+"ts": 1794249961,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/white-house-nominates-palantirslosapio-to-lead-homeland-securitys-cyber-agency-5013714",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "White House nominates Palantir\u2019s\u00a0LoSapio to lead Homeland Security\u2019s cyber agency",
+"ts": 1794267368,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T21:00"
+"last_date": "2026-11-09T22:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +585,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T21:00"
+"last_date": "2026-11-09T22:00"
 },
 "FNG": {
 "cool": {},
@@ -578,11 +605,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-09T21:00"
+"last_date": "2026-11-09T22:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-09T21:00"
+"last_date": "2026-11-09T22:00"
 },
 "UST10Y": {
 "cool": {},
@@ -598,9 +625,9 @@
 "VIX_TERM": {
 "last_date": "2026-11-06"
 },
-"_last_check": 1794263453.323751
+"_last_check": 1794267638.7931767
 },
-"last_run": 1794267052.1187766,
+"last_run": 1794267680.1427321,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1710,6 +1737,7 @@
 "46557602c3ef3541": 1794207655.353521,
 "46575691f13ad016": 1794151225.6597934,
 "46579247cb142522": 1794231044.761608,
+"467ffc6566d7a40a": 1794267626.597747,
 "468f69a4a0950101": 1794053146.8970654,
 "4696e5b00efeaff3": 1794245441.3708878,
 "4699969c3f562abb": 1794207655.353521,
@@ -2081,6 +2109,7 @@
 "5e65599cfaa033de": 1794180024.180841,
 "5e6e2795d203015a": 1794176424.6910276,
 "5e728f27f2526932": 1794176424.6910276,
+"5e8bf8e10d4de97e": 1794267626.597747,
 "5e988420333482e0": 1794169225.368316,
 "5ec3e73c216c3e33": 1794228625.7348583,
 "5ed2781e3f3403fe": 1794230425.0439425,
@@ -3447,6 +3476,7 @@
 "ba0cc0ddf2b4190a": 1794063069.3473625,
 "ba10ffdc4c843d9c": 1794207655.353521,
 "ba20842037cedb6c": 1794129624.9673119,
+"ba229def82de209d": 1794267626.597747,
 "ba25b8cf649a2276": 1794053146.8970654,
 "ba3c12628393c908": 1794207655.353521,
 "ba6125f99c7b1173": 1794090024.092463,
@@ -4439,6 +4469,7 @@
 "fbdcae4153fae2f2": 1794129624.9673119,
 "fc0b4f2474289d4f": 1794090024.092463,
 "fc17c4f489ace28a": 1794262226.7977734,
+"fc1de01d9dfce898": 1794267626.597747,
 "fc20cbfce7da5621": 1794264026.1524632,
 "fc2490698bd19195": 1794264625.8600426,
 "fc2528391a3e1e93": 1794090024.092463,
@@ -6551,6 +6582,7 @@
 "92acaae4d6285530": 1794063069.3473625,
 "92c362a13c05c274": 1794240054.5770936,
 "92ebfd92ce242e27": 1794053146.8970654,
+"93052d80bd69c9da": 1794267626.597747,
 "9340daaaa7ccba47": 1794207655.353521,
 "935010d23456cf6f": 1794263443.2975552,
 "935a33b973b125b2": 1794216024.5700488,
@@ -6898,6 +6930,7 @@
 "aa6e8279b5d8d814": 1794207655.353521,
 "aa77a5bede7da454": 1794246025.5884385,
 "aa940e70d535fc0f": 1794151225.6597934,
+"aab57251df014eac": 1794267626.597747,
 "aabbeec2e4759fbf": 1794121251.8481042,
 "aabd40ae6ff9b70c": 1794090024.092463,
 "aaef2ce402ae176e": 1794090024.092463,
@@ -6989,6 +7022,7 @@
 "b0ad961734803714": 1794066518.762267,
 "b0af31bd966bfffb": 1794079224.7359486,
 "b0b64c3a428979b7": 1794053146.8970654,
+"b0bb574b307afcba": 1794267626.597747,
 "b0dbbf1ca88a34b6": 1794217228.4060323,
 "b0efd479b2ffbfa0": 1794207655.353521,
 "b105cc4a33c69b73": 1794151225.6597934,
@@ -7271,6 +7305,7 @@
 "c387fab14c86f521": 1794216642.1444197,
 "c39400b812086fe3": 1794172824.1624086,
 "c3ec298e027cf4b0": 1794090024.092463,
+"c3f29972b5ab5738": 1794267626.597747,
 "c3f37f52e791872a": 1794069041.6001287,
 "c415dff77f436c90": 1794058663.5416367,
 "c41f3d0388e93245": 1794058663.5416367,
