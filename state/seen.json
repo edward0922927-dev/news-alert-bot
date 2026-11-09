@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794267052.1187706,
+"ai_last_review": 1794268199.0742507,
 "ai_log": [
-{
-"err": "",
-"kept": 0,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 10,
-"ok": true,
-"t": "11-08 14:21"
-},
 {
 "err": "",
 "kept": 5,
@@ -540,36 +531,18 @@
 "n": 10,
 "ok": true,
 "t": "11-09 23:30"
-}
-],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0Q1dF91TjRsdE8tTy0wZ3hOSEtjYUxwVHJzd2N5YmUxcmFMbG9YMEp2UHZJbUZERUh3cGFrcEthM25rNHF6U0pJTnNuUXJYeGdWRWNvbEJ4TC1yNTNPUGZfT3NRM3JNRjlVOXBhaHRCNDAydEQxQW5hTXFTcXo1NjQ2aXdkRjFhdHNmZDBxUnhjZi11azgwLWJxV2wxTUZPY3dwWmROaE9aX2NJVGlwbw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Fed\u2019s Goolsbee Says Officials Must Address Inflation Failure &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Fed\u2019s Goolsbee Says Officials Must Address Inflation Failure - Bloomberg.com",
-"ts": 1794249961,
-"unmatched": true
 },
 {
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/white-house-nominates-palantirslosapio-to-lead-homeland-securitys-cyber-agency-5013714",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "White House nominates Palantir\u2019s\u00a0LoSapio to lead Homeland Security\u2019s cyber agency",
-"ts": 1794267368,
-"unmatched": true
+"err": "",
+"kept": 1,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 5,
+"ok": true,
+"t": "11-09 23:49"
 }
 ],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -627,7 +600,7 @@
 },
 "_last_check": 1794267638.7931767
 },
-"last_run": 1794267680.1427321,
+"last_run": 1794268201.2663467,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -952,6 +925,7 @@
 "14409b39a6659569": 1794221431.0905063,
 "14528ff8e5d66986": 1794216642.1444197,
 "14714740b70d6474": 1794219024.1165798,
+"1477e750ac88efe9": 1794268185.972617,
 "1478a16716375972": 1794053146.8970654,
 "149779de01be80de": 1794207655.353521,
 "14a091bc92412a96": 1794067878.5266922,
@@ -1216,6 +1190,7 @@
 "261d5eaac5e656fb": 1794226224.6034505,
 "263869cf4d482184": 1794053146.8970654,
 "263afe51500b0178": 1794263443.2975552,
+"264cded09d5c8866": 1794268185.972617,
 "265747a00f5fb516": 1794223228.835452,
 "2666046297799c55": 1794129624.9673119,
 "267cc140d569828d": 1794053146.8970654,
@@ -2297,6 +2272,7 @@
 "6aaba5f64b776ed7": 1794239425.4260268,
 "6aaecde3e8d0cc1f": 1794053146.8970654,
 "6ab093a998ffc995": 1794079839.2548869,
+"6abf7a304c1e57ed": 1794268185.972617,
 "6adcf3fef4b1ff17": 1794053146.8970654,
 "6aed841dcccc183d": 1794053146.8970654,
 "6af91639b5c3aec5": 1794237626.3538754,
@@ -4563,6 +4539,7 @@
 "029a28a3534074ba": 1794069041.6001287,
 "02a234392cfb6030": 1794207655.353521,
 "02bb3bca72fb2637": 1794207655.353521,
+"02c4fae95b8729ec": 1794268185.972617,
 "02d91c89ffd5c13c": 1794229828.2811856,
 "02fc4e12a41c5b0a": 1794243026.4460754,
 "02fed12cd4190eac": 1794090024.092463,
@@ -5250,6 +5227,7 @@
 "3224f54e4044a13b": 1794259850.2098105,
 "322d6a8d91f12e26": 1794228625.7348583,
 "3238560826d859fc": 1794070853.5888453,
+"3244e9d330d20a38": 1794268185.972617,
 "32493caa77667d9a": 1794219625.99357,
 "3258e0289c34df93": 1794058663.5416367,
 "327639dee226bfba": 1794207655.353521,
@@ -6277,6 +6255,7 @@
 "7c712cd45ba346de": 1794069624.2005684,
 "7c7778b89b739b34": 1794125424.4951053,
 "7c7e24d59efa1e70": 1794072642.3225284,
+"7c845bb289e2dd30": 1794268185.972617,
 "7c9b81fd6dc2a60e": 1794214856.1278765,
 "7cb70b86692746f6": 1794053146.8970654,
 "7cbe2846d6145ebc": 1794053146.8970654,
