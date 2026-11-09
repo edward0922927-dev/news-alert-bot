@@ -407,13 +407,136 @@
 "t": "11-09 16:41"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjF2ZmdQcVY2aW1pTVAyXzJjNmVGQ3E3d09nWXJ6cDl2VzFHX1RpWEQwVzVYODRZY2d0YkdvU2JyWjBscS05QVF3ZlMwVGNBZFUwbjNKOTVyd2wzb09tS1BrZGdDbzhBR2lNSnZnRmNCTDdyVF9Odi1zVUdDVnB6SU1yNk5QTnY3dEtwSlZjbGxuV2VBUjdaUTRtUjlscFhYQXNQRF9GaGgtT21a?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Tunisian boatbuilders find a niche in global luxury yacht market &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Tunisian boatbuilders find a niche in global luxury yacht market - Reuters",
+"ts": 1794228617,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmVnblFhSnZtX21jSFlIc0ZFR1V4TVZDYWRYTm1ISUlVbGtXY21SLUNZYWFnT1NGRm05SDFxZTUwa3BfaWZKLVJRSkpDbW5IekhOSmIwcktvcDhTVnBUcDF4VFE3WktyQW5od3lYWlUzNmx1X1VDN3ZUOURhdTFMalhrU2tzeWZuM1J3QkpQaG5UNVVJWVJwYVBmcnJzczJVcFRGQW84aXZ3a3A5QUJxWA?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "HealthSpan\u2019s Bid for Surgery Partners Increased to $6 Billion &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "HealthSpan\u2019s Bid for Surgery Partners Increased to $6 Billion - Bloomberg.com",
+"ts": 1794233492,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLTZmUHRjbG0yQ3FkNGc2aTNDUG8wSXhIVkQtWDVNNlZtTEoxMmNfc2RUQjVJbGZSd2lrclMxaTBtc2ZJeXJwQ1cwa0tkOTlmZGtteFplbjZDbGdsY1F6SXBFc3luNWlJSUhpR1NnYmVualItRU5HQ3ZKWENNYzRqZnVESnVXc2ZXX3YtV3V4aHlqZmQ5S2ltWkIwbjFQbHowSlkxZWYyZ2tLZFRacXc?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Botswana to double De Beers holding under Anglo stake sale, president says &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Botswana to double De Beers holding under Anglo stake sale, president says - Reuters",
+"ts": 1794242343,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://cryptoslate.com/bitcoin-lightnings-security-update-shuts-one-door-a-critical-linux-flaw-remains/",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "CryptoSlate",
+"summary": "LND\u2019s October 30 releases block a demonstrated MPTCP exploit route, but affected hosts need a patched kernel and reboot. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+"tags": [
+"BTC",
+"exploit"
+],
+"title": "Bitcoin Lightning\u2019s security update shuts one door. A critical Linux flaw remains",
+"ts": 1794242420,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669106-zillow-cut-to-hold-equivalent-at-keybanc-after-guidance-re-set?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Zillow cut to Hold-equivalent at KeyBanc after guidance re-set",
+"ts": 1794242426,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669111-on-holdings-ticks-higher-amid-hedgeye-new-long-idea?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "On Holdings ticks higher amid Hedgeye new long idea",
+"ts": 1794242435,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669122-espn-lands-the-media-rights-for-the-expanded-college-football-playoff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "ESPN lands the media rights for the expanded college football playoff",
+"ts": 1794242720,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669127-target-hospitality-outlines-exit-2027-run-rate-targets-of-over-750m-revenue-and-over-300m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Target Hospitality outlines exit 2027 run-rate targets of over $750M revenue and over $300M adjusted EBITDA as WHS pipeline reaches over 25,000 beds",
+"ts": 1794242729,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669110-midday-need-to-know-megaspeed-inquiry-nvdas-robotic-model-and-tools-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"NVDA"
+],
+"title": "Midday Need to Know: Megaspeed inquiry, NVDA's robotic model and tools, and more",
+"ts": 1794242825,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T14:00"
+"last_date": "2026-11-09T15:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -423,7 +546,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T14:00"
+"last_date": "2026-11-09T15:00"
 },
 "FNG": {
 "cool": {},
@@ -442,11 +565,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-09T14:00"
+"last_date": "2026-11-09T15:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-09T14:00"
+"last_date": "2026-11-09T15:00"
 },
 "UST10Y": {
 "last_date": "2026-11-06"
@@ -460,9 +583,9 @@
 "VIX_TERM": {
 "last_date": "2026-11-06"
 },
-"_last_check": 0
+"_last_check": 1794243037.8442297
 },
-"last_run": 1794242527.3264868,
+"last_run": 1794243060.8012912,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1221,6 +1344,7 @@
 "373244ceecb09835": 1794240627.3822312,
 "37430a8fac840946": 1794165625.0596616,
 "37451415fb6df87d": 1794222625.9546466,
+"375442c289933c60": 1794243026.4460754,
 "3758664412c7c525": 1794151225.6597934,
 "3769d0b2bd88ff1f": 1794222054.6299663,
 "3773ed34da97af7b": 1794169225.368316,
@@ -1302,6 +1426,7 @@
 "3d173559c5492b49": 1794212427.3416302,
 "3d2597e2a60beffd": 1794219625.99357,
 "3d6b82c5d098e3aa": 1794053146.8970654,
+"3d7104c8580e7139": 1794243026.4460754,
 "3d8f81f297ae8ce1": 1794090024.092463,
 "3d9fa47d925a4f27": 1794176424.6910276,
 "3da573f17ea40504": 1794133224.9019783,
@@ -1872,6 +1997,7 @@
 "64f457dd67a1e8a1": 1794067878.5266922,
 "6506a21709f6a5eb": 1794058663.5416367,
 "650f0ff06699fbf2": 1794090024.092463,
+"6526910e3dce6766": 1794243026.4460754,
 "6527fa7b6b2de130": 1794090024.092463,
 "654d7cb652fa0409": 1794220827.8644307,
 "657b93912afa69d2": 1794058663.5416367,
@@ -2112,6 +2238,7 @@
 "79a1a159f1cb894f": 1794210025.2421503,
 "79b92dd192384098": 1794207655.353521,
 "79fb057ea0ee676d": 1794079839.2548869,
+"7a1cb2cdc0525299": 1794243026.4460754,
 "7a78fac17de0a39c": 1794234029.8370936,
 "7a88a84d440d1452": 1794213626.9912028,
 "7a9ab0a38222d906": 1794240054.5770936,
@@ -2868,6 +2995,7 @@
 "b299c35e9dfc2f81": 1794090024.092463,
 "b29c7feb9742a9d8": 1794225025.2256005,
 "b2b38185b26c9645": 1794234029.8370936,
+"b2c45c184bc90505": 1794243026.4460754,
 "b2c9903f50689cd8": 1794053146.8970654,
 "b3023ba823dd0975": 1794228625.7348583,
 "b30518d9fdb15a3b": 1794053146.8970654,
@@ -2907,6 +3035,7 @@
 "b5727693493fcb26": 1794066518.762267,
 "b5776ae5ce475baf": 1794219625.99357,
 "b5f072a40acb6ad0": 1794053146.8970654,
+"b617ef7d164a7206": 1794243026.4460754,
 "b67502ea1b01fddb": 1794227444.8368437,
 "b684fc9be0f519f2": 1794053146.8970654,
 "b6c2966d47b4d171": 1794053146.8970654,
@@ -2916,6 +3045,7 @@
 "b70dde0ac40067ba": 1794225025.2256005,
 "b7174c911c7a0b95": 1794090024.092463,
 "b725cd31dfea3f93": 1794121251.8481042,
+"b72fc632d3da43cd": 1794243026.4460754,
 "b73a5851a900e134": 1794219024.1165798,
 "b769acc5902c0961": 1794090024.092463,
 "b782b76b2c02d4fd": 1794224423.8500595,
@@ -2931,6 +3061,7 @@
 "b83e677243e3f7c7": 1794207655.353521,
 "b84f8adb9d0cc595": 1794207655.353521,
 "b88e17ae0887c81e": 1794090024.092463,
+"b89f69bc7aa93142": 1794243026.4460754,
 "b8c98a710eb2ef8f": 1794129624.9673119,
 "b8cf4e2e96cff9f6": 1794207655.353521,
 "b8db530a155dd5e3": 1794212427.3416302,
@@ -3047,6 +3178,7 @@
 "c079fab766c2d27b": 1794053146.8970654,
 "c0ada841b4422e6c": 1794090024.092463,
 "c0b152df987880da": 1794129624.9673119,
+"c0b9706b8bbb6a09": 1794243026.4460754,
 "c0d07ba5a13cf7ee": 1794220827.8644307,
 "c0d5ba53c3102299": 1794058663.5416367,
 "c0e50f1460026e83": 1794058663.5416367,
@@ -3235,6 +3367,7 @@
 "cd858ad5873d3f8a": 1794090024.092463,
 "cd8a263f3c89310c": 1794211829.3207283,
 "cdba15320ef5989a": 1794129624.9673119,
+"cdc1c368924b94a2": 1794243026.4460754,
 "cdcd7017cc52a594": 1794207655.353521,
 "cdd0d426921c3b21": 1794053146.8970654,
 "cdda78b3ce1b7e47": 1794208823.7725184,
@@ -3480,6 +3613,7 @@
 "e01818e35b02ad63": 1794058663.5416367,
 "e03039a0478f8d9a": 1794231625.7466462,
 "e0319506e1e010fc": 1794090024.092463,
+"e04127cf4ce7c507": 1794243026.4460754,
 "e04fdc2e2f6e525b": 1794090024.092463,
 "e09246598dd5681c": 1794090024.092463,
 "e0b6684633819e40": 1794234029.8370936,
@@ -3622,6 +3756,7 @@
 "ec527b36f71dafcf": 1794234029.8370936,
 "ec8af8bf7f18d746": 1794151225.6597934,
 "eca4cad1d140276f": 1794129624.9673119,
+"ecb058e706f2016a": 1794243026.4460754,
 "ecb0c4e0f180cfa4": 1794058663.5416367,
 "eccda55aefdc6271": 1794207655.353521,
 "ecd41a73038ae4c4": 1794207655.353521,
@@ -3870,6 +4005,7 @@
 "0075a746041cc541": 1794090024.092463,
 "0083d6077ac1a6d5": 1794082823.0034523,
 "008e2c9c53a37535": 1794218488.7102273,
+"0095113aa80b7a6c": 1794243026.4460754,
 "00a40184c8b5be4a": 1794129624.9673119,
 "00e710ceadd0862e": 1794129624.9673119,
 "00f2af6471db324e": 1794232224.3910127,
@@ -3877,6 +4013,7 @@
 "0105a306ef5cd5c9": 1794055787.7739694,
 "0125f6bcb63de443": 1794220827.8644307,
 "01677113a24e8855": 1794242424.5403016,
+"01721e7420630a61": 1794243026.4460754,
 "0175f821bc8d8dca": 1794053146.8970654,
 "017f1b48fe1e53fb": 1794232853.9654045,
 "01e9d52f054e45cb": 1794055787.7739694,
@@ -3889,6 +4026,7 @@
 "02a234392cfb6030": 1794207655.353521,
 "02bb3bca72fb2637": 1794207655.353521,
 "02d91c89ffd5c13c": 1794229828.2811856,
+"02fc4e12a41c5b0a": 1794243026.4460754,
 "02fed12cd4190eac": 1794090024.092463,
 "0304e061c5784329": 1794121251.8481042,
 "0311a36b383a73dd": 1794217228.4060323,
@@ -4456,6 +4594,7 @@
 "2f310fdb77d224cc": 1794207655.353521,
 "2f631b59a4ddff8a": 1794129624.9673119,
 "2f6e3814e41a9378": 1794227444.8368437,
+"2f7de1ef301486f0": 1794243026.4460754,
 "2f95d097a91dc99f": 1794066518.762267,
 "2f9e97b70947628e": 1794093624.3200548,
 "2fb902c35ab476dd": 1794129624.9673119,
@@ -4723,6 +4862,7 @@
 "44d79be4a3cb5a46": 1794093624.3200548,
 "4503c539d170b597": 1794073224.1004374,
 "45225f21589d26df": 1794207655.353521,
+"453bcd8157ab947d": 1794243026.4460754,
 "453e9fed57c1c0e0": 1794220241.562271,
 "455073f8d0a1c5ae": 1794158423.5148294,
 "457c439366366b12": 1794147624.409764,
@@ -4827,6 +4967,7 @@
 "4ec627448066c45a": 1794090024.092463,
 "4eea0d64a365a358": 1794234645.282263,
 "4f0b523640dd4b91": 1794226823.8223224,
+"4f0fd1e2d8abf505": 1794243026.4460754,
 "4f40c3825bd90e91": 1794129624.9673119,
 "4f4d5af1edb51124": 1794215424.0711486,
 "4f5a81f350ab2acb": 1794085825.1416018,
@@ -5157,6 +5298,7 @@
 "6985606904cabfc6": 1794067878.5266922,
 "69a0b566a61c1b2a": 1794207655.353521,
 "69b6bcfd3c4ca246": 1794209441.2028658,
+"69e2d8ea065de2c6": 1794243026.4460754,
 "6a1169550335c705": 1794090024.092463,
 "6a3f191c8753a0fa": 1794172824.1624086,
 "6a3fadd87bf229bf": 1794172824.1624086,
@@ -5413,6 +5555,7 @@
 "7fc32fd25c79905e": 1794154823.0343263,
 "7fc6e9991201af74": 1794215424.0711486,
 "7fdc824d78357c57": 1794136824.1662278,
+"7fde9069060ee5cc": 1794243026.4460754,
 "7ffe91b7b29a8d4f": 1794207655.353521,
 "80176ed987194f50": 1794084624.3653798,
 "8033670821327add": 1794053146.8970654,
@@ -5503,6 +5646,7 @@
 "87096cbd1c5fc4f6": 1794076826.2653458,
 "871c3027c76e1530": 1794224423.8500595,
 "87328bb8efcfbeb6": 1794078057.3592389,
+"8736775c5c602700": 1794243026.4460754,
 "8771bc1b41e54adb": 1794090024.092463,
 "87919cbfbd694170": 1794090024.092463,
 "87b6d2eb54096c8e": 1794069624.2005684,
@@ -5610,6 +5754,7 @@
 "8ffa8d8d4ced5632": 1794207655.353521,
 "900be2df84ce6531": 1794090024.092463,
 "900f30caf7e5204f": 1794234029.8370936,
+"9024f47a40d666a7": 1794243026.4460754,
 "902b4a5e2df0e0f3": 1794053146.8970654,
 "905ac8858a8d22a3": 1794090024.092463,
 "905eb200cc37a11e": 1794066518.762267,
@@ -6294,6 +6439,7 @@
 "c5bea915c31cf487": 1794079839.2548869,
 "c5c6d0f8dd6e4e34": 1794219024.1165798,
 "c5d2d7a46cb7e965": 1794129624.9673119,
+"c5dcb668c3bb5e8c": 1794243026.4460754,
 "c5dfe7df2506bc78": 1794207655.353521,
 "c6131fc18fa5b1af": 1794227444.8368437,
 "c61c85cc58f96130": 1794090024.092463,
