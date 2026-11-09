@@ -191,7 +191,49 @@
 "t": "11-09 08:40"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sclVXOC1jZG9UN0Y2WDNETDJjVjQ3bV9fdXpMMXRGejRELTJ5ZHgwTENMOG1xZEpYS0RzR0hPQmVlUnNVeWJOTnBFVDFHSW1Za2cyTFZvbFNPOHBvRU55bnZONXpYdEE?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Trump eyes sit-down with Xi and Putin at APEC summit in China &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Trump eyes sit-down with Xi and Putin at APEC summit in China - Reuters",
+"ts": 1794195029,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlJUQW5aeHVqNGcwbXZ4SDBEa0plbkxZc1UxN0doQ2FpeVlGWGtmUUQ4d1dNMG1zMWYtaDdrZ1dtVjJrbFJ4d3E2V01JOEZibktHMlBmNlBadDNENFBCVDRSTF9acWY2NnphcW40cEhocGNNbDJYRXZLZzRwZVB5VE1IZEtXaWV4R3VhZUR6bTROR2lQMnZCSC1pZFVLQ0NsR0JxUmtNX1pHbm1acHpya2JJZkxrYnM?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Alcazar Energy secures $436 million financing for Egyptian wind farms &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Alcazar Energy secures $436 million financing for Egyptian wind farms - Reuters",
+"ts": 1794213246,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/news/hacks/binance-says-335-9-million-record-breach-claim-is-likely-a-scam",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "The exchange cites inconsistencies in a listing seeking $900,000 for purported identity documents, credentials and private keys.",
+"tags": [
+"Binance"
+],
+"title": "Binance Says 335.9 Million-Record Breach Claim Is Likely a Scam",
+"ts": 1794214023,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -244,7 +286,7 @@
 },
 "_last_check": 1794211263.178829
 },
-"last_run": 1794213642.6326573,
+"last_run": 1794214234.2354395,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -283,6 +325,7 @@
 "0007808fb18a3f61": 1794121251.8481042,
 "000980a42d4fa494": 1794053146.8970654,
 "0047b58092bacccc": 1794207655.353521,
+"007a8c9ea4645531": 1794214224.3574343,
 "0081791b3ee0022e": 1794162024.6325307,
 "0094a092d933a61a": 1794158423.5148294,
 "00ad897c0444dc01": 1794129624.9673119,
@@ -316,6 +359,7 @@
 "0487f7ce0df09b93": 1794172824.1624086,
 "048b65c9bdce9ad5": 1794207655.353521,
 "049183ccce78bd07": 1794090024.092463,
+"04a065ef4fe939ed": 1794214224.3574343,
 "04dbe485ee46c6f8": 1794129624.9673119,
 "04ebb284730c2487": 1794207655.353521,
 "04fc648849c47959": 1794129624.9673119,
@@ -1699,6 +1743,7 @@
 "87ddc0e19d28e0d7": 1794090024.092463,
 "87e5efae7c656236": 1794053146.8970654,
 "87f0880bb94d8882": 1794121251.8481042,
+"8811ef06bd029f04": 1794214224.3574343,
 "88189743a6c92318": 1794121251.8481042,
 "8846c701b11ba4a3": 1794076826.2653458,
 "8847e8808b8166d6": 1794090024.092463,
@@ -1828,6 +1873,7 @@
 "956cb1be6a75d859": 1794090024.092463,
 "9570d9b2da18b826": 1794053146.8970654,
 "9589007a3595edaf": 1794207655.353521,
+"959ec82d443e0c37": 1794214224.3574343,
 "95a87ed2c9e29d5a": 1794121251.8481042,
 "961779f5a6cad88c": 1794151225.6597934,
 "961a1ed1ee85df80": 1794207655.353521,
@@ -3028,6 +3074,7 @@
 "0e0cb550a1673fb2": 1794207655.353521,
 "0e12ca72ec72054d": 1794129624.9673119,
 "0e2ee758c4a6cda9": 1794053146.8970654,
+"0e5acee327477d24": 1794214224.3574343,
 "0e6620ba74466117": 1794121251.8481042,
 "0e6c0a382970822c": 1794129624.9673119,
 "0e77fee45a4e765a": 1794129624.9673119,
@@ -3126,6 +3173,7 @@
 "189f3b007df5d42c": 1794053146.8970654,
 "18b10a6c3efafcdc": 1794053146.8970654,
 "18b3824b926af047": 1794053146.8970654,
+"18b42431d288e3a6": 1794214224.3574343,
 "18c0b40047dcb4c0": 1794172824.1624086,
 "18da6ebb4ef367fd": 1794090024.092463,
 "1976d3ee49b89955": 1794090024.092463,
@@ -3553,6 +3601,7 @@
 "41831a000b0c1a0b": 1794053146.8970654,
 "41a234068b1a4c07": 1794129624.9673119,
 "41b5b946247062c0": 1794060010.396961,
+"41b9f3a6f4597d8a": 1794214224.3574343,
 "41bb348c87a7d06b": 1794079224.7359486,
 "41ef0ef332719ae4": 1794210025.2421503,
 "41f68f0c2c19f0a5": 1794207655.353521,
@@ -3799,6 +3848,7 @@
 "5bbd95585f9c93c3": 1794207655.353521,
 "5bf46af44a1af5b7": 1794084624.3653798,
 "5c065867c7afc3ae": 1794154823.0343263,
+"5c0ff1197de8c735": 1794214224.3574343,
 "5c53e5beb5882863": 1794213043.0947626,
 "5c5a9995dfe9a2da": 1794169225.368316,
 "5c698a5a64882d8f": 1794212427.3416302,
