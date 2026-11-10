@@ -542,13 +542,124 @@
 "t": "11-10 08:22"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGgwRHFUc1RJZVY3QzV6OWl4QlBTcHdoaGppc0MtMzJLdDZ6dElValUxUW5icndQMWJmTFVldHdKMUNKOGJsSkJvREYzVWJNQ0xpQVhiVE5URW95aFZiSTVvb2hzZWp4WVU4aWJ5MHdUZHdCVXdvbnlHMFlFb2tkMzEzeHV5eDBibktqdE9BNlFiZC03ck9TMG9LcjVzZ2pRZW5XUXJhYV96WXdtMGd4Vk9lU2NIbXNGWkRHUU1DUXU0Zw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Japan 30-Year Bond Sale Sees Weaker Demand Than 12-Month Average &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"Bond Sale"
+],
+"title": "Japan 30-Year Bond Sale Sees Weaker Demand Than 12-Month Average - Bloomberg.com",
+"ts": 1794284220,
+"unmatched": false
+},
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWHg0MV9ubTR0akxmUFBqNmNPWEZZQVgwd2pwbllEa3hRNWFSY2VZb09uWG0ycHd3TW1xMFhjRWl6aGJSNkcxX05oRDVuSWg4cFV3RXo2UUVFcDVJeHZzQjJmZ0RBcC1iN2E3cjBNSjA0MWZlYkx1QzJWbEdpN1FPZVR0cFE?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u878d\u8cc7",
+"summary": "AI\u2019s affair to remember &nbsp;&nbsp; Financial Times",
+"tags": [],
+"title": "AI\u2019s affair to remember - Financial Times",
+"ts": 1794286876,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazhScG1vNWotRURNakQ0YTRxZ2JXY180M3hPQ2VpdDF3UnBRXy1RSHcxSWRvOFJqTERXSDMteGZuSGVOYzI5Y0x3c1VPQlZpSDBJN255X3UxdGQybXFPNWw2N1BfR2l3azB4ang1Z29LMzU4MXo5RVNrMFR2XzRndDdqU3BfOHNWZ0xfNGhJOXZPV3ROXzBJWW9XSUtfWW9ja1VrU0RZQ2ZKVG9Pa0Frc0lSbnoxUkYwTFhLTnBfc05sTUxm?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "COMMENTARY: China's crude oil imports recover, fuel exports not so much &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "COMMENTARY: China's crude oil imports recover, fuel exports not so much - Reuters",
+"ts": 1794288489,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669541-global-ship-lease-declares-0_6875-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Global Ship Lease raises dividend by 10% to $0.6875",
+"ts": 1794298715,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "The Block",
+"summary": "The revenue decline was driven by continued soft crypto trading environment and a higher mix of lower-margin stablecoin transactions.",
+"tags": [
+"USDT"
+],
+"title": "BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains",
+"ts": 1794298853,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669521-goldman-sachs-ceo-ai-financing-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Goldman CEO: AI financing demand is still strong despite recent tech selloff",
+"ts": 1794299104,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/converge/regulation/coinbase-five-firms-back-cftc-in-stock-perps-lawsuit",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "The proposed amicus brief supports joint SEC-CFTC oversight as a November 10 reply deadline approaches in the bid to halt single-stock perpetuals.",
+"tags": [
+"COIN"
+],
+"title": "Coinbase, Five Firms Back CFTC in Stock Perps Lawsuit",
+"ts": 1794299311,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669544-neo-performance-materials-inc-declares-cad-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Neo Performance Materials Inc. declares CAD 0.10 dividend",
+"ts": 1794299372,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T22:00"
+"last_date": "2026-11-10T07:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,11 +669,11 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-09T22:00"
+"last_date": "2026-11-10T07:00"
 },
 "FNG": {
 "cool": {},
-"last_date": "2026-11-09"
+"last_date": "2026-11-10"
 },
 "HY_OAS": {
 "cool": {},
@@ -578,11 +689,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-09T22:00"
+"last_date": "2026-11-10T07:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-09T22:00"
+"last_date": "2026-11-10T07:00"
 },
 "UST10Y": {
 "cool": {},
@@ -593,14 +704,18 @@
 "last_date": "2026-11-09"
 },
 "VIX": {
-"last_date": "2026-11-06"
+"cool": {},
+"last_date": "2026-11-09"
 },
 "VIX_TERM": {
-"last_date": "2026-11-06"
+"cool": {
+"lv0-": "2026-11-09"
 },
-"_last_check": 0
+"last_date": "2026-11-09"
 },
-"last_run": 1794298929.1266778,
+"_last_check": 1794299454.179632
+},
+"last_run": 1794299497.1698139,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -903,6 +1018,7 @@
 "113074cd3eccb1b1": 1794147624.409764,
 "1138fbe5381e4c48": 1794090024.092463,
 "113ba0acf95b217e": 1794232224.3910127,
+"1141fc9546d83f9a": 1794299443.3490458,
 "11477ca20fa96b31": 1794053146.8970654,
 "1153e26e4e64b04e": 1794133224.9019783,
 "116047bf10096e7e": 1794063069.3473625,
@@ -1227,6 +1343,7 @@
 "2460b71211ef7957": 1794136824.1662278,
 "24964d19bc357613": 1794221431.0905063,
 "249998b51c21cad3": 1794207655.353521,
+"24a2633aba11c8d5": 1794299443.3490458,
 "24ac00d987522ef0": 1794207655.353521,
 "24b66954d01ae525": 1794158423.5148294,
 "24ee93e7c69dab41": 1794090024.092463,
@@ -1463,6 +1580,7 @@
 "31fa9a6e3df3adee": 1794216642.1444197,
 "32087cf1b4592d27": 1794053146.8970654,
 "320fb5560ad1fb8a": 1794090024.092463,
+"321292e2e3146745": 1794299443.3490458,
 "3216126ad6b8fb17": 1794090024.092463,
 "322f3dc5418234b0": 1794121251.8481042,
 "3245d300fd06b6c5": 1794085249.7228966,
@@ -1916,6 +2034,7 @@
 "4ade085ccee5bad9": 1794229828.2811856,
 "4af0d94ff2c2c258": 1794226224.6034505,
 "4af13bed72a115dc": 1794053146.8970654,
+"4af4d9c8c3bca427": 1794299443.3490458,
 "4b0fb227253050b1": 1794053146.8970654,
 "4b1b46a523fcf218": 1794078625.195159,
 "4b270ab0a5fd934e": 1794294057.2981856,
@@ -2933,6 +3052,7 @@
 "873632f50965a90d": 1794226224.6034505,
 "873b2c9376c30181": 1794227444.8368437,
 "873feb90c8c8396d": 1794237626.3538754,
+"8741bfa548eacb67": 1794299443.3490458,
 "8753f4d20e102e13": 1794090024.092463,
 "875c0cec8046ab00": 1794154823.0343263,
 "8766e9c4c97831e5": 1794172824.1624086,
@@ -3161,6 +3281,7 @@
 "946272ddb2bd0eee": 1794294057.2981856,
 "9478c3b5dd912234": 1794234029.8370936,
 "9490cf3cdb61853c": 1794255028.7159631,
+"94917209321271d7": 1794299443.3490458,
 "9495deaa0deb1636": 1794247875.6926105,
 "949b47390d698c3f": 1794136824.1662278,
 "949bab3fb71a6df2": 1794053146.8970654,
@@ -3239,6 +3360,7 @@
 "99f703c665c768ee": 1794129624.9673119,
 "9a231ee81d2c9183": 1794227444.8368437,
 "9a2a40cc7ffec28d": 1794241843.488906,
+"9a34d68e1002aeca": 1794299443.3490458,
 "9a42b793157262c5": 1794294057.2981856,
 "9a4587a5fbea336d": 1794219024.1165798,
 "9a491f72095469ab": 1794073481.0579536,
@@ -3838,6 +3960,7 @@
 "bcc68673cfc61155": 1794140423.8128505,
 "bcd24fa2831486bd": 1794223228.835452,
 "bcd2e3eb2f3c0a3e": 1794058663.5416367,
+"bcdbc481fe80a52d": 1794299443.3490458,
 "bcf268bb0d208ffe": 1794207655.353521,
 "bcf27ce1281efad9": 1794053146.8970654,
 "bd1b52a4e586799c": 1794090024.092463,
@@ -3965,6 +4088,7 @@
 "c419d2ff09d190ff": 1794129624.9673119,
 "c41e2772d321c4bc": 1794053146.8970654,
 "c43432f152b94035": 1794227444.8368437,
+"c4385fc7094f42d9": 1794299443.3490458,
 "c44fba82737fddef": 1794237626.3538754,
 "c45600465429b8f2": 1794053146.8970654,
 "c456e4e64ac1c348": 1794207655.353521,
@@ -4026,6 +4150,7 @@
 "c72d54a945ad942c": 1794060010.396961,
 "c730a2d82609671e": 1794222625.9546466,
 "c74fb51a56cadec5": 1794243659.0740352,
+"c75b70af2c0eabac": 1794299443.3490458,
 "c75fd4bd7a4411e6": 1794242424.5403016,
 "c767be3eb8908c86": 1794240054.5770936,
 "c77336b8eef9154d": 1794055787.7739694,
@@ -4094,6 +4219,7 @@
 "cb1b6c617da999b7": 1794129624.9673119,
 "cb1d780ef0d1cb17": 1794265255.9845357,
 "cb289a0518d950f4": 1794133224.9019783,
+"cb2c3ff4bb349fc7": 1794299443.3490458,
 "cb47cd63a4fec208": 1794294057.2981856,
 "cb52497eb844fe22": 1794223228.835452,
 "cb5799c902f7c64e": 1794207655.353521,
@@ -4238,6 +4364,7 @@
 "d29f8da0686467d5": 1794121251.8481042,
 "d2b7d3b2bc220e3a": 1794294057.2981856,
 "d2bb2672180d0964": 1794121251.8481042,
+"d2d9908a9e070f5d": 1794299443.3490458,
 "d2e7ca47c54a6441": 1794207655.353521,
 "d2e95662f9a7b48b": 1794053146.8970654,
 "d2fc8023b557638e": 1794207655.353521,
@@ -4930,6 +5057,7 @@
 "fdadb49dc711f3c2": 1794090024.092463,
 "fdae73bdf15f5ea9": 1794294057.2981856,
 "fdcbb23265a70cd2": 1794207655.353521,
+"fdd16f917edb2957": 1794299443.3490458,
 "fe0eb206ba0e0678": 1794090024.092463,
 "fe13e9ffc9b1aa9a": 1794258020.3289478,
 "fe15393e27e5478a": 1794243659.0740352,
@@ -4966,6 +5094,7 @@
 "ffb2eab97233069c": 1794207655.353521,
 "ffba5c91d7bc4ef3": 1794129624.9673119,
 "ffe63d5bd2ba9323": 1794259224.3903115,
+"fff4960f9b54341d": 1794299443.3490458,
 "fffd3263e9ed6a98": 1794227444.8368437
 },
 "titles": {
@@ -5067,6 +5196,7 @@
 "06cd769300ebf429": 1794053146.8970654,
 "0724d0b1b06c57e7": 1794239425.4260268,
 "073570ac8325b712": 1794250859.8781228,
+"07420bf17293a680": 1794299443.3490458,
 "074f4b24f5ece01b": 1794129624.9673119,
 "075495a6792764de": 1794129624.9673119,
 "0765c56bce166373": 1794247875.6926105,
@@ -5149,6 +5279,7 @@
 "0cedf73451edc9b8": 1794207655.353521,
 "0cfb006733c6d18b": 1794295224.707564,
 "0d07be112fbbab9d": 1794053146.8970654,
+"0d1e4cf83e5a84d6": 1794299443.3490458,
 "0d45b8070969f7fd": 1794069624.2005684,
 "0d676b90c486dd8a": 1794237626.3538754,
 "0d7953b9512bd6b8": 1794207655.353521,
@@ -5651,6 +5782,7 @@
 "2a4531096e67b046": 1794158423.5148294,
 "2a4f1769c2820845": 1794055787.7739694,
 "2a5142e076cfda3e": 1794090024.092463,
+"2a5325def643b303": 1794299443.3490458,
 "2a64d75a29dad767": 1794294057.2981856,
 "2a6648c0575fd9ea": 1794294057.2981856,
 "2a69d5a3b416535f": 1794090024.092463,
@@ -5808,6 +5940,7 @@
 "33a12e5bf96c4efa": 1794295841.2960658,
 "33ab694473f08e55": 1794258020.3289478,
 "33b219ff92afde79": 1794058663.5416367,
+"33d3aa8f676855b9": 1794299443.3490458,
 "341863ea4c38f5da": 1794207655.353521,
 "342521cb55939eb9": 1794255624.7521412,
 "34256228feba83fb": 1794125424.4951053,
@@ -6053,6 +6186,7 @@
 "434a18e5e1dc1d6e": 1794090024.092463,
 "4354e972d1c2565a": 1794144023.650658,
 "436b3c9213534177": 1794176424.6910276,
+"4378ec2b5d4a7158": 1794299443.3490458,
 "439b0f2980d97a25": 1794058663.5416367,
 "439ee305f67af91a": 1794248479.105261,
 "43a0da92f6e01b6d": 1794067878.5266922,
@@ -6069,6 +6203,7 @@
 "44830961f096e352": 1794265822.861851,
 "448597d450e4aafa": 1794207655.353521,
 "449378d9c0872f7b": 1794227444.8368437,
+"4499d388fab82dcc": 1794299443.3490458,
 "449c2981fa6d12d8": 1794060010.396961,
 "449ce222fcefb171": 1794121251.8481042,
 "44a258467dc85172": 1794090024.092463,
@@ -6770,6 +6905,7 @@
 "72097003d8e3cee5": 1794176424.6910276,
 "721d8a6e0364b51f": 1794223842.150146,
 "721f26475bd80273": 1794207655.353521,
+"7226b76cfd268a72": 1794299443.3490458,
 "72281bafffc85df4": 1794129624.9673119,
 "722fe4843bd57113": 1794294057.2981856,
 "7261d83998212e29": 1794090024.092463,
@@ -7223,6 +7359,7 @@
 "8fc5c25019d133ee": 1794053146.8970654,
 "8ff31a8b13a198dd": 1794298226.443851,
 "8ffa8d8d4ced5632": 1794207655.353521,
+"8ffa8e01525c6114": 1794299443.3490458,
 "900be2df84ce6531": 1794090024.092463,
 "900f30caf7e5204f": 1794234029.8370936,
 "901d80ab565175c0": 1794261654.088547,
@@ -7609,6 +7746,7 @@
 "a77099ee1c6ae8d2": 1794217228.4060323,
 "a783f205b8d164ee": 1794294057.2981856,
 "a793005be2e04128": 1794053146.8970654,
+"a7962d9b812a9ce5": 1794299443.3490458,
 "a7a106fb37f1a1ad": 1794241843.488906,
 "a7e4cc7f27468eca": 1794125424.4951053,
 "a801493cfed9314f": 1794241225.0884333,
@@ -7908,6 +8046,7 @@
 "ba164f3645ae514a": 1794250228.0065682,
 "ba1b9141ccf81ca7": 1794259224.3903115,
 "ba28785f59dca7f6": 1794265255.9845357,
+"ba28e00170724966": 1794299443.3490458,
 "ba486380f4062031": 1794066518.762267,
 "ba5b338c6985db42": 1794090024.092463,
 "ba716d7b5f8183da": 1794053146.8970654,
@@ -8067,6 +8206,7 @@
 "c3874824416d6104": 1794090024.092463,
 "c387fab14c86f521": 1794216642.1444197,
 "c39400b812086fe3": 1794172824.1624086,
+"c3b0ed5b4e76be37": 1794299443.3490458,
 "c3ec298e027cf4b0": 1794090024.092463,
 "c3f29972b5ab5738": 1794267626.597747,
 "c3f37f52e791872a": 1794069041.6001287,
@@ -8372,6 +8512,7 @@
 "d759e5324f1f8259": 1794133224.9019783,
 "d75b2bd01e6dd2cd": 1794133224.9019783,
 "d76d3020d99aee1d": 1794129624.9673119,
+"d77940869f533e42": 1794299443.3490458,
 "d77e62d24ff9cbe8": 1794248479.105261,
 "d7872171dbd50e90": 1794090024.092463,
 "d7b3c46df4b6b358": 1794294057.2981856,
@@ -8508,6 +8649,7 @@
 "e03c88c70a913644": 1794261023.1557755,
 "e03e5ef5bf1f44d8": 1794090024.092463,
 "e0404a39cb7d7e1e": 1794207655.353521,
+"e077d2f55debe48e": 1794299443.3490458,
 "e0812b7a42eb3c86": 1794217228.4060323,
 "e0825715132b58e4": 1794208823.7725184,
 "e087c001be318ae8": 1794224423.8500595,
