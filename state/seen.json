@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794327120.0809271,
+"ai_last_review": 1794328387.7534184,
 "ai_log": [
-{
-"err": "",
-"kept": 5,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 29,
-"ok": true,
-"t": "11-09 13:20"
-},
 {
 "err": "",
 "kept": 6,
@@ -540,289 +531,24 @@
 "n": 30,
 "ok": true,
 "t": "11-10 16:12"
+},
+{
+"err": "\u8d85\u6642\uff08[gemma-4-26b-a4b-it] ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)\uff09",
+"kept": 9,
+"missing": 0,
+"model": "",
+"n": 39,
+"ok": false,
+"t": "11-10 16:33"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWFGUXl3QjU4LTdvSEtXQkdZTW5iY2tDcXN6ajFBSHdJTmFPUjR3SzNOSHpJWFdEdDQxUTdKSkpWaGFUcHFSVDZkNzJHTzFSTE1qVEFpM0tvQ1NLYTVaYW1FY3Viazg2X2ZmajFjZHR6TmI5MjRpODUzNElGaXdqRURob0s2SjQ0RnUw?oc=5",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "FBI Nvidia probe, Hegseth impeachment vote and Russia-Ukraine talks &nbsp;&nbsp; Reuters",
-"tags": [
-"NVDA"
-],
-"title": "FBI Nvidia probe, Hegseth impeachment vote and Russia-Ukraine talks - Reuters",
-"ts": 1794308340,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0VzLWZLNE5ZWEdFa3dRbEpxXzFqVmRvbTNQbmFYRjBnd1NzRzRDU1Q0bzlyblZRbHMwYVVUR0t2SWd0dTY5ZUFkQUxfdUtLemsyeXpQQ2RUcHNnVlpiUWp6VGpRSEQ3WlNPSzFLNUVxeUdGWFJWa2dnQlFEWS02eUdPN3FOOEppSmxUZXBnamhuVTRUNWM5akxXem5SdnRwcTk3UUpMcFEzU3Q4UmdiU2NLZ3ZkSmM0aEE?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Anthropic Taps UK Lobby Firm Before IPO to Counter AI Backlash &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Anthropic Taps UK Lobby Firm Before IPO to Counter AI Backlash - Bloomberg.com",
-"ts": 1794321453,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669873-lucid-group-climbs-13-on-q3-results-and-liquidity-update?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Lucid Group climbs 13% on Q3 results and liquidity update",
-"ts": 1794327066,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669954-lineage-expects-1_25b-1_27b-2026-adjusted-ebitda-while-targeting-5_0xminus-5_5x-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Lineage expects $1.25B-$1.27B 2026 adjusted EBITDA while targeting 5.0x-5.5x leverage",
-"ts": 1794327136,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669955-infusystem-reaffirms-2026-pro-forma-revenue-growth-of-6-percent-to-8-percent-while-scaling?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "InfuSystem reaffirms 2026 pro forma revenue growth of 6% to 8% while scaling wound care",
-"ts": 1794327136,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669956-alta-outlines-2026-adjusted-ebitda-of-165m-170m-as-material-handling-deliveries-shift-into?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Alta outlines 2026 adjusted EBITDA of $165M-$170M as material handling deliveries shift into early 2027",
-"ts": 1794327147,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669957-ukrainian-drone-strikes-are-said-to-disrupt-30-percent-of-russias-oil-refining?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Ukrainian drone strikes are said to disrupt 30% of Russia's oil refining",
-"ts": 1794327303,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bitcoin Magazine",
-"summary": "Bitcoin Magazine Miami-Dade County Now Accepts Bitcoin for Property Taxes Miami-Dade Tax Collector Dariel Fernandez said Monday his office now accepts bitcoin for property taxes online and in person, with every payment converted to dollars before it reaches the county. This post Miami-Dade County Now Accepts Bitcoin for Property Taxes first appeared on Bitcoin Magazine and is written by Micah Zimm",
-"tags": [
-"BTC"
-],
-"title": "Miami-Dade County Now Accepts Bitcoin for Property Taxes",
-"ts": 1794327358,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/frontier/technology/nrc-permits-four-x-energy-reactors-at-dow-s-texas-site",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The proposed plant would replace aging electricity and steam assets, but Dow has not made a final decision to build it.",
-"tags": [],
-"title": "NRC Permits Four X-energy Reactors at Dow's Texas Site",
-"ts": 1794327376,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "An inference marketplace is planned for December, with the product-development budget coming from MEGA's existing treasury, according to co-founder Shuyao Kong.",
-"tags": [],
-"title": "MEGA Pledges $30 Million for Products, Starting With AI",
-"ts": 1794327393,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669879-mcewen-tumbles-18-after-third-quarter-revenue-miss?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "McEwen tumbles 18% after third-quarter revenue miss",
-"ts": 1794327395,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/markets/anthropic-perp-trades-above-ipo-range-on-hyperliquid",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The ANT contract references one Class A share, but gives traders no equity or IPO allocation rights and is expected to continue trading after the listing.",
-"tags": [],
-"title": "Anthropic Perp Trades Above IPO Range on Hyperliquid",
-"ts": 1794327409,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669874-mara-holdings-advances-11-after-q3-results-and-buyback-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "MARA Holdings advances 11% after Q3 results and buyback plan",
-"ts": 1794327413,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/converge/tradfi-and-fintech/visa-adds-monad-to-stablecoin-settlement-the-block",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "Visa\u2019s seven-day settlement model lets institutions move funds beyond the banking week; Mastercard announced a similar expansion in June.",
-"tags": [
-"USDT"
-],
-"title": "Visa Adds Monad to Stablecoin Settlement: The Block",
-"ts": 1794327425,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/defi/polymarket-says-revenue-run-rate-tops-1-8-billion",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The US exchange recorded $14.77 billion in October face-value turnover, while its fees vary by contract price, product and trader tier.",
-"tags": [],
-"title": "Polymarket Says Revenue Run Rate Tops $1.8 Billion",
-"ts": 1794327441,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/markets/bitcoin-falls-below-73-000-to-fresh-10-week-low",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The Coinbase low undercut Sunday's trough by nearly 1%; Kraken also recorded a sub-$73,000 print.",
-"tags": [
-"BTC",
-"COIN"
-],
-"title": "Bitcoin Falls Below $73,000 to Fresh 10-Week Low",
-"ts": 1794327460,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/frontier/ai/nvidia-unveils-gr00t-2-with-onboard-humanoid-control",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "A 100,000-hour human-demonstration dataset and companion tools are available now, while model weights and adaptation recipes are due in December.",
-"tags": [
-"NVDA"
-],
-"title": "NVIDIA Unveils GR00T 2 With Onboard Humanoid Control",
-"ts": 1794327507,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/blockchains/luke-dashjr-promotes-rival-bip-repository-as-official",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The fork restores Dashjr's editor listing and BIP-110's 'Complete' status, while bitcoin/bips remains active with five editors.",
-"tags": [
-"BTC"
-],
-"title": "Luke Dashjr Promotes Rival BIP Repository as 'Official'",
-"ts": 1794327547,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Block",
-"summary": "Alta\u2019s blockchain will combine privacy and compliance controls for banks and other financial firms.",
-"tags": [],
-"title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
-"ts": 1794327556,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/security/ledger-sdk-sends-signing-metadata-by-default",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The reporting code includes destination addresses and device details; Ambire says it kept the affected versions out of production.",
-"tags": [],
-"title": "Ledger SDK Sends Signing Metadata by Default",
-"ts": 1794327609,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T13:00"
+"last_date": "2026-11-10T15:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -832,7 +558,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T13:00"
+"last_date": "2026-11-10T15:00"
 },
 "FNG": {
 "cool": {},
@@ -840,11 +566,11 @@
 },
 "HY_OAS": {
 "cool": {},
-"last_date": "2026-11-06"
+"last_date": "2026-11-09"
 },
 "IG_OAS": {
 "cool": {},
-"last_date": "2026-11-06"
+"last_date": "2026-11-09"
 },
 "USD": {
 "cool": {},
@@ -852,11 +578,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-10T13:00"
+"last_date": "2026-11-10T15:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-10T13:00"
+"last_date": "2026-11-10T15:00"
 },
 "UST10Y": {
 "cool": {},
@@ -876,9 +602,9 @@
 },
 "last_date": "2026-11-09"
 },
-"_last_check": 0
+"_last_check": 1794328252.5328338
 },
-"last_run": 1794327715.5031614,
+"last_run": 1794328408.5932882,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -2049,6 +1775,7 @@
 "3a254da9079a66a6": 1794121251.8481042,
 "3a291b8147c77d34": 1794172824.1624086,
 "3a312bae8cd2228e": 1794129624.9673119,
+"3a36aa3a7d591757": 1794328242.1321893,
 "3a36ce35c2238f50": 1794129624.9673119,
 "3a414655d43bd6d2": 1794303041.7631679,
 "3a5175d26d7a9758": 1794264026.1524632,
@@ -2101,6 +1828,7 @@
 "3cf37847575daedc": 1794053146.8970654,
 "3cf5d2fd8c279947": 1794238265.7345989,
 "3cf68d68c2d22edb": 1794248479.105261,
+"3cfa676a4d3bf171": 1794328242.1321893,
 "3cfe4a587bc43def": 1794207655.353521,
 "3d05c974d9db3583": 1794294057.2981856,
 "3d0ba5662ab57787": 1794309624.5737193,
@@ -2111,6 +1839,7 @@
 "3d482a2d0e43367f": 1794257425.5432699,
 "3d6b82c5d098e3aa": 1794053146.8970654,
 "3d7104c8580e7139": 1794243026.4460754,
+"3d7c77d797794ed2": 1794328242.1321893,
 "3d8f81f297ae8ce1": 1794090024.092463,
 "3d9fa47d925a4f27": 1794176424.6910276,
 "3da573f17ea40504": 1794133224.9019783,
@@ -2121,6 +1850,7 @@
 "3de32bbf0bda983e": 1794327026.3092759,
 "3e085427dd2e22f0": 1794294057.2981856,
 "3e09251a28dca46e": 1794207655.353521,
+"3e0c129ae5d2882a": 1794328242.1321893,
 "3e3ca1b3a14f3401": 1794303041.7631679,
 "3e43092c19b82129": 1794151225.6597934,
 "3e4f2c756e597c45": 1794207655.353521,
@@ -2186,6 +1916,7 @@
 "40a53917729e2ae0": 1794265255.9845357,
 "40aa46483b323288": 1794121251.8481042,
 "40b29b006ce5d841": 1794207655.353521,
+"40b749ab55f91c71": 1794328242.1321893,
 "40ca375df2b7783a": 1794247875.6926105,
 "40cd860de7bf89fe": 1794129624.9673119,
 "40d4451feb4a370b": 1794090024.092463,
@@ -2366,6 +2097,7 @@
 "4944a053ae89226b": 1794125424.4951053,
 "49451c8d12b44ac2": 1794090024.092463,
 "49681abf3bf36777": 1794322856.5589402,
+"4970ac0a884609da": 1794328242.1321893,
 "4974c5b306b01176": 1794090024.092463,
 "49a286b09e7454e0": 1794327026.3092759,
 "49aac2d8b07a1de8": 1794069624.2005684,
@@ -2521,6 +2253,7 @@
 "50ef3ce6c70f2ab8": 1794207655.353521,
 "50f18e93d63c110a": 1794053146.8970654,
 "50f30a4f3e30f310": 1794259224.3903115,
+"510f6402da67672b": 1794328242.1321893,
 "5126b554e3f35982": 1794090024.092463,
 "512ce7bec65051e3": 1794133224.9019783,
 "512e3bc28feb2b9f": 1794125424.4951053,
@@ -2598,6 +2331,7 @@
 "55a3b54056094608": 1794053146.8970654,
 "55b6455d8aca46d0": 1794301829.133516,
 "55cf8a761ba03fbd": 1794242424.5403016,
+"55ecfcf1ca81cd98": 1794328242.1321893,
 "5606d34bb106509b": 1794294057.2981856,
 "560a1275daf09d38": 1794252642.0442708,
 "561249cdee385d39": 1794053146.8970654,
@@ -2688,6 +2422,7 @@
 "5a0ce25dc4a8e5f5": 1794129624.9673119,
 "5a0d38d964dc9882": 1794257425.5432699,
 "5a13bbe5dbfd252c": 1794207655.353521,
+"5a23b10835cd508e": 1794328242.1321893,
 "5a23f7244a8f90dc": 1794243659.0740352,
 "5a2df1ddd8a8f722": 1794294057.2981856,
 "5a3e2400cc78a13b": 1794234645.282263,
@@ -2934,6 +2669,7 @@
 "6552c035e9aca2e2": 1794244826.386174,
 "657616c5b2fac8da": 1794266430.1008153,
 "65793966a64397b0": 1794321043.2025392,
+"657b66a6e5a2d146": 1794328242.1321893,
 "657b93912afa69d2": 1794058663.5416367,
 "657cf0314da2a8dd": 1794055787.7739694,
 "6584c2158e6e096a": 1794261023.1557755,
@@ -2962,6 +2698,7 @@
 "66d66656d76fe3e1": 1794207655.353521,
 "670bc7d5b153a822": 1794090024.092463,
 "671104c59d63b917": 1794241843.488906,
+"671ff9b203f6cfd7": 1794328242.1321893,
 "673157fd46174d94": 1794090024.092463,
 "6740381b10d52352": 1794207655.353521,
 "6741d2736c095731": 1794294057.2981856,
@@ -2983,6 +2720,7 @@
 "68692d3546c94e95": 1794235227.58563,
 "688ed1f06cf710e5": 1794312054.550939,
 "688f39be74565db0": 1794327630.5502307,
+"689519538c7befa2": 1794328242.1321893,
 "68a4be69e8057405": 1794081024.4886196,
 "68a598a41c5f9277": 1794294057.2981856,
 "68d160cbd88ba284": 1794053146.8970654,
@@ -3297,6 +3035,7 @@
 "79dd1089984ffa40": 1794294057.2981856,
 "79f8b1231c826d2f": 1794294057.2981856,
 "79fb057ea0ee676d": 1794079839.2548869,
+"7a15cba1825ff51c": 1794328242.1321893,
 "7a1cb2cdc0525299": 1794243026.4460754,
 "7a4323a79008c68d": 1794294057.2981856,
 "7a78fac17de0a39c": 1794234029.8370936,
@@ -3467,6 +3206,7 @@
 "81c2d21670b2a13e": 1794078057.3592389,
 "81c7e084b4445ef7": 1794090024.092463,
 "81d024f2a28b1b36": 1794053146.8970654,
+"81e24ae2471a6918": 1794328242.1321893,
 "81e5e5c526ad608f": 1794090024.092463,
 "81f3925e830bbc63": 1794209441.2028658,
 "81f83dc0fe159306": 1794320424.8171039,
@@ -4280,6 +4020,7 @@
 "abbd5af2dc4649aa": 1794262824.4868238,
 "abbe5edf050cb497": 1794066518.762267,
 "abd48f034991be70": 1794207655.353521,
+"abde2df0f0b8411c": 1794328242.1321893,
 "abe775b14db2e330": 1794213043.0947626,
 "abea81bd24e05a13": 1794256242.8438334,
 "abf630a3497cdef7": 1794311424.003163,
@@ -4412,6 +4153,7 @@
 "b23b7763a3e2dcec": 1794121251.8481042,
 "b2406c3ee003da1f": 1794240627.3822312,
 "b24d71895037d736": 1794208823.7725184,
+"b25c40c057957253": 1794328242.1321893,
 "b26ed69fc528607c": 1794263443.2975552,
 "b279f998fbd8d677": 1794223842.150146,
 "b27b84f8de81061c": 1794125424.4951053,
@@ -4711,6 +4453,7 @@
 "c059ad90d2d43fdf": 1794324648.7021484,
 "c0757d17adae6c45": 1794241225.0884333,
 "c079fab766c2d27b": 1794053146.8970654,
+"c08d01c65ec1d922": 1794328242.1321893,
 "c0ada841b4422e6c": 1794090024.092463,
 "c0b152df987880da": 1794129624.9673119,
 "c0b9706b8bbb6a09": 1794243026.4460754,
@@ -4960,6 +4703,7 @@
 "cbcf1d602b8e5f3a": 1794250228.0065682,
 "cbdd356a76e101f5": 1794074452.1558738,
 "cbdf28872b39deea": 1794294057.2981856,
+"cbebc04d58dc8d98": 1794328242.1321893,
 "cbf12f4046a09df1": 1794090024.092463,
 "cbf1ab2a3502c2bb": 1794090024.092463,
 "cbfb81b6ac0d6459": 1794121251.8481042,
@@ -5041,6 +4785,7 @@
 "cf737aa87039f4c2": 1794090024.092463,
 "cf8e76e45f198722": 1794217823.792214,
 "cf9fb22caf9a512c": 1794306027.3632174,
+"cfb2be4939c8a679": 1794328242.1321893,
 "cfc9a9dbe63895dc": 1794250228.0065682,
 "cfcae392afdb23c6": 1794066518.762267,
 "cfe51627856137f8": 1794242424.5403016,
@@ -5204,6 +4949,7 @@
 "d74db0e1c2acc51f": 1794082823.0034523,
 "d753999e7fbdce98": 1794129624.9673119,
 "d75eb23ff04e7c29": 1794294057.2981856,
+"d773a17d318a551f": 1794328242.1321893,
 "d77a49da6f23b843": 1794066518.762267,
 "d77f4c3c5e247aaf": 1794070201.937629,
 "d7809941670a26ec": 1794207655.353521,
@@ -5775,6 +5521,7 @@
 "f540713e824bcaae": 1794207655.353521,
 "f54be2da160e20b9": 1794069624.2005684,
 "f54fb5c8c3bdb040": 1794298226.443851,
+"f5919376577bb379": 1794328242.1321893,
 "f5a9f24fc42267e1": 1794230425.0439425,
 "f5b4e0c99e844b9e": 1794322856.5589402,
 "f5b9ab3185ff5f7f": 1794302427.8214426,
@@ -5836,6 +5583,7 @@
 "f8d8914e80fbf395": 1794090024.092463,
 "f8e2e49d5b773204": 1794066518.762267,
 "f8e9befd24914fbc": 1794169225.368316,
+"f91384942e646f24": 1794328242.1321893,
 "f91c5163e48392a0": 1794060010.396961,
 "f924dc66ca4cf17b": 1794053146.8970654,
 "f92de574c0f379e8": 1794261654.088547,
@@ -6034,6 +5782,7 @@
 "036b577881273b76": 1794315026.6277947,
 "036c95b8ac813ba0": 1794325825.7082462,
 "03a80eca5ec33c87": 1794053146.8970654,
+"03a9a95cbd8f4513": 1794328242.1321893,
 "03b4899c90934732": 1794090024.092463,
 "03b9e44347e915fe": 1794305426.239695,
 "03e403529140d2ad": 1794239425.4260268,
@@ -6346,6 +6095,7 @@
 "14719de396b6a0c4": 1794066518.762267,
 "1490c36a3e8f43e0": 1794176424.6910276,
 "14940797cd3498fb": 1794240054.5770936,
+"14993667a2545435": 1794328242.1321893,
 "14bb422fdc4eab7a": 1794322856.5589402,
 "14c376366f69a6ff": 1794256827.896565,
 "14d4d424132ee90f": 1794253225.6358817,
@@ -6688,6 +6438,7 @@
 "2600a6eec5df1e47": 1794225653.3544042,
 "26078cbcdf01a8b9": 1794071426.655343,
 "26126557095c9841": 1794083441.9529276,
+"261331621f5637e1": 1794328242.1321893,
 "2618111c9fbe11fb": 1794320424.8171039,
 "2630be4dec0e5b6e": 1794314423.5789354,
 "263617d3d8d868d3": 1794176424.6910276,
@@ -6871,6 +6622,7 @@
 "2df707044f4ab868": 1794066518.762267,
 "2e112f3ce12a47ef": 1794252026.8992693,
 "2e19640ff2bbe94d": 1794318026.068809,
+"2e1beeaf8b2aec9f": 1794328242.1321893,
 "2e22765293c05bdb": 1794227444.8368437,
 "2e2926b2a776c397": 1794300625.907344,
 "2e3ac5c9ac45ecb0": 1794211253.7643282,
@@ -6927,6 +6679,7 @@
 "30ef330610a8b29e": 1794208823.7725184,
 "30f7a16c51a35741": 1794058663.5416367,
 "310084da8ca2fc74": 1794319254.2679577,
+"3106d08c17d73552": 1794328242.1321893,
 "3109aa1e0f8777f1": 1794220827.8644307,
 "3135ed1542464ce5": 1794238824.4766295,
 "313676242f5f45a2": 1794055787.7739694,
@@ -6956,6 +6709,7 @@
 "32998ddd9d100fd8": 1794322856.5589402,
 "32aa0f8ca30e0562": 1794053146.8970654,
 "32b923ceebf54aad": 1794247875.6926105,
+"32bdad3148573f5e": 1794328242.1321893,
 "32c053a59afce21e": 1794058663.5416367,
 "32c34cb01f010f7d": 1794129624.9673119,
 "33069f6fa009d3ad": 1794228023.5425556,
@@ -7273,6 +7027,7 @@
 "441d46360eed7819": 1794320424.8171039,
 "441ee7a9d328b978": 1794317448.4307733,
 "4420f548092fe204": 1794144023.650658,
+"442334c24919fae9": 1794328242.1321893,
 "443a69fae568db84": 1794180024.180841,
 "44467e41ae55084d": 1794327630.5502307,
 "44830961f096e352": 1794265822.861851,
@@ -7979,6 +7734,7 @@
 "6b127d3aca7b4733": 1794303626.3132353,
 "6b2263ea209977ee": 1794259850.2098105,
 "6b274162f1746b0d": 1794259850.2098105,
+"6b47c9a53c4228ba": 1794328242.1321893,
 "6b49e7f259db0aec": 1794226224.6034505,
 "6b5094348a252918": 1794090024.092463,
 "6b6f6d16864b1332": 1794294057.2981856,
@@ -8287,6 +8043,7 @@
 "7c46284bb1beb0b8": 1794053146.8970654,
 "7c4e6d05908448b9": 1794321626.205444,
 "7c511babffa10723": 1794210025.2421503,
+"7c5c99af192643b5": 1794328242.1321893,
 "7c712cd45ba346de": 1794069624.2005684,
 "7c7778b89b739b34": 1794125424.4951053,
 "7c7e24d59efa1e70": 1794072642.3225284,
@@ -8368,6 +8125,7 @@
 "8153f0a37c8a09de": 1794263443.2975552,
 "81546ae5bc9383d6": 1794323425.210853,
 "815be03a9b0966a2": 1794125424.4951053,
+"815f6352f32b6c4b": 1794328242.1321893,
 "81731794fe71bead": 1794237626.3538754,
 "81743de6fd8e587e": 1794207655.353521,
 "818bdbe5fd208d40": 1794230425.0439425,
@@ -8474,6 +8232,7 @@
 "871c3027c76e1530": 1794224423.8500595,
 "87328bb8efcfbeb6": 1794078057.3592389,
 "8736775c5c602700": 1794243026.4460754,
+"8738c4dcba318ac6": 1794328242.1321893,
 "875515291ca579ae": 1794298226.443851,
 "875ea9e021be5010": 1794327630.5502307,
 "8771bc1b41e54adb": 1794090024.092463,
@@ -8729,6 +8488,7 @@
 "95c758cd412a4711": 1794090024.092463,
 "95d1af9c730c6764": 1794053146.8970654,
 "95d53dc7e4577c74": 1794216642.1444197,
+"95dc74200f5bfc62": 1794328242.1321893,
 "95e3b1376cdfca28": 1794294057.2981856,
 "9601d969d03884f9": 1794226823.8223224,
 "9607e9eea82500a8": 1794129624.9673119,
@@ -8997,6 +8757,7 @@
 "a38a592f4e8ba854": 1794294057.2981856,
 "a38b0d5889a897c1": 1794090024.092463,
 "a39ce017c8fd7998": 1794053146.8970654,
+"a3a68d15716edd90": 1794328242.1321893,
 "a3c9f70529043694": 1794294057.2981856,
 "a3cbd1485f45a66c": 1794308400.5846508,
 "a3d1ef7ad17387db": 1794253825.980711,
@@ -9080,6 +8841,7 @@
 "a793005be2e04128": 1794053146.8970654,
 "a7962d9b812a9ce5": 1794299443.3490458,
 "a7a106fb37f1a1ad": 1794241843.488906,
+"a7c676da2960c3e8": 1794328242.1321893,
 "a7cb01052414dd9d": 1794325825.7082462,
 "a7e4cc7f27468eca": 1794125424.4951053,
 "a7f570746144562e": 1794327026.3092759,
@@ -9291,6 +9053,7 @@
 "b2f3fba98b5ad4e7": 1794258625.424642,
 "b3013327f4956f72": 1794207655.353521,
 "b31db2b71a30d214": 1794230425.0439425,
+"b35212ff393e0259": 1794328242.1321893,
 "b3942b59e797ff2b": 1794079839.2548869,
 "b39cd0725e96c037": 1794207655.353521,
 "b3b54dd190650eab": 1794144023.650658,
@@ -9471,6 +9234,7 @@
 "bc6b337748995bde": 1794053146.8970654,
 "bc74f4f071a5a33f": 1794210025.2421503,
 "bc781dcbdb076b02": 1794080428.0610616,
+"bc7e97d14d93cf60": 1794328242.1321893,
 "bca5745cbe4f829e": 1794323425.210853,
 "bca9a45a6c284b92": 1794308400.5846508,
 "bcbb2d858ed3be2c": 1794230425.0439425,
@@ -9591,6 +9355,7 @@
 "c2f329c27b8d18f5": 1794216642.1444197,
 "c2f32a5d9b164c3d": 1794212427.3416302,
 "c2faafc3187de3fa": 1794207655.353521,
+"c30c1daa425365c6": 1794328242.1321893,
 "c3174f420d1939a0": 1794078625.195159,
 "c323466f268f7ae0": 1794090024.092463,
 "c32d809d01b520d7": 1794133224.9019783,
@@ -9623,6 +9388,7 @@
 "c4a714333288f4f2": 1794226224.6034505,
 "c4a90fcf87999267": 1794263443.2975552,
 "c4ae2c312b32e627": 1794304225.7589512,
+"c4bc1db7d7eca706": 1794328242.1321893,
 "c4d94d9bc7056df7": 1794129624.9673119,
 "c4d9691d7086653a": 1794327630.5502307,
 "c4fd01356216b1f0": 1794212427.3416302,
@@ -9789,6 +9555,7 @@
 "cd7f0708a542a7cc": 1794053146.8970654,
 "cd82e942be090429": 1794318026.068809,
 "cd8bc8e6890af404": 1794310242.809073,
+"cd9ba434fef20072": 1794328242.1321893,
 "cda4ce4ba23ff51d": 1794227444.8368437,
 "cdaf933ebe5d4ee0": 1794207655.353521,
 "cdb1a1f3aeb64d50": 1794294057.2981856,
@@ -10104,6 +9871,7 @@
 "deab7ff14d18280e": 1794058663.5416367,
 "deb84ab1c56c87ee": 1794090024.092463,
 "debe3e61bd23a02d": 1794058663.5416367,
+"decf18f3e96c4daf": 1794328242.1321893,
 "deff05c170ad4466": 1794317448.4307733,
 "df0c58229575f806": 1794058663.5416367,
 "df22e71bf2460be4": 1794053146.8970654,
@@ -10586,6 +10354,7 @@
 "f7af9ca9738e97e3": 1794090024.092463,
 "f7b90978f2b5e02d": 1794294057.2981856,
 "f7ba70d80de12047": 1794219024.1165798,
+"f7dab88ef68e1d84": 1794328242.1321893,
 "f7e69160162ff10f": 1794231625.7466462,
 "f8047565ca4348da": 1794323425.210853,
 "f80556fe7ef4f339": 1794211829.3207283,
@@ -10622,6 +10391,7 @@
 "fa436edcc6ccf89f": 1794312627.9335868,
 "fa46c2bc5dd5e58e": 1794294057.2981856,
 "fa4a48dc74721d8d": 1794207655.353521,
+"fa525f5ce3030db0": 1794328242.1321893,
 "fa6be5e069b54735": 1794252642.0442708,
 "fa76036d7969a4aa": 1794060010.396961,
 "fa99920ee154d9ee": 1794078625.195159,
