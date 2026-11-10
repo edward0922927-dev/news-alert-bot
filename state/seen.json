@@ -542,13 +542,187 @@
 "t": "11-10 12:22"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1g4bkg3aWltVnpoMlRzcGs2YzJVY1lYVzd0VGwxRklfR1RCZDRwdUhwVVYxdmV6a05LYXJyNGdpMmVFeHZmX1FKeXJ3VEdJaUlMTnEyZ2lzY2I2MGoxMWgxci1DSGJZZ0pLeDYxQUx5Qi1pTWxyeUZ5T3dvdU5odnAtb2E0bmhxR3BickZ0QnFLTFJvZEFMZmdtRFA4ZGJWMF9aNDczWmx5NG5XWDI3NTk5Rlppa01zYmNPRC0zS3dFWmdWVkRVSw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Polish gunman visited websites about Norwegian mass killer Breivik, minister says &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Polish gunman visited websites about Norwegian mass killer Breivik, minister says - Reuters",
+"ts": 1794308501,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTgtOV9zN3Ywb2UycWxaSlNwOGltSV91cjMtRWdlNnJibWhnTVgtQkZkd0ZYU0NweVB5MEhaMkd6ZVNpUXlra3JiQ2ltcU4xUUUta0pPV2dqb19uWWpLZWVkanNqTnlsVEo2YmdFeGw2M2dNcGtGVHdGb1hBMTN4MFRteXhkbUctZWIxSURUQjcxczZxbmdtbGQ0d3ZLWWJCcjFQQVpwb1pjNHNzWlE?oc=5",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Anthropic Targets $64.4 Billion IPO, Nearing SpaceX\u2019s Record &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Anthropic Targets $64.4 Billion IPO, Nearing SpaceX\u2019s Record - Bloomberg.com",
+"ts": 1794311663,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-registers-up-to-948-75-million-ipo-shares",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "The amendment\u2019s fee table uses $78 a share, while crypto derivatives require a different denominator: the company\u2019s total outstanding shares.",
+"tags": [],
+"title": "Anthropic Registers Up to 948.75 Million IPO Shares",
+"ts": 1794313255,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/frontier/ai/google-commits-10-billion-to-anthropic-alongside-ipo",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "The investment will be priced at Anthropic\u2019s IPO price, while the company has launched its roadshow with a proposed $70\u2013$78 share range.",
+"tags": [
+"GOOGL"
+],
+"title": "Google Commits $10 Billion to Anthropic Alongside IPO",
+"ts": 1794313273,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-ipo-filing-uses-78-maximum-share-price",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "The registration covers 948.75 million shares including an underwriter option, implying a $64.35 billion base offering at the maximum registration price.",
+"tags": [],
+"title": "Anthropic IPO Filing Uses $78 Maximum Share Price",
+"ts": 1794313279,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://cryptoslate.com/core-inflation-excludes-oil-bitcoin-investors-still-cannot-ignore-it/",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "CryptoSlate",
+"summary": "Stronger post-2020 oil transmission could complicate monetary easing, but second-round effects have not yet appeared. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+"tags": [
+"BTC"
+],
+"title": "Core inflation excludes oil. Bitcoin investors still cannot ignore it",
+"ts": 1794313323,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669679-horizon-quantum-holdings-ltd-gaap-eps-of-055-beats-by-068?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Horizon Quantum Holdings Ltd. GAAP EPS of $0.55 beats by $0.68",
+"ts": 1794313367,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669678-enova-announces-500m-share-repurchase-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Enova announces $500M share repurchase program",
+"ts": 1794313449,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669681-hemab-therapeutics-holdings-gaap-eps-of-058-misses-by-006?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Hemab Therapeutics Holdings GAAP EPS of -$0.58 misses by $0.06",
+"ts": 1794313470,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669646-sally-beauty-enters-the-holidays-with-positive-sales-momentum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Sally Beauty enters the holidays with positive sales momentum",
+"ts": 1794313548,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669676-d-wave-quantum-falls-amid-mixed-q3-results-weak-bookings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "D-Wave Quantum falls amid mixed Q3 results, weak bookings",
+"ts": 1794313660,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669683-aaon-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "AAON declares $0.10 dividend",
+"ts": 1794313664,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669665-amentum-taskus-among-industrial-stocks-with-bullish-quant-ratings-despite-ytd-losses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Amentum, TaskUs among industrial stocks with bullish Quant ratings despite YTD losses",
+"ts": 1794313689,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T10:00"
+"last_date": "2026-11-10T11:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +732,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T10:00"
+"last_date": "2026-11-10T11:00"
 },
 "FNG": {
 "cool": {},
@@ -578,11 +752,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-10T10:00"
+"last_date": "2026-11-10T11:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-10T10:00"
+"last_date": "2026-11-10T11:00"
 },
 "UST10Y": {
 "cool": {},
@@ -602,9 +776,9 @@
 },
 "last_date": "2026-11-09"
 },
-"_last_check": 1794309636.6011646
+"_last_check": 1794313854.7034423
 },
-"last_run": 1794313342.7373106,
+"last_run": 1794313877.0909607,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -685,6 +859,7 @@
 "027ff2fba0629d6f": 1794258625.424642,
 "0283c2cca35d8d4d": 1794225653.3544042,
 "0296802aa45ff440": 1794259224.3903115,
+"02a3e645be876340": 1794313843.890771,
 "02ae90d71af6aab0": 1794248479.105261,
 "02c604f8c5edcd10": 1794228625.7348583,
 "02d606bfe8b2cb9c": 1794256827.896565,
@@ -887,6 +1062,7 @@
 "0ed1c9382978c5be": 1794154823.0343263,
 "0ed58eb62c47c212": 1794172824.1624086,
 "0f007472925d898c": 1794298226.443851,
+"0f04d6a84e5b63fd": 1794313843.890771,
 "0f06c20c67da65ce": 1794081650.3090694,
 "0f097d03e0308d32": 1794121251.8481042,
 "0f154ce74458fd03": 1794294057.2981856,
@@ -1015,6 +1191,7 @@
 "157f0c17024e69cf": 1794053146.8970654,
 "1581931e5d8349a4": 1794294057.2981856,
 "15a01e317b31344b": 1794229254.159377,
+"15a40bab1ca2e7d7": 1794313843.890771,
 "15ab58f24fcdd881": 1794294057.2981856,
 "15b4b4b5fa4c87a3": 1794053146.8970654,
 "15c183a6ce96d5ac": 1794176424.6910276,
@@ -1052,6 +1229,7 @@
 "173f21741c99106f": 1794090024.092463,
 "1748eee32024515a": 1794176424.6910276,
 "1759744c0fd4733d": 1794125424.4951053,
+"17673dfbf2a01dd5": 1794313843.890771,
 "177cc618e3822f75": 1794255028.7159631,
 "178b0f13792fa515": 1794154823.0343263,
 "178c2a7f22b0b9f5": 1794077422.772458,
@@ -1606,6 +1784,7 @@
 "35edca9c2160a26f": 1794158423.5148294,
 "35f520b315f1b86d": 1794058663.5416367,
 "3601c6fb56043c53": 1794312054.550939,
+"360d08be18da45a7": 1794313843.890771,
 "361cd56203bf5317": 1794083441.9529276,
 "362f8ecf40bb1676": 1794227444.8368437,
 "36528dcee2a93cf5": 1794207655.353521,
@@ -1794,6 +1973,7 @@
 "3fa3ab84ec0badd0": 1794248479.105261,
 "3fbc295186f06bf7": 1794083441.9529276,
 "3fc601577f5c7c83": 1794308400.5846508,
+"3fe4dba3b2b67704": 1794313843.890771,
 "3fed0bc547a88cd4": 1794053146.8970654,
 "3fef4cbaa274f6c5": 1794294057.2981856,
 "3ff52e28318ac966": 1794298226.443851,
@@ -2292,6 +2472,7 @@
 "5a3e2400cc78a13b": 1794234645.282263,
 "5a538f54fbbebc9e": 1794144023.650658,
 "5a7be42405d33d2f": 1794219024.1165798,
+"5a8afe1978e93369": 1794313843.890771,
 "5a8c95669b5642bf": 1794235227.58563,
 "5a903cd0baeda581": 1794222054.6299663,
 "5a948dbe61a1d9e5": 1794180024.180841,
@@ -2740,6 +2921,7 @@
 "72307c09a1ccbff4": 1794226823.8223224,
 "7239877ec316ec0d": 1794070201.937629,
 "724421ebcdb62147": 1794066518.762267,
+"724803e224da4b81": 1794313843.890771,
 "724949f8b7cb0887": 1794207655.353521,
 "725673c3a4b83f1f": 1794151225.6597934,
 "7259d3b77b79d13a": 1794207655.353521,
@@ -2811,6 +2993,7 @@
 "7732e13718799f0e": 1794053146.8970654,
 "774083a417a0f94d": 1794294057.2981856,
 "7760506a2c28d540": 1794053146.8970654,
+"77766c61e3078ae5": 1794313843.890771,
 "778d84f27c7d06e5": 1794053146.8970654,
 "7793016c8e5dd4a5": 1794244224.5102243,
 "779a155a1c897a18": 1794053146.8970654,
@@ -3029,6 +3212,7 @@
 "826045074d4f2a1a": 1794298226.443851,
 "8284b41ad0c5a2a5": 1794305426.239695,
 "828b5a0893fc5c76": 1794147624.409764,
+"829757ce15d874d2": 1794313843.890771,
 "829f66e520c278e8": 1794144023.650658,
 "82a52b95ec7e3f5b": 1794070853.5888453,
 "82b056a5fd855921": 1794090024.092463,
@@ -3925,6 +4109,7 @@
 "b434bab0654b4c9c": 1794058663.5416367,
 "b44003c759015f6a": 1794053146.8970654,
 "b4422831d8f601b9": 1794207655.353521,
+"b44397615af7c3af": 1794313843.890771,
 "b44a8c5c3f6b696d": 1794297025.7499537,
 "b453f3d780d42a7a": 1794252026.8992693,
 "b472fbe170068a97": 1794262824.4868238,
@@ -3956,7 +4141,9 @@
 "b665b9463e0191f1": 1794300625.907344,
 "b67502ea1b01fddb": 1794227444.8368437,
 "b684fc9be0f519f2": 1794053146.8970654,
+"b6abc07fc1552670": 1794313843.890771,
 "b6c2966d47b4d171": 1794053146.8970654,
+"b6c5d83e9f70e14a": 1794313843.890771,
 "b6cf307def1f6719": 1794226823.8223224,
 "b6cf92b92278d913": 1794086423.3945913,
 "b6d51fcab7a4ef08": 1794261654.088547,
@@ -5204,6 +5391,7 @@
 "fa4e899b3c00c658": 1794312054.550939,
 "fa5189bad2584700": 1794294057.2981856,
 "fa5f2f97d13ca9f1": 1794079224.7359486,
+"fa688e68ff0a4f84": 1794313843.890771,
 "fa7d1d3cc356fbd3": 1794306027.3632174,
 "fa8c385f19442efa": 1794255028.7159631,
 "fa904ce2134308b3": 1794264625.8600426,
@@ -5458,6 +5646,7 @@
 "0a297aa718647c77": 1794058663.5416367,
 "0a3909e53aba5c55": 1794207655.353521,
 "0a62be9b2cac01e0": 1794219625.99357,
+"0a6965c94d8c1b83": 1794313843.890771,
 "0a6d44bbdca9cb5e": 1794090024.092463,
 "0a7765057848c7fe": 1794247257.3744018,
 "0a8161c63d9a5994": 1794053146.8970654,
@@ -5526,6 +5715,7 @@
 "0e77fee45a4e765a": 1794129624.9673119,
 "0e7dc364cf108199": 1794304225.7589512,
 "0e8d14efcad52eeb": 1794294057.2981856,
+"0e98649ea51c6071": 1794313843.890771,
 "0eb6bffa0ea87cdf": 1794084023.8763885,
 "0eb8ff0b5141735c": 1794207655.353521,
 "0ebe16893a35c36c": 1794241843.488906,
@@ -5826,6 +6016,7 @@
 "1f9c35f08f1b0a18": 1794121251.8481042,
 "1f9ea11f0c0c53a0": 1794058663.5416367,
 "1fa08e9a69f2704a": 1794129624.9673119,
+"1fa73cc6f49681c9": 1794313843.890771,
 "1fa9d2c5cdd85c9c": 1794053146.8970654,
 "1fc02e110615f25d": 1794151225.6597934,
 "1fc5f93df4b4bde0": 1794220827.8644307,
@@ -6825,6 +7016,7 @@
 "58a772f7d69b1616": 1794294057.2981856,
 "58b12b5fab028a5c": 1794243659.0740352,
 "58c270748648dfea": 1794207655.353521,
+"58e79fa4eb6b6f4f": 1794313843.890771,
 "58eb10c8144ab530": 1794158423.5148294,
 "58ee8350d6c20b26": 1794248479.105261,
 "58fabe0bf7562905": 1794129624.9673119,
@@ -7040,6 +7232,7 @@
 "6570c2a54bf1d90f": 1794076826.2653458,
 "658be9c9471295fd": 1794303626.3132353,
 "659cc50acfeb46c4": 1794235227.58563,
+"65afd66f841563ba": 1794313843.890771,
 "65bccaa0ae11e387": 1794090024.092463,
 "65bff3152c469a4e": 1794294057.2981856,
 "65cdb9e76571ca8d": 1794240627.3822312,
@@ -7902,6 +8095,7 @@
 "99596126be7352ea": 1794066518.762267,
 "995b6e507e5de829": 1794225653.3544042,
 "99629e72a89a602d": 1794243659.0740352,
+"996bbdd615b3578e": 1794313843.890771,
 "99852e488e6f311d": 1794129624.9673119,
 "99b7a65bad1f39c7": 1794298825.0579662,
 "99c2ff2d304e586b": 1794294057.2981856,
@@ -7999,6 +8193,7 @@
 "9f1a617ffb77973e": 1794090024.092463,
 "9f1ccf26d9852c81": 1794215424.0711486,
 "9f38709f6bdf1121": 1794311424.003163,
+"9f58e32c35b5fb79": 1794313843.890771,
 "9f6cee44aa75a2bc": 1794066518.762267,
 "9f6d5f4075f120bb": 1794053146.8970654,
 "9f6f092f4b419416": 1794258020.3289478,
@@ -8296,6 +8491,7 @@
 "afafee908ee2cca7": 1794129624.9673119,
 "afb5b0124388b8a3": 1794055787.7739694,
 "afc035314417dae0": 1794294057.2981856,
+"afc90a05233bfdd2": 1794313843.890771,
 "afdfa5822148664b": 1794300625.907344,
 "afe06187a472d5bf": 1794162024.6325307,
 "afe42ccda108a503": 1794129624.9673119,
@@ -8500,6 +8696,7 @@
 "bbc18e72cf49c287": 1794090024.092463,
 "bbdbb109f6d470d1": 1794090024.092463,
 "bbede93b125e3f26": 1794223228.835452,
+"bc076b63963cb6b4": 1794313843.890771,
 "bc087f80718d59c1": 1794162024.6325307,
 "bc0977ba90b39c41": 1794259850.2098105,
 "bc15708a4efc5655": 1794297025.7499537,
@@ -8519,6 +8716,7 @@
 "bcbb2d858ed3be2c": 1794230425.0439425,
 "bcc2c3b041958bc8": 1794207655.353521,
 "bce7311288990bdd": 1794176424.6910276,
+"bce93e09ebca58e9": 1794313843.890771,
 "bd02bad3d6c5d357": 1794207655.353521,
 "bd0eb54606dd690f": 1794063069.3473625,
 "bd10d6c30f2ecbd0": 1794133224.9019783,
@@ -8697,6 +8895,7 @@
 "c70deb3b6008d0e8": 1794207655.353521,
 "c712f3f40e35ad7a": 1794207655.353521,
 "c71698b84a8f29d8": 1794207655.353521,
+"c71ed76a9d06e74f": 1794313843.890771,
 "c734536e6d468b74": 1794232224.3910127,
 "c753b650c0aa7bf3": 1794090024.092463,
 "c7601f4a1f6aa019": 1794085249.7228966,
@@ -8768,6 +8967,7 @@
 "cb654d16c7ed108c": 1794129624.9673119,
 "cb6d90a1b6ac669d": 1794158423.5148294,
 "cb6d973cc0eb0cf6": 1794207655.353521,
+"cb91db0d7e577005": 1794313843.890771,
 "cb980306f14856a7": 1794235227.58563,
 "cba178bbfb01433b": 1794256242.8438334,
 "cba48e05d0dcb108": 1794240054.5770936,
@@ -8990,6 +9190,7 @@
 "d88925fe232abd5a": 1794060010.396961,
 "d88cc240f4bbb5b6": 1794297654.3266497,
 "d88f7e650dbeded2": 1794300023.3124595,
+"d8977acdd146d40f": 1794313843.890771,
 "d8b00ec208874eb2": 1794090024.092463,
 "d8d17b924c8f3cd7": 1794090024.092463,
 "d90afe4cf09138f9": 1794176424.6910276,
@@ -9055,6 +9256,7 @@
 "dd1cb14d8b13af42": 1794244224.5102243,
 "dd21e229c0b59454": 1794216642.1444197,
 "dd2e39fdcae0d7de": 1794151225.6597934,
+"dd390aaec7c99dd9": 1794313843.890771,
 "dd3abea6ed3721b0": 1794140423.8128505,
 "dd619e07327fea9a": 1794232224.3910127,
 "dd6f92fd1559ea81": 1794229254.159377,
