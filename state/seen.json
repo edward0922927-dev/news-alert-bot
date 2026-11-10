@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794339132.1582944,
+"ai_last_review": 1794340319.3494544,
 "ai_log": [
-{
-"err": "",
-"kept": 2,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 20,
-"ok": true,
-"t": "11-09 16:20"
-},
 {
 "err": "",
 "kept": 6,
@@ -540,162 +531,18 @@
 "n": 28,
 "ok": true,
 "t": "11-10 19:32"
+},
+{
+"err": "",
+"kept": 5,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 17,
+"ok": true,
+"t": "11-10 19:51"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWFaV0lINEllLXNjWjJMSEhyRXQyejNxd2xrYkNlWElWcnF1NnNZa3l4RmRkN0VieWdPS2FsbFJnNTNwZFFRQnBwNHNZNzhrTXlhU0hIZ2pfUmZvVzZZcDVRM1hQdHJ3UmVvZ3pOV0VXUVR3azdCWTJqeEFKdndPSWJoRW0ybEhnMGZKZkZCVDd0X0NjbnFyNVFhcy1pY1l3RGFKbHJYQkVHZ0dMaVFF?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "More Suicides at Spy, Cyber Agencies Scrutinized By Congress &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "More Suicides at Spy, Cyber Agencies Scrutinized By Congress - Bloomberg.com",
-"ts": 1794328573,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3hQQ3lEMTBoVW5ZYnkxWlF3T05UWUVYY256UzZmVDRmTDU4UmZIN0tOTkc0QnU5eVoxMnlJZkFtOTBwbnNwbTZ5RTJyUTVSMTdBT2dMZnI0QWdnVm1vM0gyeWFQSjc5Q1g1U2E4WUc2U1l5Y3VwMWdGUW4xMm5wNm5iakhjal9mN19VM0pvTDBXOFp4Sm1MeEF6VHV3NU9JNDhSUWVYaFNQQQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "US Raises Forecasts for 2027 Gasoline and Diesel Prices &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "US Raises Forecasts for 2027 Gasoline and Diesel Prices - Bloomberg.com",
-"ts": 1794330435,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-"tags": [],
-"title": "Corporate America is making a trillion-dollar mistake about retirement",
-"ts": 1794338940,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670046-u-s-electricity-demand-to-hit-record-as-ai-data-centers-drive-growth-eia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"data centers"
-],
-"title": "U.S. electricity demand to hit record as AI data centers drive growth: EIA",
-"ts": 1794338943,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyejZJU0lYMTl3cDlRbkgxS1RvNElSWUdBcVc0RnRqaUxFMFN0RFRpQ2VLUmp3MjhGc3l5TEJ1amVlQzQ1Tjh4T3k0M3BfX1NIZjhSaktIdloyWGViYTlfdHFuSmhCdjQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "'Surprise' inflation rise could lead to steeper rate hike from Fed &nbsp;&nbsp; Reuters",
-"tags": [
-"rate hike"
-],
-"title": "'Surprise' inflation rise could lead to steeper rate hike from Fed - Reuters",
-"ts": 1794338994,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670052-ranger-targets-24-contracted-echo-rigs-by-end-of-2027-while-expecting-10m-of-2027-adjusted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Ranger targets 24 contracted ECHO rigs by end of 2027 while expecting >$10M of 2027 adjusted EBITDA from STEP coiled tubing assets",
-"ts": 1794339129,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670053-autolus-expects-full-year-2026-aucatzyl-net-product-revenue-at-or-above-150m-as-bobcat-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Autolus expects full-year 2026 AUCATZYL net product revenue at or above $150M, as BOBCAT data shifts to October 2027",
-"ts": 1794339133,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670054-freightcar-america-reaffirms-2026-adjusted-ebitda-of-15m-19m-as-aftermarket-revenue-rises-65?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "FreightCar America reaffirms 2026 adjusted EBITDA of $15M-$19M as aftermarket revenue rises 65%",
-"ts": 1794339140,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670049-nvidia-hires-law-firm-wachtell-lipton-and-former-us-prosecutor-to-investigate-ceo-probe?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia hires law firm Wachtell Lipton and former US prosecutor to investigate CEO probe",
-"ts": 1794339152,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670055-reeds-q3-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Reed's Q3 Earnings Preview",
-"ts": 1794339291,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Block",
-"summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000.",
-"tags": [
-"BTC",
-"CPI"
-],
-"title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
-"ts": 1794339498,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -757,7 +604,7 @@
 },
 "_last_check": 0
 },
-"last_run": 1794339706.1441953,
+"last_run": 1794340330.306244,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -3081,6 +2928,7 @@
 "6d3b17d4c9aab4db": 1794090024.092463,
 "6d5ab0fc69a19c25": 1794053146.8970654,
 "6d5c0aba6a9e6643": 1794258625.424642,
+"6d6b9d5554bd217c": 1794340225.1290472,
 "6d6bf42ea03c9033": 1794090024.092463,
 "6d6d73e8b667f524": 1794294057.2981856,
 "6d7faf076952f195": 1794090024.092463,
@@ -3417,6 +3265,7 @@
 "7e098cfdc2d04967": 1794225653.3544042,
 "7e101392596b423e": 1794053146.8970654,
 "7e1c255d686b8786": 1794236457.02748,
+"7e1e2c1c33909761": 1794340225.1290472,
 "7e48ccb2d12e7345": 1794214856.1278765,
 "7e6546d977a58569": 1794320424.8171039,
 "7e6699d5820e3d14": 1794083441.9529276,
@@ -3535,6 +3384,7 @@
 "833ddec032b5b69d": 1794079839.2548869,
 "83463bcbee01c391": 1794228625.7348583,
 "8359f0dcaa2815e1": 1794247257.3744018,
+"835e88722ef2d792": 1794340225.1290472,
 "83861ee5a663b770": 1794053146.8970654,
 "838ae7f25f15e254": 1794090024.092463,
 "839397f9259782ac": 1794053146.8970654,
@@ -4453,6 +4303,7 @@
 "b0451a71d90eeb89": 1794259224.3903115,
 "b04cce71745ff200": 1794058663.5416367,
 "b09339660d211ff0": 1794317448.4307733,
+"b095c5fd7af79d5d": 1794340225.1290472,
 "b0965e8e51c021cb": 1794207655.353521,
 "b097c7f9c8e7625f": 1794303041.7631679,
 "b09e30a4e2f3b930": 1794140423.8128505,
@@ -4526,6 +4377,7 @@
 "b35b5ddd5d2c94c6": 1794207655.353521,
 "b35c68d4c412090d": 1794121251.8481042,
 "b3614f2c2c1e4c75": 1794263443.2975552,
+"b389efe181a2b54f": 1794340225.1290472,
 "b38f73f5bf93289c": 1794169225.368316,
 "b395b9a368cbaaf2": 1794294057.2981856,
 "b3970b149dffe945": 1794294057.2981856,
@@ -5071,6 +4923,7 @@
 "cbfb81b6ac0d6459": 1794121251.8481042,
 "cc0d39e92c010a15": 1794226224.6034505,
 "cc14d4200de79b55": 1794053146.8970654,
+"cc400c1edaa340a8": 1794340225.1290472,
 "cc44032b4875712c": 1794258625.424642,
 "cc458fdb128c5bee": 1794053146.8970654,
 "cc59cb1d08b3e6a6": 1794246025.5884385,
@@ -5490,6 +5343,7 @@
 "dffa78ec97227e6b": 1794217823.792214,
 "e008f252d45cc286": 1794090024.092463,
 "e01818e35b02ad63": 1794058663.5416367,
+"e02931c50f1350a0": 1794340225.1290472,
 "e03039a0478f8d9a": 1794231625.7466462,
 "e0319506e1e010fc": 1794090024.092463,
 "e03a3e5fe4401efc": 1794300023.3124595,
@@ -5652,6 +5506,7 @@
 "e85276436af2e218": 1794121251.8481042,
 "e859fd5c54669edc": 1794222625.9546466,
 "e869ef4ede8027b8": 1794239425.4260268,
+"e86b22e3405b8d94": 1794340225.1290472,
 "e87c2762c79b9dc1": 1794176424.6910276,
 "e8910b307a45893b": 1794129624.9673119,
 "e8afc287adcba4a7": 1794226224.6034505,
@@ -6440,6 +6295,7 @@
 "102131738a6f5b3f": 1794252642.0442708,
 "1021e1f8850549f8": 1794154823.0343263,
 "102b57dc441dc54a": 1794235830.1401546,
+"10319be89d642988": 1794340225.1290472,
 "103bfd26604aa140": 1794294057.2981856,
 "104c482c8d7324c8": 1794250228.0065682,
 "1058014630a284aa": 1794337825.344606,
@@ -6833,6 +6689,7 @@
 "23c51e6990aad3a1": 1794300023.3124595,
 "23c72281ce26edcc": 1794297025.7499537,
 "23ddbd47f9a3ed89": 1794236457.02748,
+"23e3217a03f191ab": 1794340225.1290472,
 "23e4766ccfc911d5": 1794215424.0711486,
 "23ee30f476d903a7": 1794207655.353521,
 "23f881d6ff575e35": 1794230425.0439425,
@@ -8350,6 +8207,7 @@
 "7152183d2b601851": 1794158423.5148294,
 "71692f8a56bf06c4": 1794090024.092463,
 "716f8a3362ed7e80": 1794154823.0343263,
+"7174144b6032f4e0": 1794340225.1290472,
 "71902b389ee448dd": 1794304852.8805614,
 "71986f79a5a62909": 1794237626.3538754,
 "71b022066025547c": 1794053146.8970654,
@@ -8669,6 +8527,7 @@
 "82a7b4fa3dfb74d4": 1794298226.443851,
 "82b104549bf7fa55": 1794298226.443851,
 "82b3a826cc901c67": 1794296423.7597058,
+"82b6318a188ac772": 1794340225.1290472,
 "82ba5f369187a104": 1794058663.5416367,
 "82dc53abf23ce66c": 1794294057.2981856,
 "82ddffaa2fedb8e4": 1794053146.8970654,
@@ -9430,6 +9289,7 @@
 "a93afc39287e0478": 1794129624.9673119,
 "a93fcbdb544139b9": 1794075624.4430547,
 "a94dca1b36466420": 1794207655.353521,
+"a96f1fae6768393e": 1794340225.1290472,
 "a98b1b39d244f28e": 1794264625.8600426,
 "a9a88592c24fccb7": 1794084023.8763885,
 "a9b73fdbc62f9240": 1794090024.092463,
@@ -9919,6 +9779,7 @@
 "c14f7ffe20d31a37": 1794165625.0596616,
 "c17fc294e1ab730b": 1794165625.0596616,
 "c184e10598c704d6": 1794258020.3289478,
+"c190533d28c74ded": 1794340225.1290472,
 "c1a2925e7c69e6b6": 1794323425.210853,
 "c1c5ffa483cac9f6": 1794228023.5425556,
 "c1da2aeda41832f8": 1794213626.9912028,
@@ -10314,6 +10175,7 @@
 "d617d1d61f66fbfa": 1794090024.092463,
 "d62693b76133c327": 1794324648.7021484,
 "d64d24fc4b98ee56": 1794207655.353521,
+"d64f36d568cbd85a": 1794340225.1290472,
 "d64f3fe5350b42d6": 1794231044.761608,
 "d65550521e3c9289": 1794085249.7228966,
 "d65fd2cdf9d07752": 1794242424.5403016,
