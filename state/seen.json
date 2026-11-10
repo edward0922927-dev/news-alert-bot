@@ -542,13 +542,148 @@
 "t": "11-10 09:41"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFB0S01xWEdwZEdwRXZqNFBsdUZGd2VFczV0cE0wWklYcnl5cTV4ejZ6WllNZ21sSEo0SUtqNTJOdEhfWGVmZVhCQ0wzUVdxVlFBcF9FWHowbmFVaWJrVXVMRzJzeXVoNC05Y01ZTElSZFVlc25vUXZEZnhXLXVLYjR0S0RtQnFLUWU5QUdYRjBvcE1MMDNud0oydzIzcGhhSWJZLWF6WXJaSVhoNjc0?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Market rout tests BOJ's upbeat view of financial conditions &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Market rout tests BOJ's upbeat view of financial conditions - Reuters",
+"ts": 1794285120,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb25haVdCMS1NZUJ6N2VZS1pGR3o2WUxqakRpVjc4WGhldC1iZnRMRS1JSWRqc1RRRTFpakdWTC0xMW1Wc3NvX09FM09YakZCZlNQVEs5Mkx5YVVCUjFYX2ZBX3pLT0piS05DcDdyTXYtMmRzQkJ5cC1idEpxUkRJUE1PeUphS2M0ZjdVQmY2ckUtZGtoaWNOUnRQUWhSc2hyRS1zVmt3WU1iak16S2EzXw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Chipmaker Infineon forecasts strong 2027 growth on data-centre demand &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Chipmaker Infineon forecasts strong 2027 growth on data-centre demand - Reuters",
+"ts": 1794294480,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkZoTlZOa05oRHYwaUNCM1pDVHdhNnF3ajlxMzBBd1R0Z3plbEVKbm4xemxmbm1penlwS1hrY09URU4zbDZoZFlWV213ZnZkWVlseUE1U0JyeE8zQWpqcU9YVUlKbUJldG9NT21UVkpmN2F6eFlWZWtiZlhrZUZGLUFpUTRlcmdWYnduUDB5MTNOY0xFQW5TSDZfaDNac0N5VVpuUE43WTJYeEZIZTBDbFRKdw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Fed\u2019s Waller Backs December Rate Hike, Says Open to Larger Move &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"Rate Hike"
+],
+"title": "Fed\u2019s Waller Backs December Rate Hike, Says Open to Larger Move - Bloomberg.com",
+"ts": 1794301200,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669574-austevoll-seafood-asa-non-gaap-eps-of-nok-140-revenue-of-nok-923b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Austevoll Seafood ASA Non-GAAP EPS of NOK 1.40, revenue of NOK 9.23B",
+"ts": 1794303673,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669573-nexgen-energy-posts-narrower-quarterly-loss-as-rook-i-project-advances?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "NexGen Energy posts narrower quarterly loss as Rook I project advances",
+"ts": 1794303681,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669575-forward-air-signals-15-percentminus-18-percent-excess-network-capacity-as-it-pauses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Forward Air signals 15%-18% excess network capacity as it pauses intermodal sale process",
+"ts": 1794303725,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669577-mitsui-kinzoku-company-gaap-eps-of-6912-revenue-of-43106b-updates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Mitsui Kinzoku Company GAAP EPS of \u00a569.12, revenue of \u00a5431.06B; updates FY2027 outlook",
+"ts": 1794303893,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "MarketWatch",
+"summary": "Federal Reserve Gov. Chris Waller on Tuesday put the possibility of a half-point rate hike into the mix, depending how hot the consumer price data for October comes in.",
+"tags": [
+"rate hike"
+],
+"title": "Fed\u2019s Waller puts half-point rate hike into the mix for December",
+"ts": 1794303900,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669576-credicorp-posts-higher-q3-earnings-reaffirms-full-year-roe-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Credicorp posts higher Q3 earnings, reaffirms full-year ROE outlook",
+"ts": 1794303924,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4669578-ttec-holdings-non-gaap-eps-of-0_22-beats-by-0_02-revenue-of-492_2m-beats-by-12m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "TTEC Holdings Non-GAAP EPS of $0.22 beats by $0.02, revenue of $492.2M beats by $12M",
+"ts": 1794304084,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T07:00"
+"last_date": "2026-11-10T08:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +693,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T07:00"
+"last_date": "2026-11-10T08:00"
 },
 "FNG": {
 "cool": {},
@@ -578,11 +713,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-10T07:00"
+"last_date": "2026-11-10T08:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-10T07:00"
+"last_date": "2026-11-10T08:00"
 },
 "UST10Y": {
 "cool": {},
@@ -602,9 +737,9 @@
 },
 "last_date": "2026-11-09"
 },
-"_last_check": 0
+"_last_check": 1794304238.26647
 },
-"last_run": 1794303718.0434997,
+"last_run": 1794304260.9775665,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -917,6 +1052,7 @@
 "116047bf10096e7e": 1794063069.3473625,
 "1165cbed1644a6de": 1794147624.409764,
 "116f9f2d7025549b": 1794219024.1165798,
+"11748147bff0c88f": 1794304225.7589512,
 "118b2758e1eebe76": 1794213626.9912028,
 "11996ef543d5d11a": 1794158423.5148294,
 "1199920e29963ab8": 1794240054.5770936,
@@ -1361,6 +1497,7 @@
 "2a868544fcbd3140": 1794172824.1624086,
 "2a988ce225e3b8bc": 1794063069.3473625,
 "2abcfd8d8520f981": 1794090024.092463,
+"2ac23ee1c1984c21": 1794304225.7589512,
 "2ac9019156c89218": 1794066518.762267,
 "2ad15e75fb7d1121": 1794172824.1624086,
 "2aef887e3632fba9": 1794151225.6597934,
@@ -1452,6 +1589,7 @@
 "3052c5a2c325baad": 1794210025.2421503,
 "305ecd5b3e960f3f": 1794053146.8970654,
 "3089cd2afd44cbb1": 1794241225.0884333,
+"30968b8c6b3b8ded": 1794304225.7589512,
 "309a57fb5c156db9": 1794053146.8970654,
 "30affedbd371d82f": 1794207655.353521,
 "30bb049498129717": 1794210025.2421503,
@@ -2133,6 +2271,7 @@
 "564472a6c2a53edd": 1794225025.2256005,
 "564521c2a84a2cbc": 1794053146.8970654,
 "564a6c682a356dba": 1794207655.353521,
+"564e560b4a511075": 1794304225.7589512,
 "5651705a5fa1f814": 1794257425.5432699,
 "565e99e5581760a5": 1794078625.195159,
 "565f4b498ff6b2ce": 1794294057.2981856,
@@ -2188,6 +2327,7 @@
 "58fa5a009ba668d3": 1794300625.907344,
 "590977ed6473a6ae": 1794090024.092463,
 "59188d12135ee4e8": 1794258020.3289478,
+"591e649113aea84f": 1794304225.7589512,
 "592ab22508d10129": 1794207655.353521,
 "59322cafa4d9f76d": 1794053146.8970654,
 "593e657e5e2365eb": 1794250228.0065682,
@@ -2984,6 +3124,7 @@
 "86a41da51461d8e6": 1794252642.0442708,
 "86af2a438d71b243": 1794077422.772458,
 "86b13689c98f6b4a": 1794207655.353521,
+"86b7f49c3035e518": 1794304225.7589512,
 "86d713f1a7bab1a4": 1794053146.8970654,
 "86d86dbde0aa0cd9": 1794294057.2981856,
 "873219bac42513e6": 1794129624.9673119,
@@ -3473,6 +3614,7 @@
 "a4439420bce2ca5b": 1794229828.2811856,
 "a4534f321178d49b": 1794090024.092463,
 "a455136b86585a5f": 1794250228.0065682,
+"a4599897bd3a85c3": 1794304225.7589512,
 "a46c251fadbce119": 1794235227.58563,
 "a477615ca3e5f529": 1794294057.2981856,
 "a47f7bf0b30629cd": 1794053146.8970654,
@@ -3741,6 +3883,7 @@
 "b2ac4cc42f5f3303": 1794261654.088547,
 "b2b38185b26c9645": 1794234029.8370936,
 "b2c45c184bc90505": 1794243026.4460754,
+"b2c6b67974c15701": 1794304225.7589512,
 "b2c9903f50689cd8": 1794053146.8970654,
 "b2d9307c3ec917d3": 1794300625.907344,
 "b3023ba823dd0975": 1794228625.7348583,
@@ -3773,6 +3916,7 @@
 "b44a8c5c3f6b696d": 1794297025.7499537,
 "b453f3d780d42a7a": 1794252026.8992693,
 "b472fbe170068a97": 1794262824.4868238,
+"b47c10e86242c26f": 1794304225.7589512,
 "b4840d2a0c82b90b": 1794207655.353521,
 "b4852068ef2b8987": 1794294057.2981856,
 "b493282fa49c0946": 1794090024.092463,
@@ -4470,6 +4614,7 @@
 "d99b6c6eccb4b20f": 1794220827.8644307,
 "d9b7a56915abbd4e": 1794090024.092463,
 "d9cde2b9b2752ab5": 1794294057.2981856,
+"d9d152b4ed440a56": 1794304225.7589512,
 "d9dc3a7f256ff955": 1794090024.092463,
 "d9fa9ed9f3b4ac85": 1794074452.1558738,
 "d9fb0916d9e32879": 1794079839.2548869,
@@ -5060,6 +5205,7 @@
 "fef19184104e47f9": 1794208823.7725184,
 "fef241ff6a6ee405": 1794245441.3708878,
 "fef69858f03cb7e5": 1794207655.353521,
+"fefdbf1bf4456d84": 1794304225.7589512,
 "feff7cdac81c71fe": 1794262824.4868238,
 "ff02f169c46f4796": 1794129624.9673119,
 "ff3657f46ab509be": 1794090024.092463,
@@ -5288,6 +5434,7 @@
 "0e6620ba74466117": 1794121251.8481042,
 "0e6c0a382970822c": 1794129624.9673119,
 "0e77fee45a4e765a": 1794129624.9673119,
+"0e7dc364cf108199": 1794304225.7589512,
 "0e8d14efcad52eeb": 1794294057.2981856,
 "0eb6bffa0ea87cdf": 1794084023.8763885,
 "0eb8ff0b5141735c": 1794207655.353521,
@@ -6068,6 +6215,7 @@
 "3b1d61aab2dbb6e7": 1794241225.0884333,
 "3b20928893561a0f": 1794144023.650658,
 "3b2657a85b06bbd6": 1794231625.7466462,
+"3b286491b84474f7": 1794304225.7589512,
 "3b292532c6292ef2": 1794073224.1004374,
 "3b2f23cc5094b536": 1794295224.707564,
 "3b38116452533370": 1794158423.5148294,
@@ -6289,6 +6437,7 @@
 "49e041ff2344978b": 1794154823.0343263,
 "4a1ae31bc6ae92ea": 1794090024.092463,
 "4a69dbaca94e5af7": 1794294057.2981856,
+"4a6dad5d0d39bb6a": 1794304225.7589512,
 "4ab60dbf026c26be": 1794090024.092463,
 "4ab618fd418eaef7": 1794207655.353521,
 "4abba7c14454a71e": 1794232853.9654045,
@@ -6328,6 +6477,7 @@
 "4c5fd84e89eda607": 1794121251.8481042,
 "4c695271790c34eb": 1794216024.5700488,
 "4c6a44d2fb8ca8b6": 1794070853.5888453,
+"4c6f58f35d53ceb6": 1794304225.7589512,
 "4c884b75eefffa00": 1794053146.8970654,
 "4c8c6789477106f3": 1794235830.1401546,
 "4c8d8944bb426ece": 1794261023.1557755,
@@ -6452,6 +6602,7 @@
 "537e02907e82c61e": 1794090024.092463,
 "538b70ec95d1f3f1": 1794294057.2981856,
 "539eeba8ea45833b": 1794176424.6910276,
+"53b4e2ec3dbfa527": 1794304225.7589512,
 "53b9305db5bfbbd1": 1794231625.7466462,
 "53c1621b9c0c4d71": 1794218488.7102273,
 "53d7d96da9f56793": 1794083441.9529276,
@@ -7145,6 +7296,7 @@
 "80664e15d2b636ae": 1794053146.8970654,
 "8081f8e34d34e4c1": 1794300023.3124595,
 "808dce652de2cca5": 1794172824.1624086,
+"80a21fb02fc97a5b": 1794304225.7589512,
 "80c5958bd5aebe92": 1794053146.8970654,
 "80d3fda01eaa9e1a": 1794070853.5888453,
 "80d78c95bbd21180": 1794294057.2981856,
@@ -8272,6 +8424,7 @@
 "c467ce7decffe7c0": 1794226224.6034505,
 "c4a714333288f4f2": 1794226224.6034505,
 "c4a90fcf87999267": 1794263443.2975552,
+"c4ae2c312b32e627": 1794304225.7589512,
 "c4d94d9bc7056df7": 1794129624.9673119,
 "c4fd01356216b1f0": 1794212427.3416302,
 "c4fe120e99a90152": 1794125424.4951053,
@@ -8402,6 +8555,7 @@
 "cd00cd1b002a6ba2": 1794077422.772458,
 "cd1084aff2f1389b": 1794090024.092463,
 "cd221ed8bd0c31a1": 1794078057.3592389,
+"cd2ab704b71fe1c6": 1794304225.7589512,
 "cd379b703b927233": 1794180024.180841,
 "cd45c8616ab971d4": 1794298226.443851,
 "cd545d06f77757ad": 1794079839.2548869,
@@ -8542,6 +8696,7 @@
 "d595046efc61e2c2": 1794227444.8368437,
 "d5a29e8476800993": 1794207655.353521,
 "d5b514dc14471605": 1794262824.4868238,
+"d5bb4a2ca1785112": 1794304225.7589512,
 "d612ca56aa9f6315": 1794220241.562271,
 "d617d1d61f66fbfa": 1794090024.092463,
 "d64d24fc4b98ee56": 1794207655.353521,
@@ -9132,6 +9287,7 @@
 "f914e17d80224da5": 1794230425.0439425,
 "f9192c0be902569b": 1794090024.092463,
 "f9370c72e5769308": 1794058663.5416367,
+"f954eabef05ad26d": 1794304225.7589512,
 "f9559b3a1384cc4e": 1794053146.8970654,
 "f99c23ce542d5afd": 1794080428.0610616,
 "f9c60fb969e0851c": 1794294057.2981856,
