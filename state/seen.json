@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794352308.8340964,
+"ai_last_review": 1794353474.158637,
 "ai_log": [
-{
-"err": "",
-"kept": 2,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 11,
-"ok": true,
-"t": "11-09 20:10"
-},
 {
 "err": "",
 "kept": 1,
@@ -540,85 +531,24 @@
 "n": 19,
 "ok": true,
 "t": "11-10 23:11"
+},
+{
+"err": "",
+"kept": 2,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 9,
+"ok": true,
+"t": "11-10 23:31"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzA0M1lySjR5YWg1RDdpcFJaTzB0cEtNX0lZUktvODhoMTFQS3JneGhyeE5UcndPekN5cXBHRDhSVkFvSHJRNHJ6emxEMEU0Qkh4WjFsSXZHZEVnZzVzMWNfMUdYNTkyYjZLZEhMSDFUNnJJcXV0NG8xVUFNMTZGSEF1elYxQ05BTzlVekxnQ3lXRGE1T3RoOVFMa3lVVVlLNy1kZnNYSmVjek1vLURBUHV3?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "NYC Hikes Fines to $250 After Workers Injured by GLP-1 Needles &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "NYC Hikes Fines to $250 After Workers Injured by GLP-1 Needles - Bloomberg.com",
-"ts": 1794348858,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Cointelegraph",
-"summary": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027.",
-"tags": [
-"USDT"
-],
-"title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-"ts": 1794352108,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670343-opi-expects-approximately-360m-of-2027-proceeds-as-it-advances-58-property-sale-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "OPI expects approximately $360M of 2027 proceeds as it advances 58-property sale plan",
-"ts": 1794352383,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bitcoin Magazine",
-"summary": "Bitcoin Magazine Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin Washington Bitcoin merchants, from Seattle coffee shops to a Snorkel hot tub heated by bitcoin miners. This post Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin first appeared on Bitcoin Magazine and is written by Vagabond .",
-"tags": [
-"BTC"
-],
-"title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
-"ts": 1794352493,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670344-bionano-reiterates-31m-33m-2026-revenue-guidance-while-targeting-adjusted-ebitda-neutrality?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Bionano reiterates $31M-$33M 2026 revenue guidance while targeting adjusted EBITDA neutrality by end of 2027",
-"ts": 1794352521,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T20:00"
+"last_date": "2026-11-10T22:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -628,7 +558,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T20:00"
+"last_date": "2026-11-10T22:00"
 },
 "FNG": {
 "cool": {},
@@ -648,11 +578,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-10T20:00"
+"last_date": "2026-11-10T22:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-10T20:00"
+"last_date": "2026-11-10T22:00"
 },
 "UST10Y": {
 "cool": {},
@@ -674,9 +604,9 @@
 },
 "last_date": "2026-11-09"
 },
-"_last_check": 0
+"_last_check": 1794353450.2442484
 },
-"last_run": 1794352906.8385,
+"last_run": 1794353478.648126,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1164,6 +1094,7 @@
 "1636ad82a4aca31d": 1794330055.137018,
 "163cdea56a3f0ce6": 1794151225.6597934,
 "164879138f4942d8": 1794218488.7102273,
+"164fc759b68919f4": 1794353439.0629678,
 "164fc7aeb87faf06": 1794090024.092463,
 "165d9007748f9bfd": 1794295841.2960658,
 "166e1a8294974964": 1794336024.4023893,
@@ -2205,6 +2136,7 @@
 "4369205bd02c80b7": 1794322856.5589402,
 "4369d45eef224b5a": 1794053146.8970654,
 "436c669d5e184007": 1794207655.353521,
+"43781117b0c6479e": 1794353439.0629678,
 "437ca64fa890b1a1": 1794207655.353521,
 "439957a5bb452ecf": 1794294057.2981856,
 "43a714c643468026": 1794058663.5416367,
@@ -2392,6 +2324,7 @@
 "4bb27d15983dff3c": 1794327026.3092759,
 "4bc6405ca3c68d29": 1794082823.0034523,
 "4bd20e5fb833a4f4": 1794298825.0579662,
+"4bd3cb85bdbe13a1": 1794353439.0629678,
 "4bde6b0118507670": 1794348622.3454998,
 "4be9e831b6e71cb3": 1794072642.3225284,
 "4bfb8e356f3006e9": 1794310242.809073,
@@ -3410,6 +3343,7 @@
 "7a9ab0a38222d906": 1794240054.5770936,
 "7a9cce76e808ce06": 1794090024.092463,
 "7ab53711047811ab": 1794211253.7643282,
+"7ab65e40f2473c4e": 1794353439.0629678,
 "7abca0c4eb269578": 1794058663.5416367,
 "7ac10d6075039aeb": 1794232853.9654045,
 "7ac19dd799e08f7d": 1794308400.5846508,
@@ -3618,6 +3552,7 @@
 "82ba5a1ae84969a9": 1794319254.2679577,
 "82bc936eeec75a34": 1794090024.092463,
 "82be04e4f016b918": 1794259224.3903115,
+"82c5c0a7532aa272": 1794353439.0629678,
 "82d1303885aed20d": 1794247875.6926105,
 "82d22f7f4ee77683": 1794090024.092463,
 "82da670156659e21": 1794348622.3454998,
@@ -4144,6 +4079,7 @@
 "9b4eb82dbe481be5": 1794223842.150146,
 "9b53e8da958470a6": 1794053146.8970654,
 "9b56fb7c1018f6e2": 1794090024.092463,
+"9b804a23125e12cd": 1794353439.0629678,
 "9b80b19d4a636c13": 1794075624.4430547,
 "9b9cc49a40deb686": 1794073224.1004374,
 "9bbe06db52ac487d": 1794258020.3289478,
@@ -4731,6 +4667,7 @@
 "b5a3aa9c37ded2f4": 1794324648.7021484,
 "b5a7adec914612f6": 1794305426.239695,
 "b5c48fbfc284c9cc": 1794321043.2025392,
+"b5eba92f75838bcd": 1794353439.0629678,
 "b5f072a40acb6ad0": 1794053146.8970654,
 "b617ef7d164a7206": 1794243026.4460754,
 "b6510350569e6aa4": 1794243659.0740352,
@@ -5205,6 +5142,7 @@
 "c9c951fc0f395ff6": 1794053146.8970654,
 "c9e357b83fe18ce1": 1794207655.353521,
 "c9e4cc5a74b589d7": 1794144023.650658,
+"c9e69f0eb9aa4cdb": 1794353439.0629678,
 "c9fabc430f46fabe": 1794176424.6910276,
 "c9fc1a163bdde197": 1794294057.2981856,
 "ca2c218af66f5909": 1794053146.8970654,
@@ -6157,6 +6095,7 @@
 "f51972b7422d20b6": 1794093624.3200548,
 "f521d0e8b02284ec": 1794090024.092463,
 "f52de50f5c8657df": 1794306027.3632174,
+"f533ce3741512fca": 1794353439.0629678,
 "f5348bd832317193": 1794121251.8481042,
 "f5384cdf33a7d474": 1794230425.0439425,
 "f53a8cf467578760": 1794331841.6847267,
@@ -7508,6 +7447,7 @@
 "3322b4cec3ab6a0f": 1794223228.835452,
 "33235ae28cfe3633": 1794165625.0596616,
 "333d412f3cea154b": 1794214856.1278765,
+"33576895f7b23f62": 1794353439.0629678,
 "335ae067add9bcbf": 1794053146.8970654,
 "336ac321c68b17cf": 1794297654.3266497,
 "3372442cc9338cca": 1794248479.105261,
@@ -7924,6 +7864,7 @@
 "47dfc86b615eb673": 1794121251.8481042,
 "47f2dc2d2346474c": 1794207655.353521,
 "4809995edd6ae812": 1794294057.2981856,
+"480feab749398323": 1794353439.0629678,
 "48280f37ecb58eb3": 1794073224.1004374,
 "482c884e1d421ead": 1794307825.328837,
 "482dcde57e80d2fa": 1794294057.2981856,
@@ -8026,10 +7967,12 @@
 "4d381a45c4e66d2b": 1794231625.7466462,
 "4d42ecbb3b70331b": 1794294057.2981856,
 "4d4ec9e00e9e8cc3": 1794090024.092463,
+"4d5fc61a064e4c66": 1794353439.0629678,
 "4d654d77ca53a6bd": 1794301829.133516,
 "4d8684a1ce54dda1": 1794076826.2653458,
 "4d8ad0a357b82e51": 1794334825.2037544,
 "4d8b8b7adf008e3c": 1794245441.3708878,
+"4dc4174cfb3e34f0": 1794353439.0629678,
 "4dc97acf20fb410f": 1794294057.2981856,
 "4df106bb39fdd6e0": 1794294057.2981856,
 "4e048b81fa1738e7": 1794219024.1165798,
@@ -8236,6 +8179,7 @@
 "58357b50fcd7eb95": 1794247875.6926105,
 "5842d410b50ee2be": 1794172824.1624086,
 "5867d6b09bf1ba5b": 1794079224.7359486,
+"586ce48d9bef27cf": 1794353439.0629678,
 "5871477ae6353ca3": 1794294057.2981856,
 "58a772f7d69b1616": 1794294057.2981856,
 "58b12b5fab028a5c": 1794243659.0740352,
@@ -8818,6 +8762,7 @@
 "74dde72df6fae2f8": 1794306027.3632174,
 "74e5a88813c56995": 1794306027.3632174,
 "74f996bfee20a544": 1794343822.9605784,
+"74ff1820abaf1b40": 1794353439.0629678,
 "7503a3ad787578e6": 1794235227.58563,
 "7506f198f93fafa2": 1794053146.8970654,
 "75188dfdda4fadcf": 1794176424.6910276,
@@ -11193,6 +11138,7 @@
 "e6e04e609fc9d770": 1794216642.1444197,
 "e6ec63dda94d1244": 1794070201.937629,
 "e70b4b9d6be51cf8": 1794262824.4868238,
+"e71eb730d7d06bbc": 1794353439.0629678,
 "e720d1aa29860381": 1794294057.2981856,
 "e728ba12c13d6154": 1794165625.0596616,
 "e7482c8f6a0cd195": 1794318026.068809,
@@ -11647,6 +11593,7 @@
 "fbfe168721f5e5b1": 1794067878.5266922,
 "fc05acc95d088d0a": 1794090024.092463,
 "fc0b62c7c5429bb8": 1794240054.5770936,
+"fc3d157c7a285efe": 1794353439.0629678,
 "fc452341c24fe55a": 1794352223.2402766,
 "fc53735e1f31dfa8": 1794207655.353521,
 "fc556f9705172150": 1794323425.210853,
