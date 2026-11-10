@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794318704.208531,
+"ai_last_review": 1794319869.6884902,
 "ai_log": [
-{
-"err": "",
-"kept": 6,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 17,
-"ok": true,
-"t": "11-09 11:01"
-},
 {
 "err": "",
 "kept": 7,
@@ -540,310 +531,24 @@
 "n": 33,
 "ok": true,
 "t": "11-10 13:51"
+},
+{
+"err": "",
+"kept": 7,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 32,
+"ok": true,
+"t": "11-10 14:11"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGQxbXkxc1NibHAxMFlkcFVKWklmV25jYmhENXJETzFLNmpGWFhhTmZhWTB2SWx2VndjWWNGVHMyYVRJRG9TMmE1ZE5YMmtOTldNUnJQM3NuT2t4UmRVQUd4cWR6ZXB6LW1sUjQ4NFZCN0lOMTAzLWpEYmZLSmpYZFNITDFMRFl0RFh1cWNBSGNVQnVhUmJnRlVRUGNjeXhTS3ZZYVJ3bERUd2xFYUlRMnFJWQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Wall Street Bonuses Projected to Climb Before Prospects Weaken &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Wall Street Bonuses Projected to Climb Before Prospects Weaken - Bloomberg.com",
-"ts": 1794308400,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOalJvYkZzQXhzZ2pHSFo5c2Jfb0VfZVpNNXpHZEE5dkxUM0lUYmdEeG1rbUNzV1JWbzNwMnBwSGNTeHZjS3p4TEVzTDBVSnNQbG5oUG1GTW82VVBsaXA4dTFHVnVkZUpJVFprQVhXbG9kZjUzTUgwaDFhMTYwYlBfTVJJakc2Q0h5eWc4Z1FEOTM1Y1lmUW56Qzd5SkY2cXhtZlFNb1NQVXpBOVJkc2JqTTduQ2dfQQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "AI debt faces pressure as Democrats prepare to take over Congress &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "AI debt faces pressure as Democrats prepare to take over Congress - Reuters",
-"ts": 1794310851,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVdNckxNSFQ3cnZLeC1KU1lrb2lBTFNKN2J1Uy1OYmRSczRoQmZsZlBtaHZPYzdnM1NSZTR5ODdsbEVV?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll - Reuters",
-"ts": 1794316454,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNoMFNyY01hVzlXME5aeHpRMGpzd1NVc2pxVHlMNFFWYVdUSjdDMkZxdF9fS01fS0xxc3Z3bDN3R28tMlB5TlV2djZib0JZak84MExhcEV4emhRWGpoTURjcTAzOThSU3dqRWFMVEE3VDRjb1FTS1c1b09uU2lFMWlZdkZVWENsWjE4WVUyQTZxZ1pXTDhnTE90czBGb1E2T2o3RHk0ODkxUDZ5ZzVfdDl3?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"CPI"
-],
-"title": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike - Bloomberg.com",
-"ts": 1794317570,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/ubs-downgrades-carlyle--as-weak-fund-returns-threaten-2028-growth-targets-5015678",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "UBS downgrades Carlyle  as weak fund returns threaten 2028 growth targets",
-"ts": 1794318460,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-legend-biotech-stock-sliding-today-93CH-5015683",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Legend Biotech stock sliding today?",
-"ts": 1794318496,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-liquidia-stock-gaining-today-93CH-5015684",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Liquidia stock gaining today?",
-"ts": 1794318499,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-bitdeer-technologies-stock-sliding-today-93CH-5015686",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Bitdeer Technologies stock sliding today?",
-"ts": 1794318505,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/chipmakers-warn-ai-demand-is-creating-bottlenecks-in-automotive-supply-chain-5015687",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Chipmakers warn AI demand is creating bottlenecks in automotive supply chain",
-"ts": 1794318537,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-etoro-stock-sliding-today-93CH-5015690",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is eToro stock sliding today?",
-"ts": 1794318577,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/freedom-broker-cuts-qualcomm-rating-as-margin-squeeze-offsets-growth-upside-5015691",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Freedom Broker cuts Qualcomm rating as margin squeeze offsets growth upside",
-"ts": 1794318578,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669778-yieldmax-ultra-option-incomestrategy-etf-announces-weekly-distribution-of-02425?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "\"YieldMax Ultra Option Income\nStrategy ETF announces weekly distribution of $0.2425\"",
-"ts": 1794318672,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-hemab-therapeutics-stock-sliding-today-93CH-5015710",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Hemab Therapeutics stock sliding today?",
-"ts": 1794318678,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669775-treasury-yields-climb-across-the-curve-after-the-latest-inflation-print?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"Treasury yields"
-],
-"title": "Treasury yields climb across the curve after the latest inflation print",
-"ts": 1794318702,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-venture-global-stock-rallying-today-93CH-5015711",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Venture Global stock rallying today?",
-"ts": 1794318711,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669781-yieldmax-magnificent-7-fund-ofoption-income-etfs-announces-weekly-distribution-of-00725?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "\"YieldMax Magnificent 7 Fund of\nOption Income ETFs announces weekly distribution of $0.0725\"",
-"ts": 1794318907,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669783-tyra-biosciences-gaap-eps-of-0_74-misses-by-0_07?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Tyra Biosciences GAAP EPS of -$0.74 misses by $0.07",
-"ts": 1794318968,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669753-mongodb-receives-buy-rating-as-btig-sees-sustainable-20-percent-plus-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "MongoDB receives Buy rating as BTIG sees sustainable 20%-plus revenue growth",
-"ts": 1794319015,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/article/4965702-nvidia-tpus-trainiums-and-jalapenos-scare-me-more-than-china-rating-downgrade?source=feed_symbol_NVDA",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA NVDA",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia: TPUs, Trainiums, And Jalapenos Scare Me More Than China (Rating Downgrade)",
-"ts": 1794319045,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669784-coya-therapeutics-gaap-eps-of-0_45-misses-by-0_11-revenue-of-0_23m-beats-by-0_15m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Coya Therapeutics GAAP EPS of -$0.45 misses by $0.11, revenue of $0.23M beats by $0.15M",
-"ts": 1794319147,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4669785-yieldmax-memory-and-storage-portfolio-option-income-etf-announces-weekly-distribution-of-02885?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "YieldMax\u00ae Memory and Storage Portfolio Option Income ETF announces weekly distribution of $0.2885",
-"ts": 1794319159,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Block",
-"summary": "Visa has added Monad as a stablecoin settlement option for participating issuers and acquirers, the Monad Foundation said.",
-"tags": [
-"USDT"
-],
-"title": "Visa adds Monad to stablecoin settlement network options",
-"ts": 1794319202,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T11:00"
+"last_date": "2026-11-10T13:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -853,7 +558,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T11:00"
+"last_date": "2026-11-10T13:00"
 },
 "FNG": {
 "cool": {},
@@ -873,11 +578,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-10T11:00"
+"last_date": "2026-11-10T13:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-10T11:00"
+"last_date": "2026-11-10T13:00"
 },
 "UST10Y": {
 "cool": {},
@@ -897,9 +602,9 @@
 },
 "last_date": "2026-11-09"
 },
-"_last_check": 0
+"_last_check": 1794319836.4928105
 },
-"last_run": 1794319341.3192246,
+"last_run": 1794319884.6593533,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1066,6 +771,7 @@
 "07e8a7b1d287b933": 1794053146.8970654,
 "07ea7ecbd0614609": 1794216642.1444197,
 "07fd695d26284215": 1794227444.8368437,
+"081d6a08eec91b1c": 1794319825.0401058,
 "082e093ab87ec6cc": 1794207655.353521,
 "084ae49d37effa23": 1794294057.2981856,
 "085415f305d0e0e4": 1794079839.2548869,
@@ -2022,6 +1728,7 @@
 "3a5175d26d7a9758": 1794264026.1524632,
 "3a5409901859cde9": 1794053146.8970654,
 "3a660d1b58e0db96": 1794133224.9019783,
+"3a7a75c1f0fd86e1": 1794319825.0401058,
 "3a860852e21c8207": 1794263443.2975552,
 "3a8612eb2b80b159": 1794308400.5846508,
 "3a9b8eef05167db7": 1794154823.0343263,
@@ -2122,6 +1829,7 @@
 "3fa3ab84ec0badd0": 1794248479.105261,
 "3fbc295186f06bf7": 1794083441.9529276,
 "3fc601577f5c7c83": 1794308400.5846508,
+"3fdb7eb5e344f32a": 1794319825.0401058,
 "3fe4dba3b2b67704": 1794313843.890771,
 "3fed0bc547a88cd4": 1794053146.8970654,
 "3fef4cbaa274f6c5": 1794294057.2981856,
@@ -3636,6 +3344,7 @@
 "8ee231faacd4fe4e": 1794053146.8970654,
 "8efef0be6657b505": 1794077724.9202611,
 "8f039baa80c283ae": 1794090024.092463,
+"8f0bdfaafcf520b8": 1794319825.0401058,
 "8f104ef50e8d6139": 1794294057.2981856,
 "8f17374617b2d64b": 1794227444.8368437,
 "8f3d2ad142b75a61": 1794058663.5416367,
@@ -3820,6 +3529,7 @@
 "9a231ee81d2c9183": 1794227444.8368437,
 "9a2a40cc7ffec28d": 1794241843.488906,
 "9a34d68e1002aeca": 1794299443.3490458,
+"9a3b882b7849b4de": 1794319825.0401058,
 "9a42b793157262c5": 1794294057.2981856,
 "9a4587a5fbea336d": 1794219024.1165798,
 "9a491f72095469ab": 1794073481.0579536,
@@ -4170,6 +3880,7 @@
 "acdf5e3fafffc760": 1794213626.9912028,
 "ace412cf8f454c29": 1794147624.409764,
 "ace5437a7426bebb": 1794261654.088547,
+"acf25b1003991c35": 1794319825.0401058,
 "ad03234881fcd673": 1794125424.4951053,
 "ad25074c61ff78ce": 1794207655.353521,
 "ad25487ceb9551e9": 1794090024.092463,
@@ -4357,6 +4068,7 @@
 "b67502ea1b01fddb": 1794227444.8368437,
 "b684fc9be0f519f2": 1794053146.8970654,
 "b6abc07fc1552670": 1794313843.890771,
+"b6bf7e89d34be4b3": 1794319825.0401058,
 "b6c2966d47b4d171": 1794053146.8970654,
 "b6c5d83e9f70e14a": 1794313843.890771,
 "b6cf307def1f6719": 1794226823.8223224,
@@ -4639,6 +4351,7 @@
 "c44fba82737fddef": 1794237626.3538754,
 "c45600465429b8f2": 1794053146.8970654,
 "c456e4e64ac1c348": 1794207655.353521,
+"c457551a0b7cd8cc": 1794319825.0401058,
 "c4584843d76a59bf": 1794090024.092463,
 "c45a1ac487bd6da2": 1794090024.092463,
 "c48075d766ad8f47": 1794298226.443851,
@@ -4709,6 +4422,7 @@
 "c75fd4bd7a4411e6": 1794242424.5403016,
 "c767be3eb8908c86": 1794240054.5770936,
 "c77336b8eef9154d": 1794055787.7739694,
+"c77978e43fc7a7d9": 1794319825.0401058,
 "c785aa89cac003e6": 1794053146.8970654,
 "c78633ad41cfa2d1": 1794076241.5731697,
 "c790b470a3244e16": 1794090024.092463,
@@ -5016,6 +4730,7 @@
 "d67c40839ff9b650": 1794217228.4060323,
 "d68e365edb78bc0b": 1794251432.9348457,
 "d692d79eab4bc984": 1794090024.092463,
+"d6b5b43e53fd6ff4": 1794319825.0401058,
 "d6cc4dc2dbabd098": 1794069041.6001287,
 "d6cf66efb3d22ff8": 1794207655.353521,
 "d6d0e20136bbe0ac": 1794244826.386174,
@@ -5073,6 +4788,7 @@
 "d92455d50f580fca": 1794261023.1557755,
 "d92ed7287e749de6": 1794053146.8970654,
 "d93610161620fce3": 1794090024.092463,
+"d9418b1b6ba65a58": 1794319825.0401058,
 "d95290d78c2427a3": 1794208823.7725184,
 "d952be8215885bef": 1794090024.092463,
 "d9604f11928c6d8d": 1794211829.3207283,
@@ -5230,6 +4946,7 @@
 "e1dca4cdbd7830ef": 1794294057.2981856,
 "e1f1f1797032fde8": 1794084624.3653798,
 "e1f2e2fe20fc26e4": 1794295224.707564,
+"e1fc9751fa3eda2a": 1794319825.0401058,
 "e20b69b152c19702": 1794214856.1278765,
 "e21a6c220aed2240": 1794090024.092463,
 "e21dc80c6c5819fe": 1794231625.7466462,
@@ -5418,6 +5135,7 @@
 "ed9f34d6fe4fce6d": 1794234645.282263,
 "eda295963aa5ff70": 1794228023.5425556,
 "edd5538a12d9cce2": 1794086423.3945913,
+"edde563ef5eb5af0": 1794319825.0401058,
 "edfaf9236ba1c5e4": 1794072025.2238693,
 "ee2e1273c102d9f4": 1794073825.720103,
 "ee300854c5457f88": 1794224423.8500595,
@@ -5458,6 +5176,7 @@
 "f01bc0e3552b9a9e": 1794313222.9578052,
 "f054d966c300737c": 1794313222.9578052,
 "f0562c3d0bb52420": 1794210025.2421503,
+"f075ead76f6b1372": 1794319825.0401058,
 "f07f63c5b0a6b9fe": 1794261023.1557755,
 "f08d6c1666369d24": 1794207655.353521,
 "f097047730de7518": 1794214856.1278765,
@@ -5984,6 +5703,7 @@
 "0dd9e75e5c2f41da": 1794129624.9673119,
 "0dde19c5bf734737": 1794053146.8970654,
 "0df43927f37d91fb": 1794305426.239695,
+"0e07ddaee55375e6": 1794319825.0401058,
 "0e07ed6dcfe9d7f7": 1794250228.0065682,
 "0e0cb550a1673fb2": 1794207655.353521,
 "0e12ca72ec72054d": 1794129624.9673119,
@@ -5999,6 +5719,7 @@
 "0eb15110a8cb4418": 1794319254.2679577,
 "0eb6bffa0ea87cdf": 1794084023.8763885,
 "0eb8ff0b5141735c": 1794207655.353521,
+"0ebcfa3b0aa3ecec": 1794319825.0401058,
 "0ebe16893a35c36c": 1794241843.488906,
 "0ebe726546502467": 1794090024.092463,
 "0ec8964d222fdb35": 1794207655.353521,
@@ -6337,6 +6058,7 @@
 "2096832a774d741c": 1794063069.3473625,
 "20a0694991ec724e": 1794125424.4951053,
 "20c9917d2dc6de60": 1794294057.2981856,
+"20cb99c4ffe99685": 1794319825.0401058,
 "20cbe1e42b4854f5": 1794294057.2981856,
 "20e5e5c059d7d1bf": 1794176424.6910276,
 "2100089dd259f658": 1794227444.8368437,
@@ -6578,6 +6300,7 @@
 "2c4baed3b8ab5be5": 1794310242.809073,
 "2c4d3426c76ace9a": 1794261023.1557755,
 "2c52ee3e66b15da2": 1794294057.2981856,
+"2c66553571a4a904": 1794319825.0401058,
 "2c66b7d8f422842d": 1794295224.707564,
 "2c7080b9f085091c": 1794294057.2981856,
 "2c818d26cfdf8c71": 1794053146.8970654,
@@ -7128,6 +6851,7 @@
 "4c2eb084a1051f3f": 1794249071.019277,
 "4c2fce88d5583b7c": 1794090024.092463,
 "4c468af610033fea": 1794090024.092463,
+"4c587b23ed984dd6": 1794319825.0401058,
 "4c5ae13cfe2efef0": 1794090024.092463,
 "4c5e55242305dd7b": 1794313222.9578052,
 "4c5fd84e89eda607": 1794121251.8481042,
@@ -8148,6 +7872,7 @@
 "87ef0564f3954c5a": 1794294057.2981856,
 "87f0ab305a46478d": 1794258625.424642,
 "88005afd02586496": 1794262824.4868238,
+"880b544d63086892": 1794319825.0401058,
 "88102eec9fcfd040": 1794229828.2811856,
 "8830784b4dc666f3": 1794226823.8223224,
 "88396685cc364c39": 1794223842.150146,
@@ -8340,6 +8065,7 @@
 "9297cc0768479178": 1794090024.092463,
 "92acaae4d6285530": 1794063069.3473625,
 "92c362a13c05c274": 1794240054.5770936,
+"92d7fc9f97555d5a": 1794319825.0401058,
 "92ebfd92ce242e27": 1794053146.8970654,
 "93052d80bd69c9da": 1794267626.597747,
 "9340daaaa7ccba47": 1794207655.353521,
@@ -8570,6 +8296,7 @@
 "9fcc76f3d4c1f50d": 1794226224.6034505,
 "9fce5f9e6b456401": 1794240627.3822312,
 "9fe8dd6317503fea": 1794060010.396961,
+"9ff62b37fa17f281": 1794319825.0401058,
 "9ffecd168b8fd1d3": 1794090024.092463,
 "a01834de1afad244": 1794090024.092463,
 "a04282442b1b1e44": 1794055787.7739694,
@@ -8850,6 +8577,7 @@
 "af66614ad4a3de4c": 1794090024.092463,
 "af667d013166b31c": 1794070853.5888453,
 "af689c6f6de0959e": 1794058663.5416367,
+"af758956c0a17b1d": 1794319825.0401058,
 "af8aeecf0f555926": 1794053146.8970654,
 "af8f4f0e7f1319bd": 1794066518.762267,
 "afa09db86882f364": 1794169225.368316,
@@ -8991,6 +8719,7 @@
 "b79cfc3b20faabf1": 1794229254.159377,
 "b7a0d8fbdcb19aaa": 1794053146.8970654,
 "b7c3400e6bdad0bb": 1794172824.1624086,
+"b7d37e67cdd0a4d1": 1794319825.0401058,
 "b7d79182350b1651": 1794236457.02748,
 "b7da87f3725f7e9d": 1794073481.0579536,
 "b7df9b5d01be03ba": 1794232853.9654045,
@@ -9336,6 +9065,7 @@
 "ca6fc6b97aafbbff": 1794210025.2421503,
 "ca8183402b4c918f": 1794078057.3592389,
 "ca8a8e69b5863d96": 1794090024.092463,
+"caa0c20f7717ec1c": 1794319825.0401058,
 "cab36f19eb31a6de": 1794207655.353521,
 "cab9609e5abdb9fb": 1794207655.353521,
 "caecf217906e2471": 1794257425.5432699,
@@ -9422,6 +9152,7 @@
 "cf0366313cbc2f1f": 1794058663.5416367,
 "cf0a752a01f87182": 1794309027.4508862,
 "cf0fef8c953716b0": 1794228023.5425556,
+"cf11dacee60e0d46": 1794319825.0401058,
 "cf5a587992f8d930": 1794066518.762267,
 "cf63707a418749f7": 1794306027.3632174,
 "cf65570cf016e521": 1794207655.353521,
@@ -9722,6 +9453,7 @@
 "e0e1c754b5f04d7a": 1794207655.353521,
 "e1224d3331edeac2": 1794300023.3124595,
 "e12b4a0e5f7a0324": 1794294057.2981856,
+"e1471a556c377e2d": 1794319825.0401058,
 "e1547fa055080922": 1794300023.3124595,
 "e158a1402199923a": 1794129624.9673119,
 "e15abf705acd934f": 1794129624.9673119,
@@ -9876,6 +9608,7 @@
 "e9688a6398e5ff45": 1794172824.1624086,
 "e96a6be7ce0006dc": 1794162024.6325307,
 "e96fee00309de8c9": 1794244224.5102243,
+"e97977d104f4ddab": 1794319825.0401058,
 "e9968d237f6c1427": 1794213043.0947626,
 "e9994a91b4d53843": 1794242424.5403016,
 "e9f9da5f5913ea90": 1794300625.907344,
