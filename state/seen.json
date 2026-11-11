@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794396119.1078875,
+"ai_last_review": 1794397329.2455382,
 "ai_log": [
-{
-"err": "",
-"kept": 4,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 17,
-"ok": true,
-"t": "11-10 08:22"
-},
 {
 "err": "",
 "kept": 3,
@@ -540,80 +531,18 @@
 "n": 19,
 "ok": true,
 "t": "11-11 11:21"
+},
+{
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 12,
+"ok": true,
+"t": "11-11 11:42"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "COMMENTARY: Trump\u2019s Iran war pause is as costly as new strikes &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "COMMENTARY: Trump\u2019s Iran war pause is as costly as new strikes - Reuters",
-"ts": 1794380400,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFdTQTdsNlZNN1RrOFQ2SURTdFNGdVJqdlNCMm1pTUd0QzBYcWJxbFptWTNoMWYzRGtCRFk0Tmg0eUpOenZfV004STBHVG1oNnRVYzB3MzlINzFqcHA2dUw5UGpJdUpSMjhTckFwX09qUTZmWHFtYmlkZzdVbVNra3owVEM?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "US tech stocks set to extend rebound after CoreWeave results &nbsp;&nbsp; Financial Times",
-"tags": [
-"CRWV"
-],
-"title": "US tech stocks set to extend rebound after CoreWeave results - Financial Times",
-"ts": 1794393904,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670530-china-automotive-systems-gives-q3-update-approves-5m-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "China Automotive Systems gives Q3 update, approves $5M buyback",
-"ts": 1794396138,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWExOdk9jbkR1amI1QlBKejVIU1psVmRndnZTMGJyaFVHVVpVdF9VdWI5VTA0blV0MU9JU1dHdDRZVnRUVUhyQVZHZ3Z4U2RoeXR3cEs2d19aR2ItNHhIcTFxMFk5R3M?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
-"summary": "Crypto Weekly: Binance hack forces action, Greek crypto users to pay up &nbsp;&nbsp; Reuters",
-"tags": [
-"Binance",
-"hack"
-],
-"title": "Crypto Weekly: Binance hack forces action, Greek crypto users to pay up - Reuters",
-"ts": 1794396261,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/security/ios-27-2-1-leaves-sandbox-flaw-open-researcher-says",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The worse_query escape could expose wallet data stored in plaintext, SlowMist warned. Trust Wallet and Zerion said their iOS users are not affected.",
-"tags": [],
-"title": "iOS 27.2.1 Leaves Sandbox Flaw Open, Researcher Says",
-"ts": 1794396435,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -677,7 +606,7 @@
 },
 "_last_check": 0
 },
-"last_run": 1794396727.916252,
+"last_run": 1794397335.870885,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -2403,6 +2332,7 @@
 "435478a42b3bcd91": 1794063069.3473625,
 "43591d8874da2763": 1794238824.4766295,
 "4361ceb653c39932": 1794334224.0104544,
+"4362ce2be41557bc": 1794397224.4272263,
 "4369205bd02c80b7": 1794322856.5589402,
 "4369d45eef224b5a": 1794053146.8970654,
 "436c669d5e184007": 1794207655.353521,
@@ -3260,6 +3190,7 @@
 "654d7cb652fa0409": 1794220827.8644307,
 "6552c035e9aca2e2": 1794244826.386174,
 "6558198ee6fa4b63": 1794330627.8580275,
+"655ff6b95996f6ec": 1794397224.4272263,
 "657616c5b2fac8da": 1794266430.1008153,
 "65793966a64397b0": 1794321043.2025392,
 "657b66a6e5a2d146": 1794328242.1321893,
@@ -3884,6 +3815,7 @@
 "7f47cf3b3b648cea": 1794236457.02748,
 "7f4cd4d56319ceb3": 1794053146.8970654,
 "7f5b57dd0d374840": 1794301829.133516,
+"7f5f3101cfd7ce70": 1794397224.4272263,
 "7f76e154339b7652": 1794388822.6516917,
 "7f7a4969c59f0d6b": 1794315657.2528052,
 "7f80f60271d6e9d7": 1794305426.239695,
@@ -4182,6 +4114,7 @@
 "8b6177bef1590689": 1794069624.2005684,
 "8b678b8ec13efeed": 1794301258.7214239,
 "8b721be3c9993eb3": 1794162024.6325307,
+"8b76dd2245c89f7c": 1794397224.4272263,
 "8b802ea9d7ea27b8": 1794172824.1624086,
 "8b88296ccbd4d920": 1794053146.8970654,
 "8b934ffec9ef8491": 1794222054.6299663,
@@ -4934,6 +4867,7 @@
 "ab14f19787f1f0ab": 1794294057.2981856,
 "ab1665751455fda3": 1794053146.8970654,
 "ab1f56fca7344308": 1794207655.353521,
+"ab310f4c8bc36d60": 1794397224.4272263,
 "ab33468259744fb8": 1794121251.8481042,
 "ab387fe1bc587209": 1794380451.074071,
 "ab38c663253fcca5": 1794090024.092463,
@@ -5242,6 +5176,7 @@
 "b6f7af06069d3c77": 1794351653.6511967,
 "b6f965dac948eaec": 1794294057.2981856,
 "b6fad80ae1639631": 1794227444.8368437,
+"b6fbf2da7d7cefd0": 1794397224.4272263,
 "b70dde0ac40067ba": 1794225025.2256005,
 "b70fd46bc10b194d": 1794380451.074071,
 "b7174c911c7a0b95": 1794090024.092463,
@@ -6187,6 +6122,7 @@
 "dafca5f5dd9a9849": 1794253225.6358817,
 "dafcf037e2028990": 1794069624.2005684,
 "db0765bbb2a2e0a8": 1794053146.8970654,
+"db14bf1eed9a1216": 1794397224.4272263,
 "db30fbb8aee3057d": 1794295841.2960658,
 "db3afe875ebbd05a": 1794227444.8368437,
 "db3c35ff767b988c": 1794058663.5416367,
@@ -6554,6 +6490,7 @@
 "eb0c2a42f526fa1f": 1794207655.353521,
 "eb257f78542085bc": 1794090024.092463,
 "eb4316452456577e": 1794240627.3822312,
+"eb443a7153257910": 1794397224.4272263,
 "eb445f654089eb1c": 1794346240.584557,
 "eb566b7c3379ccaa": 1794294057.2981856,
 "eb64200e22aae380": 1794207655.353521,
@@ -7253,6 +7190,7 @@
 "09173323ba5e443a": 1794320424.8171039,
 "091770dadef2d8b0": 1794304852.8805614,
 "092735bfa1651b65": 1794315657.2528052,
+"0936fdb41b967e26": 1794397224.4272263,
 "0939d69d124e9ef7": 1794380451.074071,
 "094b0491ec298f68": 1794207655.353521,
 "09529d09a17787be": 1794321626.205444,
@@ -7706,6 +7644,7 @@
 "1c5d7b698035977a": 1794240054.5770936,
 "1c67bdfcfaebc5e4": 1794294057.2981856,
 "1c6a87e81314134c": 1794090024.092463,
+"1c6d79a751f71f27": 1794397224.4272263,
 "1c71c62b055e10eb": 1794224423.8500595,
 "1c71cfa0bf81673d": 1794053146.8970654,
 "1c7c1ee9d2171070": 1794348622.3454998,
@@ -9897,6 +9836,7 @@
 "7a7a1e5aeb0890ff": 1794129624.9673119,
 "7a7cdc042f805374": 1794053146.8970654,
 "7a8144428003f72b": 1794240627.3822312,
+"7a86cd1fb8267671": 1794397224.4272263,
 "7a8c90cc558e9233": 1794384051.3623385,
 "7a9b850885b5b84a": 1794390621.9689424,
 "7acb45fd619c4efa": 1794318626.6609201,
@@ -10522,6 +10462,7 @@
 "966a9daa2dd646fb": 1794226224.6034505,
 "9672e6cc559630cc": 1794346823.352614,
 "967647b19ccbe05b": 1794072642.3225284,
+"967a6cf257c795c4": 1794397224.4272263,
 "967ae97415ddf648": 1794207655.353521,
 "968050a8d26ac90c": 1794207655.353521,
 "96990d6aca36c0d4": 1794346823.352614,
@@ -10588,6 +10529,7 @@
 "98d2169e03d886f1": 1794258625.424642,
 "98d9bdde6a8b401b": 1794213043.0947626,
 "98dc3261ee3be5be": 1794348622.3454998,
+"98e39e4f66a31e4c": 1794397224.4272263,
 "98f135abe1e5c844": 1794072642.3225284,
 "98fc5031824bc7bf": 1794235830.1401546,
 "9909d76ef7cb12c0": 1794213043.0947626,
@@ -10879,6 +10821,7 @@
 "a545fec7e9a0ece6": 1794228625.7348583,
 "a5506df22c7cdad7": 1794207655.353521,
 "a560ddb0ec67ce3c": 1794327630.5502307,
+"a56a0e8360a42401": 1794397224.4272263,
 "a586c72d1592f83a": 1794226823.8223224,
 "a587fb8ab63efab2": 1794169225.368316,
 "a5926b5a69d1c57e": 1794213626.9912028,
@@ -11620,6 +11563,7 @@
 "c427f0ec1da8076d": 1794322224.436821,
 "c439f03653b4fa65": 1794240054.5770936,
 "c4417806772a8e77": 1794387652.7155762,
+"c44f1f516c1472fa": 1794397224.4272263,
 "c45800bc5a45a7c5": 1794244826.386174,
 "c45ab780a3a04b5a": 1794180024.180841,
 "c46089fc6871c72c": 1794389438.4958024,
@@ -12781,6 +12725,7 @@
 "f55b043910320936": 1794294057.2981856,
 "f55b96e445223f8e": 1794072642.3225284,
 "f573a25257a3fd5e": 1794129624.9673119,
+"f5a427fbb247f51f": 1794397224.4272263,
 "f5af8eee726a081d": 1794294057.2981856,
 "f5b11fa628d0d114": 1794381624.5089903,
 "f5b200072b2d2691": 1794294057.2981856,
