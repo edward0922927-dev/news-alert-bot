@@ -542,13 +542,175 @@
 "t": "11-11 21:21"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDUxbUJOS2xURWwtaGZ3MUZHRW4xek5VNVgwcTNIblV2TVpncUZGaGZUMnllcUFQaUhrcjdOWXFmNmwyeTJJdDB3d09KLVIwenJKZEg4ckdTM3hhcFMxNXpNSTZaaG1JNXVNcG5Rd0VGWWpOdDQzaTBPYTZlRl9xY0N5TDNHcG9xN3ltX3lTTzgtaWlWY0wwckV6OXpnbHo5YkFYWDc1c0JxTnE4VFpUWUpn?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Aging Boomers Are Key Factor Supporting Corporate Bond Market &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Aging Boomers Are Key Factor Supporting Corporate Bond Market - Bloomberg.com",
+"ts": 1794413681,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjhIWEpvTk1lVzdhRTJtZ1E3V2FZeEQyZTQ3YTVLOEN1eHZ1MHFJRXdRN0FIY2s1dW1OYlI5a0RSZFNqcmR6WmcwUVBPU3hZU0JTNTdwLXQ5Ym1xVlp5X2pITGgwMExWNVdDckFYUllmaVBlRllrXzdVSmRTeUZQU1JMaWUwa2N5RElObEQ4eFlrN0tlNHlGcFlJZDZTcTY4eHg5cUJzbWNQeVF1SkI2MlpaOVg3Zw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Texas Grid Boss Wants Data Centers to Cut Power Before Blackouts &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"Data Centers"
+],
+"title": "Texas Grid Boss Wants Data Centers to Cut Power Before Blackouts - Bloomberg.com",
+"ts": 1794426322,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ0FWZmNuMHFjNjJwTGFWV0lZZTluZmNKeGt1Y0Q4VEx2OGVJeThTNTRpc1Jrd3FiNVhDNWxVcWJvUkZ5ZmZ4T09uemJWS0xoOUx4cmVjWnQ0aC1qalRORWd5ODhDOEkwMjFrcG90SWJueU1YT0F4VmJKMVZLUFJsUHJudlFRaUgyVnRDd3dhMUtKeEdwc1BTZ2hzaDNtMjdsb0NybFJBaEVFXzNnUERDXzhyUVRrRExWbVA0S1ZYSndjVU0?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Trump ally Alina Habba Mildon faces New Jersey attorney ethics complaint &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Trump ally Alina Habba Mildon faces New Jersey attorney ethics complaint - Reuters",
+"ts": 1794426343,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-184-5019874",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Russia stocks higher at close of trade; MOEX Russia Index up 1.84%",
+"ts": 1794432003,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "MarketWatch",
+"summary": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule",
+"tags": [],
+"title": "Why this \u2018big idea\u2019 to fix Social Security relies on a massive stock-market gamble",
+"ts": 1794432060,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671006-3-things-to-look-out-for-on-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "3 things to look out for on Thursday",
+"ts": 1794432182,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671017-alvotech-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Alvotech reports Q3 results",
+"ts": 1794432200,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671020-fidelis-insurance-holdings-non-gaap-eps-of-1_00-beats-by-0_29-revenue-of-800_9m-beats-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Fidelis Insurance Holdings Non-GAAP EPS of $1.00 beats by $0.29, revenue of $800.9M beats by $92.89M",
+"ts": 1794432327,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671021-helius-medical-technologies-gaap-eps-of-1_17-beats-by-1_18-revenue-of-3_36m-beats-by-0_51m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Helius Medical Technologies GAAP EPS of $1.17 beats by $1.18, revenue of $3.36M beats by $0.51M",
+"ts": 1794432390,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4670988-microsoft-plans-to-pay-our-own-way-to-power-data-centers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"MSFT",
+"data centers"
+],
+"title": "Microsoft plans to 'pay our own way' to power data centers",
+"ts": 1794432395,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671013-eastgroup-says-q4-to-date-tracking-in-line-with-or-slightly-ahead-of-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "EastGroup says Q4 to date tracking in line with or slightly ahead of expectations",
+"ts": 1794432401,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671022-cargojet-non-gaap-eps-of-c121-revenue-of-c2865m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Cargojet Non-GAAP EPS of C$1.21, revenue of C$286.5M",
+"ts": 1794432504,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-11T19:00"
+"last_date": "2026-11-11T20:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +720,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-11T19:00"
+"last_date": "2026-11-11T20:00"
 },
 "FNG": {
 "cool": {},
@@ -578,11 +740,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-11T19:00"
+"last_date": "2026-11-11T20:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-11T19:00"
+"last_date": "2026-11-11T20:00"
 },
 "UST10Y": {
 "cool": {},
@@ -604,9 +766,9 @@
 },
 "last_date": "2026-11-10"
 },
-"_last_check": 0
+"_last_check": 1794432652.0559227
 },
-"last_run": 1794432126.46191,
+"last_run": 1794432690.5057206,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1101,6 +1263,7 @@
 "11f9b0ddd223596a": 1794090024.092463,
 "11fd33b4158ff8ec": 1794129624.9673119,
 "1217ffd245f4dca9": 1794162024.6325307,
+"121c268f22d630a2": 1794432640.6076887,
 "1225eb467912b288": 1794207655.353521,
 "124ce0839c089a43": 1794055787.7739694,
 "126064cb89683cb0": 1794296423.7597058,
@@ -1172,6 +1335,7 @@
 "147b479f6306c74a": 1794419428.8587933,
 "149779de01be80de": 1794207655.353521,
 "14988d1b6a1b06ea": 1794385221.6704128,
+"1499a5260a7adf23": 1794432640.6076887,
 "14a091bc92412a96": 1794067878.5266922,
 "14aa7d87d121c1b6": 1794212427.3416302,
 "14b47dd113f75c8d": 1794225653.3544042,
@@ -1422,6 +1586,7 @@
 "1d875d76877e3a18": 1794412225.421576,
 "1d8cf1a75b182d04": 1794295224.707564,
 "1da3beb89c51be8d": 1794058663.5416367,
+"1daba675f910cb98": 1794432640.6076887,
 "1dafc4846facc14c": 1794216024.5700488,
 "1db80f92d3070810": 1794316559.9411142,
 "1db90a5e108887aa": 1794294057.2981856,
@@ -2891,6 +3056,7 @@
 "4fa81f2077fb6c98": 1794415827.7010334,
 "4fa96ed6e84bed14": 1794412225.421576,
 "4fb08a5a47ddf49a": 1794217228.4060323,
+"4fc0cef186e76ec4": 1794432640.6076887,
 "4fca588ae42a52ab": 1794244224.5102243,
 "4fd6fac57e6f2b45": 1794264026.1524632,
 "4fdb5e1117051710": 1794400828.886451,
@@ -3225,6 +3391,7 @@
 "5bac82f23e2f1433": 1794207655.353521,
 "5bb072d741d8de2e": 1794066518.762267,
 "5bcb29a60c987f16": 1794294057.2981856,
+"5bcfcdd7cbeacbc3": 1794432640.6076887,
 "5bd7f32d0f3f6031": 1794121251.8481042,
 "5bdbb259e7a24988": 1794380451.074071,
 "5be47d717ac3aa7a": 1794225653.3544042,
@@ -3572,6 +3739,7 @@
 "6741d2736c095731": 1794294057.2981856,
 "6742c099322e2480": 1794337825.344606,
 "674e4d6f9dbfc7c1": 1794053146.8970654,
+"675987989996866b": 1794432640.6076887,
 "675b9b5ca3dc972e": 1794253825.980711,
 "67604c3b06eedd74": 1794394221.942005,
 "676c86935eb73fd7": 1794413426.5364234,
@@ -4096,6 +4264,7 @@
 "7b35752adb65ec9a": 1794220827.8644307,
 "7b39647fbbee833b": 1794257425.5432699,
 "7b3c15fb88e7135d": 1794221431.0905063,
+"7b485b66adbf4f9c": 1794432640.6076887,
 "7b5c738f53f5cd9f": 1794432030.7467659,
 "7b642870189dface": 1794430653.1918259,
 "7b6e2c72828331b4": 1794298825.0579662,
@@ -4104,6 +4273,7 @@
 "7b882b80ec97c8df": 1794222625.9546466,
 "7b88f08fe2aecea0": 1794380451.074071,
 "7b92f681b87d642d": 1794307825.328837,
+"7b97204b60de11eb": 1794432640.6076887,
 "7b9d41fe6e9c4b20": 1794129624.9673119,
 "7ba066d40e0c95f9": 1794053146.8970654,
 "7bbd92e0b3bca6d3": 1794090024.092463,
@@ -4485,6 +4655,7 @@
 "889fdcce72f495da": 1794298226.443851,
 "88a9e9a065bc6cc6": 1794297654.3266497,
 "88b2e8a811949be4": 1794421837.9147444,
+"88b4f2c407897d97": 1794432640.6076887,
 "88baae252278c6f7": 1794215424.0711486,
 "88bfb98045338bc6": 1794215424.0711486,
 "88c13d40b2ebf767": 1794425437.8749177,
@@ -5450,6 +5621,7 @@
 "abbd5af2dc4649aa": 1794262824.4868238,
 "abbe5edf050cb497": 1794066518.762267,
 "abd48f034991be70": 1794207655.353521,
+"abdb4c5cbfeaeea5": 1794432640.6076887,
 "abde2df0f0b8411c": 1794328242.1321893,
 "abe775b14db2e330": 1794213043.0947626,
 "abea81bd24e05a13": 1794256242.8438334,
@@ -5766,6 +5938,7 @@
 "b6d51fcab7a4ef08": 1794261654.088547,
 "b6d52835ab4db95e": 1794419428.8587933,
 "b6d669422edcab74": 1794295224.707564,
+"b6df28f5360d45d3": 1794432640.6076887,
 "b6e62567715a1906": 1794346823.352614,
 "b6e7c6f3388bd5a0": 1794294057.2981856,
 "b6f7af06069d3c77": 1794351653.6511967,
@@ -7321,6 +7494,7 @@
 "eda295963aa5ff70": 1794228023.5425556,
 "eda7d10e48712ff5": 1794391797.617886,
 "edaa2262c9add524": 1794323425.210853,
+"edb6a02c123cdd48": 1794432640.6076887,
 "edd3c57ec2bf693f": 1794426622.2772443,
 "edd40c33d5b10ac0": 1794425437.8749177,
 "edd5538a12d9cce2": 1794086423.3945913,
@@ -7938,6 +8112,7 @@
 "0490f95d55e17c38": 1794295841.2960658,
 "0499c94acda5f7e3": 1794250228.0065682,
 "049a2ca52656f9fa": 1794207655.353521,
+"049c2fac0386a56e": 1794432640.6076887,
 "049f32570473a349": 1794264625.8600426,
 "04afa96e78b474e4": 1794129624.9673119,
 "04ba1485fa52f3ab": 1794053146.8970654,
@@ -8798,6 +8973,7 @@
 "241a51e71ccb7732": 1794207655.353521,
 "241ad7108168584d": 1794380451.074071,
 "241e8ec53745f00b": 1794176424.6910276,
+"2422f564c2d6ce5b": 1794432640.6076887,
 "242fb8f33f37e785": 1794090024.092463,
 "24316f1746ef20f6": 1794420049.9604123,
 "2435184f93fe06eb": 1794294057.2981856,
@@ -10445,6 +10621,7 @@
 "62e4d05ed16aed3e": 1794225025.2256005,
 "62e4d24f64a6d715": 1794053146.8970654,
 "62e93eca640ef27b": 1794247875.6926105,
+"62f00baffc36536c": 1794432640.6076887,
 "630dbb11928a1b6a": 1794380451.074071,
 "6317d289b3a43264": 1794244826.386174,
 "631e39a8e1478b1c": 1794058663.5416367,
@@ -10553,6 +10730,7 @@
 "679a3a2c41dd221f": 1794346240.584557,
 "67b2a18161d999e5": 1794421837.9147444,
 "67d57ed318f9d673": 1794222054.6299663,
+"67dc50ea06a07ed0": 1794432640.6076887,
 "67dce307022d4100": 1794129624.9673119,
 "67e1b3e9a1367b70": 1794412225.421576,
 "67e34b3b92910bf9": 1794207655.353521,
@@ -10682,6 +10860,7 @@
 "6c0f5a321fdbbb15": 1794415827.7010334,
 "6c134cae61ef13bb": 1794345622.3845239,
 "6c18b0f666f83b70": 1794090024.092463,
+"6c20e53ebfcc6000": 1794432640.6076887,
 "6c336a202c5c30f3": 1794072025.2238693,
 "6c389bc0c926b162": 1794384051.3623385,
 "6c41bbc128526dee": 1794055787.7739694,
@@ -10760,6 +10939,7 @@
 "6f335b452e5560b6": 1794394221.942005,
 "6f3ae27bb5ee3d70": 1794380451.074071,
 "6f3d9a369a7124bf": 1794348622.3454998,
+"6f4b837f7c9e442d": 1794432640.6076887,
 "6f526f67cc67ec2b": 1794090024.092463,
 "6f566d8e1c7121c0": 1794223842.150146,
 "6f60acd8a53388f8": 1794430653.1918259,
@@ -10895,6 +11075,7 @@
 "749d72512ac9cfde": 1794243659.0740352,
 "74aa5a04ae274029": 1794380451.074071,
 "74ccdde49c77a6bb": 1794217823.792214,
+"74d8a1a0dff9eff6": 1794432640.6076887,
 "74da123d5715b750": 1794302427.8214426,
 "74dde72df6fae2f8": 1794306027.3632174,
 "74defab58e8ffa99": 1794380451.074071,
@@ -10940,6 +11121,7 @@
 "768a735c059c6838": 1794380451.074071,
 "7695618f25e956ae": 1794076826.2653458,
 "76973f8927f15846": 1794240054.5770936,
+"769b0777315e1665": 1794432640.6076887,
 "76a6525378543a41": 1794331841.6847267,
 "76be64c58994862a": 1794297654.3266497,
 "76c36e6529b7e8c5": 1794261654.088547,
@@ -13292,6 +13474,7 @@
 "cf65570cf016e521": 1794207655.353521,
 "cf69a6d869c68dd3": 1794325825.7082462,
 "cf6d24a21b4f74b4": 1794244826.386174,
+"cf87f699964f73cb": 1794432640.6076887,
 "cf8c003354100dd1": 1794384051.3623385,
 "cf91bee8cf1bbcdf": 1794243659.0740352,
 "cfa9f82f9bccd35a": 1794408026.6576438,
@@ -13570,6 +13753,7 @@
 "da51ae9af8d04dc4": 1794341426.2465568,
 "da5c6b5b828ac869": 1794053146.8970654,
 "da5d7f931031bfe4": 1794060010.396961,
+"da5ed7041c2d155f": 1794432640.6076887,
 "da66bc4315e17f02": 1794342640.7023919,
 "da69a8b04311b1bc": 1794325825.7082462,
 "da7c443f0af77065": 1794267040.2523782,
@@ -13959,6 +14143,7 @@
 "e891eb80058b83c1": 1794415827.7010334,
 "e898bb83f697ee47": 1794258625.424642,
 "e89e2347148e1cef": 1794420624.586875,
+"e8a04f2348ad7140": 1794432640.6076887,
 "e8b4e41e4506ee7c": 1794303626.3132353,
 "e8bfc18e60ade8d1": 1794327026.3092759,
 "e8c3bb56b219fe94": 1794333323.0978487,
@@ -14031,6 +14216,7 @@
 "eb56921960488c7a": 1794222625.9546466,
 "eb65ff046a185d5f": 1794351653.6511967,
 "eb67ebdba43531f8": 1794256242.8438334,
+"eb80635cdc0c9c0b": 1794432640.6076887,
 "eb8ac22a68a887d1": 1794384051.3623385,
 "eb8fdd45bab8029c": 1794207655.353521,
 "eb9ccc30dfa68446": 1794408622.988186,
