@@ -542,13 +542,83 @@
 "t": "11-11 09:41"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWpDR2FFRF9jcWtnaW1sNHhGWUJRMDRaQ3p5TTBwUzI4UmFGUUlEWlZSTHJPZEhha0xjSWhFWWJtRG96Rno1d1prbnpwdWpwZ0tXeWQ1YUtZNW1lZDkzZ1FWdkNLZXNkdkJSY0htMkVQSTBSLXgwazU5b1M3SjA0aDlsV0hmYTNUTlZReGt2QzhxVjcycFpMdDQ4d3dWY0NLNEh2X2NFQ3ZkMlpDNTZhX3RBUVk?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "India Eyes Wind Turbine Revamp to Boost Output, Bypass Land Woes &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "India Eyes Wind Turbine Revamp to Boost Output, Bypass Land Woes - Bloomberg.com",
+"ts": 1794376080,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXdDhxQTVLclRIWS0xU2l1R3pabHNBRWtRbFZ0MkFvYlAzNG1LZnBfNkhhNDJzSk9xMjZaUmlLTUU1WnlHSVJVT2QtSEwwcUowYVJfYjVjcmtZV1ZoU3JhbEk2OU1hbU1VYnhMcEFYc1pJOXhnMDVPMTNR?oc=5",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Jensen Huang probe puts Nvidia board's independence to test &nbsp;&nbsp; Reuters",
+"tags": [
+"NVDA"
+],
+"title": "Jensen Huang probe puts Nvidia board's independence to test - Reuters",
+"ts": 1794382078,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXVsSGc1QVNyTUVta0JreU05QTd0QndDbG5SU05lUUFPNmN3SVpBakM5TU0yV2pHVE9OVlpPdHRnZDBoek1PbXplai02WVZ4dENfUXBqQlM1WHlueHZuR2IwOEQySDZJcEVPWV9TQTBMNGFqMDZKRTNXbXFFR3BFYVhjZUpoZ21Wd1NuNFJNLVdvNlhJbTd5bjh2RjR5SUdOaXdxUXlDMTRoTGZjaHY3eF93?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters \u5b8f\u89c0",
+"summary": "Italy industrial output rebounds in September but third quarter weak &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Italy industrial output rebounds in September but third quarter weak - Reuters",
+"ts": 1794389504,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4670517-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"CRWV"
+],
+"title": "Stock futures rise as CoreWeave results boost tech sector",
+"ts": 1794390032,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Block",
+"summary": "A federal judge ruled New York can enforce gambling laws against Novig after finding its sports contracts are not swaps.",
+"tags": [],
+"title": "New York federal judge denies Novig\u2019s injunction bid, rules its sports event contracts are not swaps",
+"ts": 1794390046,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T22:00"
+"last_date": "2026-11-11T08:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,11 +628,11 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-10T22:00"
+"last_date": "2026-11-11T08:00"
 },
 "FNG": {
 "cool": {},
-"last_date": "2026-11-10"
+"last_date": "2026-11-11"
 },
 "HY_OAS": {
 "cool": {},
@@ -578,11 +648,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-10T22:00"
+"last_date": "2026-11-11T08:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-10T22:00"
+"last_date": "2026-11-11T08:00"
 },
 "UST10Y": {
 "cool": {},
@@ -596,17 +666,17 @@
 },
 "VIX": {
 "cool": {},
-"last_date": "2026-11-09"
+"last_date": "2026-11-10"
 },
 "VIX_TERM": {
 "cool": {
 "lv0-": "2026-11-09"
 },
-"last_date": "2026-11-09"
+"last_date": "2026-11-10"
 },
-"_last_check": 0
+"_last_check": 1794390632.118967
 },
-"last_run": 1794390126.4610658,
+"last_run": 1794390655.0248783,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -925,6 +995,7 @@
 "0d69fb0348c412a6": 1794381624.5089903,
 "0d6e663d602cb202": 1794210025.2421503,
 "0d7919b555bb6afb": 1794380451.074071,
+"0d7b716cf8b60da3": 1794390621.9689424,
 "0db7433eff812674": 1794214856.1278765,
 "0dc27cb860704de7": 1794055787.7739694,
 "0dc43fbf1dd717c7": 1794234645.282263,
@@ -1336,6 +1407,7 @@
 "1de29ecd9f60bbcb": 1794053146.8970654,
 "1de5d18c74c8ee67": 1794090024.092463,
 "1dec0b32dfc9bc68": 1794079839.2548869,
+"1e0fcf01202e108c": 1794390621.9689424,
 "1e14728ee1a0a0ae": 1794058663.5416367,
 "1e18b36f4345670d": 1794244826.386174,
 "1e1fb65a93add27e": 1794066518.762267,
@@ -3219,6 +3291,7 @@
 "68d160cbd88ba284": 1794053146.8970654,
 "68e8525e3308e84d": 1794380451.074071,
 "68f43cd88f187b94": 1794058663.5416367,
+"690ba2345ebca32e": 1794390621.9689424,
 "691972123dbfaabe": 1794294057.2981856,
 "691c6e331fdb8c3d": 1794093624.3200548,
 "691ce1dc276c08c4": 1794341426.2465568,
@@ -4924,6 +4997,7 @@
 "b0451a71d90eeb89": 1794259224.3903115,
 "b045de101dcf92ff": 1794349844.933684,
 "b04cce71745ff200": 1794058663.5416367,
+"b073d2da80188e65": 1794390621.9689424,
 "b09339660d211ff0": 1794317448.4307733,
 "b095c5fd7af79d5d": 1794340225.1290472,
 "b0965e8e51c021cb": 1794207655.353521,
@@ -5099,6 +5173,7 @@
 "b71af086df22c3f5": 1794305426.239695,
 "b7238f1b7cf85734": 1794318026.068809,
 "b725cd31dfea3f93": 1794121251.8481042,
+"b726fa7bd4f0096b": 1794390621.9689424,
 "b72fc632d3da43cd": 1794243026.4460754,
 "b73a5851a900e134": 1794219024.1165798,
 "b73a6ad95530585c": 1794295224.707564,
@@ -5169,6 +5244,7 @@
 "ba20842037cedb6c": 1794129624.9673119,
 "ba229def82de209d": 1794267626.597747,
 "ba25b8cf649a2276": 1794053146.8970654,
+"ba2b026e6cf3ca4d": 1794390621.9689424,
 "ba35d682ae9fa3b7": 1794380451.074071,
 "ba3c12628393c908": 1794207655.353521,
 "ba53b0b7cbbd61a4": 1794345622.3845239,
@@ -5800,6 +5876,7 @@
 "d2a73d07707b1f4a": 1794342640.7023919,
 "d2b7d3b2bc220e3a": 1794294057.2981856,
 "d2bb2672180d0964": 1794121251.8481042,
+"d2cfb908eb31e7a1": 1794390621.9689424,
 "d2d6d348c4ca5b20": 1794380451.074071,
 "d2d9908a9e070f5d": 1794299443.3490458,
 "d2e7ca47c54a6441": 1794207655.353521,
@@ -7359,6 +7436,7 @@
 "14fdce43c96e2567": 1794224423.8500595,
 "1506ad550e91feb6": 1794346240.584557,
 "150c88cf9df8d924": 1794090024.092463,
+"1527fd82801a79bf": 1794390621.9689424,
 "1532a48500267db4": 1794055787.7739694,
 "153bb709d6619880": 1794216024.5700488,
 "153d8547ef8d30f9": 1794208823.7725184,
@@ -8381,6 +8459,7 @@
 "3f10059d41a71822": 1794385221.6704128,
 "3f1683df0c7467be": 1794058663.5416367,
 "3f30600d13a4a824": 1794207655.353521,
+"3f33577f1dd657be": 1794390621.9689424,
 "3f45db1a31b042e5": 1794058663.5416367,
 "3f51bd38050c138c": 1794319254.2679577,
 "3f5693b18be0507b": 1794165625.0596616,
@@ -9031,6 +9110,7 @@
 "5dbb7056ec5ae169": 1794343223.611575,
 "5dbf556d04162838": 1794241843.488906,
 "5dc6fe1c22b9e449": 1794380451.074071,
+"5dc8f1224360c7b6": 1794390621.9689424,
 "5dd2b0f8e2f3acab": 1794294057.2981856,
 "5ddb2ee0dddd59c7": 1794294057.2981856,
 "5de0336484f46c46": 1794259850.2098105,
@@ -9231,6 +9311,7 @@
 "66467a41d52dfafb": 1794339044.0547247,
 "6676bbf55e3ecc35": 1794224423.8500595,
 "667edafcb94910a8": 1794247875.6926105,
+"6688ff323cdb7dc2": 1794390621.9689424,
 "668c69a014c309fd": 1794307223.432283,
 "66994805c952a695": 1794321626.205444,
 "66b002cb1396efcc": 1794129624.9673119,
@@ -9682,6 +9763,7 @@
 "7a7cdc042f805374": 1794053146.8970654,
 "7a8144428003f72b": 1794240627.3822312,
 "7a8c90cc558e9233": 1794384051.3623385,
+"7a9b850885b5b84a": 1794390621.9689424,
 "7acb45fd619c4efa": 1794318626.6609201,
 "7acf79c5a4131481": 1794207655.353521,
 "7af24387f614febf": 1794147624.409764,
@@ -10707,6 +10789,7 @@
 "a7a106fb37f1a1ad": 1794241843.488906,
 "a7c676da2960c3e8": 1794328242.1321893,
 "a7cb01052414dd9d": 1794325825.7082462,
+"a7e48be5769473fc": 1794390621.9689424,
 "a7e4cc7f27468eca": 1794125424.4951053,
 "a7f570746144562e": 1794327026.3092759,
 "a801493cfed9314f": 1794241225.0884333,
@@ -10894,6 +10977,7 @@
 "afe19524f0f8ed23": 1794316559.9411142,
 "afe42ccda108a503": 1794129624.9673119,
 "afe61d013b88da46": 1794381624.5089903,
+"afe636baeeeb7946": 1794390621.9689424,
 "aff7a98835d1949e": 1794144023.650658,
 "b007153b82f7bed1": 1794256827.896565,
 "b0160536fee43fd6": 1794261023.1557755,
