@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794438086.5398767,
+"ai_last_review": 1794439234.4998739,
 "ai_log": [
-{
-"err": "",
-"kept": 5,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 28,
-"ok": true,
-"t": "11-10 19:32"
-},
 {
 "err": "",
 "kept": 5,
@@ -540,114 +531,18 @@
 "n": 21,
 "ok": true,
 "t": "11-11 23:01"
+},
+{
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 10,
+"ok": true,
+"t": "11-11 23:20"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Democrat Scott Colom defeats incumbent Cindy Hyde-Smith, CNN projects &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Democrat Scott Colom defeats incumbent Cindy Hyde-Smith, CNN projects - Reuters",
-"ts": 1794435401,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/ingram-micro-jumps-after-securing-spot-in-sp-smallcap-600-5020004",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Ingram Micro jumps after securing spot in S&P SmallCap 600",
-"ts": 1794437064,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/fitch-places-paraguays-rating-on-watch-for-possible-downgrade-after-ueno-collapse-5020014",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Fitch places Paraguay\u2019s rating on watch for possible downgrade after ueno collapse",
-"ts": 1794437301,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/msci-to-drop-strategy-from-global-indexes-putting-billions-in-passive-fund-inflows-at-risk-5020015",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "MSCI to drop Strategy from global indexes, putting billions in passive fund inflows at risk",
-"ts": 1794437330,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671066-integra-resources-corp-non-gaap-eps-of-0_06-in-line-revenue-of-72_4m-beats-by-1_03m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Integra Resources Corp. Non-GAAP EPS of $0.06 in-line, revenue of $72.4M beats by $1.03M",
-"ts": 1794437876,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670591-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Here are the major earnings before the open Thursday",
-"ts": 1794438052,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/strategy-shares-fall-after-msci-confirms-deletion-from-us-largecap-benchmark-5020038",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Strategy shares fall after MSCI confirms deletion from US large-cap benchmark",
-"ts": 1794438138,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Block",
-"summary": "Strategy had opposed MSCI\u2019s rules, arguing exclusion would harm its reputation as a neutral provider.",
-"tags": [],
-"title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
-"ts": 1794438563,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -711,7 +606,7 @@
 },
 "_last_check": 1794438632.4522152
 },
-"last_run": 1794438655.3182666,
+"last_run": 1794439240.832985,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1497,6 +1392,7 @@
 "1b17749b5047e86e": 1794228023.5425556,
 "1b1d3e9d6ab8763b": 1794342025.2153375,
 "1b239dc21c56825f": 1794347425.5105855,
+"1b36b8e3ebf5f1ec": 1794439220.8457704,
 "1b5425d9df74e231": 1794121251.8481042,
 "1b54c087d21d5acf": 1794129624.9673119,
 "1b5b3f78a4d9fd71": 1794294057.2981856,
@@ -1726,6 +1622,7 @@
 "2381647e6ffb70ec": 1794398452.8861506,
 "23850c0060637492": 1794053146.8970654,
 "23876a8cbe6debde": 1794085249.7228966,
+"238c104a6ca50c73": 1794439220.8457704,
 "23975c2c0060ae3a": 1794408026.6576438,
 "239a62149e276cfe": 1794165625.0596616,
 "23aaaea2afadded5": 1794294057.2981856,
@@ -2648,6 +2545,7 @@
 "421b09f1b5c248df": 1794304852.8805614,
 "4220d78f6525f2d7": 1794218488.7102273,
 "423939e40a0c7002": 1794223228.835452,
+"423c0f8ee83054ac": 1794439220.8457704,
 "423d05e2e74f13c9": 1794058663.5416367,
 "423f5ec6702042e1": 1794312627.9335868,
 "424219e08cabc20f": 1794383424.7516904,
@@ -3948,6 +3846,7 @@
 "6e90342335fde5dd": 1794090024.092463,
 "6ea289cec702c8d8": 1794300023.3124595,
 "6eabfb332c01ab46": 1794084624.3653798,
+"6eb7e378a46d6c46": 1794439220.8457704,
 "6ec63ee1d6f25407": 1794322224.436821,
 "6eca12f7b2750bdd": 1794413426.5364234,
 "6ed5a3e1c7dcca0c": 1794306027.3632174,
@@ -4766,6 +4665,7 @@
 "8b8e8a1c34824ee5": 1794437999.1397626,
 "8b934ffec9ef8491": 1794222054.6299663,
 "8b9ea21cb0a6427d": 1794315657.2528052,
+"8ba1ae3de44b2510": 1794439220.8457704,
 "8ba411e70571e08d": 1794404423.5930965,
 "8baa6332ec44e3cc": 1794426025.3083632,
 "8baa98fd7664b246": 1794151225.6597934,
@@ -9769,6 +9669,7 @@
 "3b2e4342f3d2a543": 1794430653.1918259,
 "3b2f23cc5094b536": 1794295224.707564,
 "3b38116452533370": 1794158423.5148294,
+"3b3e752dff5eb540": 1794439220.8457704,
 "3b46e735e645cd5a": 1794136824.1662278,
 "3b55a3eaaa883415": 1794409250.9206789,
 "3b568115096372e9": 1794180024.180841,
@@ -10103,6 +10004,7 @@
 "49454804824b841e": 1794232853.9654045,
 "494f1dea910c775c": 1794224423.8500595,
 "494f8dbb297f022d": 1794396028.9722972,
+"4954ee92f657aac3": 1794439220.8457704,
 "495588f1cc91b6e7": 1794393621.6505487,
 "4981fe93bb91dfb3": 1794136824.1662278,
 "498c2efa5ab83b52": 1794232224.3910127,
@@ -12535,6 +12437,7 @@
 "a50d62e52bda6008": 1794073224.1004374,
 "a537bc02b380e488": 1794053146.8970654,
 "a538bf9146b56134": 1794217823.792214,
+"a538e3431bc05cc8": 1794439220.8457704,
 "a53a4e1f6c31efbe": 1794380451.074071,
 "a544ea9da8230cd8": 1794416450.9334848,
 "a545fec7e9a0ece6": 1794228625.7348583,
@@ -14937,6 +14840,7 @@
 "fc78d529d43118c8": 1794414698.6025398,
 "fc8470b4dc47c978": 1794207655.353521,
 "fc8b4785e685502d": 1794437421.737116,
+"fc8e98f6c47b6e5b": 1794439220.8457704,
 "fc940a04f08352d0": 1794435021.8575943,
 "fc9f7c57210606de": 1794404423.5930965,
 "fcb1d5e57703e262": 1794297025.7499537,
