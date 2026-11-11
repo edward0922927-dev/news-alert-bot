@@ -542,13 +542,58 @@
 "t": "11-11 19:51"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4670937-nomura-considers-selling-its-laser-digital-crypto-division---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Nomura considers selling its Laser Digital Crypto division - report",
+"ts": 1794426473,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4670939-alphabets-deepmind-unveils-new-alphagenome-2-model-aimed-at-reading-dna-cells?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"GOOGL"
+],
+"title": "Alphabet's DeepMind unveils new AlphaGenome 2 model aimed at reading DNA cells",
+"ts": 1794426483,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/news/hacks/arkham-traces-63-million-in-bitget-hack-funds-to-coinjoin",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "The firm traced 847.26 BTC into mixing transactions and reported another 959.29 BTC in labelled wallets, as recovery efforts continue.",
+"tags": [
+"BTC",
+"Hack"
+],
+"title": "Arkham Traces $63 Million in Bitget Hack Funds to CoinJoin",
+"ts": 1794426904,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-11T17:00"
+"last_date": "2026-11-11T19:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +603,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-11T17:00"
+"last_date": "2026-11-11T19:00"
 },
 "FNG": {
 "cool": {},
@@ -578,11 +623,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-11T17:00"
+"last_date": "2026-11-11T19:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-11T17:00"
+"last_date": "2026-11-11T19:00"
 },
 "UST10Y": {
 "cool": {},
@@ -604,9 +649,9 @@
 },
 "last_date": "2026-11-10"
 },
-"_last_check": 0
+"_last_check": 1794427257.9125094
 },
-"last_run": 1794426711.6209567,
+"last_run": 1794427279.906528,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -650,6 +695,7 @@
 "00401a848f64b5d4": 1794380451.074071,
 "0047b58092bacccc": 1794207655.353521,
 "00562872fdad63cf": 1794329428.1954625,
+"005b6690c40bd5de": 1794427247.0746734,
 "005e06aabaa44c40": 1794337825.344606,
 "0060d90ed4c14936": 1794314423.5789354,
 "0061bb83e58c3e81": 1794235227.58563,
@@ -2328,6 +2374,7 @@
 "3d6df378f03be87d": 1794330055.137018,
 "3d7104c8580e7139": 1794243026.4460754,
 "3d7c77d797794ed2": 1794328242.1321893,
+"3d858d58bca27116": 1794427247.0746734,
 "3d8f81f297ae8ce1": 1794090024.092463,
 "3d9fa47d925a4f27": 1794176424.6910276,
 "3da52cf6f294b6be": 1794349221.7950053,
@@ -2674,6 +2721,7 @@
 "48e4d1896fc4ca13": 1794158423.5148294,
 "48f027c0ddcabb9a": 1794327630.5502307,
 "49174b8e765bc0a7": 1794151225.6597934,
+"4917e317f23832eb": 1794427247.0746734,
 "491db4f5851da273": 1794423022.5466254,
 "49221c079be48510": 1794129624.9673119,
 "4922f8bcf9c747d1": 1794411039.5612423,
@@ -3526,6 +3574,7 @@
 "66f7f42fb4f6a8ae": 1794380451.074071,
 "670bc7d5b153a822": 1794090024.092463,
 "671104c59d63b917": 1794241843.488906,
+"671c798d69b67f57": 1794427247.0746734,
 "671ff9b203f6cfd7": 1794328242.1321893,
 "673157fd46174d94": 1794090024.092463,
 "67399b490d4ca264": 1794380451.074071,
@@ -6325,6 +6374,7 @@
 "cbfb81b6ac0d6459": 1794121251.8481042,
 "cc0d39e92c010a15": 1794226224.6034505,
 "cc14d4200de79b55": 1794053146.8970654,
+"cc33b9cc58b13b8f": 1794427247.0746734,
 "cc400c1edaa340a8": 1794340225.1290472,
 "cc43b44319c19006": 1794401423.3914762,
 "cc44032b4875712c": 1794258625.424642,
@@ -6807,6 +6857,7 @@
 "dc68c24c8c2d66da": 1794387652.7155762,
 "dc851e1beab0fff4": 1794250859.8781228,
 "dc9028cc1c8f0741": 1794351023.4319475,
+"dc90941e8f8f0f2d": 1794427247.0746734,
 "dc91ce0eca632ba5": 1794294057.2981856,
 "dc98ccab37a0505c": 1794121251.8481042,
 "dca74ec5280e3473": 1794222625.9546466,
@@ -9671,6 +9722,7 @@
 "4a06bdee883767bc": 1794380451.074071,
 "4a0a19dd8103ddde": 1794406825.281866,
 "4a1ae31bc6ae92ea": 1794090024.092463,
+"4a21711474bc3129": 1794427247.0746734,
 "4a4bbd27cebfe778": 1794420049.9604123,
 "4a588874bb6baf2c": 1794324648.7021484,
 "4a69dbaca94e5af7": 1794294057.2981856,
@@ -10569,6 +10621,7 @@
 "6cec8f5e565a2d27": 1794400239.7773461,
 "6cf1a4a202ba9320": 1794207655.353521,
 "6d0927604d679542": 1794397829.6326773,
+"6d0b216c624afa49": 1794427247.0746734,
 "6d120d4c0bfbd01d": 1794336024.4023893,
 "6d193d52527db278": 1794234645.282263,
 "6d2470a46fcc5a03": 1794066518.762267,
@@ -11934,6 +11987,7 @@
 "a2ec9909b7e9bb3a": 1794380451.074071,
 "a2f0d67ea6f4f414": 1794090024.092463,
 "a2f811440fe9b627": 1794053146.8970654,
+"a301fbf323c7c745": 1794427247.0746734,
 "a30680e480585b38": 1794090024.092463,
 "a31050b41212cb88": 1794090024.092463,
 "a3174105b589b903": 1794053146.8970654,
@@ -12775,6 +12829,7 @@
 "c2a224a984c48851": 1794090024.092463,
 "c2a85683f4126d80": 1794342025.2153375,
 "c2a8f3e7a1a9ce76": 1794180024.180841,
+"c2abffffa51d7de0": 1794427247.0746734,
 "c2b293a4dad41488": 1794426622.2772443,
 "c2b606bba989c500": 1794424831.721633,
 "c2bc049262c6ef5f": 1794311424.003163,
@@ -12959,6 +13014,7 @@
 "c9c64963df82d5a6": 1794380451.074071,
 "c9c822589f4db35d": 1794347425.5105855,
 "c9db22b73a5bfad6": 1794212427.3416302,
+"c9e183ab80e12390": 1794427247.0746734,
 "c9e307910d79966e": 1794075023.4417136,
 "c9ea87206b390ebc": 1794090024.092463,
 "c9ebe7b26da2cb96": 1794294057.2981856,
