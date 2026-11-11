@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794390118.2112167,
+"ai_last_review": 1794391263.0326266,
 "ai_log": [
-{
-"err": "",
-"kept": 1,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 5,
-"ok": true,
-"t": "11-09 23:49"
-},
 {
 "err": "",
 "kept": 53,
@@ -540,79 +531,18 @@
 "n": 11,
 "ok": true,
 "t": "11-11 09:41"
+},
+{
+"err": "",
+"kept": 2,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 7,
+"ok": true,
+"t": "11-11 10:01"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWpDR2FFRF9jcWtnaW1sNHhGWUJRMDRaQ3p5TTBwUzI4UmFGUUlEWlZSTHJPZEhha0xjSWhFWWJtRG96Rno1d1prbnpwdWpwZ0tXeWQ1YUtZNW1lZDkzZ1FWdkNLZXNkdkJSY0htMkVQSTBSLXgwazU5b1M3SjA0aDlsV0hmYTNUTlZReGt2QzhxVjcycFpMdDQ4d3dWY0NLNEh2X2NFQ3ZkMlpDNTZhX3RBUVk?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "India Eyes Wind Turbine Revamp to Boost Output, Bypass Land Woes &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "India Eyes Wind Turbine Revamp to Boost Output, Bypass Land Woes - Bloomberg.com",
-"ts": 1794376080,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXdDhxQTVLclRIWS0xU2l1R3pabHNBRWtRbFZ0MkFvYlAzNG1LZnBfNkhhNDJzSk9xMjZaUmlLTUU1WnlHSVJVT2QtSEwwcUowYVJfYjVjcmtZV1ZoU3JhbEk2OU1hbU1VYnhMcEFYc1pJOXhnMDVPMTNR?oc=5",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Jensen Huang probe puts Nvidia board's independence to test &nbsp;&nbsp; Reuters",
-"tags": [
-"NVDA"
-],
-"title": "Jensen Huang probe puts Nvidia board's independence to test - Reuters",
-"ts": 1794382078,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXVsSGc1QVNyTUVta0JreU05QTd0QndDbG5SU05lUUFPNmN3SVpBakM5TU0yV2pHVE9OVlpPdHRnZDBoek1PbXplai02WVZ4dENfUXBqQlM1WHlueHZuR2IwOEQySDZJcEVPWV9TQTBMNGFqMDZKRTNXbXFFR3BFYVhjZUpoZ21Wd1NuNFJNLVdvNlhJbTd5bjh2RjR5SUdOaXdxUXlDMTRoTGZjaHY3eF93?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters \u5b8f\u89c0",
-"summary": "Italy industrial output rebounds in September but third quarter weak &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Italy industrial output rebounds in September but third quarter weak - Reuters",
-"ts": 1794389504,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670517-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"CRWV"
-],
-"title": "Stock futures rise as CoreWeave results boost tech sector",
-"ts": 1794390032,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Block",
-"summary": "A federal judge ruled New York can enforce gambling laws against Novig after finding its sports contracts are not swaps.",
-"tags": [],
-"title": "New York federal judge denies Novig\u2019s injunction bid, rules its sports event contracts are not swaps",
-"ts": 1794390046,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -676,7 +606,7 @@
 },
 "_last_check": 1794390632.118967
 },
-"last_run": 1794390655.0248783,
+"last_run": 1794391267.4851427,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1776,6 +1706,7 @@
 "2c02e2fca8301f72": 1794352223.2402766,
 "2c260048c050a940": 1794207655.353521,
 "2c35f114a071968d": 1794169225.368316,
+"2c3927ccc6df3bac": 1794391247.467394,
 "2c46802aa3b78920": 1794223842.150146,
 "2c4bd4e5bd726673": 1794180024.180841,
 "2c4c18ded5cc7a1c": 1794053146.8970654,
@@ -2102,6 +2033,7 @@
 "396a7e73961d8353": 1794078625.195159,
 "396fd58eadfea84b": 1794090024.092463,
 "397b2a0ab656be5e": 1794294057.2981856,
+"397ff4e20bec4b62": 1794391247.467394,
 "398731fe2a39addb": 1794338424.1118333,
 "39956752b90b58cf": 1794306641.07634,
 "3995ece0fe3a6bfb": 1794250228.0065682,
@@ -2215,6 +2147,7 @@
 "3e085427dd2e22f0": 1794294057.2981856,
 "3e09251a28dca46e": 1794207655.353521,
 "3e0c129ae5d2882a": 1794328242.1321893,
+"3e329960ee9526ff": 1794391247.467394,
 "3e3ca1b3a14f3401": 1794303041.7631679,
 "3e43092c19b82129": 1794151225.6597934,
 "3e49e2ed8d8a2136": 1794384051.3623385,
@@ -2392,6 +2325,7 @@
 "4434b3731bab00da": 1794263443.2975552,
 "443a0a7b79e93533": 1794294057.2981856,
 "443f50571fce0dc3": 1794313222.9578052,
+"44416987f5d35d81": 1794391247.467394,
 "445cda2e44c18ecb": 1794090024.092463,
 "446954b287328b49": 1794053146.8970654,
 "4485150984564ce3": 1794305426.239695,
@@ -2579,6 +2513,7 @@
 "4bb72ac86e4a2718": 1794387024.263017,
 "4bba409b59a78e5e": 1794380451.074071,
 "4bc6405ca3c68d29": 1794082823.0034523,
+"4bcbdb5edb604377": 1794391247.467394,
 "4bd20e5fb833a4f4": 1794298825.0579662,
 "4bd3cb85bdbe13a1": 1794353439.0629678,
 "4bdd5e09335ec721": 1794380451.074071,
@@ -2734,6 +2669,7 @@
 "51dbbac2413210ce": 1794053146.8970654,
 "51e74d380b58132a": 1794053146.8970654,
 "51e7c17cd64fca1c": 1794090024.092463,
+"51e96224b9e33b80": 1794391247.467394,
 "51eee03821111d3a": 1794053146.8970654,
 "51f2e3a26271f0c5": 1794230425.0439425,
 "51fee83dc6ddeff8": 1794211253.7643282,
@@ -2800,6 +2736,7 @@
 "551a53f408bb391e": 1794258625.424642,
 "551dc7f2fa851384": 1794121251.8481042,
 "552270647ca2c7a9": 1794072642.3225284,
+"5527477f4c54c816": 1794391247.467394,
 "55296bfd5558a5e0": 1794304852.8805614,
 "555e883a4924533f": 1794305426.239695,
 "55646b9038bf905a": 1794302427.8214426,
@@ -7103,6 +7040,7 @@
 "06c673f945a562fd": 1794060010.396961,
 "06ca023342c0843a": 1794346240.584557,
 "06cd769300ebf429": 1794053146.8970654,
+"06e72b491ac8a1ee": 1794391247.467394,
 "06e7d42e2fc6f568": 1794343822.9605784,
 "06e9e4dbe90bb79a": 1794332440.321116,
 "06f1a4fb150c4bbd": 1794316559.9411142,
@@ -9461,6 +9399,7 @@
 "6ca7073a1513f418": 1794207655.353521,
 "6cbcacb7f4b9fa88": 1794055787.7739694,
 "6cd40b97827fb7e0": 1794227444.8368437,
+"6ce948c83d5abbf1": 1794391247.467394,
 "6cf1a4a202ba9320": 1794207655.353521,
 "6d120d4c0bfbd01d": 1794336024.4023893,
 "6d193d52527db278": 1794234645.282263,
@@ -9469,6 +9408,7 @@
 "6d2ff1afcc6c1ff7": 1794079839.2548869,
 "6d3bf2cb03f1fbbc": 1794221431.0905063,
 "6d5730756f85848a": 1794386422.9841938,
+"6d5afbe156451b55": 1794391247.467394,
 "6d67bc93f203c3c9": 1794229254.159377,
 "6d6a6145670fb3f4": 1794318026.068809,
 "6d751fa9a41e37c6": 1794226823.8223224,
@@ -9890,6 +9830,7 @@
 "80c5958bd5aebe92": 1794053146.8970654,
 "80d3fda01eaa9e1a": 1794070853.5888453,
 "80d78c95bbd21180": 1794294057.2981856,
+"80e78178dc8a4f26": 1794391247.467394,
 "81173b98e1a40013": 1794301258.7214239,
 "8128133e19dfe4c3": 1794133224.9019783,
 "8128ede51932d1fb": 1794302427.8214426,
@@ -10184,6 +10125,7 @@
 "8df5fe523a08e5b8": 1794380451.074071,
 "8df678db327b63cc": 1794214856.1278765,
 "8df95f6790001934": 1794329428.1954625,
+"8dfeeb97216f5916": 1794391247.467394,
 "8e085f71a18a0e2d": 1794294057.2981856,
 "8e128db330a4e932": 1794207655.353521,
 "8e1f55f5ed8dc25e": 1794207655.353521,
@@ -10551,6 +10493,7 @@
 "9ddfd60c4db4e625": 1794129624.9673119,
 "9de48401e47336f3": 1794223228.835452,
 "9de917a8745b3747": 1794060010.396961,
+"9de91bc32e6e1b80": 1794391247.467394,
 "9dec7b6da0be07f5": 1794230425.0439425,
 "9e119ba7b539e6f5": 1794265255.9845357,
 "9e15bd94a644efc8": 1794078057.3592389,
@@ -10844,6 +10787,7 @@
 "aa1a99929688e752": 1794058663.5416367,
 "aa24934649144d11": 1794176424.6910276,
 "aa3ec483ffaf146a": 1794380451.074071,
+"aa4103e9ff77f0fc": 1794391247.467394,
 "aa5228e7a0c13795": 1794067878.5266922,
 "aa54041f57deca66": 1794303626.3132353,
 "aa55c39c3579cc5b": 1794295841.2960658,
