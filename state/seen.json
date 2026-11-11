@@ -542,7 +542,62 @@
 "t": "11-11 18:11"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4670906-gamco-global-gold-natural-resources-and-income-trust-declares-0_035-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "GAMCO Global Gold, Natural Resources & Income Trust declares $0.035 dividend",
+"ts": 1794420376,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4670856-tech-rally-takes-dell-technologies-higher-by-14?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Tech rally takes Dell Technologies higher by 14%",
+"ts": 1794420391,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4670897-apple-iphone-18-pro-wait-times-near-zero-ubs-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Apple iPhone 18 Pro wait times near zero: UBS data",
+"ts": 1794420458,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_rss_topstories",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "MarketWatch",
+"summary": "A Bernstein analyst thinks two key investor concerns will soon subside.",
+"tags": [
+"ORCL"
+],
+"title": "Oracle\u2019s stock is totally misunderstood and should be a \u2018go-to\u2019 AI play, says this analyst",
+"ts": 1794420780,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -606,7 +661,7 @@
 },
 "_last_check": 1794420634.968813
 },
-"last_run": 1794420692.6097803,
+"last_run": 1794421233.3740487,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -710,6 +765,7 @@
 "02d606bfe8b2cb9c": 1794256827.896565,
 "02d942179eef4591": 1794380451.074071,
 "02dbbfb2b39c685e": 1794307825.328837,
+"02fc12b3fa3b124a": 1794421222.2998455,
 "02fd7560041ffdf2": 1794053146.8970654,
 "0300f480cee9e96a": 1794262824.4868238,
 "0304da38dfddf6bc": 1794294057.2981856,
@@ -820,6 +876,7 @@
 "07f4047e71348888": 1794342640.7023919,
 "07f55cfab9ca3152": 1794380451.074071,
 "07fd695d26284215": 1794227444.8368437,
+"0804e9128f755324": 1794421222.2998455,
 "081d6a08eec91b1c": 1794319825.0401058,
 "082e093ab87ec6cc": 1794207655.353521,
 "0833789e200b5809": 1794395417.5307865,
@@ -1501,6 +1558,7 @@
 "2149edb8bc9a7d3a": 1794393041.7139091,
 "21536b340ba0cd20": 1794388822.6516917,
 "215af0bda36d9abd": 1794211829.3207283,
+"217cbd15a538dc84": 1794421222.2998455,
 "2180118d9d585e7e": 1794249071.019277,
 "2181f6640777ce48": 1794247257.3744018,
 "21876eb939b7c8e4": 1794397829.6326773,
@@ -2309,6 +2367,7 @@
 "3dbb259fa2e3705e": 1794225025.2256005,
 "3dc67c4d4a78ee0b": 1794207655.353521,
 "3de32bbf0bda983e": 1794327026.3092759,
+"3de547295ceafb5b": 1794421222.2998455,
 "3de837f8df62f7f3": 1794339044.0547247,
 "3e085427dd2e22f0": 1794294057.2981856,
 "3e09251a28dca46e": 1794207655.353521,
@@ -3433,6 +3492,7 @@
 "655761a736f27c87": 1794397829.6326773,
 "6558198ee6fa4b63": 1794330627.8580275,
 "655ff6b95996f6ec": 1794397224.4272263,
+"656a62b937d441b5": 1794421222.2998455,
 "657616c5b2fac8da": 1794266430.1008153,
 "65793966a64397b0": 1794321043.2025392,
 "657b66a6e5a2d146": 1794328242.1321893,
@@ -4881,6 +4941,7 @@
 "9c8c41b07d154a42": 1794334224.0104544,
 "9c8d99a56c689f43": 1794405024.213529,
 "9c9c3ec08a1ab18e": 1794053146.8970654,
+"9c9cfd61592e80b9": 1794421222.2998455,
 "9ca9e800328a4f17": 1794313222.9578052,
 "9cae12932f09e79a": 1794349844.933684,
 "9caefb8839d282bc": 1794076826.2653458,
@@ -7737,6 +7798,7 @@
 "052df486bf081db5": 1794310242.809073,
 "053fdc17537a7a5c": 1794237626.3538754,
 "0540993ae52d7162": 1794053146.8970654,
+"05475a55cef1b487": 1794421222.2998455,
 "054aa435628e1c7b": 1794058663.5416367,
 "054f9b066b968001": 1794384051.3623385,
 "055200451821ee42": 1794207655.353521,
@@ -7767,6 +7829,7 @@
 "067fca58f9918daf": 1794053146.8970654,
 "0695b002564946fa": 1794090024.092463,
 "069b65b65e894efc": 1794090024.092463,
+"06aa39a68734700a": 1794421222.2998455,
 "06b042d2da597c1b": 1794207655.353521,
 "06c673f945a562fd": 1794060010.396961,
 "06ca023342c0843a": 1794346240.584557,
@@ -9687,6 +9750,7 @@
 "5078cd03c695b53e": 1794085825.1416018,
 "507b5bbd08c702fe": 1794053146.8970654,
 "507f9879b58c4db0": 1794343223.611575,
+"50928dd9a47a40f2": 1794421222.2998455,
 "509ee415579a5736": 1794090024.092463,
 "50a2ab2385cbd6c7": 1794317448.4307733,
 "50a6321af9fabfd7": 1794090024.092463,
@@ -10000,6 +10064,7 @@
 "5d6a93d9cf79bf17": 1794180024.180841,
 "5d6c17205930fec8": 1794266430.1008153,
 "5d6d670b2c57e945": 1794090024.092463,
+"5d7934cfc89aaf47": 1794421222.2998455,
 "5d97f5db3b3307f4": 1794337825.344606,
 "5da3958b6e255bfe": 1794090024.092463,
 "5da8c392f53939ac": 1794329428.1954625,
@@ -11716,6 +11781,7 @@
 "a1c22d4655e82306": 1794207655.353521,
 "a1cf62af599e2c24": 1794077422.772458,
 "a1d0a6ddafea67eb": 1794232853.9654045,
+"a1e90eaf93b34788": 1794421222.2998455,
 "a1eefaafe6600ce2": 1794140423.8128505,
 "a1f6eba9b3b5eef5": 1794380451.074071,
 "a1f8cdc763a07114": 1794417111.777808,
@@ -13385,6 +13451,7 @@
 "e1b102ce75db0a26": 1794294057.2981856,
 "e1b34a1ca8294b1b": 1794069624.2005684,
 "e1b689609d76de47": 1794129624.9673119,
+"e1c4cbd81c91a008": 1794421222.2998455,
 "e1c4d164c1d4b4b8": 1794053146.8970654,
 "e1c8aa3923993645": 1794334224.0104544,
 "e1d49c39aa1ab50c": 1794380451.074071,
