@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794436912.0744932,
+"ai_last_review": 1794438086.5398767,
 "ai_log": [
-{
-"err": "",
-"kept": 1,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 16,
-"ok": true,
-"t": "11-10 19:11"
-},
 {
 "err": "",
 "kept": 5,
@@ -540,181 +531,18 @@
 "n": 23,
 "ok": true,
 "t": "11-11 22:41"
+},
+{
+"err": "",
+"kept": 6,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 21,
+"ok": true,
+"t": "11-11 23:01"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXJHM3IyZ2pKbGQxZnlweUxZeFZwZFppUWxpdjJ2TmpyLWFkM1NjVDBwV01Icno3SV9QSG0xVlQwU1dGQ2lYWmR4SUpuU0FPNTFXSWtwYllacWNzSmJ2azlqQjhSTW5EUzhuWVNqRUltSnlWRi1mOVJpRjlYcHpHWjNDdFJZR1Yzd0J0b0JtQXZrSExTazBDVnBxMDNwRDVua2ljN2xwNFVuS2pKbkhEaG9Zc2tRMUNvS0E?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "China's foreign minister says call with Rubio was 'positive and constructive' &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "China's foreign minister says call with Rubio was 'positive and constructive' - Reuters",
-"ts": 1794420833,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdzFfekpjalpRX0V3RkVtc1kxZW1HOXFFamJWeURrZUx1NG4wa3lod05DdUdRaGwzaTRUZ1p4emJmZ1FMQUR4cWpGcjBjdHo0VktxVEM4bThkaWthanI0TWh3bENRcUgwOXNzN3VuUVpRMXk2b25RN19FbU0yOHo3dHlXUm9yMzRSTkhNck1SLWxKcUNVTmJKRnBoMWVyNnBUemttTXYwV0JkWVRTeGY0OXFJajdPT0FoaG1teUtZdWVDejA3MC02d1RSYW10bWFERGlvMQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Commerce Sec. Lutnick stalled Pres. Trump's Nvidia China chip curbs after talks, according to Axios &nbsp;&nbsp; CNBC",
-"tags": [
-"NVDA"
-],
-"title": "Commerce Sec. Lutnick stalled Pres. Trump's Nvidia China chip curbs after talks, according to Axios - CNBC",
-"ts": 1794434208,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEE3UFpaMnQxclM2a1dtMHJfdEd2SS1SX09wd2ZkMW40Mi1FUHRTSE4xTml4dzNMTFdFY0Q2NFd1YXluWWQ5TDRaOVJLVkplYTBwYk5fZGxwY0tzZnNHdkJRQ2RmMF9ra2R3V3UwUHl4QkRIci1nVThCVFo4WmJiU0o5UzZSWGoxZ3BCa29yQU1PbGpKeDV3SHNqOFJnd2MyalBhanIxXzJXQVE?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Democrat Scott Colom Wins Mississippi Senate Race, CNN Projects &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Democrat Scott Colom Wins Mississippi Senate Race, CNN Projects - Bloomberg.com",
-"ts": 1794435575,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/moodys-cuts-builders-firstsource-to-ba2-on-housing-slump-and-rising-leverage-5019976",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Moody\u2019s cuts Builders FirstSource to Ba2 on housing slump and rising leverage",
-"ts": 1794436000,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjhIX3k5M1lydG1mVFMtaERhRGRZRHFDeC1tVzVqQ0hqeVRpQWNHZElZWXFUdzBXWWRodDVsUzQ2TTlTOTMwNVFCdVU4bExPeXhwNmxWcGJGQWh2VjlvbEpOSDdKMnNYb3JYUWRDV3BKMFh1TG8xV3d0VFpNRUh6ZGVwekhBZGJjSkxOM0xmVzBJeXd3VUxBc1hSUk4yaUNpR1ktaGxPSjczemxVSDhoRTNrNkg?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Nvidia CEO Had an Affair With Health Executive at Firm, NYT Says &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia CEO Had an Affair With Health Executive at Firm, NYT Says - Bloomberg.com",
-"ts": 1794436053,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/fitch-cuts-blackrock-tcp-to-bb-on-asset-quality-woes-and-strategic-uncertainty-5019978",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Fitch cuts BlackRock TCP to \u2019BB-\u2019 on asset quality woes and strategic uncertainty",
-"ts": 1794436196,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/nvidia-expected-to-oust-jensen-huang---report-5020001",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "NVIDIA expected to oust Jensen Huang  - report",
-"ts": 1794436804,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
-"ts": 1794436948,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671063-nvidia-board-prepares-to-remove-huang-after-latest-allegations-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia board prepares to remove Huang after latest allegations: report",
-"ts": 1794436951,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/frontier/ai/nvidia-falls-after-report-of-huang-affair-with-executive",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The New York Times reported a relationship with health-care VP Kimberly Powell, who reports to Huang, raising a separate workplace-governance question while a board investigation is underway.",
-"tags": [
-"NVDA",
-"Powell"
-],
-"title": "Nvidia Falls After Report of Huang Affair With Executive",
-"ts": 1794437114,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "Nvidia\u2019s board of directors could reportedly meet as soon as today to determine the CEO\u2019s fate.",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-"ts": 1794437220,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVJFNHlPX2x5SmVpOW5lN3JHVHRIWDk4WDFYdUw0dkM3UEZzVnFRbUMwbmRpU0RiMXc2Q0RNR1pQckE0NlNITmpkeC1hUkEzR2VuWjFfcDNRSjdXR0xQX2pYbGhOOUVhT1ZiWHNfcHZ3WnBkR2MzbUx1Uk9SdDh4WXJXUDFVWF9zN3Yzb2xNUXNNclFQLVJzNzBHaFNLMXVlVEgwRkloVlN3aC1OVlE?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
-"summary": "Inside Active: BNY\u2019s Slavin on Who\u2019s Driving Active ETF Growth &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Inside Active: BNY\u2019s Slavin on Who\u2019s Driving Active ETF Growth - Bloomberg.com",
-"ts": 1794437304,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -778,7 +606,7 @@
 },
 "_last_check": 0
 },
-"last_run": 1794437508.2673285,
+"last_run": 1794438099.2844627,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1158,6 +986,7 @@
 "0dc4af147cafb837": 1794381624.5089903,
 "0dd0de77ddfdb66e": 1794216642.1444197,
 "0dd4571d7b8e2c8a": 1794069041.6001287,
+"0dda1e377d4cb7ec": 1794437999.1397626,
 "0de75d5a96d223cb": 1794165625.0596616,
 "0e10ce0ee79de1c3": 1794230425.0439425,
 "0e22ed9f2e29a9fe": 1794129624.9673119,
@@ -2215,6 +2044,7 @@
 "31bc65d23001e670": 1794144023.650658,
 "31d35bd9b0aacf0e": 1794381624.5089903,
 "31d4cc00dbf081c3": 1794294057.2981856,
+"31d9162ae818e9ef": 1794437999.1397626,
 "31dc87247e6aed5a": 1794058663.5416367,
 "31df99ff23982e82": 1794247257.3744018,
 "31e30b30d2e353c5": 1794248479.105261,
@@ -2249,6 +2079,7 @@
 "329fc6ce7cbd2230": 1794053146.8970654,
 "32a93af22795eb58": 1794090024.092463,
 "32a9d96fb4a7b870": 1794381624.5089903,
+"32cf8b07a4c86e3e": 1794437999.1397626,
 "32db37baba2c447e": 1794295224.707564,
 "32e3ed41b212b288": 1794381624.5089903,
 "32e5fe00176076ee": 1794420049.9604123,
@@ -3193,6 +3024,7 @@
 "52a5adcf04921939": 1794397829.6326773,
 "52ac90c8ec89a598": 1794090024.092463,
 "52af1fe5f66c85aa": 1794232224.3910127,
+"52c3120c68b6d163": 1794437999.1397626,
 "52caacf6288edb6e": 1794207655.353521,
 "52cb61ae8c3b8a54": 1794217228.4060323,
 "52dc82dc72d866cc": 1794259850.2098105,
@@ -4195,6 +4027,7 @@
 "7626272b181c99a0": 1794229254.159377,
 "762d85b793e583c1": 1794172824.1624086,
 "7649f738384c692e": 1794261654.088547,
+"764dadbcf620b5df": 1794437999.1397626,
 "766a583e401ab2b1": 1794072642.3225284,
 "7678b244dcde8695": 1794433823.5002458,
 "767fb1d41ad9cfad": 1794246025.5884385,
@@ -4540,6 +4373,7 @@
 "81e24ae2471a6918": 1794328242.1321893,
 "81e5e5c526ad608f": 1794090024.092463,
 "81f3925e830bbc63": 1794209441.2028658,
+"81f6748f0031a19a": 1794437999.1397626,
 "81f83dc0fe159306": 1794320424.8171039,
 "81fc4ffe429ac847": 1794121251.8481042,
 "81fe0b4d9fbe5aca": 1794090024.092463,
@@ -4820,6 +4654,7 @@
 "8b802ea9d7ea27b8": 1794172824.1624086,
 "8b88296ccbd4d920": 1794053146.8970654,
 "8b8d6f64a959b823": 1794398452.8861506,
+"8b8e8a1c34824ee5": 1794437999.1397626,
 "8b934ffec9ef8491": 1794222054.6299663,
 "8b9ea21cb0a6427d": 1794315657.2528052,
 "8ba411e70571e08d": 1794404423.5930965,
@@ -6304,6 +6139,7 @@
 "bfbb4c7e98027c8a": 1794265255.9845357,
 "bfbd78acb47291f4": 1794058663.5416367,
 "bfc2239a8aab0464": 1794345622.3845239,
+"bfc358852023c757": 1794437999.1397626,
 "bfcd862da520a51d": 1794133224.9019783,
 "bfe50260bec51fe5": 1794317448.4307733,
 "bfe62b8f4333a3d7": 1794314423.5789354,
@@ -6620,6 +6456,7 @@
 "c9873aa22284acfc": 1794430653.1918259,
 "c9888fce73c6d29e": 1794224423.8500595,
 "c98a51f0bdea5bd6": 1794207655.353521,
+"c98cd080a4b5fcc2": 1794437999.1397626,
 "c9941bb6d375b606": 1794397829.6326773,
 "c9963ec2bde9fda2": 1794380451.074071,
 "c9adabc416e759e5": 1794234645.282263,
@@ -7396,6 +7233,7 @@
 "e3f6dd5bcc07f848": 1794404423.5930965,
 "e3f71fff6df0f316": 1794207655.353521,
 "e3fa8ba3f1a47e06": 1794294057.2981856,
+"e3ffc96f2d2e4dca": 1794437999.1397626,
 "e4000e8ecd77a2b4": 1794342640.7023919,
 "e40953590cdbb777": 1794234029.8370936,
 "e40d11f66d662384": 1794121251.8481042,
@@ -7405,6 +7243,7 @@
 "e44e6a7dd990545d": 1794410424.1208882,
 "e471fc45325d7315": 1794222625.9546466,
 "e474504569ead074": 1794380451.074071,
+"e47d198c4ca43122": 1794437999.1397626,
 "e480da188927e42a": 1794382824.7473376,
 "e48695cbd067eae7": 1794158423.5148294,
 "e4949788674db7a5": 1794327026.3092759,
@@ -8230,6 +8069,7 @@
 "02c089cbe8621542": 1794331227.4269834,
 "02c4fae95b8729ec": 1794268185.972617,
 "02d91c89ffd5c13c": 1794229828.2811856,
+"02da0916838f4f9f": 1794437999.1397626,
 "02dd5674a17eb2a6": 1794408026.6576438,
 "02e4ea9bf719b3d5": 1794313222.9578052,
 "02fc4e12a41c5b0a": 1794243026.4460754,
@@ -9310,6 +9150,7 @@
 "298d4b6fdae1e035": 1794350423.088423,
 "298d5165385aca13": 1794436236.6229744,
 "29944af017577958": 1794401423.3914762,
+"2995ce6ed125a7ab": 1794437999.1397626,
 "29a18fd1f22e2623": 1794227444.8368437,
 "29a30d8b78ea91a9": 1794344455.684342,
 "29a720bf98f15080": 1794151225.6597934,
@@ -10166,6 +10007,7 @@
 "4a3ac953ecade570": 1794436236.6229744,
 "4a4bbd27cebfe778": 1794420049.9604123,
 "4a588874bb6baf2c": 1794324648.7021484,
+"4a66786c3368f4e5": 1794437999.1397626,
 "4a69dbaca94e5af7": 1794294057.2981856,
 "4a6dad5d0d39bb6a": 1794304225.7589512,
 "4a84ac9352eddaf3": 1794344455.684342,
@@ -10193,6 +10035,7 @@
 "4b384c4091a93166": 1794430653.1918259,
 "4b45a0ace6597088": 1794302427.8214426,
 "4b46bb8788265aaf": 1794380451.074071,
+"4b480a72f822945f": 1794437999.1397626,
 "4b4ba0a41915123d": 1794327026.3092759,
 "4b4f5ee57b557dfc": 1794345025.53064,
 "4b5a72f21614dcd0": 1794176424.6910276,
@@ -12137,6 +11980,7 @@
 "94f01986f4a84573": 1794408026.6576438,
 "94f560cf788dce79": 1794074452.1558738,
 "94fdf179bb00c4e1": 1794430653.1918259,
+"95001180075fe84b": 1794437999.1397626,
 "950026e81ba3875d": 1794331841.6847267,
 "95023b3acb92a9b0": 1794380451.074071,
 "9514c6850467a781": 1794339044.0547247,
@@ -12299,6 +12143,7 @@
 "9af618c986c845f7": 1794211829.3207283,
 "9b11236ca557cf6c": 1794053146.8970654,
 "9b16571c4702e306": 1794334825.2037544,
+"9b284dd694fd63b1": 1794437999.1397626,
 "9b339a5873218956": 1794244224.5102243,
 "9b41cbe654f503d4": 1794053146.8970654,
 "9b6ce5fdf9dfc32d": 1794053146.8970654,
@@ -12613,6 +12458,7 @@
 "a6a013fabf125a3e": 1794207655.353521,
 "a6ade4817d7cfcef": 1794259850.2098105,
 "a6af645095a36f0d": 1794090024.092463,
+"a6bace643a699451": 1794437999.1397626,
 "a6c007d1d8f093ce": 1794239425.4260268,
 "a6cd3a88d1ceae18": 1794409250.9206789,
 "a6d01492e09a8bda": 1794407438.9483976,
@@ -13337,6 +13183,7 @@
 "c12145bb15f717cc": 1794066518.762267,
 "c12cc5e3693c559b": 1794090024.092463,
 "c131585b02073269": 1794266430.1008153,
+"c133c1b36c80febd": 1794437999.1397626,
 "c139f3495ee8379c": 1794294057.2981856,
 "c13dfb265267444f": 1794246025.5884385,
 "c140a8c6c4635cb8": 1794349844.933684,
@@ -13702,6 +13549,7 @@
 "ce1af021fe76eb78": 1794380451.074071,
 "ce2454795f821c1c": 1794136824.1662278,
 "ce281bd2c6bb54a1": 1794380451.074071,
+"ce328b0e02cf4ace": 1794437999.1397626,
 "ce40a8630a8302ea": 1794324648.7021484,
 "ce453501282028de": 1794294057.2981856,
 "ce4d4f9ab1309c04": 1794298226.443851,
@@ -14079,6 +13927,7 @@
 "dca789537cc2a0b4": 1794207655.353521,
 "dca96fc6be3ce5aa": 1794058663.5416367,
 "dcae78805c228c76": 1794215424.0711486,
+"dcb300e7ed7c0519": 1794437999.1397626,
 "dcc3abd672030000": 1794310823.0024471,
 "dcd4809a08b4c543": 1794317448.4307733,
 "dcd711fb94181f86": 1794294057.2981856,
@@ -14858,6 +14707,7 @@
 "f85d40d8905901c4": 1794381624.5089903,
 "f85df430636a59b3": 1794417625.2380702,
 "f86099d488b66d04": 1794090024.092463,
+"f8622a1c8da87f7e": 1794437999.1397626,
 "f8740f507bc4f8a2": 1794090024.092463,
 "f886ed661cdca323": 1794053146.8970654,
 "f88d5723c3a665df": 1794176424.6910276,
