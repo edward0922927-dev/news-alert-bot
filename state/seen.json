@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794391263.0326266,
+"ai_last_review": 1794392438.033622,
 "ai_log": [
-{
-"err": "",
-"kept": 53,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 150,
-"ok": true,
-"t": "11-10 07:02"
-},
 {
 "err": "",
 "kept": 3,
@@ -540,213 +531,18 @@
 "n": 7,
 "ok": true,
 "t": "11-11 10:01"
+},
+{
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 16,
+"ok": true,
+"t": "11-11 10:20"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0FleXVoVGNWanFVOHl2Y1h4TWFIaFBZbEFaaTZVTmp5Y3JBMDJ1LTlhcE95eGZWRGhLTi1GWnIxeDUwdk9jN3Y1bWJya2dwLVhkZ1hRMS1pU2tLNjZPQWl1VmdVc3VaT2t0YVY1ZHlkeUtVbDBHYUVFeU10UFkzVGVVZzBIT1paTTB4M0o2RFhZWFRXUWNiRGxvdE52UzJaanc0N3REV2R5WXM3eFE?oc=5",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Korea Fines Bond Dealers Record $1.2 Billion Over Collusion &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Korea Fines Bond Dealers Record $1.2 Billion Over Collusion - Bloomberg.com",
-"ts": 1794384264,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORDktNDkwaVVERDJRZTNBSTFqRWFiekJyTXl3MjJadDk3LWxlemI5d1p0N3BMSlROaXhzUWpROFpLdjVQckxWcmFEYk9OUEdRbUVOeTJFUUY5eFVCaE0zbGpIZVM2SjhxY2VQWVlRak0tTklrXy1IaG5XNmkzTU4yNkdUXzdTMjVwVHE2QTJhQUpPZw?oc=5",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Moonshot AI reportedly accessed restricted Nvidia chips in China despite US ban &nbsp;&nbsp; digitimes",
-"tags": [
-"NVDA"
-],
-"title": "Moonshot AI reportedly accessed restricted Nvidia chips in China despite US ban - digitimes",
-"ts": 1794388691,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/vw-china-ev-venture-has-no-new-models-planned-for-2027-2028--report-93CH-5018148",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "VW China EV venture has no new models planned for 2027, 2028 - report",
-"ts": 1794390314,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/uk-watchdog-flags-competition-concerns-in-akzonobelaxalta-deal-93CH-5018152",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "UK watchdog flags competition concerns in AkzoNobel-Axalta deal",
-"ts": 1794390415,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/hapaglloyd-raises-outlook-for-third-time-on-strong-freight-rates-5018157",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Hapag-Lloyd raises outlook for third time on strong freight rates",
-"ts": 1794390500,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-spiraxsarco-engineering-stock-rallying-today-93CH-5018161",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Spirax-Sarco Engineering stock rallying today?",
-"ts": 1794390782,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Cointelegraph",
-"summary": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether\u2019s supply.",
-"tags": [
-"ETH"
-],
-"title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
-"ts": 1794391095,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "The Ford Expedition has modern tech, a big third row, clever features, and a muscular engine, adding up to make it our favorite full-size SUV.",
-"tags": [],
-"title": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
-"ts": 1794391140,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Cointelegraph",
-"summary": "The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase.",
-"tags": [],
-"title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
-"ts": 1794391200,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/german-antitrust-authority-says-paypal-practices-may-restrict-competition-5018170",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "German antitrust authority says PayPal practices may restrict competition",
-"ts": 1794391223,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670513-biggest-stock-movers-wednesday-crwv-rgti-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"CRWV"
-],
-"title": "Biggest stock movers Wednesday: CRWV, RGTI, and more",
-"ts": 1794391307,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "Golf legend Tiger Woods is heading up a new private golf destination on the North Shore of Long Island in Brookville, N.Y.",
-"tags": [],
-"title": "Tiger Woods has another private, 18-hole golf destination in the works \u2014 this one for Long Island\u2019s Gold Coast",
-"ts": 1794391380,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670519-the-ai-rally-is-putting-people-to-work-one-stock-gain-at-a-time?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "The AI rally is putting people to work, one stock gain at a time",
-"ts": 1794391419,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670505-infineon-expects-ai-infrastructure-boom-to-drive-data-center-revenue-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"data center"
-],
-"title": "Infineon expects an AI infrastructure boom to drive data center revenue higher",
-"ts": 1794391503,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4670520-houlihan-lokey-to-buy-vicente-partners?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Houlihan Lokey to buy Vicente & Partners",
-"ts": 1794391585,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -810,7 +606,7 @@
 },
 "_last_check": 1794390632.118967
 },
-"last_run": 1794391809.4078412,
+"last_run": 1794392444.59372,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1727,6 +1523,7 @@
 "2551a7910af25ab5": 1794382824.7473376,
 "2552a24ec63727e2": 1794261654.088547,
 "255d19fe6e8fb963": 1794330627.8580275,
+"2566701b44be163f": 1794392423.2246597,
 "256b18e7ad8c440f": 1794208823.7725184,
 "256c1d4ffafc37af": 1794058663.5416367,
 "25783f8ab13ac966": 1794234029.8370936,
@@ -3373,6 +3170,7 @@
 "6584c2158e6e096a": 1794261023.1557755,
 "6587c8b1c6999850": 1794090024.092463,
 "659f24f6d930f29e": 1794294057.2981856,
+"65a8940721f7b798": 1794392423.2246597,
 "65a9f6d3d2483b90": 1794090024.092463,
 "65af0449ac0a5b01": 1794226823.8223224,
 "65c8c9d613ec3009": 1794253225.6358817,
@@ -3440,6 +3238,7 @@
 "689519538c7befa2": 1794328242.1321893,
 "68a4be69e8057405": 1794081024.4886196,
 "68a598a41c5f9277": 1794294057.2981856,
+"68c0c230602eeac7": 1794392423.2246597,
 "68d160cbd88ba284": 1794053146.8970654,
 "68e8525e3308e84d": 1794380451.074071,
 "68f43cd88f187b94": 1794058663.5416367,
@@ -6170,6 +5969,7 @@
 "d7c52072d7db0aec": 1794262824.4868238,
 "d7d505d26bb6bc7d": 1794074452.1558738,
 "d7d77f4e51ff600f": 1794090024.092463,
+"d7f357c4add42c32": 1794392423.2246597,
 "d81240b2d3f62ed6": 1794218488.7102273,
 "d818429e016b5e42": 1794053146.8970654,
 "d81998065ebd66e7": 1794342025.2153375,
@@ -7916,6 +7716,7 @@
 "2260eaba2921bed0": 1794295224.707564,
 "226e5b6b867996c7": 1794295841.2960658,
 "22741f69f194348d": 1794140423.8128505,
+"2276d2c2b74e2af9": 1794392423.2246597,
 "22770010cd310ab7": 1794053146.8970654,
 "2285d54a8530c60d": 1794256242.8438334,
 "228abfd7476ba82e": 1794053146.8970654,
@@ -10411,6 +10212,7 @@
 "8fb28d861c41c355": 1794090024.092463,
 "8fb449d9629c612e": 1794241225.0884333,
 "8fb7e1ca4c2d7e70": 1794294057.2981856,
+"8fbe4a7458507c2b": 1794392423.2246597,
 "8fc53ffd0920027f": 1794053146.8970654,
 "8fc59f9245b2f8f0": 1794090024.092463,
 "8fc5c25019d133ee": 1794053146.8970654,
@@ -11205,6 +11007,7 @@
 "b1e590bdc8b22a89": 1794129624.9673119,
 "b1e97a8dec2bd690": 1794327026.3092759,
 "b1f0e8bd614f2d5d": 1794343822.9605784,
+"b1ff6513e74d783b": 1794392423.2246597,
 "b21d51df54af9733": 1794133224.9019783,
 "b230c32ac0abf247": 1794053146.8970654,
 "b23e2b8c930f8216": 1794298825.0579662,
