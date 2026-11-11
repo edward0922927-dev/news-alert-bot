@@ -542,13 +542,118 @@
 "t": "11-11 23:01"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Democrat Scott Colom defeats incumbent Cindy Hyde-Smith, CNN projects &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Democrat Scott Colom defeats incumbent Cindy Hyde-Smith, CNN projects - Reuters",
+"ts": 1794435401,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/ingram-micro-jumps-after-securing-spot-in-sp-smallcap-600-5020004",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Ingram Micro jumps after securing spot in S&P SmallCap 600",
+"ts": 1794437064,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/fitch-places-paraguays-rating-on-watch-for-possible-downgrade-after-ueno-collapse-5020014",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Fitch places Paraguay\u2019s rating on watch for possible downgrade after ueno collapse",
+"ts": 1794437301,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/msci-to-drop-strategy-from-global-indexes-putting-billions-in-passive-fund-inflows-at-risk-5020015",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "MSCI to drop Strategy from global indexes, putting billions in passive fund inflows at risk",
+"ts": 1794437330,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671066-integra-resources-corp-non-gaap-eps-of-0_06-in-line-revenue-of-72_4m-beats-by-1_03m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Integra Resources Corp. Non-GAAP EPS of $0.06 in-line, revenue of $72.4M beats by $1.03M",
+"ts": 1794437876,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4670591-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Here are the major earnings before the open Thursday",
+"ts": 1794438052,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/strategy-shares-fall-after-msci-confirms-deletion-from-us-largecap-benchmark-5020038",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Strategy shares fall after MSCI confirms deletion from US large-cap benchmark",
+"ts": 1794438138,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Block",
+"summary": "Strategy had opposed MSCI\u2019s rules, arguing exclusion would harm its reputation as a neutral provider.",
+"tags": [],
+"title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
+"ts": 1794438563,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-11T20:00"
+"last_date": "2026-11-11T22:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +663,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-11T20:00"
+"last_date": "2026-11-11T22:00"
 },
 "FNG": {
 "cool": {},
@@ -578,11 +683,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-11T20:00"
+"last_date": "2026-11-11T22:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-11T20:00"
+"last_date": "2026-11-11T22:00"
 },
 "UST10Y": {
 "cool": {},
@@ -604,9 +709,9 @@
 },
 "last_date": "2026-11-10"
 },
-"_last_check": 0
+"_last_check": 1794438632.4522152
 },
-"last_run": 1794438099.2844627,
+"last_run": 1794438655.3182666,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -681,6 +786,7 @@
 "0160b02b4f342d83": 1794235227.58563,
 "016782be2eca1196": 1794090024.092463,
 "017dd5bd858d25dc": 1794090024.092463,
+"0183e33c0ecbb5c8": 1794438621.879703,
 "01ce3b035a85b345": 1794310823.0024471,
 "01d3174c8a33047b": 1794349844.933684,
 "01d5d868a96b6896": 1794218488.7102273,
@@ -1283,6 +1389,7 @@
 "17e0f68b444f3cb9": 1794416450.9334848,
 "17f6e2a3bedc5c66": 1794404423.5930965,
 "17f992362b49dcdd": 1794237626.3538754,
+"1800d0b336638201": 1794438621.879703,
 "180c96bccf8f0753": 1794309027.4508862,
 "180ee2db09aa9b14": 1794067878.5266922,
 "18174110adf71f70": 1794434449.3275425,
@@ -2434,6 +2541,7 @@
 "3ee2ccfec702f8d6": 1794162024.6325307,
 "3ee3ad2d05655396": 1794216642.1444197,
 "3ee915214c44568f": 1794325825.7082462,
+"3eed4bbad42209dc": 1794438621.879703,
 "3f1d82749735f76b": 1794312054.550939,
 "3f299ddc7ad4aa38": 1794228625.7348583,
 "3f3526a0698ccda2": 1794318626.6609201,
@@ -3998,6 +4106,7 @@
 "74dc3282cd8a94c3": 1794207655.353521,
 "74dd62f569282b47": 1794420049.9604123,
 "74e4bf5e7c95581b": 1794330055.137018,
+"74e6cb7532fa63b8": 1794438621.879703,
 "74ea64bff8e581e6": 1794346240.584557,
 "750a03825069e4f9": 1794058663.5416367,
 "7512e5b8167e9fd5": 1794244224.5102243,
@@ -5414,6 +5523,7 @@
 "a72054f6ebcfc014": 1794424831.721633,
 "a7329e73c33feb2e": 1794084023.8763885,
 "a736a2b674a2b2ea": 1794224423.8500595,
+"a736febdda6c6461": 1794438621.879703,
 "a759eba794c83132": 1794058663.5416367,
 "a75b48f308ea39e3": 1794066518.762267,
 "a75f13ab262a48b0": 1794079839.2548869,
@@ -5974,6 +6084,7 @@
 "ba0742147b98da64": 1794228023.5425556,
 "ba098e2b1c6f0041": 1794232853.9654045,
 "ba0cc0ddf2b4190a": 1794063069.3473625,
+"ba0e880167c92133": 1794438621.879703,
 "ba10ffdc4c843d9c": 1794207655.353521,
 "ba20842037cedb6c": 1794129624.9673119,
 "ba229def82de209d": 1794267626.597747,
@@ -6318,6 +6429,7 @@
 "c509770b16ba137d": 1794208823.7725184,
 "c50ab7676e278b31": 1794436824.2970095,
 "c516ffce8951401b": 1794154823.0343263,
+"c518a4b8d3b49443": 1794438621.879703,
 "c519854d527a9fd8": 1794172824.1624086,
 "c521212e6de70b62": 1794329428.1954625,
 "c5250650b1ebecf8": 1794244826.386174,
@@ -7117,6 +7229,7 @@
 "dfd79aa9378a3ed5": 1794172824.1624086,
 "dff9feab036cbcd8": 1794321043.2025392,
 "dffa78ec97227e6b": 1794217823.792214,
+"dffaf6d093746e53": 1794438621.879703,
 "dffea9aa94d2847a": 1794343223.611575,
 "e008f252d45cc286": 1794090024.092463,
 "e01818e35b02ad63": 1794058663.5416367,
@@ -7341,6 +7454,7 @@
 "e7f068c9b41c89ac": 1794324648.7021484,
 "e7f856e8586b7609": 1794417625.2380702,
 "e7fb2527f102a1a3": 1794172824.1624086,
+"e7ff8a9ebc07139a": 1794438621.879703,
 "e8032146e02bcbfa": 1794227444.8368437,
 "e8316e1fd92b98c1": 1794321043.2025392,
 "e83a870b9c3e127f": 1794053146.8970654,
@@ -7835,6 +7949,7 @@
 "fa1527348e40f36d": 1794215424.0711486,
 "fa3d228ee90690ea": 1794090024.092463,
 "fa40469080d1f7a4": 1794380451.074071,
+"fa44342cce5e4a1c": 1794438621.879703,
 "fa4e899b3c00c658": 1794312054.550939,
 "fa5189bad2584700": 1794294057.2981856,
 "fa5f2f97d13ca9f1": 1794079224.7359486,
@@ -9610,11 +9725,13 @@
 "39b68d3f29e1aaaf": 1794251432.9348457,
 "39c003187b255e3a": 1794329428.1954625,
 "39c3fd05e62a4463": 1794309027.4508862,
+"39d4e2a3532e9288": 1794438621.879703,
 "39ef74fed0f8f397": 1794121251.8481042,
 "3a0a49519d05da8f": 1794129624.9673119,
 "3a0e285e98d4f787": 1794053146.8970654,
 "3a0ed9f4d1ee5c4a": 1794053146.8970654,
 "3a125fd9e3085dd2": 1794410424.1208882,
+"3a136cc287917ff1": 1794438621.879703,
 "3a15132c1aa1de84": 1794053146.8970654,
 "3a1d6d252ef0a84b": 1794234029.8370936,
 "3a271a31944cc359": 1794207655.353521,
@@ -10202,6 +10319,7 @@
 "51183908418c5736": 1794243659.0740352,
 "511c6cfd8bce89ac": 1794207655.353521,
 "511c9d937a384aff": 1794431426.5168767,
+"51219a7c9c75a114": 1794438621.879703,
 "512cb3629d00f576": 1794053146.8970654,
 "513b76905c747819": 1794313222.9578052,
 "5140f9ae20fbbd0e": 1794420049.9604123,
@@ -10754,6 +10872,7 @@
 "66467a41d52dfafb": 1794339044.0547247,
 "665b6e82277ee62a": 1794400828.886451,
 "66632942be049748": 1794420624.586875,
+"666d0ee2f2cb4a7a": 1794438621.879703,
 "6676bbf55e3ecc35": 1794224423.8500595,
 "667edafcb94910a8": 1794247875.6926105,
 "6688ff323cdb7dc2": 1794390621.9689424,
@@ -10944,6 +11063,7 @@
 "6d2ff1afcc6c1ff7": 1794079839.2548869,
 "6d3bf2cb03f1fbbc": 1794221431.0905063,
 "6d5730756f85848a": 1794386422.9841938,
+"6d59c18f82c91dfa": 1794438621.879703,
 "6d5afbe156451b55": 1794391247.467394,
 "6d67bc93f203c3c9": 1794229254.159377,
 "6d6a6145670fb3f4": 1794318026.068809,
@@ -11587,6 +11707,7 @@
 "8590ffd3e70af492": 1794090024.092463,
 "85998d39acfbac83": 1794180024.180841,
 "859c869edc681502": 1794133224.9019783,
+"85a38cbb61a6ce35": 1794438621.879703,
 "85bcd7a46c10d7ae": 1794129624.9673119,
 "85d288f390356922": 1794345025.53064,
 "85db6c13c62feb8d": 1794433823.5002458,
@@ -12307,6 +12428,7 @@
 "a13df6bbc4bcbcac": 1794240054.5770936,
 "a1450d2788d69ed4": 1794380451.074071,
 "a14845a4f19db1a4": 1794301829.133516,
+"a14f2850d92f2c75": 1794438621.879703,
 "a15177f183ae29de": 1794295224.707564,
 "a15d510751c7d0d9": 1794419428.8587933,
 "a1932aa8702a1b23": 1794230425.0439425,
@@ -12427,6 +12549,7 @@
 "a5aa793789dbbc59": 1794227444.8368437,
 "a5abd0bf58cd8990": 1794090024.092463,
 "a5b46af1e085ec63": 1794323425.210853,
+"a5c4910df1a8ed2c": 1794438621.879703,
 "a5d0348d9b5c9447": 1794305426.239695,
 "a5d5b65307d0f188": 1794388822.6516917,
 "a5d7f7c3c0b530c0": 1794241843.488906,
@@ -12752,6 +12875,7 @@
 "b147090fb46aa6ab": 1794332440.321116,
 "b1491d5ac45e31a9": 1794416450.9334848,
 "b151a255daafd703": 1794129624.9673119,
+"b18015b95904946c": 1794438621.879703,
 "b188df1c16cc4b01": 1794144023.650658,
 "b199b59135699725": 1794386422.9841938,
 "b19a7a0e9e5cfdf1": 1794129624.9673119,
@@ -14821,6 +14945,7 @@
 "fcbdd60b53bbe1d9": 1794227444.8368437,
 "fcc9ce8bc932a297": 1794309027.4508862,
 "fcceb41ca1612606": 1794294057.2981856,
+"fcd8223d79dbd812": 1794438621.879703,
 "fce5ba2331bd0d08": 1794380451.074071,
 "fcf1f681b51f2984": 1794327026.3092759,
 "fcf366e240247c7d": 1794411039.5612423,
