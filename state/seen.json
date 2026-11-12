@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794475339.1085346,
+"ai_last_review": 1794476479.2296166,
 "ai_log": [
-{
-"err": "",
-"kept": 2,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 21,
-"ok": true,
-"t": "11-10 22:50"
-},
 {
 "err": "",
 "kept": 3,
@@ -540,165 +531,24 @@
 "n": 16,
 "ok": true,
 "t": "11-12 09:22"
+},
+{
+"err": "",
+"kept": 2,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 18,
+"ok": true,
+"t": "11-12 09:41"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNXFJX1VibGJ0TWNWcjh4UnBIYXlEbHpqMTlaaDJLSHhtZFo1T0xBVTk5eGIwb1lwWUhQQ0I3NjlTYVNZTVl0Z3MyQU1EakZxc0YwRUpDVF9iOC00N3VtVm52emFEd3RFRDFnRE9XS0xfOF9nUVlxRzVnSWJIR0wzWFM4NVJhMUZ6bDlYeE8wVzB1WnViblNMdnI4Z0R2WjBfREZlWFNrdVRXUC1wY0lfZ2FZbW5OZHkw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "European business sentiment picks up, inflation worries grow, survey finds &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "European business sentiment picks up, inflation worries grow, survey finds - Reuters",
-"ts": 1794463380,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/most-large-firms-plan-higher-openweight-ai-use-to-cap-bills-study-shows-5020690",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Most large firms plan higher open-weight AI use to cap bills, study shows",
-"ts": 1794474405,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-adecco-stock-surging-today-93CH-5020705",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Adecco stock surging today?",
-"ts": 1794474811,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-bm-european-value-retail-stock-surging-today-93CH-5020707",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is B&M European Value Retail stock surging today?",
-"ts": 1794474850,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/siemens-ceo-says-cooperation-with-nvidia-will-no-be-affected-by-leadership-uncertainty-5020715",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Siemens CEO says cooperation with Nvidia will no be affected by leadership uncertainty",
-"ts": 1794475104,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671140-russian-diesel-exports-double-but-none-reach-us?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Russian diesel exports double, but none reach U.S. amid buyer reluctance",
-"ts": 1794475209,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/patrizia-shares-surge-21-on-820-partial-takeover-offer-plan-93CH-5020720",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Patrizia shares surge 21% on \u20ac8.20 partial takeover offer plan",
-"ts": 1794475330,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671226-american-homes-4-rent-5875-cum-pfd-g-declares-03672-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "American Homes 4 Rent 5.875% CUM PFD G declares $0.3672 dividend",
-"ts": 1794475414,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671224-from-ai-king-to-exit-odds-traders-bet-on-huangs-nvidia-future?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "From AI king to exit odds: traders bet on Huang\u2019s Nvidia future",
-"ts": 1794475418,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671227-american-homes-4-rent-625-cum-pfd-h-declares-03906-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "American Homes 4 Rent 6.25% CUM PFD H declares $0.3906 dividend",
-"ts": 1794475448,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/nvidia-customermegaspeed-says-it-cooperated-with-us-inspections-takes-export-control-laws-seriously-5020716",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia customer\u00a0Megaspeed says it cooperated with US inspections, takes export control laws seriously",
-"ts": 1794475482,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-12T06:00"
+"last_date": "2026-11-12T08:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -708,7 +558,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-12T06:00"
+"last_date": "2026-11-12T08:00"
 },
 "FNG": {
 "cool": {},
@@ -728,11 +578,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-12T06:00"
+"last_date": "2026-11-12T08:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-12T06:00"
+"last_date": "2026-11-12T08:00"
 },
 "UST10Y": {
 "cool": {},
@@ -754,9 +604,9 @@
 },
 "last_date": "2026-11-11"
 },
-"_last_check": 0
+"_last_check": 1794476434.7348542
 },
-"last_run": 1794475919.4842446,
+"last_run": 1794476483.408411,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1598,6 +1448,7 @@
 "1af590349562a8ad": 1794090024.092463,
 "1af8c27a1fb8a6d3": 1794436236.6229744,
 "1af962fbb2a47ba1": 1794298226.443851,
+"1afd97586bdb94ad": 1794476423.816981,
 "1b044ef1641d5e0b": 1794070201.937629,
 "1b06d1684e5c1806": 1794237626.3538754,
 "1b15dfaea551c02b": 1794430653.1918259,
@@ -2563,6 +2414,7 @@
 "39956752b90b58cf": 1794306641.07634,
 "3995ece0fe3a6bfb": 1794250228.0065682,
 "399a28957946a2b6": 1794216024.5700488,
+"399b794eaf1e5b87": 1794476423.816981,
 "399f7d73acb53d3d": 1794337825.344606,
 "39a24e511be51100": 1794327630.5502307,
 "39ad1ccbbf650b3d": 1794347425.5105855,
@@ -3987,6 +3839,7 @@
 "6650591df2eb378f": 1794053146.8970654,
 "66507d8d8cef5b3c": 1794310823.0024471,
 "6681b7c3d8bef167": 1794408026.6576438,
+"6689b9288f9f2606": 1794476423.816981,
 "668b0c85d0ca89fe": 1794386422.9841938,
 "668f2ce495aea142": 1794387652.7155762,
 "66932395b11841fe": 1794339626.7924395,
@@ -4601,6 +4454,7 @@
 "7b88f08fe2aecea0": 1794380451.074071,
 "7b92f681b87d642d": 1794307825.328837,
 "7b97204b60de11eb": 1794432640.6076887,
+"7b983ad83a8b07cf": 1794476423.816981,
 "7b9d41fe6e9c4b20": 1794129624.9673119,
 "7ba066d40e0c95f9": 1794053146.8970654,
 "7bb0145787b1f8a5": 1794439835.9165068,
@@ -4801,6 +4655,7 @@
 "815250acde436f32": 1794405024.213529,
 "815e7ace49090bae": 1794093624.3200548,
 "8166ced104da3038": 1794466847.0948906,
+"816d4b553a58cc65": 1794476423.816981,
 "816f03c04e111832": 1794413426.5364234,
 "817011719fb99eb4": 1794310823.0024471,
 "8170f884419b3b33": 1794165625.0596616,
@@ -5828,6 +5683,7 @@
 "a3acba9dc7c8df40": 1794067878.5266922,
 "a3b2ec7037ae769a": 1794395417.5307865,
 "a3b6946b68265de3": 1794294057.2981856,
+"a3c484491a3c68ca": 1794476423.816981,
 "a3c9593791c8cd6c": 1794172824.1624086,
 "a3c9c796fbcac39c": 1794474627.5078099,
 "a3cb811d35be4cd6": 1794466847.0948906,
@@ -6946,6 +6802,7 @@
 "c5e381f773b454cf": 1794413426.5364234,
 "c61eb1e3d8380d92": 1794121251.8481042,
 "c62446353279469f": 1794382236.912113,
+"c6294ecc2aefd38e": 1794476423.816981,
 "c62a95f085af2881": 1794053146.8970654,
 "c62eb04b2ea53e07": 1794219625.99357,
 "c6306b1d1e0ebe0a": 1794345622.3845239,
@@ -7866,6 +7723,7 @@
 "e29cfddf7898e714": 1794430653.1918259,
 "e29e9c7391f71570": 1794090024.092463,
 "e29f8bba621e59f5": 1794418239.536956,
+"e2a3c2c3fdd4f995": 1794476423.816981,
 "e2b00ca68a5c635f": 1794341426.2465568,
 "e2b20609fda97aae": 1794129624.9673119,
 "e2bee1760af373a4": 1794058663.5416367,
@@ -8111,6 +7969,7 @@
 "ebdf8ed1936eff36": 1794294057.2981856,
 "ec0da91207ac3335": 1794261023.1557755,
 "ec0e7187cf97aabc": 1794466847.0948906,
+"ec16cfc433909cb9": 1794476423.816981,
 "ec1ec952846d0904": 1794225025.2256005,
 "ec215288cc4e33f1": 1794060010.396961,
 "ec4bb966f7cc9a7d": 1794053146.8970654,
@@ -8250,6 +8109,7 @@
 "f08ef408ddb162c1": 1794404423.5930965,
 "f097047730de7518": 1794214856.1278765,
 "f09adccbb5dc8bbd": 1794058663.5416367,
+"f0a3a996417d812e": 1794476423.816981,
 "f0a437f8b5e56636": 1794380451.074071,
 "f0ae8bf364f5eabf": 1794337252.3296568,
 "f0b70ede020b5eca": 1794411039.5612423,
@@ -8901,6 +8761,7 @@
 "067fca58f9918daf": 1794053146.8970654,
 "0695b002564946fa": 1794090024.092463,
 "069b65b65e894efc": 1794090024.092463,
+"069e56b2c7c0a574": 1794476423.816981,
 "06aa39a68734700a": 1794421222.2998455,
 "06b042d2da597c1b": 1794207655.353521,
 "06c673f945a562fd": 1794060010.396961,
@@ -9095,6 +8956,7 @@
 "0d1d5eba59cebd7b": 1794432030.7467659,
 "0d1e4cf83e5a84d6": 1794299443.3490458,
 "0d31a7d7a6d7d187": 1794469221.7331192,
+"0d3b013beeac7931": 1794476423.816981,
 "0d45b8070969f7fd": 1794069624.2005684,
 "0d5137fd4b35047e": 1794338424.1118333,
 "0d5e1b696ac30f45": 1794336024.4023893,
@@ -10176,6 +10038,7 @@
 "309de61a2aaa6528": 1794466847.0948906,
 "30a2cada48ca25f7": 1794332440.321116,
 "30a3145a2eb5d680": 1794067878.5266922,
+"30ad54862a2889d2": 1794476423.816981,
 "30adba2819f856e9": 1794294057.2981856,
 "30b3683eedc0258a": 1794348047.2236443,
 "30c5acbb10a26022": 1794129624.9673119,
@@ -10343,6 +10206,7 @@
 "36076d0582c0800e": 1794261654.088547,
 "361c24f9ed742d00": 1794222625.9546466,
 "362dde43df483454": 1794387652.7155762,
+"3636d6d733d3454f": 1794476423.816981,
 "363acb010004c7dc": 1794129624.9673119,
 "363f1bebabcdc2a7": 1794058663.5416367,
 "36517671cde02418": 1794380451.074071,
@@ -10506,6 +10370,7 @@
 "3b6a73b4144636be": 1794318026.068809,
 "3b72dba6491831f3": 1794313222.9578052,
 "3b78245cdac5301a": 1794424831.721633,
+"3b9bad70eb02aa57": 1794476423.816981,
 "3ba474ddba4ec21b": 1794469822.9927154,
 "3ba57e6798f9771d": 1794318026.068809,
 "3baf160e8786fe7f": 1794242424.5403016,
@@ -13389,6 +13254,7 @@
 "a1c22d4655e82306": 1794207655.353521,
 "a1cf62af599e2c24": 1794077422.772458,
 "a1d0a6ddafea67eb": 1794232853.9654045,
+"a1e676ca560934ba": 1794476423.816981,
 "a1e90eaf93b34788": 1794421222.2998455,
 "a1eefaafe6600ce2": 1794140423.8128505,
 "a1f6eba9b3b5eef5": 1794380451.074071,
@@ -13468,6 +13334,7 @@
 "a48bd90748b66067": 1794255624.7521412,
 "a48fbf68ba1e21fe": 1794336024.4023893,
 "a49bb1f824f3ff91": 1794129624.9673119,
+"a49c30338d72c1bb": 1794476423.816981,
 "a4a37d9b2eeb3f98": 1794471021.9148986,
 "a4b265d8c3d2311e": 1794401423.3914762,
 "a4b287a6ef76b756": 1794403223.1118846,
@@ -14366,6 +14233,7 @@
 "c2a8f3e7a1a9ce76": 1794180024.180841,
 "c2abffffa51d7de0": 1794427247.0746734,
 "c2b293a4dad41488": 1794426622.2772443,
+"c2b314ebbe8f273b": 1794476423.816981,
 "c2b606bba989c500": 1794424831.721633,
 "c2bc049262c6ef5f": 1794311424.003163,
 "c2c7e9e06b12cf01": 1794295224.707564,
@@ -15922,6 +15790,7 @@
 "f723ceb86914e257": 1794294057.2981856,
 "f72859ccc1f966d9": 1794228023.5425556,
 "f72d103047e81e69": 1794220241.562271,
+"f734b4b243de891a": 1794476423.816981,
 "f742341c99305bdb": 1794207655.353521,
 "f74352c089e8f093": 1794474627.5078099,
 "f7544155e3bd19c3": 1794313222.9578052,
