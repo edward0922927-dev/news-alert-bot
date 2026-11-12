@@ -542,13 +542,120 @@
 "t": "11-12 10:41"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1Q2RmhJS3JvaE92OVRBbmtCZGR2aElYMHVYODFxb2F3UmJkRXIyM280RC1tSGQxd3Y2bHJtd0FPempWYlFTWmlGaUN5aHhHZ1IyQUVlM1duTUhTeFZoTkplemQwcmtqS2I3NmtJWVV2VHJFYldXcnF3czBmcDRrSFFIM0M5YmJCeG92NlFSS3pfV3ZjalFsS0NmNno0T2w3T2NBNENXUF9DRFdBZ2hteGg2Sm0zR041U1dPODdXY0kxeXhjTlE?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "BAE Systems raises free cash flow forecast as demand remains strong &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "BAE Systems raises free cash flow forecast as demand remains strong - Reuters",
+"ts": 1794468480,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVNTbzU1anZMZDZ0UV9vRHp1SDVYMUR6cXpKZXA1d09nSVE3LVlISHZFdkptRXRkVWZNS3JZVG5hQ0QxdW40UVN1N0lVSjd0UlhGdFpJYW9PX0Qwcm5rQUkycGVjcGtkcWJYT2U4SmtGSGVocURLZ0hMQXJYTy1qWjRQei1pMDc3OGhEUVIxTE1Qcy1vc1ZnWUhFM2VmcEY5ZVE1X09nTTVIbExHcFc1b2lGaw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "London Infrastructure Investment Firm Arcus Said to Weigh Sale &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "London Infrastructure Investment Firm Arcus Said to Weigh Sale - Bloomberg.com",
+"ts": 1794470790,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-018-5020836",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "India stocks higher at close of trade; Nifty 50 up 0.18%",
+"ts": 1794479405,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "CoinDesk",
+"summary": "",
+"tags": [],
+"title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+"ts": 1794479555,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/dr-martens-shares-fall-16-on-weak-first-half-uncertain-outlook-93CH-5020867",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Dr. Martens shares fall 16% on weak first half, uncertain outlook",
+"ts": 1794480082,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671250-costamare-bulkers-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Costamare Bulkers reports Q3 results",
+"ts": 1794480090,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "CoinDesk",
+"summary": "",
+"tags": [],
+"title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+"ts": 1794480126,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://cryptoslate.com/bitcoin-faces-a-25b-treasury-test-after-demand-for-us-debt-weakens/",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "CryptoSlate",
+"summary": "The thirty-year sale follows weaker ten-year participation, with Bitcoin\u2019s risk tied to yields and financing conditions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+"tags": [
+"BTC"
+],
+"title": "Bitcoin faces a $25B Treasury test after demand for US debt weakens",
+"ts": 1794480468,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-08T21:00"
 },
-"last_date": "2026-11-12T08:00"
+"last_date": "2026-11-12T09:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +665,7 @@
 "low": "2026-11-08T21:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-12T08:00"
+"last_date": "2026-11-12T09:00"
 },
 "FNG": {
 "cool": {},
@@ -578,11 +685,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-12T08:00"
+"last_date": "2026-11-12T09:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-12T08:00"
+"last_date": "2026-11-12T09:00"
 },
 "UST10Y": {
 "cool": {},
@@ -604,9 +711,9 @@
 },
 "last_date": "2026-11-11"
 },
-"_last_check": 0
+"_last_check": 1794480632.2864852
 },
-"last_run": 1794480121.828117,
+"last_run": 1794480671.92205,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1118,6 +1225,7 @@
 "10dd8d7df8ea2842": 1794309624.5737193,
 "10e02dcede37790b": 1794469822.9927154,
 "10e958a09e88e1ad": 1794240054.5770936,
+"10f218ba217afcb3": 1794480621.4125366,
 "10f9423836c8c45d": 1794207655.353521,
 "11049f1ca1462155": 1794343223.611575,
 "111be60070200acf": 1794207655.353521,
@@ -1161,6 +1269,7 @@
 "1251ad3c66053b54": 1794471021.9148986,
 "126064cb89683cb0": 1794296423.7597058,
 "12647a9988b957de": 1794259850.2098105,
+"126ddcf4d92f6833": 1794480621.4125366,
 "1276a05271299bce": 1794388822.6516917,
 "12831606a32914d2": 1794129624.9673119,
 "1284fd17e40b7c1c": 1794294057.2981856,
@@ -1205,6 +1314,7 @@
 "13b6f9ef1e9f3bf6": 1794410424.1208882,
 "13ce6275c94c76f2": 1794226823.8223224,
 "13d38ffc8d970d80": 1794380451.074071,
+"13d5959797e0be63": 1794480621.4125366,
 "13d5d67a3fd9130b": 1794227444.8368437,
 "13d7d2db7a4575ae": 1794466847.0948906,
 "13e91e807e803547": 1794466847.0948906,
@@ -3675,6 +3785,7 @@
 "6104ccf9bd9d65cb": 1794381624.5089903,
 "61078d04211cefc1": 1794082823.0034523,
 "6108b4cc6ae6c9f2": 1794399624.5316026,
+"611078339afcf34e": 1794480621.4125366,
 "611886b02186d885": 1794339626.7924395,
 "611bddab10a405ec": 1794228023.5425556,
 "613ba2a98db54f63": 1794414698.6025398,
@@ -4480,6 +4591,7 @@
 "7b97204b60de11eb": 1794432640.6076887,
 "7b983ad83a8b07cf": 1794476423.816981,
 "7b9d41fe6e9c4b20": 1794129624.9673119,
+"7b9d9cea87a2c89a": 1794480621.4125366,
 "7ba066d40e0c95f9": 1794053146.8970654,
 "7bb0145787b1f8a5": 1794439835.9165068,
 "7bbb4d5fa7109f54": 1794466847.0948906,
@@ -4562,6 +4674,7 @@
 "7dcec0a3f69bda40": 1794090024.092463,
 "7dd77d19440e229e": 1794090024.092463,
 "7dd87e2de5d163d5": 1794058663.5416367,
+"7df7b7c9a9222149": 1794480621.4125366,
 "7dfa9de07ca3cbe2": 1794380451.074071,
 "7dfb47c6e127e3b6": 1794327026.3092759,
 "7e012ada6dfda030": 1794405024.213529,
@@ -5711,6 +5824,7 @@
 "a36342086d44e520": 1794090024.092463,
 "a36ff1b8ca7d9bae": 1794380451.074071,
 "a379ca380b5310b4": 1794294057.2981856,
+"a37bdfbd78351e5f": 1794480621.4125366,
 "a37dea03ff28bbd4": 1794207655.353521,
 "a386b6e75584bc3a": 1794053146.8970654,
 "a38a0c722c96ff95": 1794338424.1118333,
@@ -5930,6 +6044,7 @@
 "aa69c1c41bdf2bfa": 1794253225.6358817,
 "aa749eed56cdd23b": 1794232224.3910127,
 "aa7c1188fc9cb08d": 1794294057.2981856,
+"aa827e2090681278": 1794480621.4125366,
 "aa84a4f9e740a1f2": 1794162024.6325307,
 "aa8be2f901498ce9": 1794151225.6597934,
 "aa953db8a6a85dd3": 1794325825.7082462,
@@ -6118,6 +6233,7 @@
 "afd18db80f8d954a": 1794136824.1662278,
 "afd1f2d41f07fb4a": 1794426025.3083632,
 "afd49167bf99febc": 1794380451.074071,
+"afd56ab472074a45": 1794480621.4125366,
 "afeebe32e7ca2560": 1794073825.720103,
 "aff29a221cf34863": 1794067878.5266922,
 "aff73e8cda18357b": 1794238824.4766295,
@@ -6601,6 +6717,7 @@
 "bf00164ff41929f9": 1794129624.9673119,
 "bf017575d997a2e4": 1794207655.353521,
 "bf0664b345e2ce9b": 1794324648.7021484,
+"bf09186cd5f9c19c": 1794480621.4125366,
 "bf12e12dc8cc46f9": 1794069624.2005684,
 "bf21f2c4c4355ff7": 1794129624.9673119,
 "bf24c790858c323e": 1794350423.088423,
@@ -7100,6 +7217,7 @@
 "cd8a263f3c89310c": 1794211829.3207283,
 "cd8edf86fc5d412c": 1794345025.53064,
 "cd96bf9fa309293c": 1794329428.1954625,
+"cda043db444a2b80": 1794480621.4125366,
 "cda374d9dd7951cb": 1794245441.3708878,
 "cdba15320ef5989a": 1794129624.9673119,
 "cdc1c368924b94a2": 1794243026.4460754,
@@ -7618,6 +7736,7 @@
 "dd53a966006f31fc": 1794207655.353521,
 "dd5837e0afd093e1": 1794294057.2981856,
 "dd637816301f06cb": 1794301829.133516,
+"dd6606e22bbfa8ca": 1794480621.4125366,
 "dd73b67b31653768": 1794234029.8370936,
 "dd770f642f36fcd5": 1794394851.7678685,
 "dd7ca6ddeb699ba2": 1794058663.5416367,
@@ -9498,6 +9617,7 @@
 "1d7e082fa12565b8": 1794323425.210853,
 "1d8bba4c9e8ec9ec": 1794417111.777808,
 "1d950740f5290664": 1794294057.2981856,
+"1da68e4fa9bf00ec": 1794480621.4125366,
 "1da88cbe51fc40c8": 1794090024.092463,
 "1dab93e41e119a64": 1794349221.7950053,
 "1db1d5c16fb45a29": 1794070853.5888453,
@@ -9648,6 +9768,7 @@
 "2216b0d19ddc2ff9": 1794207655.353521,
 "2217f56ef410ab95": 1794469822.9927154,
 "221bdc188204469e": 1794069624.2005684,
+"222db46a3e438560": 1794480621.4125366,
 "22352ea8e85457f4": 1794240627.3822312,
 "223ab1a75ca7e594": 1794053146.8970654,
 "2241524f5cd04522": 1794409250.9206789,
@@ -10086,6 +10207,7 @@
 "2fb9d0fb84250925": 1794261023.1557755,
 "2fc85785dcc0955d": 1794250859.8781228,
 "2fcfe5388cb20249": 1794216024.5700488,
+"2fd1fcfd91f26f60": 1794480621.4125366,
 "2fd2451c18a4afee": 1794439835.9165068,
 "2fe89563ec2b7ca0": 1794294057.2981856,
 "2ffbcf0946015ae8": 1794222625.9546466,
@@ -10465,6 +10587,7 @@
 "3c2c6f53fab6247a": 1794320424.8171039,
 "3c4069f3232b0758": 1794231044.761608,
 "3c410239869ca99d": 1794403223.1118846,
+"3c4271fba4965188": 1794480621.4125366,
 "3c4823048f1f3ab7": 1794090024.092463,
 "3c4c7a459580c23f": 1794475838.7704628,
 "3c52bed3357c3ac9": 1794180024.180841,
@@ -10900,6 +11023,7 @@
 "4bfe5abe821864cf": 1794129624.9673119,
 "4c08ee3e5f2c6c77": 1794053146.8970654,
 "4c217c5566ceaa5e": 1794310242.809073,
+"4c21997967ffee99": 1794480621.4125366,
 "4c249049da595c47": 1794349221.7950053,
 "4c29c02c5c6aa8bb": 1794423022.5466254,
 "4c2eb084a1051f3f": 1794249071.019277,
@@ -11636,6 +11760,7 @@
 "66233070cc41aaf1": 1794222054.6299663,
 "6623ef40fddab1d6": 1794309624.5737193,
 "662bd2d42f41ac41": 1794470449.1915379,
+"6639a1114207730c": 1794480621.4125366,
 "663fa855a349c86c": 1794180024.180841,
 "6641219ff365ecef": 1794058663.5416367,
 "66467a41d52dfafb": 1794339044.0547247,
@@ -12180,6 +12305,7 @@
 "78efba5558788895": 1794294057.2981856,
 "78f6117854e2eaee": 1794237626.3538754,
 "78fec7765b684565": 1794423649.5969415,
+"7908e0956c853501": 1794480621.4125366,
 "7928d2b475f09eac": 1794058663.5416367,
 "7937d7e5b75ae71b": 1794330055.137018,
 "793f692a127288ae": 1794309027.4508862,
@@ -13023,6 +13149,7 @@
 "96e667293b53e506": 1794053146.8970654,
 "96e807106f4bc03a": 1794393041.7139091,
 "9700f8a95787e6d8": 1794176424.6910276,
+"9703d80cfa43350a": 1794480621.4125366,
 "97086f2edd768dd9": 1794207655.353521,
 "970a1f37059d3f21": 1794129624.9673119,
 "970d1ef9f14f3c4c": 1794294057.2981856,
@@ -13074,6 +13201,7 @@
 "981b425d61cb11fb": 1794340852.0511594,
 "983d88bf97a162eb": 1794240627.3822312,
 "983efe3465ac02fb": 1794253225.6358817,
+"9840bb419c101ed7": 1794480621.4125366,
 "984a0774a5aad115": 1794424831.721633,
 "984f8925f49a24bb": 1794466847.0948906,
 "985343528097a4a7": 1794318626.6609201,
@@ -14911,6 +15039,7 @@
 "d5bb4a2ca1785112": 1794304225.7589512,
 "d5d4d392e5bf1c62": 1794426622.2772443,
 "d5e46045dbfa1bb6": 1794327630.5502307,
+"d5ed03c34aaf2fd6": 1794480621.4125366,
 "d5ff3ef58ab8ed68": 1794411039.5612423,
 "d603e622c3c991f3": 1794348622.3454998,
 "d612ca56aa9f6315": 1794220241.562271,
@@ -15953,6 +16082,7 @@
 "f8956196e590fdf8": 1794295841.2960658,
 "f8b53e090e524889": 1794129624.9673119,
 "f8b6ef3d00f5b175": 1794224423.8500595,
+"f8b8ee24dc508078": 1794480621.4125366,
 "f8bd552d164535ec": 1794466847.0948906,
 "f8bdeee6f2b5fd0e": 1794380451.074071,
 "f8cc1ad21162220b": 1794412225.421576,
