@@ -542,13 +542,177 @@
 "t": "11-12 22:40"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNlJiazNmNldsT18xR0xkNXFCQ1QzeFJJeWhMVHRLQU83LTU1UHBvbWQ4WHVDMFJHY2VOYmlSWm9UcFVOVWt5OUdFeDBEWWQya25sYi1XOG9wOW5oUlM5Z0huRHVCV3F5M2xxLS0xd0hSZ1JVb2hGdmtmcW5OMXRrX19MVklYZnA0dmlvOTFFenFaMnlUUU9GTnFINllwQlJCU2xmbEZxMmZPRGFwMUhDTVl0aDI5dDJVU1NJYVItMnQ1Yzct?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u878d\u8cc7",
+"summary": "Fed's Barr: US should prepare for 'serious' AI job disruption, widening inequality &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Fed's Barr: US should prepare for 'serious' AI job disruption, widening inequality - Reuters",
+"ts": 1794502551,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1ZPMHJzOXpxV2l6akRlcDNXeDNtS3hieHRPd3ZpbWRRRUNoUTNKanVNV2RndnBieXVXTlNWQkNKZnJLUDVXRDFwOUVyZUtudFNuaEF4a3c1eUZmRWJWNlNJTElvOThXSlN2TjZ5RDM4MkhYNmZGRG52c3JxemlwY1B2YXRyWWROOFV6cHJzYWNCdzhlc3Fxa0k0bVRNeklpZXZycTZaRVN6WmxsVEp1QzZlSU1pbll3TnRwcndqUERBUlZPQnJrXw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Family Dollar reaches $63 million settlement with US FTC, states over customer overcharges &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Family Dollar reaches $63 million settlement with US FTC, states over customer overcharges - Reuters",
+"ts": 1794508973,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmJ4OENGS1F1RWpJNzlmVHhSZjVvYlZVWnh0YmRKQ2oxSUlicjdzcmMwZ1pBZFJZaG1lX0FXUXl3S01CSTdROHhTdTZ0NjNvei1lLVVqaUpTcEstQlYxRE84alZ6azFYMkR4QU5XakE2VFphTjQzXzVBRjRIM19pWGtad2p6aFNzRFNpb1N4VFBTamxQRmxxMGV5bE5maFQ0Q0JHakJzNGI2bXNBN0dQRFhGcGRHZw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "OpenAI Joins Groundswell of Support for AI Chip Control Measures &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"OpenAI"
+],
+"title": "OpenAI Joins Groundswell of Support for AI Chip Control Measures - Bloomberg.com",
+"ts": 1794519358,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXc2TFhrUDB2c25fNklOQ3BNd2UtVVgxNXA3SE9TQTJTT3Rrd0FCWjBhclhDR2tGYWktTGJmTkUzQ09kbWEtaFR1Rm1ydHg4dmJWb1J3QmV1bmtjR1FmZ2Q4eXAwRjkwNTV1aGNlX3d6RjQyeTZhMmZRYndjZjJpSmhvRjZjV1o2NmlxNm80OVJISEtIUllIMzMzakpyZFVOcDA5d1ZSZlpFUnVH?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Microsoft Says It\u2019s Working to Fix Outlook, Copilot Outage &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"MSFT"
+],
+"title": "Microsoft Says It\u2019s Working to Fix Outlook, Copilot Outage - Bloomberg.com",
+"ts": 1794519610,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671853-gold-sinks-to-more-than-one-year-low-as-fed-rate-hike-bets-boost-dollar-treasury-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"rate hike",
+"Treasury yields"
+],
+"title": "Gold sinks to more than one-year low as Fed rate hike bets boost dollar, Treasury yields",
+"ts": 1794523258,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671954-ces-energy-solutions-gaap-eps-of-c035-revenue-of-c78483m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "CES Energy Solutions GAAP EPS of C$0.35, revenue of C$784.83M",
+"ts": 1794523280,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671955-bolt-biotherapeutics-gaap-eps-of-2_25?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Bolt Biotherapeutics GAAP EPS of -$2.25",
+"ts": 1794523345,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671956-system1-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "System1 reports Q3 results",
+"ts": 1794523420,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671957-tomi-environmental-solutions-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "TOMI Environmental Solutions reports Q3 results",
+"ts": 1794523465,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671959-banco-santander-gaap-eps-of-0_06?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Banco Santander GAAP EPS of $0.06",
+"ts": 1794523504,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671958-earnings-snapshot-nu-beats-q3-top-line-expectations-while-expanding-into-the-us-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Earnings Snapshot: Nu beats Q3 top-line expectations while expanding into the US market",
+"ts": 1794523530,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "CoinDesk",
+"summary": "",
+"tags": [],
+"title": "U.S. President names CFTC, SEC nominees for first time in a year",
+"ts": 1794523661,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-12T20:00"
+"last_date": "2026-11-12T21:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +722,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-12T20:00"
+"last_date": "2026-11-12T21:00"
 },
 "FNG": {
 "cool": {},
@@ -578,11 +742,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-12T20:00"
+"last_date": "2026-11-12T21:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-12T20:00"
+"last_date": "2026-11-12T21:00"
 },
 "UST10Y": {
 "cool": {
@@ -606,9 +770,9 @@
 },
 "last_date": "2026-11-11"
 },
-"_last_check": 1794519637.4360938
+"_last_check": 1794523837.444012
 },
-"last_run": 1794523269.9321234,
+"last_run": 1794523860.2230637,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1356,6 +1520,7 @@
 "154ce20be5365cc1": 1794226823.8223224,
 "154ebe7dbeb10900": 1794223842.150146,
 "154ee0754e806f75": 1794416450.9334848,
+"15521097610aef53": 1794523824.2808256,
 "155502c657dea7af": 1794381624.5089903,
 "155615562f3ab1f2": 1794521423.7718086,
 "1562d40c2b7327f3": 1794256827.896565,
@@ -1862,6 +2027,7 @@
 "234604e82b683dbe": 1794389438.4958024,
 "2347d6e754b5d053": 1794301258.7214239,
 "2353702b494ae6fc": 1794486023.9169981,
+"23621e3001d1007e": 1794523824.2808256,
 "2365e939fa4b750d": 1794067878.5266922,
 "23701f2c91fb917e": 1794085825.1416018,
 "237f944bda8f3b97": 1794090024.092463,
@@ -2004,6 +2170,7 @@
 "26cf5ed60032c88a": 1794207655.353521,
 "26d594eb8ee3bb26": 1794510065.4285805,
 "26d89d605095e504": 1794347425.5105855,
+"26deb1ecc93064c2": 1794523824.2808256,
 "26e3217567142b8d": 1794307825.328837,
 "26ea10c6acdc29ad": 1794487822.3175094,
 "26ef50eb6563eaef": 1794129624.9673119,
@@ -2784,6 +2951,7 @@
 "3c17b0188271315b": 1794294057.2981856,
 "3c1a26a750cdbca4": 1794495654.5774844,
 "3c1dccdb820dc571": 1794090024.092463,
+"3c4310c1f03faef8": 1794523824.2808256,
 "3c507d6d3df879d3": 1794523223.4129152,
 "3c52219d2a99fd8e": 1794466847.0948906,
 "3c55c6e3c99800a4": 1794386422.9841938,
@@ -3065,6 +3233,7 @@
 "43366a5328ce208b": 1794416450.9334848,
 "433823b88cd8124a": 1794226224.6034505,
 "433a83bafdc70b14": 1794423022.5466254,
+"4347966f5b7facac": 1794523824.2808256,
 "4349aa3fde7948de": 1794430653.1918259,
 "434a8741afdcf2bb": 1794336628.7999065,
 "435478a42b3bcd91": 1794063069.3473625,
@@ -4350,6 +4519,7 @@
 "664f7fbb19b6dbdb": 1794053146.8970654,
 "6650591df2eb378f": 1794053146.8970654,
 "66507d8d8cef5b3c": 1794310823.0024471,
+"66662517d2a06137": 1794523824.2808256,
 "667695221a991522": 1794520849.7436028,
 "6681b7c3d8bef167": 1794408026.6576438,
 "6689b9288f9f2606": 1794476423.816981,
@@ -4791,6 +4961,7 @@
 "732bb1f38f06451c": 1794481825.880578,
 "732d382d94f32f6b": 1794505825.2474673,
 "7331cdd45a33176e": 1794298825.0579662,
+"7349eab7fcb3eaa4": 1794523824.2808256,
 "7358980337fce500": 1794207655.353521,
 "7360f73cb31c6d2a": 1794314423.5789354,
 "7369eb2795dffc95": 1794333323.0978487,
@@ -6136,6 +6307,7 @@
 "98b5fc01e4de90b1": 1794309027.4508862,
 "98c149333c5da718": 1794055787.7739694,
 "98c7fe3d6b468f2a": 1794129624.9673119,
+"98cecd9412ca5a41": 1794523824.2808256,
 "98d5bc8594a378ae": 1794231044.761608,
 "98e033ded8e7301f": 1794165625.0596616,
 "98ecf71fa49224bf": 1794380451.074071,
@@ -6224,6 +6396,7 @@
 "9b090ca26706c78f": 1794315657.2528052,
 "9b0cb0f3b8bddcb4": 1794349844.933684,
 "9b1e97ae0af24459": 1794151225.6597934,
+"9b2a5f9c1d0e317d": 1794523824.2808256,
 "9b2d6665110dc007": 1794400239.7773461,
 "9b3c493ec9cbc525": 1794469822.9927154,
 "9b3f036751925465": 1794466847.0948906,
@@ -7122,6 +7295,7 @@
 "b32187f2b4ab1acf": 1794129624.9673119,
 "b3242d34841199f9": 1794466847.0948906,
 "b326130a9f170915": 1794466847.0948906,
+"b32691304ada7589": 1794523824.2808256,
 "b32958d9b41a482a": 1794303626.3132353,
 "b32c2230e11cdcc0": 1794481825.880578,
 "b333b2f85b8011c5": 1794063069.3473625,
@@ -8500,6 +8674,7 @@
 "d7f357c4add42c32": 1794392423.2246597,
 "d81240b2d3f62ed6": 1794218488.7102273,
 "d818429e016b5e42": 1794053146.8970654,
+"d8197de52d4c9709": 1794523824.2808256,
 "d81998065ebd66e7": 1794342025.2153375,
 "d81ae326f0135c0f": 1794420049.9604123,
 "d832230ac170588c": 1794090024.092463,
@@ -8521,6 +8696,7 @@
 "d870b39bd686f6ff": 1794330627.8580275,
 "d87331c7946bf9b3": 1794380451.074071,
 "d885fc15d4131650": 1794162024.6325307,
+"d8895f11e14447ab": 1794523824.2808256,
 "d893f2c4a4df5047": 1794079839.2548869,
 "d89674c597a0d64b": 1794090024.092463,
 "d89b0691e4540bd3": 1794481825.880578,
@@ -8902,6 +9078,7 @@
 "e2c7fe6fdd0fa59a": 1794133224.9019783,
 "e2d73fc4ae69a48e": 1794295224.707564,
 "e2dc01e6ebd51dde": 1794486023.9169981,
+"e2dc9ca72cfeca81": 1794523824.2808256,
 "e2dedc68f127661f": 1794090024.092463,
 "e2e5a6fb3b58c1bb": 1794504641.9706995,
 "e2fd810d53252c89": 1794431426.5168767,
@@ -9709,6 +9886,7 @@
 "fa1527348e40f36d": 1794215424.0711486,
 "fa30369b81936bab": 1794482423.8483984,
 "fa3d228ee90690ea": 1794090024.092463,
+"fa3d86526a585432": 1794523824.2808256,
 "fa40469080d1f7a4": 1794380451.074071,
 "fa44342cce5e4a1c": 1794438621.879703,
 "fa4e899b3c00c658": 1794312054.550939,
@@ -9948,6 +10126,7 @@
 "00f2af6471db324e": 1794232224.3910127,
 "01050c505a2b7b4b": 1794058663.5416367,
 "0105a306ef5cd5c9": 1794055787.7739694,
+"010a01429a028439": 1794523824.2808256,
 "0112443158d73b77": 1794515442.8235493,
 "011691fe3458e328": 1794382236.912113,
 "011e0b83d3ad5cac": 1794327026.3092759,
@@ -11187,6 +11366,7 @@
 "25475f4a128df44c": 1794352223.2402766,
 "2552cb71fb70b0f5": 1794294057.2981856,
 "255f01b3ea20940f": 1794349844.933684,
+"2560e4210d14f5bd": 1794523824.2808256,
 "2570b71f7f436bf5": 1794305426.239695,
 "257db4de9861233e": 1794327630.5502307,
 "25892c56d144ecd0": 1794424831.721633,
@@ -11468,6 +11648,7 @@
 "2cc7f67e445081e1": 1794336024.4023893,
 "2cd1c9d8d1758152": 1794073825.720103,
 "2cd7fefe165c49a6": 1794208823.7725184,
+"2cdbceb1d0a74236": 1794523824.2808256,
 "2ce0aa8b3825b56e": 1794053146.8970654,
 "2ce0bc5c8472f5d4": 1794354025.1018605,
 "2ce2dbc915a1e6ba": 1794232853.9654045,
@@ -12451,6 +12632,7 @@
 "4ad25077fcb4d469": 1794246025.5884385,
 "4ad6c35512fc7aab": 1794518426.1797802,
 "4adb8fd5356267a7": 1794472237.104473,
+"4add576c62e64464": 1794523824.2808256,
 "4ae878f3693107e0": 1794414698.6025398,
 "4aec9913f2350479": 1794405024.213529,
 "4aef77b3e8259eef": 1794470449.1915379,
@@ -13416,6 +13598,7 @@
 "67eef1f8724c14bf": 1794234645.282263,
 "67f7e6e9a02b64ff": 1794217228.4060323,
 "6803443f2573bf67": 1794053146.8970654,
+"6808e90ccde3a853": 1794523824.2808256,
 "680c4c96f1efc18d": 1794502854.2969291,
 "68170bbc202728f5": 1794300023.3124595,
 "68207df125f37443": 1794090024.092463,
@@ -13786,6 +13969,7 @@
 "72aa9daa9604aabc": 1794180024.180841,
 "72ad3ae0b65d0d67": 1794522022.9497743,
 "72ca74f9d358ffed": 1794327026.3092759,
+"72de2bd0184d8843": 1794523824.2808256,
 "72e2d14ffb31fe6e": 1794306641.07634,
 "72e62a1dbb950a8d": 1794294057.2981856,
 "72ea238f7b4e9320": 1794090024.092463,
@@ -14490,6 +14674,7 @@
 "882c5573f963a769": 1794329428.1954625,
 "8830784b4dc666f3": 1794226823.8223224,
 "88396685cc364c39": 1794223842.150146,
+"883e03705f8e69bf": 1794523824.2808256,
 "884fc78b932997db": 1794478824.179399,
 "8850ac5f21c0fea1": 1794506777.1747909,
 "8855ac427c8f0371": 1794390025.792391,
@@ -15488,6 +15673,7 @@
 "a5a071df3bb9cb4a": 1794471021.9148986,
 "a5a58f20c10c489d": 1794080428.0610616,
 "a5a6f4b82235d565": 1794477025.1202402,
+"a5a909c326e8402a": 1794523824.2808256,
 "a5aa793789dbbc59": 1794227444.8368437,
 "a5abd0bf58cd8990": 1794090024.092463,
 "a5b46af1e085ec63": 1794323425.210853,
@@ -16828,6 +17014,7 @@
 "cc24c32f3f61078f": 1794207655.353521,
 "cc4ec14aa509c3c3": 1794508823.8400886,
 "cc57c08d664908d9": 1794437421.737116,
+"cc582ebf4e09c93b": 1794523824.2808256,
 "cc599861605dd2eb": 1794419428.8587933,
 "cc641e2a10878f86": 1794516025.4582257,
 "cc73f2e3ce2f2dd2": 1794330055.137018,
@@ -16927,6 +17114,7 @@
 "cea1bab70a0a8d3e": 1794228625.7348583,
 "cea1e61fee8934b4": 1794240054.5770936,
 "ceb371d1bad3493b": 1794390025.792391,
+"cebe5fb8db918277": 1794523824.2808256,
 "ced14c19808b5382": 1794247257.3744018,
 "ceedf75895567941": 1794327026.3092759,
 "cef3dcab7726ab8b": 1794252642.0442708,
@@ -17639,6 +17827,7 @@
 "e34a07f7a6f05e2f": 1794335440.520374,
 "e34fee7e927f339c": 1794144023.650658,
 "e35730350390670d": 1794053146.8970654,
+"e3589131944baafd": 1794523824.2808256,
 "e35df1bdbf8a7377": 1794468641.438573,
 "e371de2cc04a74ce": 1794489036.1626346,
 "e375eda66b228e2c": 1794162024.6325307,
@@ -18190,6 +18379,7 @@
 "f36341009e4d1258": 1794053146.8970654,
 "f376a1aec7297579": 1794217228.4060323,
 "f37efe2ac7066612": 1794466847.0948906,
+"f385e96f17054562": 1794523824.2808256,
 "f38a3b78f36d2b8e": 1794387652.7155762,
 "f38d811bb9f281c2": 1794129624.9673119,
 "f3954291b96964d1": 1794415827.7010334,
