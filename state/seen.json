@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794495784.1328106,
+"ai_last_review": 1794497557.8651922,
 "ai_log": [
-{
-"err": "",
-"kept": 4,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 19,
-"ok": true,
-"t": "11-11 11:21"
-},
 {
 "err": "",
 "kept": 3,
@@ -540,572 +531,18 @@
 "n": 39,
 "ok": false,
 "t": "11-12 15:03"
+},
+{
+"err": "\u8d85\u6642\uff08[gemma-4-31b-it] ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)\uff09",
+"kept": 26,
+"missing": 0,
+"model": "",
+"n": 51,
+"ok": false,
+"t": "11-12 15:32"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVI4bXdEc2pRQllWOUxuY2pwLVZneXQtVEdfdG9QZ29kc0RWZlNyNkQtWmxVeS1oUXFpcFlmLXBURlRZYXRhei1SckxSc2l2NW96MzU3a0VnWlFkTWt0TE0wdkFwMWFtSjByd3IyNlVZLVZHQzF2RXdtc1dsV1JDaHVIb3hzS1F5VW5tVlp5anFGRWFkZFl2VHRrNXVpQnEzbUs0?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Why US Measles Cases Have Surged to a 35-Year High &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Why US Measles Cases Have Surged to a 35-Year High - Bloomberg.com",
-"ts": 1794477600,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUEwNGJMTllSYlIxaHB6UHRTMmhPeUR1eTg2Q0g2VkZkVDRkUVY3eU5GTzFtWEQ2dzhENkVrOGpDSFhMOGcwMUR4YWNNOWxVOHVrMlBiOW5DSEJ2LXJUdGNnSDFaWXZkbTB6UEM3SzJDU25oWVVGUnp4Ml9BVWgtUE14cmRXbDhYMW1jcXRMdVJQQVlsWEJKZk05dXpLc0M0WlZNcW8zNW1DSXc0Yy1lR1dLUQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Kazakhstan Corruption Scandal Is Seen Delaying Rail Giant IPO &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Kazakhstan Corruption Scandal Is Seen Delaying Rail Giant IPO - Bloomberg.com",
-"ts": 1794481336,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObjJ0dzZnV29yd1JOX014NTIzeHhmb2phcXBmZk5hU2xxNGRCdUh6TjZBcEx3SGV0U2pwREdsdVFjX2NtUk5WMjFMaFlsM1lVb3VZakxPb3ZtcDhCWDJoSFhWZHVHMzJid2dZd3pEWTJSMWVtQmF6Rjh1Z2VYRGFhMzN4Q0E2NEFTODdmUDlIY2k3WHg5YXlB?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "COMMENTARY: Morning Bid: Nvidious &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "COMMENTARY: Morning Bid: Nvidious - Reuters",
-"ts": 1794483418,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHVUNGNISEVta2NGQXh3ODhpcmlaMmJ1eUs4Qk9IcDNQUFVybnBSMUNUdGsyMGNXN2NPVlFCVm9nRk5LYkJZT3JIQV9SVVU5QkNvdkl4Tk92aElPVkJ4VXBRRHZZNXJ2RTZ0U0FwQk5YOEh4M0VfVVgwTW14X2hIa0FNTXhtTk9DNlpYVjRfMHVuR3pLV2tLdlF3c243V28yZ2xMLVlLdmlaTG5hVXBMZFpENklDQQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Benin Ships First Crude Cargo for Decades From Revived Oil Field &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Benin Ships First Crude Cargo for Decades From Revived Oil Field - Bloomberg.com",
-"ts": 1794484011,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzlPQ3JlZTMtT0lveklCazhZQkhCOXJGNlZVSHpreHo5T25MYWY2djZKLVlCMDFqU3gtUFdJVXB4MmdEdFVGLXJPWkZxOEJ2dmlDVU1zY1RvZVBxTjdkZ21JRlk1NklycjE3VjNwYnR6X2I5M2diTU9IV3l6WTR3d2RzcV9kaVBuVHAta2NzN2NXdmpBLWtFeWV0YWdpckswWEM1dHBpTQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Anthropic\u2019s Dario Amodei Can\u2019t Always Have His Way &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Anthropic\u2019s Dario Amodei Can\u2019t Always Have His Way - Bloomberg.com",
-"ts": 1794488583,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZC1uZTVNUkdPM3M1UzkxWjJDbmNFa1RwZm9iVmFuZ0FUMW1Sa1p4NlYxY3AxbE91d3VyN0J6aHM4UWpqTHpPZkdWbS04OEFyM3JqSzdoUUxhVWlTMlBReUZvQnRQbVhxdXhFMG8yenFBeUw1aVNxR0tzMWdMSzNlME80eW1ZZWlGcXJFUg?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "VIEW Nvidia CEO Jensen Huang steps down &nbsp;&nbsp; Reuters",
-"tags": [
-"NVDA"
-],
-"title": "VIEW Nvidia CEO Jensen Huang steps down - Reuters",
-"ts": 1794494100,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWFON3FvTk1xdktjdmFmcmtGNTk0UFpOTXpHZFZEVmpTQzRmVTBlVFRpSjVNNzVlRHhNUVhvM1ZXVjN3SGlYamtfRVdqU3pZZEtpX1lsN2dMT202dkd0akVHdzF6WUNpdE1BMXN1OFlSaXJ0TDk1bURIbkRVVXNBMnZQd1VKajFybWdmRTV3Qk9DYVhqREdXQ3R4LVdCTi1oYW9ncUt3VTZRNmtoeGhSZWlYSQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Nvidia Market Value Sinks Below $4 Trillion After Huang Resigns &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia Market Value Sinks Below $4 Trillion After Huang Resigns - Bloomberg.com",
-"ts": 1794494247,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/article/4967032-jensen-out-as-nvidia-ceo-what-the-charts-say-ahead-of-earnings?source=feed_symbol_NVDA",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA NVDA",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Jensen Out As Nvidia CEO: What The Charts Say Ahead Of Earnings",
-"ts": 1794495621,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.",
-"tags": [],
-"title": "Home sales plummet to lowest level since the Great Recession as buyers flee the market",
-"ts": 1794495660,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Block",
-"summary": "Crypto industry heavyweights are banding together to challenge Illinois over its controversial crypto tax.",
-"tags": [],
-"title": "Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax",
-"ts": 1794495662,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/broadcom-amd-stock-outlook-after-huangs-exit-from-nvidia-93CH-5022420",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA",
-"AMD"
-],
-"title": "Broadcom, AMD stock outlook after Huang\u2019s exit from Nvidia",
-"ts": 1794495880,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cryptoslate.com/bitcoin-plunges-to-71k-as-jensen-huang-abruptly-resigns-sending-nvidia-into-2-trillion-wipeout/",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "CryptoSlate",
-"summary": "Nvidia co-founder Jensen Huang resigned Thursday, sending the chipmaker&#039;s shares tumbling and intensifying a selloff across cryptocurrency markets. On Nov. 12, the company announced that Huang had stepped down as chief executive, president, and board member, effective immediately, ending his 33-year leadership of the artificial intelligence giant. Chief Financial Officer Colette Kress was app",
-"tags": [
-"NVDA",
-"BTC"
-],
-"title": "Bitcoin plunges to $71k as Jensen Huang abruptly resigns sending Nvidia into $2 trillion wipeout",
-"ts": 1794495898,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671375-the-nightview-fund-exits-autodesk-and-las-vegas-sands-in-q3-adds-microsoft-and-hyatt?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"MSFT"
-],
-"title": "The Nightview Fund exits Autodesk and Las Vegas Sands in Q3, adds Microsoft and Hyatt",
-"ts": 1794495942,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/symbol/NVDA/news?source=feed_symbol_NVDA",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA NVDA",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "After Nvidia, what's next for Jensen Huang? Prediction markets weigh in",
-"ts": 1794495942,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/bitcoin-key-support-levels-to-watch-after-break-below-72000-93CH-5022436",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"BTC"
-],
-"title": "Bitcoin key support levels to watch after break below $72,000",
-"ts": 1794495965,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-melco-resorts--entertainment-stock-sliding-today-93CH-5022441",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Melco Resorts & Entertainment stock sliding today?",
-"ts": 1794496049,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/who-is-nvidias-new-ceo-colette-kress-5022444",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Who is NVIDIA\u2019s new CEO Colette Kress?",
-"ts": 1794496111,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/nvidia-stock-support-levels-buy-zones-to-watch-after-huang-exit-hits-shares-93CH-5022447",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia stock: Support levels, buy zones to watch after Huang exit hits shares",
-"ts": 1794496168,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-032-5022449",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.32%",
-"ts": 1794496203,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671535-leatt-q3-gaap-eps-of-034-revenue-of-2046m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Leatt Q3 GAAP EPS of $0.34, revenue of $20.46M",
-"ts": 1794496206,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671537-nvidia-s-earnings-won-t-be-impacted-by-huang-s-scandal-wolfe-research-s-chris-caso?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia\u2019s earnings won\u2019t be impacted by Huang\u2019s scandal \u2013 Wolfe Research\u2019s Chris Caso",
-"ts": 1794496227,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/modern-mining-raises-40m-in-ipo-set-to-trade-on-nyse-american-432SI-5022414",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Modern Mining raises $40M in IPO, set to trade on NYSE American",
-"ts": 1794496322,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671511-washington-weighs-in-on-huangs-resignation-from-nvidia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Washington weighs in on Huang's resignation from Nvidia",
-"ts": 1794496334,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/webull-stock-may-move-7-on-nov-19-earnings-report-93CH-5022455",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Webull stock may move 7% on Nov. 19 earnings report",
-"ts": 1794496334,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671525-openai-raises-15b-at-125t-valuation-in-latest-fundraising-round---cnbc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"OpenAI"
-],
-"title": "OpenAI raises $15B at $1.25T valuation in latest fundraising round - CNBC",
-"ts": 1794496401,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/globant-shares-may-move-12-on-nov-19-earnings-release-93CH-5022462",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Globant shares may move 12% on Nov. 19 earnings release",
-"ts": 1794496406,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671528-digi-international-drops-18-percent-after-fiscal-q4-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Digi International drops 18% after fiscal Q4 report",
-"ts": 1794496408,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671541-newton-golf-q3-gaap-eps-of--023-revenue-of-137m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Newton Golf Q3 GAAP EPS of -$0.23, revenue of $1.37M",
-"ts": 1794496425,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/bath--body-works-options-signal-10-move-on-earnings-day-93CH-5022465",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Bath & Body Works options signal 10% move on earnings day",
-"ts": 1794496461,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://bitcoinmagazine.com/news/bny-mellon-raises-strive-asst-stake-28",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bitcoin Magazine",
-"summary": "Bitcoin Magazine BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday&#8217;s 13F Deadline Nears A Nov. 5 13F shows Bank of New York Mellon held 237,100 Strive shares worth $6.97 million at Sept. 30, up 51,544 shares from June, with other large filers still due Monday. This post BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday&#8217;s 13F Deadline Nears first ",
-"tags": [
-"BTC"
-],
-"title": "BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday\u2019s 13F Deadline Nears",
-"ts": 1794496620,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15582",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "Samsung Electronics has unveiled 30 artificial intelligence (AI) smart glasses models jointly developed with Google, Gentle Monster and Warby Parker. Powered by Google's Gemini AI, the glasses support translation, navigation and meeting summaries. They will launch in South Korea and the United State",
-"tags": [
-"GOOGL",
-"SSNLF"
-],
-"title": "Samsung Unveils 30 AI Smart Glasses Models",
-"ts": 1794528194,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15561",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "South Korean artificial intelligence (AI) semiconductor startup HyperAccel is struggling to secure foundry capacity from Samsung Electronics and memory supplies from SK hynix ahead of planned mass production next year.The company requested production capacity for 20,000 AI accelerators from Samsung",
-"tags": [
-"000660",
-"SSNLF",
-"foundry",
-"Foundry"
-],
-"title": "HyperAccel Struggles to Secure Samsung Foundry Capacity, SK hynix Memory",
-"ts": 1794528194,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15540",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "Nvidia\u2019s board of directors is preparing to remove founder and Chief Executive Officer Jensen Huang, The Wall Street Journal (WSJ) reported Nov. 11, citing people familiar with the matter. The move comes three days after Huang admitted to an extramarital affair.According to the WSJ, the board could",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia Board Prepares to Oust Jensen Huang, Decision Could Come as Soon as Nov. 11",
-"ts": 1794528194,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15522",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "AMD has officially launched its sixth-generation EPYC \u201cVenice\u201d server central processing unit (CPU), aiming to expand market share by offering better price-performance efficiency than competing products.AMD unveiled key details of its sixth-generation EPYC processors based on the Zen 6 microarchitec",
-"tags": [
-"NVDA",
-"AMD"
-],
-"title": "AMD Launches 6th-Gen EPYC Venice, Claims 3.75 Times Nvidia Performance",
-"ts": 1794528194,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15520",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "SK hynix is expanding the applications of its low-power LPDDR5X DRAM from vehicles to robots and smart factories. The company has secured international industrial functional safety certification after obtaining automotive functional safety certification in January.SK hynix said Nov. 11 that its LPDD",
-"tags": [
-"000660",
-"DRAM"
-],
-"title": "SK hynix LPDDR5X Wins Industrial Functional Safety Certification",
-"ts": 1794528194,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15519",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "Spatial audio artificial intelligence (AI) company Exarion said on Nov. 11 that it showcased its Sound-Tracing technology at Samsung Electronics\u2019 2026 C-Lab Startup Demo Day.The event was held on Nov. 10 at Samsung Electronics\u2019 Seoul R&amp;D Campus in Seocho, Seoul. Attendees included representatives fr",
-"tags": [
-"SSNLF"
-],
-"title": "Exarion Showcases Sound-Tracing at Samsung C-Lab Demo Day",
-"ts": 1794528194,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15502",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "Fabless semiconductor company DEEPX said on Nov. 10 that it has completed the design of its next-generation artificial intelligence (AI) chip, DX-M2.The chip will be manufactured using Samsung Electronics\u2019 second-generation 2-nanometer (nm) foundry process, known as SF2P. DEEPX completed the mask ta",
-"tags": [
-"SSNLF",
-"foundry"
-],
-"title": "DEEPX Begins Mask Production for Samsung 2nm AI Chip, Targets Q4 2027 Mass Production",
-"ts": 1794528194,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15501",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "Panmnesia, a developer of artificial intelligence (AI) infrastructure interconnect solutions, said on Nov. 10 that it has established a US subsidiary and appointed a president to lead the operation.Ellis Wilson, a former principal software engineering manager at Microsoft, has been appointed preside",
-"tags": [
-"MSFT"
-],
-"title": "Panmnesia Establishes US Subsidiary, Names Former Microsoft Executive as President",
-"ts": 1794528194,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15486",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "Samsung Electronics is facing potential supply shortages of extreme ultraviolet (EUV) mask blanks next year.According to industry sources on Nov. 10, Samsung Electronics' semiconductor procurement division requested additional supplies from Japan's Hoya in September after internal simulations of nex",
-"tags": [
-"SSNLF"
-],
-"title": "Samsung Faces EUV Mask Blank Shortage as Hoya Rejects Supply Increase",
-"ts": 1794528194,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -1169,7 +606,7 @@
 },
 "_last_check": 1794495036.3710234
 },
-"last_run": 1794496834.6718147,
+"last_run": 1794497609.3926823,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1363,6 +800,7 @@
 "058b15c7f479f3a3": 1794243659.0740352,
 "05a060a92047abc0": 1794294057.2981856,
 "05af684d50b3c6ce": 1794244826.386174,
+"05b3b8270ca36020": 1794497444.5440981,
 "05bcde845a4933a5": 1794058663.5416367,
 "05befa8fe66e6ff9": 1794053146.8970654,
 "05d1a34158995ab3": 1794309624.5737193,
@@ -2247,6 +1685,7 @@
 "2149edb8bc9a7d3a": 1794393041.7139091,
 "21536b340ba0cd20": 1794388822.6516917,
 "215af0bda36d9abd": 1794211829.3207283,
+"217a3f204c6b048e": 1794497444.5440981,
 "217cbd15a538dc84": 1794421222.2998455,
 "2180118d9d585e7e": 1794249071.019277,
 "2181f6640777ce48": 1794247257.3744018,
@@ -2425,6 +1864,7 @@
 "263869cf4d482184": 1794053146.8970654,
 "263afe51500b0178": 1794263443.2975552,
 "263da065f1be34a8": 1794337825.344606,
+"264bf54490cc54dd": 1794497444.5440981,
 "264cded09d5c8866": 1794268185.972617,
 "26520c04968304b7": 1794472822.705318,
 "265747a00f5fb516": 1794223228.835452,
@@ -2652,6 +2092,7 @@
 "2c46802aa3b78920": 1794223842.150146,
 "2c4bd4e5bd726673": 1794180024.180841,
 "2c4c18ded5cc7a1c": 1794053146.8970654,
+"2c4ebf36fe7c0794": 1794497444.5440981,
 "2c531783d592c2f6": 1794404423.5930965,
 "2c5b29e86f628d38": 1794295224.707564,
 "2c5bc3454deb1085": 1794216642.1444197,
@@ -2905,6 +2346,7 @@
 "33e43c8bf0cb0190": 1794417111.777808,
 "33e93cbb7c6d2fd8": 1794125424.4951053,
 "33eaaa1e38cce952": 1794495024.9189398,
+"33f0e28fcf907299": 1794497444.5440981,
 "33f2e7af4634555e": 1794385221.6704128,
 "33f70f27b7fdc929": 1794053146.8970654,
 "3400af2fda54ee65": 1794406825.281866,
@@ -3419,6 +2861,7 @@
 "42a697692c258b05": 1794151225.6597934,
 "42adcb81a8b9ed1b": 1794053146.8970654,
 "42bd72c87aa8235b": 1794483623.074817,
+"42c1bc9696c9655b": 1794497444.5440981,
 "42cc97059e1e4134": 1794252026.8992693,
 "42d36cefaa008d71": 1794294057.2981856,
 "42d3bca4f378a7b6": 1794053146.8970654,
@@ -3879,6 +3322,7 @@
 "50751026d9355d30": 1794491425.9515207,
 "50799fbe522f2845": 1794466847.0948906,
 "507c1078243eb084": 1794147624.409764,
+"507e5968c5ff349d": 1794497444.5440981,
 "50863625aa404056": 1794339044.0547247,
 "50965f69a1e9151e": 1794478222.0113163,
 "509b7904b96207b5": 1794207655.353521,
@@ -3988,6 +3432,7 @@
 "53ce1911db6b6764": 1794420049.9604123,
 "53ceb01ac56e7d3f": 1794151225.6597934,
 "53cf42e46cd7cdca": 1794207655.353521,
+"53d50f6a0fab4f43": 1794497444.5440981,
 "53f3870472bec70e": 1794488450.726929,
 "53fe61532391058a": 1794078625.195159,
 "541b462134624509": 1794207655.353521,
@@ -4383,6 +3828,7 @@
 "5f9a0ae3e5259464": 1794345025.53064,
 "5f9ffef27113ee1a": 1794262824.4868238,
 "5fa083b11185bf1d": 1794227444.8368437,
+"5fa6173dd9eb0fe3": 1794497444.5440981,
 "5fad8961185e494c": 1794213626.9912028,
 "5fb59db09df58c29": 1794253825.980711,
 "5fc0de2b2c356804": 1794349221.7950053,
@@ -6005,6 +5451,7 @@
 "9048ccfe98f678df": 1794244224.5102243,
 "906b8d99cc19ed65": 1794321043.2025392,
 "90786dbf8becf502": 1794354025.1018605,
+"907e41246f637b95": 1794497444.5440981,
 "908345dda4cdd0e8": 1794324648.7021484,
 "908365482e6c70d3": 1794090024.092463,
 "9083e847427ff8a9": 1794228023.5425556,
@@ -7010,6 +6457,7 @@
 "aeffc102fcea10e3": 1794494426.657751,
 "af00c558abb5f75c": 1794380451.074071,
 "af138770415eb18f": 1794133224.9019783,
+"af147163f2843497": 1794497444.5440981,
 "af1fa80c0ef02ade": 1794078057.3592389,
 "af29e108b273486c": 1794331841.6847267,
 "af2c95ab784de60d": 1794053146.8970654,
@@ -7514,6 +6962,7 @@
 "be1176fcb1ae81cd": 1794433226.3689482,
 "be187dbef73f27b6": 1794380451.074071,
 "be23a8254d5d7d8c": 1794468024.138138,
+"be3169d1ce8e5683": 1794497444.5440981,
 "be35b38893c2f651": 1794250859.8781228,
 "be3789793a8b10d3": 1794325825.7082462,
 "be42b603d1819b27": 1794247257.3744018,
@@ -7699,6 +7148,7 @@
 "c3354f2cd5318743": 1794083441.9529276,
 "c339b15a46146793": 1794419428.8587933,
 "c33c42008baf00e2": 1794380451.074071,
+"c34246682fbffb46": 1794497444.5440981,
 "c352c6391419f3d7": 1794354025.1018605,
 "c354bb5546d3aa80": 1794176424.6910276,
 "c356257da56f5a71": 1794261023.1557755,
@@ -7907,6 +7357,7 @@
 "c8cbb09e737de2e8": 1794063069.3473625,
 "c8cdd8c60f8660f4": 1794400828.886451,
 "c8d9b65912a8e1b5": 1794350423.088423,
+"c8ddfad28fa10f6a": 1794497444.5440981,
 "c8df741a00602ea7": 1794294057.2981856,
 "c8e91e0398123f5b": 1794207655.353521,
 "c8e9ce93d69c25f3": 1794322856.5589402,
@@ -8960,6 +8411,7 @@
 "e7e836b1a43bf8f3": 1794294057.2981856,
 "e7eee7f58f124a51": 1794480024.280059,
 "e7f068c9b41c89ac": 1794324648.7021484,
+"e7f7320306ea104e": 1794497444.5440981,
 "e7f856e8586b7609": 1794417625.2380702,
 "e7fb2527f102a1a3": 1794172824.1624086,
 "e7ff8a9ebc07139a": 1794438621.879703,
@@ -10678,6 +10130,7 @@
 "1e61c2d8a7ba3179": 1794294057.2981856,
 "1e6f7ac6df2a38fb": 1794136824.1662278,
 "1e7ea503bcb3a2b9": 1794129624.9673119,
+"1e8595143207b5e3": 1794497444.5440981,
 "1e8dc8d991203e6a": 1794407438.9483976,
 "1e8e1b1ccada5b97": 1794346240.584557,
 "1e9d970b8b952b48": 1794053146.8970654,
@@ -10839,6 +10292,7 @@
 "232c3afe4aa9ef3d": 1794058663.5416367,
 "2343a0c1d15db70a": 1794320424.8171039,
 "2351d627e50c75fc": 1794066518.762267,
+"23585ffb7b5c03c2": 1794497444.5440981,
 "235fee051e087cde": 1794407438.9483976,
 "23622f6995f3c153": 1794330627.8580275,
 "23653dbec05c0cb2": 1794410424.1208882,
@@ -11183,6 +10637,7 @@
 "2ce0aa8b3825b56e": 1794053146.8970654,
 "2ce0bc5c8472f5d4": 1794354025.1018605,
 "2ce2dbc915a1e6ba": 1794232853.9654045,
+"2ce33112af84add2": 1794497444.5440981,
 "2ce49474105dbafe": 1794154823.0343263,
 "2cef9f480902e523": 1794236457.02748,
 "2cf515b4cf92e9ae": 1794434449.3275425,
@@ -11805,6 +11260,7 @@
 "40bfd85a6fa263c0": 1794468024.138138,
 "40c17825982b56f8": 1794486023.9169981,
 "40c5d3c24ce58470": 1794388822.6516917,
+"40c84abc114aa91a": 1794497444.5440981,
 "40c9b555ddf6a57e": 1794053146.8970654,
 "40ce5084a8dd1632": 1794301258.7214239,
 "40d707a45a3d86c1": 1794079224.7359486,
@@ -11910,6 +11366,7 @@
 "443a69fae568db84": 1794180024.180841,
 "44467e41ae55084d": 1794327630.5502307,
 "4458961638bf6ebc": 1794380451.074071,
+"44616f8422857e78": 1794497444.5440981,
 "447067c6556a390a": 1794394851.7678685,
 "44830961f096e352": 1794265822.861851,
 "448597d450e4aafa": 1794207655.353521,
@@ -13190,6 +12647,7 @@
 "6e8f2fcc5c12b151": 1794226224.6034505,
 "6e96faab1d7d967b": 1794250859.8781228,
 "6e9d8a6f1421e579": 1794256827.896565,
+"6ea80c13e411bef3": 1794497444.5440981,
 "6ecce87c6bded8b1": 1794129624.9673119,
 "6ecfcfe70ddd13c1": 1794058663.5416367,
 "6ed6aab91566d97e": 1794380451.074071,
@@ -13201,6 +12659,7 @@
 "6f07363c13ced91f": 1794490843.0898888,
 "6f09195a457e500d": 1794294057.2981856,
 "6f1264fbe75d8c96": 1794225653.3544042,
+"6f12cb5b33c912d6": 1794497444.5440981,
 "6f24923532eac0dd": 1794294057.2981856,
 "6f2673074b38829e": 1794053146.8970654,
 "6f280dc1acd5c173": 1794066518.762267,
@@ -13488,6 +12947,7 @@
 "78941d957a52954b": 1794066518.762267,
 "789a56cc8f77da72": 1794060010.396961,
 "789d1e11f0e6d9db": 1794074452.1558738,
+"78a7f9b3cb7f4fe6": 1794497444.5440981,
 "78af39c98dcfe093": 1794420049.9604123,
 "78b99aefba428331": 1794405024.213529,
 "78bff6f15edb041f": 1794318626.6609201,
@@ -13586,6 +13046,7 @@
 "7c32d7da70c1113c": 1794208823.7725184,
 "7c37d1b3ebe6cc5c": 1794309027.4508862,
 "7c46284bb1beb0b8": 1794053146.8970654,
+"7c464f4be75be23c": 1794497444.5440981,
 "7c4adfa0c1677e17": 1794417111.777808,
 "7c4e6d05908448b9": 1794321626.205444,
 "7c511babffa10723": 1794210025.2421503,
@@ -16199,6 +15660,7 @@
 "ce6deb95e1d00709": 1794066518.762267,
 "ce6e67d95a8007e3": 1794402622.983302,
 "ce712c0153f1a87e": 1794294057.2981856,
+"ce7634381f503549": 1794497444.5440981,
 "ce7be1a5c1c7919c": 1794294057.2981856,
 "ce81d763df494774": 1794315026.6277947,
 "ce81fc8976766f22": 1794426025.3083632,
@@ -16783,11 +16245,13 @@
 "e12a743dc790f9b5": 1794477651.6975112,
 "e12a9e178ccdb7a7": 1794469822.9927154,
 "e12b4a0e5f7a0324": 1794294057.2981856,
+"e13e26a6163ded87": 1794497444.5440981,
 "e1471a556c377e2d": 1794319825.0401058,
 "e152568d9372c13e": 1794380451.074071,
 "e1547fa055080922": 1794300023.3124595,
 "e158a1402199923a": 1794129624.9673119,
 "e15abf705acd934f": 1794129624.9673119,
+"e16482655348dfc8": 1794497444.5440981,
 "e165ede59159442e": 1794425437.8749177,
 "e16dcd7ac9aae791": 1794433823.5002458,
 "e1785dca40f1d19d": 1794414698.6025398,
@@ -16889,6 +16353,7 @@
 "e47f4e77ed1d9e37": 1794340852.0511594,
 "e4855c66ff08d778": 1794222625.9546466,
 "e486ae14ea0a7e41": 1794125424.4951053,
+"e49dd9d3ccf7b95c": 1794497444.5440981,
 "e4a6828c39d1370f": 1794466847.0948906,
 "e4b0e6c98e0b00a6": 1794481825.880578,
 "e4b340314ebd0c31": 1794294057.2981856,
@@ -16928,6 +16393,7 @@
 "e6125ba54e8a877a": 1794247257.3744018,
 "e6183a78154dd55c": 1794495654.5774844,
 "e6193fff4e5d70ac": 1794301829.133516,
+"e61dc24be2a8debe": 1794497444.5440981,
 "e620789430cc21ad": 1794222625.9546466,
 "e621c7993fd71e43": 1794466847.0948906,
 "e6262f6bdc8c60ba": 1794053146.8970654,
