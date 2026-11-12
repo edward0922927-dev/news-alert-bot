@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794476479.2296166,
+"ai_last_review": 1794477672.03879,
 "ai_log": [
-{
-"err": "",
-"kept": 3,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 19,
-"ok": true,
-"t": "11-10 23:11"
-},
 {
 "err": "",
 "kept": 2,
@@ -540,189 +531,18 @@
 "n": 18,
 "ok": true,
 "t": "11-12 09:41"
+},
+{
+"err": "",
+"kept": 4,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 16,
+"ok": true,
+"t": "11-12 10:01"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzN5cE16dEJSVGw2Y1VTaFlDR056d1ZWRk5rTzAtODI1RlBSTC13S2dwMmpETEpENnJ1ekNSTVRLdUphd1piMUNJd2RhZGlKMUNobnB2TzdDV2IxZi1sdFdJXy1veHJZS1Utd2xaQlQ2ckFzZUdFMU1waHZ4U1BCNDBmdHBYeVNiOXgzNVpNVVhxS1RhX0tZR3JOTWszYVlua2praXRJak9VMWZKVEotSmNB?oc=5",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "AUD/USD: Aussie Falls to Lowest Since January on RBA Slowdown, AI Fears &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "AUD/USD: Aussie Falls to Lowest Since January on RBA Slowdown, AI Fears - Bloomberg.com",
-"ts": 1794469980,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWTBrano0X20tY0lBQWxXWXpHOVlKRXpBblNpOFgtUFVUMkhHZnZ2V1NBV2JNV3h0MnhwSVltbkVFS1lGUGdxU09TcFlucjVITThXMmhaT0VfVVNYSnNCYS1lRThfTmhhZ0xnWW9rY0RNQ1pES1dXZUR1cEc0SGZmUkRoWnA5Xy12RHNsNXdIX21FWF9uRk5jb3FRQXZWdw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "UK's Metro Bank up for sale as part of strategic review &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "UK's Metro Bank up for sale as part of strategic review - Reuters",
-"ts": 1794472646,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFRoaGdJR1QwUExNNmh3cGRGSmVabml1T2YtWkZhYXdXcjlXUjFtMUVkOHBJeEVqS0MtVmExMFdZM05tOGV3bUNXS1QtOEtYOWxtb1ViRmp3bTJrZEVMdXU3OU9SMU91bkl4Z3YtcExDZmU0NGdCWFhYQlhMb1ZEMnhBNmdUbElpUHc0eEJkWXAzYUdsaFlYWVNIRXlSYzMxV0V4eHh6TDFWWlM0eEF1dGo2VQ?oc=5",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Nvidia Partner Hon Hai Beats Profit Estimates on AI, iPhone Duo &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia Partner Hon Hai Beats Profit Estimates on AI, iPhone Duo - Bloomberg.com",
-"ts": 1794475252,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/setback-for-google-as-eu-court-adviser-backs-17-billion-antitrust-fine-5020732",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"GOOGL"
-],
-"title": "Setback for Google as EU Court adviser backs $1.7 billion antitrust fine",
-"ts": 1794475843,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/synsam-shares-jump-3-after-q3-sales-rise-99-93CH-5020734",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Synsam shares jump 3% after Q3 sales rise 9.9%",
-"ts": 1794475928,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/qinetiq-agrees-to-sell-us-business-to-serco-for-292-million-93CH-5020742",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "QinetiQ agrees to sell US business to Serco for $292 million",
-"ts": 1794476078,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671235-grupo-clarn-sa-reports-results-for-the-first-nine-month-of-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Grupo Clar\u00edn S.A. reports results for the first nine month of 2026",
-"ts": 1794476305,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-patrizia-stock-surging-today-93CH-5020748",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Patrizia stock surging today?",
-"ts": 1794476321,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-synsam-stock-climbing-today-93CH-5020757",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Synsam stock climbing today?",
-"ts": 1794476516,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/nasdaq-futures-fall-as-nvidia-turmoil-rattles-ai-stocks-5020761",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Nasdaq futures fall as Nvidia turmoil rattles AI stocks",
-"ts": 1794476547,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-endeavour-mining-stock-sliding-today-93CH-5020763",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Endeavour Mining stock sliding today?",
-"ts": 1794476580,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Decrypt",
-"summary": "Nvidia's board is reportedly preparing to oust its CEO, sending the chipmaker's shares down more than 5% in premarket trading.",
-"tags": [
-"NVDA"
-],
-"title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
-"ts": 1794476838,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/symbol/NVDA/news?source=feed_symbol_NVDA",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA NVDA",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Megaspeed pledges transparency with U.S. government amid scrutiny over Nvidia chip diversion",
-"ts": 1794476874,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -786,7 +606,7 @@
 },
 "_last_check": 1794476434.7348542
 },
-"last_run": 1794477035.7777028,
+"last_run": 1794477680.6965823,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -2128,6 +1948,7 @@
 "2a6ea7267155151c": 1794385837.7839928,
 "2a708ea7f0a80e13": 1794389438.4958024,
 "2a73171958b661ed": 1794053146.8970654,
+"2a8624fde535c947": 1794477651.6975112,
 "2a868544fcbd3140": 1794172824.1624086,
 "2a87cf3fb88f00f0": 1794466847.0948906,
 "2a92097d2090328f": 1794466847.0948906,
@@ -2902,6 +2723,7 @@
 "42d36cefaa008d71": 1794294057.2981856,
 "42d3bca4f378a7b6": 1794053146.8970654,
 "42d596ad02798c2b": 1794232853.9654045,
+"42e3894361cb0ef2": 1794477651.6975112,
 "42f191efbce4bd82": 1794229828.2811856,
 "42f1de361abf1583": 1794129624.9673119,
 "43052708b482e1c1": 1794398452.8861506,
@@ -3521,6 +3343,7 @@
 "5698833a3382a18d": 1794391797.617886,
 "569a0299669447a8": 1794053146.8970654,
 "56a479667fc13299": 1794336024.4023893,
+"56aae69a18b997a0": 1794477651.6975112,
 "56ba6a987e738efd": 1794211829.3207283,
 "56c18409c6ebb8e0": 1794298825.0579662,
 "56c19dc5c830017a": 1794349221.7950053,
@@ -5742,6 +5565,7 @@
 "9f5b0c00a94d17e1": 1794433823.5002458,
 "9f5c6cf749d0ccef": 1794380451.074071,
 "9f6e58269cc6b12a": 1794090024.092463,
+"9f72283dc01ea77d": 1794477651.6975112,
 "9f82a0fcc695ad8f": 1794207655.353521,
 "9f82be62331a313b": 1794400828.886451,
 "9f8a234904b91a4e": 1794075624.4430547,
@@ -6710,6 +6534,7 @@
 "bdd47e0cc0a62ab6": 1794129624.9673119,
 "bdd9998fd41f11cc": 1794329428.1954625,
 "bddb45e1c93fb56f": 1794165625.0596616,
+"bde8c1401a0c5b0a": 1794477651.6975112,
 "bdf599e16a3a14ef": 1794325226.4663944,
 "bdfc7ced1b6ba12e": 1794231625.7466462,
 "be1176fcb1ae81cd": 1794433226.3689482,
@@ -6860,6 +6685,7 @@
 "c251b27e4e6cb41d": 1794207655.353521,
 "c2538aaedecc244d": 1794263443.2975552,
 "c253f3591c9b1cf1": 1794319254.2679577,
+"c254f8349b996a08": 1794477651.6975112,
 "c2576efd884310ca": 1794342025.2153375,
 "c25b6a53371a5ea8": 1794380451.074071,
 "c26e62e57f080cd4": 1794208823.7725184,
@@ -7413,7 +7239,9 @@
 "d31413951c5a88c6": 1794352822.6411858,
 "d3141741a97a57f3": 1794207655.353521,
 "d3160c285b9c8dea": 1794263443.2975552,
+"d319b3aecdac7aa8": 1794477651.6975112,
 "d319f9f4cb2def7a": 1794265822.861851,
+"d31a83c97af5d98f": 1794477651.6975112,
 "d33664958731f316": 1794397829.6326773,
 "d3439083fdb98bb0": 1794154823.0343263,
 "d345433dd9dd966f": 1794129624.9673119,
@@ -8434,6 +8262,7 @@
 "f41dc7cf7937dda7": 1794125424.4951053,
 "f42a42512eae2b70": 1794063069.3473625,
 "f42c260ba3b91a3e": 1794090024.092463,
+"f42fb1e22c558625": 1794477651.6975112,
 "f431fb9c07f3b1b9": 1794334224.0104544,
 "f44954e58429d5e6": 1794053146.8970654,
 "f450feb904a39218": 1794380451.074071,
@@ -8948,6 +8777,7 @@
 "0616a832df1dd397": 1794121251.8481042,
 "0619c9bb35914c89": 1794232853.9654045,
 "0634fe0e08086d6f": 1794472237.104473,
+"06365484acde91b6": 1794477651.6975112,
 "064f81bed8ae4e51": 1794466847.0948906,
 "0661e25d324e86a6": 1794151225.6597934,
 "0674a034a6278251": 1794053146.8970654,
@@ -11029,6 +10859,7 @@
 "4c475eca52a9ff49": 1794413426.5364234,
 "4c4de1d3d45496cb": 1794466847.0948906,
 "4c587b23ed984dd6": 1794319825.0401058,
+"4c59454d6c286ec6": 1794477651.6975112,
 "4c5ae13cfe2efef0": 1794090024.092463,
 "4c5e55242305dd7b": 1794313222.9578052,
 "4c5fd84e89eda607": 1794121251.8481042,
@@ -13063,6 +12894,7 @@
 "941e20165b5a1f81": 1794235227.58563,
 "941e3e3afa34c415": 1794294057.2981856,
 "942e16f14b920bcc": 1794125424.4951053,
+"943bdf307a206e90": 1794477651.6975112,
 "9449f976b799fc89": 1794380451.074071,
 "945005b74d02918a": 1794294057.2981856,
 "9453d69c6fd58c63": 1794213626.9912028,
@@ -13153,6 +12985,7 @@
 "9797d332485ac1a9": 1794297025.7499537,
 "9799e146e3a55d81": 1794300023.3124595,
 "979a4c12b484ef10": 1794294057.2981856,
+"97a0a6ff8fbd3236": 1794477651.6975112,
 "97a77be1a217b326": 1794079839.2548869,
 "97aecfd51afe867a": 1794466847.0948906,
 "97b07e5ce9dba55d": 1794466847.0948906,
@@ -13963,6 +13796,7 @@
 "b2e84dfae2d0359d": 1794333323.0978487,
 "b2ed1b682e983fe2": 1794321626.205444,
 "b2f3fba98b5ad4e7": 1794258625.424642,
+"b2f64d4e962e1573": 1794477651.6975112,
 "b3013327f4956f72": 1794207655.353521,
 "b31db2b71a30d214": 1794230425.0439425,
 "b33404aee64b594d": 1794402054.0077875,
@@ -15340,6 +15174,7 @@
 "e0e1c754b5f04d7a": 1794207655.353521,
 "e109ac4610f826e6": 1794466847.0948906,
 "e1224d3331edeac2": 1794300023.3124595,
+"e12a743dc790f9b5": 1794477651.6975112,
 "e12a9e178ccdb7a7": 1794469822.9927154,
 "e12b4a0e5f7a0324": 1794294057.2981856,
 "e1471a556c377e2d": 1794319825.0401058,
@@ -15408,6 +15243,7 @@
 "e35730350390670d": 1794053146.8970654,
 "e35df1bdbf8a7377": 1794468641.438573,
 "e375eda66b228e2c": 1794162024.6325307,
+"e37a5250a501d6ba": 1794477651.6975112,
 "e38ac8fe6b6f054d": 1794252642.0442708,
 "e38b1b72057b9501": 1794297654.3266497,
 "e38f7043faefcb46": 1794207655.353521,
