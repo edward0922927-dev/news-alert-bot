@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794477672.03879,
+"ai_last_review": 1794478838.5217547,
 "ai_log": [
-{
-"err": "",
-"kept": 2,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 9,
-"ok": true,
-"t": "11-10 23:31"
-},
 {
 "err": "",
 "kept": 2,
@@ -540,118 +531,18 @@
 "n": 16,
 "ok": true,
 "t": "11-12 10:01"
+},
+{
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 14,
+"ok": true,
+"t": "11-12 10:20"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRl91dkI4X1RqdGFLVEV4TTdaNkhuMWNpSi1CcFpIYzBCVzhwX1NXMFRNSTBnbENpRHNvZDlzMGd1eWhrWDA3VjVHU0dyYzlHRXl2T0lnUHROUko4cEE4YTNBbXFMN2xHNEU4dGVHYlZXcEctTUN2WXJnOVdoZzVJRVF0Q1M0RVZXWmV2enZfZEt1THRfSTRtTU43M0VoamloZzhReW16RUt2NnBldXZTTE1LbjJCUnA4VEE?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "US Envoys Arrive for Putin Talks as Zelenskyy Sees Opportunity &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "US Envoys Arrive for Putin Talks as Zelenskyy Sees Opportunity - Bloomberg.com",
-"ts": 1794465416,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSU84MEZjd2ZxT0dKWk5ROVFCT3QzYk4ybU1PbDZQbXlmd3Jzc2tNMHgzcVZBdnJ1RS1WeURxUmhfblNhc2JLUTVxTUR4Q3d2MWp6Z3NsMmN4UlhiRWpWUkxnZlhQby1xVVRUcUNxcllpOXBIcEh2cmF1eXNFQjRQTDJaVmN1TFJvM1VrZC1VYWtpcE1fdWRIWmpmQVoydFZLMDdrMUFUUHNTLTNWbHJUMA?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "UK Economy Defies Headwinds With Strongest Growth Since 2024 &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "UK Economy Defies Headwinds With Strongest Growth Since 2024 - Bloomberg.com",
-"ts": 1794471220,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/us-humanoid-robot-production-could-hit-400000-by-2030-as-deployment-ramps-jp-morgan-says-5020778",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "US humanoid robot production could hit 400,000 by 2030 as deployment ramps, J.P. Morgan says",
-"ts": 1794477264,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "SoftBank, Nvidia back Germany\u2019s Agile Robots at $8.5 billion valuation",
-"ts": 1794477661,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "Prince Harry and Meghan Markle have reportedly moved into a new Cotswolds home on their friend\u2019s estate after returning to the U.K. with their children in August.",
-"tags": [],
-"title": "Prince Harry and Meghan Markle move into new home in Cotswolds",
-"ts": 1794477780,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671237-kobeissi-letter-tells-nvidia-board-not-to-fire-jensen-huang-urges-shareholder-vote?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Kobeissi Letter tells Nvidia board not to fire Jensen Huang, urges shareholder vote",
-"ts": 1794477800,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671239-xunlei-reports-q3-results-approves-20m-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Xunlei reports Q3 results, approves $20M buyback",
-"ts": 1794477936,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4671240-central-puerto-gaap-eps-of-025-revenue-of-5324m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Central Puerto GAAP EPS of $0.25, revenue of $532.4M",
-"ts": 1794478121,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -715,7 +606,7 @@
 },
 "_last_check": 1794476434.7348542
 },
-"last_run": 1794478232.6257293,
+"last_run": 1794478845.0378246,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1886,6 +1777,7 @@
 "25cc9f40e9c4cb9b": 1794387024.263017,
 "25d66da38c7f6eff": 1794408026.6576438,
 "25e1572cec430e9a": 1794385221.6704128,
+"25e45e0a9a189c92": 1794478824.179399,
 "25f356e9a9608e29": 1794069624.2005684,
 "25f7939f402c72d5": 1794304852.8805614,
 "2601f8f5e8a7037d": 1794419428.8587933,
@@ -2464,6 +2356,7 @@
 "378b35ec1231e55a": 1794343223.611575,
 "37928340e7193ee5": 1794426622.2772443,
 "379eb49a27e8f2b9": 1794408026.6576438,
+"37b2f13a52cc378b": 1794478824.179399,
 "37b316b1d587a7de": 1794067878.5266922,
 "37c53a8fd0576451": 1794053146.8970654,
 "37c5ef2656134b45": 1794053146.8970654,
@@ -6282,6 +6175,7 @@
 "b1d0ea4686fa9733": 1794180024.180841,
 "b1d28850a8df5b60": 1794384051.3623385,
 "b1d46e8f52d808a8": 1794306641.07634,
+"b1dae67bb2837281": 1794478824.179399,
 "b1de0a0a81d36bcc": 1794251432.9348457,
 "b1ea78a4d04fbeaf": 1794058663.5416367,
 "b1f581240ac887ba": 1794321043.2025392,
@@ -7415,6 +7309,7 @@
 "d50174f28f8b1984": 1794314423.5789354,
 "d505cc6add0197b8": 1794420049.9604123,
 "d50b61bc2cecec30": 1794394851.7678685,
+"d50e287077f883ca": 1794478824.179399,
 "d50fa8e178d58322": 1794129624.9673119,
 "d510d4f81645dd7f": 1794242424.5403016,
 "d51ad0b82a2a5163": 1794090024.092463,
@@ -7492,6 +7387,7 @@
 "d6ed7a9af31c6b4a": 1794207655.353521,
 "d6f11a566ff4845b": 1794093624.3200548,
 "d6f128fbd7e8a0dd": 1794466847.0948906,
+"d6fe8460c7cbc64f": 1794478824.179399,
 "d7046e8dfb743d67": 1794176424.6910276,
 "d714a0028cc8c487": 1794225025.2256005,
 "d7198245af0b81e8": 1794067878.5266922,
@@ -7726,6 +7622,7 @@
 "ddeb3c563ea08df8": 1794298226.443851,
 "ddf166e6538aecd5": 1794348047.2236443,
 "ddf22e6930aeacf2": 1794382236.912113,
+"de1918fdf04933de": 1794478824.179399,
 "de1dd518e368478a": 1794294057.2981856,
 "de3b0a642ebe0729": 1794058663.5416367,
 "de3e3561ca4bbf51": 1794466847.0948906,
@@ -8482,6 +8379,7 @@
 "f7d73a3b9b9cbee0": 1794306641.07634,
 "f7dba6b663b01d13": 1794223228.835452,
 "f7dbd9ee136880ec": 1794090024.092463,
+"f7fe702f4e77d5c7": 1794478824.179399,
 "f801f9cb8bdf2cde": 1794343223.611575,
 "f803f78486bbaf32": 1794466847.0948906,
 "f81b6fb1770926b8": 1794335440.520374,
@@ -9844,6 +9742,7 @@
 "25c1ee0a43df690a": 1794176424.6910276,
 "25c21de8971635f6": 1794069624.2005684,
 "25c5d36558ce9369": 1794053146.8970654,
+"25c9a00baa60d755": 1794478824.179399,
 "25d11ba3818fe800": 1794294057.2981856,
 "25e92a90d7381199": 1794208823.7725184,
 "25f25fc6a1b5366f": 1794381624.5089903,
@@ -10675,6 +10574,7 @@
 "413e7a8901d27536": 1794381624.5089903,
 "4152231098781e0d": 1794414698.6025398,
 "415aaf366e632367": 1794090024.092463,
+"41674f5f6dffd682": 1794478824.179399,
 "416cff5264ca0f39": 1794224423.8500595,
 "4171d19c6e97c493": 1794090024.092463,
 "41831a000b0c1a0b": 1794053146.8970654,
@@ -11333,6 +11233,7 @@
 "58e79fa4eb6b6f4f": 1794313843.890771,
 "58eb10c8144ab530": 1794158423.5148294,
 "58ee8350d6c20b26": 1794248479.105261,
+"58f6a2e1b134d3d5": 1794478824.179399,
 "58fabe0bf7562905": 1794129624.9673119,
 "590ee355864835d8": 1794317448.4307733,
 "59362b4deb05240a": 1794053146.8970654,
@@ -11636,6 +11537,7 @@
 "631e39a8e1478b1c": 1794058663.5416367,
 "633fc6e291e33f6b": 1794325226.4663944,
 "63543e3bdb59eecc": 1794129624.9673119,
+"63642b521428734b": 1794478824.179399,
 "6372dd07877215d2": 1794225653.3544042,
 "638c331729da42e9": 1794329428.1954625,
 "63a0a07f81038d6f": 1794129624.9673119,
@@ -12679,6 +12581,7 @@
 "882c5573f963a769": 1794329428.1954625,
 "8830784b4dc666f3": 1794226823.8223224,
 "88396685cc364c39": 1794223842.150146,
+"884fc78b932997db": 1794478824.179399,
 "8855ac427c8f0371": 1794390025.792391,
 "885b5360e600321e": 1794380451.074071,
 "886f40a3ba2a9f99": 1794090024.092463,
@@ -12689,6 +12592,7 @@
 "8882f4416112cfcc": 1794380451.074071,
 "888785acf6a0fdaf": 1794090024.092463,
 "88a23c9bee9996f6": 1794070853.5888453,
+"88b1f4cb691bcbc3": 1794478824.179399,
 "88b9df85815f4056": 1794058663.5416367,
 "88be178888b7bc30": 1794140423.8128505,
 "88c2bb04a9dac858": 1794058663.5416367,
@@ -15286,6 +15190,7 @@
 "e03c88c70a913644": 1794261023.1557755,
 "e03e5ef5bf1f44d8": 1794090024.092463,
 "e0404a39cb7d7e1e": 1794207655.353521,
+"e04ab7175fc2a7a1": 1794478824.179399,
 "e05f20378d66ad1c": 1794325825.7082462,
 "e077d2f55debe48e": 1794299443.3490458,
 "e07acd9e09d090ec": 1794408622.988186,
