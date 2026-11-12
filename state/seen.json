@@ -542,13 +542,208 @@
 "t": "11-12 20:21"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZU91UFNRS2RNNEhrTGF4c2I2SWlsaHFjQmNOcWVOUjZLUWx0RTVudTJzZFZiSnJXNm9ka1NtLU5oSDlrbDNidTA2a24ybDllY2h1WEFHc2czZWNCLUpDSGt6cHVqMmhtTGhqbHR4VF9odlZiMUZSR3RBQllnZ2FfZUJnMjE?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u878d\u8cc7",
+"summary": "Jensen jeopardy will disrupt the AI industry &nbsp;&nbsp; Financial Times",
+"tags": [],
+"title": "Jensen jeopardy will disrupt the AI industry - Financial Times",
+"ts": 1794498991,
+"unmatched": false
+},
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFBCNGpaYzhWRUQwOTlZVU9qYUhlZHM3amVGY2dCZkVfUW96Zk1takQxUExUUHpMU1FmRDFzdmlMS2xZUFdidHh2UTRzenRxUkRROGpxT3IxLUJJeGdvZDBHOEJ1U0NUNjQ5MDRzN0xFeTlZZmRBSVRsWU4tN2UzZjJ2bjNDWW1QWFVOVEVKTU0tSGY1ZDZkMVhtSVpuc21haHNWemJDVW1Pb3VOZldheDA3bWE?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
+"summary": "Binance Finishes Covering $6.3 Billion of Stolen Customer Tokens &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"Binance"
+],
+"title": "Binance Finishes Covering $6.3 Billion of Stolen Customer Tokens - Bloomberg.com",
+"ts": 1794505375,
+"unmatched": false
+},
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkdEX2tCRzgtRWZuemRHMFZKTzBRM0laSFd5eEZBQnk4amRGNjFCX2toYjJBTlo2d0JobmkwQmZmbnZWcS1pRVl1aXZnbHozbnhtZVpHQV9ZS2dUSGZBR2ZzRlE3SWNJMFdROXlTc09mMkRFdF9pR01xZTJUWXlWaEFNak4?oc=5",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "AI \u878d\u8cc7",
+"summary": "Italian banks may cut sovereign debt holdings in tax battle, warns Intesa chief &nbsp;&nbsp; Financial Times",
+"tags": [],
+"title": "Italian banks may cut sovereign debt holdings in tax battle, warns Intesa chief - Financial Times",
+"ts": 1794509363,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/nvidia-trading-flows-pricing-levels-and-what-comes-next-93CH-5023088",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [
+"NVDA"
+],
+"title": "Nvidia trading flows: pricing, levels, and what comes next",
+"ts": 1794514538,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/brookfield-corp-earnings-analysis-questions-answered-and-next-catalysts-93CH-5023090",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Brookfield Corp earnings analysis: questions answered and next catalysts",
+"ts": 1794514623,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/nebius-group-earnings-analysis-questions-answered-and-next-catalysts-93CH-5023091",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Nebius Group earnings analysis: questions answered and next catalysts",
+"ts": 1794514681,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/why-is-equinox-gold-stock-sliding-today-93CH-5023092",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Why is Equinox Gold stock sliding today?",
+"ts": 1794514736,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671718-spacex-tesla-are-said-to-move-toward-merger-as-soon-as-december?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"TSLA"
+],
+"title": "SpaceX, Tesla are said to move toward merger as soon as December",
+"ts": 1794514957,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/musks-spacextesla-empire-moves-closer-but-china-and-washington-loom-large-5023095",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [
+"TSLA"
+],
+"title": "Musk\u2019s SpaceX-Tesla empire moves closer, but China and Washington loom large",
+"ts": 1794515013,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/jensen-huang-steps-down-the-handson-kingmaker-behind-the-ai-boom-5023098",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Jensen Huang steps down: the hands-on kingmaker behind the AI boom",
+"ts": 1794515089,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/spacex-tesla-merger-talks-progress-bloomberg-news-reports-5023102",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [
+"TSLA"
+],
+"title": "SpaceX, Tesla merger talks progress, Bloomberg News reports",
+"ts": 1794515122,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671717-ati-targets-more-than-double-fcf-by-2029-check-new-growth-goals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "ATI targets more than double FCF by 2029; check new growth goals",
+"ts": 1794515127,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671714-white-house-discusses-lutnicks-future-as-commerce-secretary-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "White House discusses Lutnick's future as Commerce Secretary - report",
+"ts": 1794515283,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4671716-spacex-tesla-progressing-on-deal-talks---bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"TSLA"
+],
+"title": "SpaceX, Tesla progressing on deal talks - Bloomberg",
+"ts": 1794515354,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-12T15:00"
+"last_date": "2026-11-12T19:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +753,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-12T15:00"
+"last_date": "2026-11-12T19:00"
 },
 "FNG": {
 "cool": {},
@@ -578,11 +773,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-12T15:00"
+"last_date": "2026-11-12T19:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-12T15:00"
+"last_date": "2026-11-12T19:00"
 },
 "UST10Y": {
 "cool": {},
@@ -604,9 +799,9 @@
 },
 "last_date": "2026-11-11"
 },
-"_last_check": 0
+"_last_check": 1794515453.139758
 },
-"last_run": 1794514924.4886594,
+"last_run": 1794515493.9343843,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1225,6 +1420,7 @@
 "129714f0cf924749": 1794466847.0948906,
 "129c6b8aa398056f": 1794313222.9578052,
 "12a0ec7ece6f1174": 1794180024.180841,
+"12aa14872904f3de": 1794515442.8235493,
 "12af0e4e6b26bb04": 1794070853.5888453,
 "12afb6b496dd5455": 1794058663.5416367,
 "12b4ca2bd0792d2a": 1794162024.6325307,
@@ -2099,6 +2295,7 @@
 "2a868544fcbd3140": 1794172824.1624086,
 "2a87cf3fb88f00f0": 1794466847.0948906,
 "2a92097d2090328f": 1794466847.0948906,
+"2a9632c4c6960054": 1794515442.8235493,
 "2a988ce225e3b8bc": 1794063069.3473625,
 "2abcfd8d8520f981": 1794090024.092463,
 "2ac23ee1c1984c21": 1794304225.7589512,
@@ -2294,6 +2491,7 @@
 "30beb36f4ab6714f": 1794140423.8128505,
 "30c1fd84a752f5ba": 1794298226.443851,
 "30c28c76a6524e56": 1794053146.8970654,
+"30d50fca6cb110bc": 1794515442.8235493,
 "30d6d5d84d8a84b7": 1794514824.538045,
 "30d929a9b289a234": 1794121251.8481042,
 "30d9436f3c6e11be": 1794391797.617886,
@@ -2474,6 +2672,7 @@
 "35918513da794d78": 1794491425.9515207,
 "359223443ddfadeb": 1794147624.409764,
 "3598ea19ecdb834a": 1794510065.4285805,
+"359ace35c148b7b1": 1794515442.8235493,
 "35a1693522ad64bd": 1794210624.6922936,
 "35a926da1c7718bd": 1794514824.538045,
 "35aa3d54980d7c2d": 1794140423.8128505,
@@ -2824,6 +3023,7 @@
 "3f5edeafab07363f": 1794487221.4696975,
 "3f61ca786d5eed12": 1794208823.7725184,
 "3f6a747dd6e53311": 1794435624.6895678,
+"3f7434e03704940f": 1794515442.8235493,
 "3f84425652e12347": 1794207655.353521,
 "3f89e25ae400c434": 1794498623.3847704,
 "3f90e91fa1385fd2": 1794348047.2236443,
@@ -4329,6 +4529,7 @@
 "6945178745fdd17b": 1794318026.068809,
 "6954cfdb3b5169c1": 1794387024.263017,
 "695fa06bf50cbda8": 1794336024.4023893,
+"695ff87dcaef2483": 1794515442.8235493,
 "696bab55409c065d": 1794308400.5846508,
 "6970fde18ab357a1": 1794231044.761608,
 "6979b5566ce4f49f": 1794129624.9673119,
@@ -5211,6 +5412,7 @@
 "82c5c0a7532aa272": 1794353439.0629678,
 "82d1303885aed20d": 1794247875.6926105,
 "82d22f7f4ee77683": 1794090024.092463,
+"82d3f8165d4ba250": 1794515442.8235493,
 "82da670156659e21": 1794348622.3454998,
 "82dfbf34fdaef7d4": 1794241843.488906,
 "82efa7bbd6fac961": 1794053146.8970654,
@@ -5229,6 +5431,7 @@
 "83861ee5a663b770": 1794053146.8970654,
 "838648265bc412b2": 1794504641.9706995,
 "838ae7f25f15e254": 1794090024.092463,
+"83905b72b8eb0111": 1794515442.8235493,
 "839397f9259782ac": 1794053146.8970654,
 "8396548c10d6e96f": 1794396642.0870447,
 "83966f4610614b9d": 1794342025.2153375,
@@ -5318,6 +5521,7 @@
 "8643410cb259125a": 1794421837.9147444,
 "864380abc6cddcc9": 1794496825.0216095,
 "864652793559c6ae": 1794495654.5774844,
+"8649604cab0270c5": 1794515442.8235493,
 "864e5fa5cfc9785d": 1794085249.7228966,
 "864ebfcdf973e9dd": 1794494426.657751,
 "865533f94f99c946": 1794408026.6576438,
@@ -5388,6 +5592,7 @@
 "880582113d8246f0": 1794483042.7861938,
 "88104d8e5ae02cdf": 1794247257.3744018,
 "8811ef06bd029f04": 1794214224.3574343,
+"88154028b1923229": 1794515442.8235493,
 "88189743a6c92318": 1794121251.8481042,
 "881ed891bf6f9c74": 1794416450.9334848,
 "883a4e80ecd700e4": 1794317448.4307733,
@@ -7206,6 +7411,7 @@
 "bb3326ddb25c563c": 1794053146.8970654,
 "bb3d55d7bdbe8212": 1794208823.7725184,
 "bb3df30f177876fc": 1794401423.3914762,
+"bb3f65f1c16c6d31": 1794515442.8235493,
 "bb5cbaedc9a06553": 1794304852.8805614,
 "bb5d86ae49e15394": 1794472237.104473,
 "bb5dac0251e3845c": 1794235227.58563,
@@ -7298,6 +7504,7 @@
 "be45fce333609846": 1794514824.538045,
 "be481624606f1fcc": 1794218488.7102273,
 "be53932436040416": 1794394851.7678685,
+"be5b4f759a8f077c": 1794515442.8235493,
 "be5bf5a25886d121": 1794207655.353521,
 "be6bbc6ff147d0b7": 1794301258.7214239,
 "be7876aee164a909": 1794232224.3910127,
@@ -8011,6 +8218,7 @@
 "d14109ebaaeb8ad6": 1794435624.6895678,
 "d142ca87a94980d3": 1794324648.7021484,
 "d144665c59267f60": 1794508823.8400886,
+"d14a5608e1949e31": 1794515442.8235493,
 "d16608a228ad5891": 1794496825.0216095,
 "d16de2a9cb4ee2f8": 1794300023.3124595,
 "d1712c44ad307a23": 1794236457.02748,
@@ -8836,6 +9044,7 @@
 "e8a7799463f8ad74": 1794489036.1626346,
 "e8afc287adcba4a7": 1794226224.6034505,
 "e8b6ec31305cd4fb": 1794327630.5502307,
+"e8b9dde876d4efac": 1794515442.8235493,
 "e8bcb53c267cc256": 1794294057.2981856,
 "e8c36b277d957f11": 1794395417.5307865,
 "e8c3cf03c3cb0de3": 1794417625.2380702,
@@ -9044,6 +9253,7 @@
 "ef0af70a20587657": 1794416450.9334848,
 "ef0ff43d5c4915ab": 1794209441.2028658,
 "ef11e322c0d24cc8": 1794090024.092463,
+"ef202ef777270797": 1794515442.8235493,
 "ef217af79ef7097a": 1794327026.3092759,
 "ef27a8c1e01478b1": 1794471021.9148986,
 "ef2b0271a4d86612": 1794330627.8580275,
@@ -9089,6 +9299,7 @@
 "f01bc0e3552b9a9e": 1794313222.9578052,
 "f027bc906cc5f874": 1794498623.3847704,
 "f0514b37d4d0abf8": 1794466847.0948906,
+"f051f7aed9f759ab": 1794515442.8235493,
 "f054d966c300737c": 1794313222.9578052,
 "f0562c3d0bb52420": 1794210025.2421503,
 "f060d76b9388d6f3": 1794499252.6606731,
@@ -9669,6 +9880,7 @@
 "00f2af6471db324e": 1794232224.3910127,
 "01050c505a2b7b4b": 1794058663.5416367,
 "0105a306ef5cd5c9": 1794055787.7739694,
+"0112443158d73b77": 1794515442.8235493,
 "011691fe3458e328": 1794382236.912113,
 "011e0b83d3ad5cac": 1794327026.3092759,
 "0125f6bcb63de443": 1794220827.8644307,
@@ -10157,6 +10369,7 @@
 "0fd0a10e58edb504": 1794439835.9165068,
 "0fe8d40a8d1d2544": 1794466847.0948906,
 "0feb16ba41d11b61": 1794341426.2465568,
+"0ffbe9edfa95d830": 1794515442.8235493,
 "0ffe8dfbd6df0c92": 1794342025.2153375,
 "100105d3b99637fc": 1794315657.2528052,
 "1006f368b482d5b8": 1794303041.7631679,
@@ -10177,6 +10390,7 @@
 "105e97bc501afd60": 1794053146.8970654,
 "10699a7b586f842d": 1794436236.6229744,
 "10717d3c8486d081": 1794337252.3296568,
+"107ce82098802c76": 1794515442.8235493,
 "108f25e47c7838fa": 1794151225.6597934,
 "108fc8af078005cc": 1794466847.0948906,
 "1093bcce6efd98d9": 1794231044.761608,
@@ -10449,6 +10663,7 @@
 "1921924472aa821d": 1794477025.1202402,
 "193be73e321e369b": 1794419428.8587933,
 "1951a62184cd13d6": 1794324648.7021484,
+"19525c3bdd82db4e": 1794515442.8235493,
 "1953a8df349642c7": 1794258020.3289478,
 "19595d344a26f2d4": 1794380451.074071,
 "195db10d6884bf31": 1794423022.5466254,
@@ -10877,6 +11092,7 @@
 "2570b71f7f436bf5": 1794305426.239695,
 "257db4de9861233e": 1794327630.5502307,
 "25892c56d144ecd0": 1794424831.721633,
+"259e69a73058442a": 1794515442.8235493,
 "25b573b353407b42": 1794121251.8481042,
 "25c1ee0a43df690a": 1794176424.6910276,
 "25c21de8971635f6": 1794069624.2005684,
@@ -11050,6 +11266,7 @@
 "2a1d0c62fa995ad4": 1794312054.550939,
 "2a1e4178c820b529": 1794410424.1208882,
 "2a4531096e67b046": 1794158423.5148294,
+"2a4de4ed524ed591": 1794515442.8235493,
 "2a4f1769c2820845": 1794055787.7739694,
 "2a5142e076cfda3e": 1794090024.092463,
 "2a5266a62b20771a": 1794334224.0104544,
@@ -11602,6 +11819,7 @@
 "3a317654f2481ce6": 1794129624.9673119,
 "3a35ca5d493acf5e": 1794294057.2981856,
 "3a37c96daaaafd4f": 1794053146.8970654,
+"3a41baaa69b77d2b": 1794515442.8235493,
 "3a4ab9d7de1b63ee": 1794472237.104473,
 "3a4dc99cb7ce6635": 1794208823.7725184,
 "3a5d656f1707c8f4": 1794420049.9604123,
@@ -12039,6 +12257,7 @@
 "48a24c581efa0ea9": 1794380451.074071,
 "48b00cda8d5fab21": 1794380451.074071,
 "48b49fcb9c775b9c": 1794147624.409764,
+"48ba627c3f713156": 1794515442.8235493,
 "48c878f4ebab09ac": 1794165625.0596616,
 "48d933d610ade3a7": 1794504641.9706995,
 "490d40fa8c5796ae": 1794222054.6299663,
@@ -12437,6 +12656,7 @@
 "55129c6b8a30fa03": 1794084624.3653798,
 "551c91f2e196af75": 1794395417.5307865,
 "5529afd349cb0d40": 1794085825.1416018,
+"552ac9d0b2a1db68": 1794515442.8235493,
 "553632f3d02e6f03": 1794207655.353521,
 "5537e5b1cb584e97": 1794295224.707564,
 "554c54e879a55263": 1794294057.2981856,
@@ -14502,6 +14722,7 @@
 "958cb7fc3d388bac": 1794090024.092463,
 "959a3bc944ccf49c": 1794401423.3914762,
 "95c758cd412a4711": 1794090024.092463,
+"95ce24994b13db64": 1794515442.8235493,
 "95d1af9c730c6764": 1794053146.8970654,
 "95d53dc7e4577c74": 1794216642.1444197,
 "95dc74200f5bfc62": 1794328242.1321893,
@@ -15029,6 +15250,7 @@
 "a5506df22c7cdad7": 1794207655.353521,
 "a554c19215815876": 1794508823.8400886,
 "a560ddb0ec67ce3c": 1794327630.5502307,
+"a567e6dd1eebd70d": 1794515442.8235493,
 "a56a0e8360a42401": 1794397224.4272263,
 "a586c72d1592f83a": 1794226823.8223224,
 "a586e31a2b507f16": 1794418239.536956,
@@ -16233,6 +16455,7 @@
 "c8e8c920af821d4d": 1794053146.8970654,
 "c8e985f3692beaf0": 1794512437.91084,
 "c8eea6db6fc6c4b9": 1794090024.092463,
+"c8f09607b8b5574c": 1794515442.8235493,
 "c9004ddd67a00e74": 1794240054.5770936,
 "c90497c16d92e234": 1794090024.092463,
 "c91f4e790463744e": 1794053146.8970654,
@@ -17624,6 +17847,7 @@
 "f23f4c2895954fa3": 1794431426.5168767,
 "f2400e3c0d9de519": 1794234029.8370936,
 "f244f90220c71dda": 1794244224.5102243,
+"f24dc9b1241e9d6b": 1794515442.8235493,
 "f25ca3056935cc8f": 1794466847.0948906,
 "f26565ea7bd9383e": 1794244826.386174,
 "f26a452186d96889": 1794136824.1662278,
@@ -17637,6 +17861,7 @@
 "f29f3d93b451ef38": 1794330055.137018,
 "f29fc2a7693092fe": 1794466847.0948906,
 "f2a74c321ecb81d9": 1794180024.180841,
+"f2a936934880d3db": 1794515442.8235493,
 "f2a996dd87a306be": 1794294057.2981856,
 "f2ae4bb6b25592b6": 1794053146.8970654,
 "f2b44711eb110892": 1794410424.1208882,
@@ -17951,6 +18176,7 @@
 "fc0b62c7c5429bb8": 1794240054.5770936,
 "fc2cb0129301fb86": 1794400239.7773461,
 "fc3d157c7a285efe": 1794353439.0629678,
+"fc3fa3be8c30a5ba": 1794515442.8235493,
 "fc452341c24fe55a": 1794352223.2402766,
 "fc53735e1f31dfa8": 1794207655.353521,
 "fc556f9705172150": 1794323425.210853,
