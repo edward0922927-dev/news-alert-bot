@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794588098.3070283,
+"ai_last_review": 1794589299.9484153,
 "ai_log": [
-{
-"err": "",
-"kept": 5,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 34,
-"ok": true,
-"t": "11-12 13:01"
-},
 {
 "err": "",
 "kept": 2,
@@ -540,167 +531,24 @@
 "n": 25,
 "ok": true,
 "t": "11-13 16:41"
+},
+{
+"err": "",
+"kept": 5,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 23,
+"ok": true,
+"t": "11-13 17:01"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV25JSkhYMUlYOERZaUtMZmlicGdvSVNvOHA1aUFmQTN0TmZiLWg4czRKNHVJeGliT09CbTRXX25CQVpwOXI0ZHVEYWFVSTVHb1BISXo0aG92VmUtbEF6RVU3THBvNkNmOTcwYmtHN3Y5ZWlCaERoZmo0WEQ3d0wzS0YwMlNTN1RwVmhvcTVkTWpURDJsQm9ZcDFSMHg0OXNCN1BJLXpUNzZfenZGMmhqOWdacVVQWDQ0c1ZvRVBNMzNrSGcteVBNVUFHdw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Rising Healthcare Costs Have Employers Choosing Between Premiums and Pay Raises &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Rising Healthcare Costs Have Employers Choosing Between Premiums and Pay Raises - Bloomberg.com",
-"ts": 1794569400,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0lQVFJlRGlEUlhJaVgxaER2XzVJVWZlNzZ4UzR2WDU0aTlQLTZ2NWJ2QnJYNGVzZElwTGlHcUFOcjZLeVBvZUxVeS13U1kzOGVZZDdhQVZMQXlnMml2OHdTUnEwX0dndnpySmpSTWN4dUFPZGFTMXpiaGVOb0Z1WHZ6WFVrSUlVRF8yaXFZZmVWVWVmWVlOTU5iSUNUWlM3RWhITFRlX1JfcE5YTWVR?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Hyperscaler capex guidance in January key moment for Nvidia: Analyst &nbsp;&nbsp; CNBC",
-"tags": [
-"NVDA",
-"capex",
-"Hyperscaler"
-],
-"title": "Hyperscaler capex guidance in January key moment for Nvidia: Analyst - CNBC",
-"ts": 1794572464,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUEZRdG1tQnhMdFlHTm1SOWh3cDV3bTlaUDdFSjhzOG9TVVJ5eWFYbmMxcXpFZjRHQ1ZPWFNlbkdIZVh0ZlM2X05xS29tUGNKMVQ2TWtQbDYyWlVGX3ZlaVZSRTI4U05FNWxOTlFzLTVLMVpjdzM1clVHYlY4Y1JXaXlLQVk?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "Why market timing is a fool\u2019s game (note to self) &nbsp;&nbsp; Financial Times",
-"tags": [],
-"title": "Why market timing is a fool\u2019s game (note to self) - Financial Times",
-"ts": 1794576700,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHVvS0t5WXU4SndPcDhjMl94RlpWd3d3UllHdmhZZEJvTGU1LWhZekp4R21meGRwcnNoTzhEOGxzbXdhclBCcHBNZTdQR2w4N2FQeFlDRkxiejVKNk1rQzR4UGJWb1YyWGhpT2JCcWpzckRlZEdXc0VWOUVFbk5Bc3ZsREZscGFrQ0p0VDZYVmRGZ1RBQ2w2RWpRaUU1QQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Disney Embraces AI It Once Fought, From Animation to Finance and Film &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Disney Embraces AI It Once Fought, From Animation to Finance and Film - Bloomberg.com",
-"ts": 1794577523,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "US producer prices rise moderately in October, but inflation broadens out &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "US producer prices rise moderately in October, but inflation broadens out - Reuters",
-"ts": 1794583876,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672526-logansport-financial-raises-dividend-by-111-to-050?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Logansport Financial raises dividend by 11.1% to $0.50",
-"ts": 1794587907,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Cointelegraph",
-"summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October\u2019s US PPI reading, which came in below expected levels.",
-"tags": [
-"BTC"
-],
-"title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-"ts": 1794587951,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672527-sbc-outlines-longevity-revenue-contribution-around-2028-while-signaling-further-ebitda-margin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "SBC outlines longevity revenue contribution around 2028 while signaling further EBITDA margin expansion",
-"ts": 1794588011,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672499-chip-stocks-slide-as-nvidia-rebound-fades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Chip stocks slide as Nvidia rebound fades",
-"ts": 1794588299,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672519-banks-see-record-rise-in-q3-overdraft-fees-implying-deteriorating-consumer-health---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Banks see record rise in Q3 overdraft fees, implying deteriorating consumer health - report",
-"ts": 1794588313,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672444-stonex-sees-attractive-risk-reward-in-deckers-starts-at-buy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "StoneX sees attractive risk-reward in Deckers, starts at buy",
-"ts": 1794588328,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-13T14:00"
+"last_date": "2026-11-13T16:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -710,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-13T14:00"
+"last_date": "2026-11-13T16:00"
 },
 "FNG": {
 "cool": {
@@ -720,11 +568,11 @@
 },
 "HY_OAS": {
 "cool": {},
-"last_date": "2026-11-11"
+"last_date": "2026-11-12"
 },
 "IG_OAS": {
 "cool": {},
-"last_date": "2026-11-11"
+"last_date": "2026-11-12"
 },
 "USD": {
 "cool": {},
@@ -732,11 +580,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-13T14:00"
+"last_date": "2026-11-13T16:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-13T14:00"
+"last_date": "2026-11-13T16:00"
 },
 "UST10Y": {
 "cool": {
@@ -760,9 +608,9 @@
 },
 "last_date": "2026-11-12"
 },
-"_last_check": 0
+"_last_check": 1794589273.5840254
 },
-"last_run": 1794588716.800245,
+"last_run": 1794589310.5514014,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1775,6 +1623,7 @@
 "1955b4c1473f6a00": 1794121251.8481042,
 "1957e18d100454da": 1794310823.0024471,
 "195a9199a2065c33": 1794053146.8970654,
+"19696d1cc932670a": 1794589259.3099487,
 "196c58c2eefd91ed": 1794243659.0740352,
 "198830641531b28b": 1794247257.3744018,
 "19883d6035daeb63": 1794327630.5502307,
@@ -3051,6 +2900,7 @@
 "38397d9dd0fc0018": 1794322224.436821,
 "384174080f1b04dc": 1794380451.074071,
 "38422d500e7aa92b": 1794053146.8970654,
+"384ee74b7ec93511": 1794589259.3099487,
 "384fb7cad9806e7d": 1794215424.0711486,
 "3857a47927e33962": 1794570626.8175335,
 "385d43f6bbc106d4": 1794521423.7718086,
@@ -3348,6 +3198,7 @@
 "3f6a747dd6e53311": 1794435624.6895678,
 "3f7434e03704940f": 1794515442.8235493,
 "3f84425652e12347": 1794207655.353521,
+"3f89457c97c7d69d": 1794589259.3099487,
 "3f89e25ae400c434": 1794498623.3847704,
 "3f90e91fa1385fd2": 1794348047.2236443,
 "3f9deada0126f7be": 1794400828.886451,
@@ -3355,6 +3206,7 @@
 "3fb07cb373f32158": 1794484849.540856,
 "3fbc295186f06bf7": 1794083441.9529276,
 "3fc601577f5c7c83": 1794308400.5846508,
+"3fc85b62cbc71223": 1794589259.3099487,
 "3fce5377f829ba19": 1794495024.9189398,
 "3fd172a703345093": 1794343822.9605784,
 "3fd4cd423720f80a": 1794423022.5466254,
@@ -4058,6 +3910,7 @@
 "50439dc947fd8f2a": 1794259224.3903115,
 "5044c74dd82a4a28": 1794560452.434531,
 "504f6463ad388a5e": 1794053146.8970654,
+"504fbe148512b544": 1794589259.3099487,
 "505929fba501fd89": 1794409250.9206789,
 "505ad46c1b4211ee": 1794213043.0947626,
 "505f941d73d24e16": 1794395417.5307865,
@@ -4392,6 +4245,7 @@
 "5875c4914ba045b1": 1794220827.8644307,
 "58841d31eb57d634": 1794508823.8400886,
 "588ad2bcd8b2c616": 1794336024.4023893,
+"5891a548a30145b8": 1794589259.3099487,
 "5893cd3e754672a3": 1794058663.5416367,
 "58ab2e276c418c01": 1794090024.092463,
 "58b0b80a842b5b84": 1794553252.738333,
@@ -4413,6 +4267,7 @@
 "58f9a096b1c25493": 1794557426.661249,
 "58fa5a009ba668d3": 1794300625.907344,
 "5904e99a176dd558": 1794349221.7950053,
+"590625c165fda986": 1794589259.3099487,
 "590977ed6473a6ae": 1794090024.092463,
 "59179290b583df5a": 1794500033.245441,
 "59188d12135ee4e8": 1794258020.3289478,
@@ -5117,6 +4972,7 @@
 "69c274e544661dd3": 1794352223.2402766,
 "69c918b92fd241f9": 1794266430.1008153,
 "69c933ca52a960dd": 1794518426.1797802,
+"69ca4a3b92d90a9f": 1794589259.3099487,
 "69cb634814b18485": 1794399624.5316026,
 "69cdc5b8a887248c": 1794490843.0898888,
 "69d2623ee47edeeb": 1794516025.4582257,
@@ -5416,6 +5272,7 @@
 "7144cacff27a0a98": 1794581426.666685,
 "71459e4ca9608de9": 1794335440.520374,
 "71471bdc49dec4f7": 1794207655.353521,
+"716ada89d8659342": 1794589259.3099487,
 "71704f7b866caa30": 1794408026.6576438,
 "71743b3553e53fda": 1794294057.2981856,
 "718121fa93acfc38": 1794144023.650658,
@@ -6346,6 +6203,7 @@
 "886b897424a02dcd": 1794298226.443851,
 "887611a09e6c4c38": 1794574224.2361157,
 "88761d12ea7c554a": 1794314423.5789354,
+"887822b21102b0ea": 1794589259.3099487,
 "887e086f329e70bf": 1794490241.0443716,
 "887f9f82210980c3": 1794502224.8850534,
 "8882284a5834b821": 1794332440.321116,
@@ -6799,6 +6657,7 @@
 "93920dd0ef60e8ad": 1794420049.9604123,
 "93978c428f8b75f0": 1794317448.4307733,
 "939ca54942f6f35b": 1794090024.092463,
+"939f03e8fe597112": 1794589259.3099487,
 "93a6ad233be8a135": 1794066518.762267,
 "93b37dfc4064066c": 1794294057.2981856,
 "93c954757f73311a": 1794327630.5502307,
@@ -7475,6 +7334,7 @@
 "a4fe480fc0832989": 1794412225.421576,
 "a51014b94c7a55b7": 1794583227.8628414,
 "a51f1b91a727270f": 1794073825.720103,
+"a5259b5557c315e6": 1794589259.3099487,
 "a52b7b0eb9afc159": 1794466847.0948906,
 "a52e4f30fd6505bd": 1794227444.8368437,
 "a52f6ba54dee86f0": 1794432030.7467659,
@@ -7513,6 +7373,7 @@
 "a5de54e5a9d77041": 1794346240.584557,
 "a5df880beee3ec9f": 1794297025.7499537,
 "a5e772fd1e83747a": 1794172824.1624086,
+"a5ec3b1a6e49e9eb": 1794589259.3099487,
 "a5f1738815a1362e": 1794526824.824283,
 "a5f658985ebd1465": 1794502224.8850534,
 "a5fcf01833e65341": 1794553252.738333,
@@ -8248,6 +8109,7 @@
 "b6f965dac948eaec": 1794294057.2981856,
 "b6fad80ae1639631": 1794227444.8368437,
 "b6fbf2da7d7cefd0": 1794397224.4272263,
+"b70989577c7ddf67": 1794589259.3099487,
 "b70dde0ac40067ba": 1794225025.2256005,
 "b70fd46bc10b194d": 1794380451.074071,
 "b7174c911c7a0b95": 1794090024.092463,
@@ -8460,6 +8322,7 @@
 "bc3a1409b80f65b4": 1794207655.353521,
 "bc3f5d58820bb676": 1794207655.353521,
 "bc434b624ae9a32c": 1794553252.738333,
+"bc435d10bc904641": 1794589259.3099487,
 "bc4c1badc29a3854": 1794409250.9206789,
 "bc4d2006ff9db8ef": 1794486023.9169981,
 "bc52ae191242ac2e": 1794385221.6704128,
@@ -11377,6 +11240,7 @@
 "03dd15cb8f608b69": 1794466847.0948906,
 "03de14ece38c78f9": 1794575425.1386402,
 "03e403529140d2ad": 1794239425.4260268,
+"03e54fcddbf23366": 1794589259.3099487,
 "03ecd12d1e74cb6d": 1794129624.9673119,
 "03f951445058b80b": 1794382824.7473376,
 "03fa5ab767afce7b": 1794519043.7777076,
@@ -12146,6 +12010,7 @@
 "1834bbfcb4f22aca": 1794319254.2679577,
 "183ad7816451543d": 1794165625.0596616,
 "183e218ec7b8372a": 1794208823.7725184,
+"184d72ba073cbd84": 1794589259.3099487,
 "1851f185f8821c28": 1794525026.078514,
 "1857fc99f4d42842": 1794387024.263017,
 "185c10bc2e4d4488": 1794318626.6609201,
@@ -12350,6 +12215,7 @@
 "1dd257c692d3d1cc": 1794083441.9529276,
 "1dd2cbc80fa37557": 1794090024.092463,
 "1dd7e556cd1d8bec": 1794553252.738333,
+"1de51ef29e159de4": 1794589259.3099487,
 "1dec07e3dab5a476": 1794383424.7516904,
 "1df64a46426ce780": 1794553252.738333,
 "1dfa071f57c37fcc": 1794215424.0711486,
@@ -13451,6 +13317,7 @@
 "38ac5a1b561a22f1": 1794218488.7102273,
 "38b0a10f91f92be9": 1794071426.655343,
 "38c8ecf86fb25fe6": 1794498623.3847704,
+"38cc63ac31aa4bf3": 1794589259.3099487,
 "38d080bf508a7e2f": 1794579629.967614,
 "38dcba5ec7493072": 1794261023.1557755,
 "38e01208d0cc41bd": 1794053146.8970654,
@@ -13718,6 +13585,7 @@
 "3ff3fa5f97e33153": 1794466847.0948906,
 "3ff99cc72ed10612": 1794403223.1118846,
 "3ffcf12c0aefac5e": 1794494426.657751,
+"40008f015dca8185": 1794589259.3099487,
 "400d2401dc7a38b3": 1794570626.8175335,
 "4020e7ff2be05485": 1794231044.761608,
 "4025f9ccab3ff4b6": 1794207655.353521,
@@ -14058,6 +13926,7 @@
 "498c2efa5ab83b52": 1794232224.3910127,
 "4994f0fdd7052b24": 1794311424.003163,
 "499b9d7d5c30cb8d": 1794227444.8368437,
+"499ba1a8d866deab": 1794589259.3099487,
 "49a430cddd18707e": 1794125424.4951053,
 "49a448964e0d33c5": 1794294057.2981856,
 "49bc4577b8bef8d2": 1794420624.586875,
@@ -15909,6 +15778,7 @@
 "7b97bf7400ea5cd1": 1794250228.0065682,
 "7b99ad68dd54b546": 1794415827.7010334,
 "7b9cdc32cb156beb": 1794383424.7516904,
+"7b9dffa5344781b7": 1794589259.3099487,
 "7ba3322610484747": 1794318026.068809,
 "7baae664c9638021": 1794466847.0948906,
 "7bb4ccc5823aae73": 1794503768.242245,
@@ -17635,6 +17505,7 @@
 "a8009117b7cd0b92": 1794466847.0948906,
 "a800ac240ed455d0": 1794564053.8815415,
 "a801493cfed9314f": 1794241225.0884333,
+"a805a95f9c23ca34": 1794589259.3099487,
 "a8066022b9924068": 1794053146.8970654,
 "a8103da0c8ac9487": 1794419428.8587933,
 "a8137cd7717166cd": 1794477025.1202402,
@@ -17859,6 +17730,7 @@
 "ae16783b740ce470": 1794053146.8970654,
 "ae20f3155278072c": 1794227444.8368437,
 "ae222fa2bd4b1a91": 1794053146.8970654,
+"ae3030556c1db3b2": 1794589259.3099487,
 "ae31521ffc99432e": 1794060010.396961,
 "ae31e9ac420f3c3f": 1794090024.092463,
 "ae36b7b373b29747": 1794339626.7924395,
@@ -18392,6 +18264,7 @@
 "bc076c9d87e5ce9b": 1794327026.3092759,
 "bc087f80718d59c1": 1794162024.6325307,
 "bc0977ba90b39c41": 1794259850.2098105,
+"bc0c1512d18f8eeb": 1794589259.3099487,
 "bc0ef41006588b46": 1794522022.9497743,
 "bc13e5d05a5bad27": 1794567652.6684885,
 "bc15708a4efc5655": 1794297025.7499537,
@@ -18814,6 +18687,7 @@
 "c5dfe7df2506bc78": 1794207655.353521,
 "c5e01b3b4b2d2e47": 1794262226.7977734,
 "c5e2f5fda5211495": 1794574855.4473867,
+"c5eab48f8f540234": 1794589259.3099487,
 "c5edcf92a6c0a23f": 1794555623.064874,
 "c600cffc454261af": 1794521423.7718086,
 "c6131fc18fa5b1af": 1794227444.8368437,
@@ -19671,6 +19545,7 @@
 "dc7aabb13c6ba253": 1794053146.8970654,
 "dc8b35a597bac8b7": 1794262226.7977734,
 "dc8b5315dcf291ef": 1794053146.8970654,
+"dc919b9b0e620577": 1794589259.3099487,
 "dca789537cc2a0b4": 1794207655.353521,
 "dca96fc6be3ce5aa": 1794058663.5416367,
 "dcae78805c228c76": 1794215424.0711486,
@@ -19917,9 +19792,11 @@
 "e25b1c63bfbb90f3": 1794553252.738333,
 "e25c97780c529439": 1794158423.5148294,
 "e25d458e15323cd6": 1794227444.8368437,
+"e262bac74ffc6686": 1794589259.3099487,
 "e263455f17620246": 1794125424.4951053,
 "e269d4d437d70fd1": 1794520849.7436028,
 "e27c52a360f96d6d": 1794235227.58563,
+"e27f791cc797fc9b": 1794589259.3099487,
 "e283f1c40dc9b002": 1794572423.7774122,
 "e28ed69f4bd73c27": 1794466847.0948906,
 "e2906dd6780a1b9f": 1794129624.9673119,
@@ -20119,6 +19996,7 @@
 "e807f79bdc78b36d": 1794587446.8583572,
 "e80a325ed5da1a49": 1794351653.6511967,
 "e8175e4a838606c6": 1794090024.092463,
+"e82113c308802883": 1794589259.3099487,
 "e8232ea4530afd78": 1794212427.3416302,
 "e82751dffc726144": 1794234029.8370936,
 "e82828491979df49": 1794298825.0579662,
