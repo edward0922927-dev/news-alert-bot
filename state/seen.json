@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794598836.7782688,
+"ai_last_review": 1794600090.0057905,
 "ai_log": [
-{
-"err": "\u8d85\u6642\uff08[gemma-4-31b-it] ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)\uff09",
-"kept": 13,
-"missing": 0,
-"model": "",
-"n": 35,
-"ok": false,
-"t": "11-12 16:33"
-},
 {
 "err": "\u8d85\u6642\uff08[gemma-4-26b-a4b-it] ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)\uff09",
 "kept": 9,
@@ -540,161 +531,24 @@
 "n": 16,
 "ok": true,
 "t": "11-13 19:40"
+},
+{
+"err": "",
+"kept": 0,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 16,
+"ok": true,
+"t": "11-13 20:01"
 }
 ],
-"ai_queue": [
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaVJXMTloWUNEVEJjSWd5bXE0SVg1bVlRZGMzM3MtU3pfT3FHYjNGNDFGRWFDUS03dVNnZ0tPWEFLMVRuNHhWOTJJYWVpc2RtNzY5aFFFYm9ObWwxSFJ3bzNKOFVvTlNObnEzY0FGYU5xZ1RQYWhCeW0zN3ppMWRXcW5OcEZ4a0lYOUx5RktRcVEweVAwYXdqNmhGNjAwNUpPV0E?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "How to Save the Next Jensen Huang From Himself &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "How to Save the Next Jensen Huang From Himself - Bloomberg.com",
-"ts": 1794578423,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFVYS3dlcE1vRFNFSWt2NGtZbVgwOEg5SnRndGN6TERZTF9abEhaM05QNzFidEJpdElGOVdES2w0MV9zMnBmX0FCTWo0c3ZMRVh4WHZWcXM1ekFQWmtSek1pbUJqQk1qYV9JUkpveWdPT0RPRzFGbVo2UzloRGlIazVTLWw5UWhibkVhamVXQjgwZkI5RmVneEVqV3ZLXzI0blhVWTJlLXNPeElOU2VwdktR?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Fed\u2019s Logan Calls For Clearer Separation of Market Operations &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Fed\u2019s Logan Calls For Clearer Separation of Market Operations - Bloomberg.com",
-"ts": 1794583773,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "EU settles on five-nation group to speak for Europe at Ukraine peace talks &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "EU settles on five-nation group to speak for Europe at Ukraine peace talks - Reuters",
-"ts": 1794595025,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnZIWjJsdGFZd21hcHZROGNCeTRaOFpXYVNNTXhuYUREaFY0MG9QMkpmZjJkUkdmMzlYZDBGaTN6MXBlTHQ3SXlNZGZTTjh0WldjNFcyR3IxWlE1WnhzWGFMMEZ0WlN2UWI5Xy10RXFkSC1DUkthbXlIRUJPbnpzQ2JPODk1ampHX1U2MWp4T3Y4VzBudHFUTlplSFRtUHZ2b1ZTVXV4RmppUQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "Man United turn to US coach Pochettino in latest gamble to revive fallen giants &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Man United turn to US coach Pochettino in latest gamble to revive fallen giants - Reuters",
-"ts": 1794596509,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-"tags": [],
-"title": "Budget airlines are going upscale with first-class seats and faster wifi",
-"ts": 1794598800,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672601-autocanada-expects-margins-to-stabilize-and-improve-starting-spring-2027-while-targeting-2-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Autocanada expects margins to stabilize and improve starting spring 2027 while targeting 2 to 3x leverage",
-"ts": 1794598817,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672603-suncrete-expects-200m-250m-2027-revenue-from-2026-acquisitions-as-it-revises-2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Suncrete expects $200m-$250m 2027 revenue from 2026 acquisitions as it revises 2026 outlook",
-"ts": 1794598824,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672604-lunr-royalties-corp-gaap-eps-of-0_00-in-line-revenue-of-2_2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "LunR Royalties Corp. GAAP EPS of $0.00 in-line, revenue of $2.2M",
-"ts": 1794598920,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672596-ecolab-upgraded-at-wells-fargo-touting-coolit-and-ovivo-acquisitions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Ecolab upgraded at Wells Fargo, touting CoolIT and Ovivo acquisitions",
-"ts": 1794598937,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/defi/maple-ceo-defends-institutional-push-amid-departures",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "Sidney Powell said the leadership departures concern Maple\u2019s direction, not its loan book, and outlined plans to expand institutional credit and fintech distribution.",
-"tags": [
-"Powell"
-],
-"title": "Maple CEO Defends Institutional Push Amid Departures",
-"ts": 1794599148,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672605-suncrete-inc-gaap-eps-of-0_01-misses-by-0_06-revenue-of-140_96m-misses-by-5_23m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Suncrete, Inc. GAAP EPS of -$0.01 misses by $0.06, revenue of $140.96M misses by $5.23M",
-"ts": 1794599165,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-13T17:00"
+"last_date": "2026-11-13T19:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -704,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-13T17:00"
+"last_date": "2026-11-13T19:00"
 },
 "FNG": {
 "cool": {
@@ -726,11 +580,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-13T17:00"
+"last_date": "2026-11-13T19:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-13T17:00"
+"last_date": "2026-11-13T19:00"
 },
 "UST10Y": {
 "cool": {
@@ -754,9 +608,9 @@
 },
 "last_date": "2026-11-12"
 },
-"_last_check": 0
+"_last_check": 1794600064.7094634
 },
-"last_run": 1794599503.3373559,
+"last_run": 1794600090.0057955,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1134,6 +988,7 @@
 "09af8c664cfe9b23": 1794129624.9673119,
 "09bccad92f626280": 1794410424.1208882,
 "09c58a1a4d5509ac": 1794222054.6299663,
+"09c8d3ba3dad3265": 1794600050.9773862,
 "09c995849399f406": 1794262824.4868238,
 "09cbec2bdfb7179d": 1794597026.5485523,
 "09dd3581201087a7": 1794090024.092463,
@@ -2451,6 +2306,7 @@
 "28d9c1922e327df1": 1794511224.5455616,
 "28da00393c8724cf": 1794330627.8580275,
 "28db26f98ea2f16b": 1794564640.4195065,
+"28e2b9307ac0e98f": 1794600050.9773862,
 "28e961dc366f878d": 1794466847.0948906,
 "28eb4dbc1d724374": 1794380451.074071,
 "28fd162f35c0375c": 1794399624.5316026,
@@ -2804,6 +2660,7 @@
 "3175fa410673056f": 1794169225.368316,
 "317a6a76bc70941b": 1794585024.6252208,
 "317e4b95a6f198ac": 1794324648.7021484,
+"3187ea3f5c7340f7": 1794600050.9773862,
 "31892454ffa24b73": 1794090024.092463,
 "318ca2ed217570d6": 1794580829.6408918,
 "318f9aa4a58b65f7": 1794466847.0948906,
@@ -3162,6 +3019,7 @@
 "39c6da30d73e8f49": 1794499252.6606731,
 "39c6f8a6ba76825c": 1794412225.421576,
 "39d2afe47c86d176": 1794058663.5416367,
+"39d6a49c04eb8838": 1794600050.9773862,
 "39db0fa7e5046194": 1794492052.5954537,
 "39de0af4b5a2beac": 1794400828.886451,
 "39de143e35ffad64": 1794471021.9148986,
@@ -3781,10 +3639,12 @@
 "48077f5e46d5afa2": 1794229828.2811856,
 "4808d20a8f596a2a": 1794066518.762267,
 "48123a1e16cc2d85": 1794053146.8970654,
+"48133ce6b0fc46b9": 1794600050.9773862,
 "481388aa43d9b78a": 1794090024.092463,
 "48224e0f562c2daf": 1794553252.738333,
 "4823942c772368f7": 1794345025.53064,
 "482f38775d7bdb8d": 1794472237.104473,
+"48383c4ca60735f5": 1794600050.9773862,
 "48406e7ad7476d89": 1794231625.7466462,
 "484c343a40cda007": 1794482423.8483984,
 "484f21d509054b81": 1794345622.3845239,
@@ -4720,6 +4580,7 @@
 "5ec8f8b186c7f1bf": 1794521423.7718086,
 "5ec907533757b43b": 1794486023.9169981,
 "5ed2781e3f3403fe": 1794230425.0439425,
+"5ed86bb1942cf5ca": 1794600050.9773862,
 "5edde279930eeb97": 1794207655.353521,
 "5edf44bed5cfaf14": 1794413426.5364234,
 "5ee54b0079a25c20": 1794466847.0948906,
@@ -5065,6 +4926,7 @@
 "6654184432973af8": 1794583844.0482495,
 "66662517d2a06137": 1794523824.2808256,
 "667695221a991522": 1794520849.7436028,
+"6676a518234555d2": 1794600050.9773862,
 "6681b7c3d8bef167": 1794408026.6576438,
 "6689b9288f9f2606": 1794476423.816981,
 "668b0c85d0ca89fe": 1794386422.9841938,
@@ -7370,6 +7232,7 @@
 "9f030e0872725beb": 1794310242.809073,
 "9f041374073c28c2": 1794526824.824283,
 "9f1300233f4af006": 1794471021.9148986,
+"9f1ec0efa6b72984": 1794600050.9773862,
 "9f20002612043b21": 1794589828.9299436,
 "9f2128c33c0b22b3": 1794490241.0443716,
 "9f268fedb62d52aa": 1794594024.9582636,
@@ -10758,6 +10621,7 @@
 "eef2f0d861825f26": 1794414698.6025398,
 "eef3eb4299dbed40": 1794410424.1208882,
 "eef681cb0fc6a38d": 1794397829.6326773,
+"eefb1b18824c7303": 1794600050.9773862,
 "eefe9a4cd2f98bd7": 1794402622.983302,
 "ef09c28dd460c303": 1794496825.0216095,
 "ef0af70a20587657": 1794416450.9334848,
@@ -12223,6 +12087,7 @@
 "13ada72fb2d6dfd4": 1794579629.967614,
 "13b16cf73b91cd6c": 1794294057.2981856,
 "13b56a21e1f4490b": 1794237626.3538754,
+"13b70cdb51094e83": 1794600050.9773862,
 "13b798b0d09d9c2a": 1794294057.2981856,
 "13baf864e9c36c58": 1794436824.2970095,
 "13c5325c708b7a71": 1794590425.47367,
@@ -14524,6 +14389,7 @@
 "4d8ad0a357b82e51": 1794334825.2037544,
 "4d8b8b7adf008e3c": 1794245441.3708878,
 "4d9138739779fdfe": 1794468024.138138,
+"4d94c541e62fab44": 1794600050.9773862,
 "4dc4174cfb3e34f0": 1794353439.0629678,
 "4dc97acf20fb410f": 1794294057.2981856,
 "4dcd03f6550c8adf": 1794441023.1432993,
@@ -16271,6 +16137,7 @@
 "7c712cd45ba346de": 1794069624.2005684,
 "7c775c7aeee031ca": 1794386422.9841938,
 "7c7778b89b739b34": 1794125424.4951053,
+"7c77bd69e77989a5": 1794600050.9773862,
 "7c7b732c20cc639c": 1794380451.074071,
 "7c7e24d59efa1e70": 1794072642.3225284,
 "7c845bb289e2dd30": 1794268185.972617,
@@ -17783,6 +17650,7 @@
 "a3174105b589b903": 1794053146.8970654,
 "a32089b68ba53364": 1794261654.088547,
 "a321dff662fe66fb": 1794570626.8175335,
+"a328b2e83abd6c77": 1794600050.9773862,
 "a32caa04ab52ee58": 1794466847.0948906,
 "a33401f1dc192b03": 1794491425.9515207,
 "a34070df27c80e5c": 1794493226.1332557,
@@ -18362,6 +18230,7 @@
 "b147090fb46aa6ab": 1794332440.321116,
 "b1491d5ac45e31a9": 1794416450.9334848,
 "b151a255daafd703": 1794129624.9673119,
+"b15c7137159e9656": 1794600050.9773862,
 "b164ceeee0ddd39f": 1794599423.2374692,
 "b1750b6634ad9e39": 1794466847.0948906,
 "b18015b95904946c": 1794438621.879703,
@@ -19851,6 +19720,7 @@
 "d6a4ef1c296d48b6": 1794420049.9604123,
 "d6b0aed0e4bd4872": 1794211829.3207283,
 "d6ba26ca60a87c56": 1794294057.2981856,
+"d6bc766cd1b69084": 1794600050.9773862,
 "d6bea58c027ccc50": 1794207655.353521,
 "d6c4dd8a10e1d3a0": 1794129624.9673119,
 "d6ca20233cf8425f": 1794382824.7473376,
@@ -20160,6 +20030,7 @@
 "de408aef26a14798": 1794333323.0978487,
 "de45a1d302ea07e8": 1794574855.4473867,
 "de49d2ba862f8fef": 1794207655.353521,
+"de4daf384c627623": 1794600050.9773862,
 "de550799ff5ea5c3": 1794430653.1918259,
 "de55e8b913b37343": 1794425437.8749177,
 "de562cd8d005937f": 1794435624.6895678,
@@ -21218,6 +21089,7 @@
 "f8eb96c4c58ad628": 1794496825.0216095,
 "f8eba10b9fb4cee1": 1794494426.657751,
 "f8fbf5b9888e0051": 1794313222.9578052,
+"f8fc892172917080": 1794600050.9773862,
 "f9002076e83dc1ff": 1794420049.9604123,
 "f9024f7cbfc1a1f6": 1794310823.0024471,
 "f90ffda40dd1bfed": 1794466847.0948906,
