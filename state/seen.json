@@ -542,13 +542,148 @@
 "t": "11-13 21:21"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2dGZ3JjRGJZdHNqSWRVak9nOFhBSnZCc1U3R1NVUVB5MmNyWFdvUlduZ1o5VFpzYkxMNmZXYnVFWXFJazQteUNZNGYzN2xXMGtXYU1ELVgwQjc4TUdEbDVfWTJJRVZqajllWS1RUkt6WkR1RDZ4WUlPWjBXTHc4cXZMaVo?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u878d\u8cc7",
+"summary": "Arm boss Rene Haas approached in Nvidia CEO search &nbsp;&nbsp; Financial Times",
+"tags": [
+"NVDA"
+],
+"title": "Arm boss Rene Haas approached in Nvidia CEO search - Financial Times",
+"ts": 1794588797,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGRtUjExNndWMHhsYmt4a3RtSExhdHlmWUZJdlZsMEtZLWNiTVZJMFRFSHptQUJ5Wk5Pb1JuR1gzSDhnbEMyOVJESXlKNjFSRDJobTItUzFqYzBHRUFNWDVHbDB4VkFzNHZLc2RrRHJBb1hEcDhoSnd3aFFWQU1mY180QmZ0aXNzR0E4aFFvYTZvRHBWZlk2a2FpOW1HQTd3STBGVXhRU21FV01GVkRPQVVRdTc?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Mamdani Strikes Deal With Trump on Bodega Food Stamp Rules &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Mamdani Strikes Deal With Trump on Bodega Food Stamp Rules - Bloomberg.com",
+"ts": 1794602049,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672665-broadway-financial-gaap-eps-of-0_04-revenue-of-10_39m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Broadway Financial GAAP EPS of $0.04, revenue of $10.39M",
+"ts": 1794604967,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672640-astrazeneca-gains-additional-bladder-cancer-indication-for-imfinzi?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "AstraZeneca gains additional bladder cancer indication for Imfinzi",
+"ts": 1794605018,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672666-american-strategic-investment-gaap-eps-of-2_14-revenue-of-7_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "American Strategic Investment GAAP EPS of -$2.14, revenue of $7.1M",
+"ts": 1794605053,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672656-u-s-drilling-rig-count-slips-in-latest-baker-hughes-survey?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "U.S. drilling rig count slips in latest Baker Hughes survey",
+"ts": 1794605137,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "MarketWatch",
+"summary": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.",
+"tags": [
+"BTC"
+],
+"title": "Bitcoin could fall even further if investors cash out to buy into the Anthropic IPO",
+"ts": 1794605160,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672667-high-roller-technologies-gaap-eps-of-0_25-revenue-of-2_4m-misses-by-0_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "High Roller Technologies GAAP EPS of -$0.25, revenue of $2.4M misses by $0.6M",
+"ts": 1794605183,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672623-meta-testing-prediction-market-app-takes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Meta testing prediction market app \"Takes\"",
+"ts": 1794605261,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672668-indaptus-therapeutics-gaap-eps-of-0_01?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Indaptus Therapeutics GAAP EPS of -$0.01",
+"ts": 1794605285,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-13T19:00"
+"last_date": "2026-11-13T20:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +693,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-13T19:00"
+"last_date": "2026-11-13T20:00"
 },
 "FNG": {
 "cool": {
@@ -580,11 +715,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-13T19:00"
+"last_date": "2026-11-13T20:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-13T19:00"
+"last_date": "2026-11-13T20:00"
 },
 "UST10Y": {
 "cool": {
@@ -609,9 +744,9 @@
 },
 "last_date": "2026-11-12"
 },
-"_last_check": 0
+"_last_check": 1794605455.8831818
 },
-"last_run": 1794604915.404758,
+"last_run": 1794605478.4372,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -704,6 +839,7 @@
 "01852c717077ffdb": 1794555041.917416,
 "0194d607402092bb": 1794502224.8850534,
 "019ff61d180a90dd": 1794553252.738333,
+"01ae42e5dfee7047": 1794605443.9812016,
 "01b71ccf7f04b233": 1794522022.9497743,
 "01c58fd8366816b3": 1794594024.9582636,
 "01c7b1f5c2817da1": 1794516025.4582257,
@@ -1069,6 +1205,7 @@
 "0b8944e816db91e2": 1794066518.762267,
 "0b98552bfa958890": 1794298825.0579662,
 "0b995049137508d7": 1794598241.8747663,
+"0b99eef50427de62": 1794605443.9812016,
 "0b9d7c8e3312e23b": 1794411039.5612423,
 "0b9df2c9defbe305": 1794070853.5888453,
 "0b9edb838007197d": 1794496825.0216095,
@@ -2094,6 +2231,7 @@
 "2429e24f530560d3": 1794381624.5089903,
 "242acedbda7ebc48": 1794058663.5416367,
 "242bffff1411b3ba": 1794511224.5455616,
+"242ea88b9db5e486": 1794605443.9812016,
 "243128f45f418f40": 1794325825.7082462,
 "2432a3661f0eeb5d": 1794582626.619808,
 "24352d7bcf7cb161": 1794162024.6325307,
@@ -3856,6 +3994,7 @@
 "4c403d9bab5d14ec": 1794513026.7298062,
 "4c447e7ec30144a4": 1794209441.2028658,
 "4c49e86dd619f91b": 1794090024.092463,
+"4c4ca765b47d6894": 1794605443.9812016,
 "4c4f144aae14f2fe": 1794391797.617886,
 "4c53159dc5ea8e9e": 1794420624.586875,
 "4c56da3f7bedb7f6": 1794295841.2960658,
@@ -6119,6 +6258,7 @@
 "8206f371740a0216": 1794208823.7725184,
 "820cc1cfda97dd78": 1794500033.245441,
 "8217977340aba82e": 1794294057.2981856,
+"822cd1d30bb58af5": 1794605443.9812016,
 "822f1831ee30bd85": 1794176424.6910276,
 "82320c70966485fd": 1794129624.9673119,
 "823d14c1e2a58593": 1794066518.762267,
@@ -6338,6 +6478,7 @@
 "87404324f79fed16": 1794380451.074071,
 "8741bfa548eacb67": 1794299443.3490458,
 "874a49033f54a11c": 1794487822.3175094,
+"874a60a085de70fb": 1794605443.9812016,
 "8753f4d20e102e13": 1794090024.092463,
 "8754ee900f858c17": 1794427822.4253979,
 "875c0cec8046ab00": 1794154823.0343263,
@@ -6895,6 +7036,7 @@
 "946272ddb2bd0eee": 1794294057.2981856,
 "946f90b2589eaa82": 1794466847.0948906,
 "9478c3b5dd912234": 1794234029.8370936,
+"9488c618117cc40f": 1794605443.9812016,
 "9490cf3cdb61853c": 1794255028.7159631,
 "94917209321271d7": 1794299443.3490458,
 "9495deaa0deb1636": 1794247875.6926105,
@@ -7482,6 +7624,7 @@
 "a361dbcdd9ed3fa1": 1794343223.611575,
 "a36342086d44e520": 1794090024.092463,
 "a36ff1b8ca7d9bae": 1794380451.074071,
+"a374d3f02a8bf89c": 1794605443.9812016,
 "a379ca380b5310b4": 1794294057.2981856,
 "a37bdfbd78351e5f": 1794480621.4125366,
 "a37dea03ff28bbd4": 1794207655.353521,
@@ -8208,6 +8351,7 @@
 "b35c68d4c412090d": 1794121251.8481042,
 "b3614f2c2c1e4c75": 1794263443.2975552,
 "b3619bbaeb61efda": 1794520849.7436028,
+"b36ca0e6b4f1b581": 1794605443.9812016,
 "b37bf5564891bd38": 1794514824.538045,
 "b389efe181a2b54f": 1794340225.1290472,
 "b38a07ed2cce78b2": 1794346240.584557,
@@ -8237,6 +8381,7 @@
 "b41a0b7c35afe94f": 1794053146.8970654,
 "b41f128f1fdf2aca": 1794489036.1626346,
 "b4211b85a6bb8b8d": 1794514824.538045,
+"b4278c763a7c3897": 1794605443.9812016,
 "b42797cfa93b8fa2": 1794318026.068809,
 "b42a94da790e6bcd": 1794466847.0948906,
 "b42e4a41c7c8192b": 1794241843.488906,
@@ -8897,6 +9042,7 @@
 "c3685090653c549d": 1794256827.896565,
 "c36b94dffac8451a": 1794252642.0442708,
 "c382516829961d93": 1794570626.8175335,
+"c3844ab61e68e8c9": 1794605443.9812016,
 "c386720d9a02390e": 1794309027.4508862,
 "c38a34d8ddcc390d": 1794415827.7010334,
 "c38c1a47a5214192": 1794224423.8500595,
@@ -10242,6 +10388,7 @@
 "e257c35bb057c78b": 1794345025.53064,
 "e25a535584619c80": 1794380451.074071,
 "e25a55e9fa3a9623": 1794344455.684342,
+"e25ca98e85fa0067": 1794605443.9812016,
 "e270e22a4bb15858": 1794294057.2981856,
 "e2711395f2878f1e": 1794471624.4228327,
 "e27a7ac82596d70d": 1794604223.4254403,
@@ -11575,6 +11722,7 @@
 "035780736febbce9": 1794294057.2981856,
 "035bbd288416fc3a": 1794587446.8583572,
 "035fd347a597d0b6": 1794574855.4473867,
+"036820360f8fb34a": 1794605443.9812016,
 "036b577881273b76": 1794315026.6277947,
 "036c95b8ac813ba0": 1794325825.7082462,
 "037accea7455e2f9": 1794555041.917416,
@@ -11802,6 +11950,7 @@
 "092735bfa1651b65": 1794315657.2528052,
 "0936fdb41b967e26": 1794397224.4272263,
 "0939d69d124e9ef7": 1794380451.074071,
+"09460e0604e0905a": 1794605443.9812016,
 "094b0491ec298f68": 1794207655.353521,
 "09529d09a17787be": 1794321626.205444,
 "0953190d093860c1": 1794125424.4951053,
@@ -11810,6 +11959,7 @@
 "0977343c110e841b": 1794415827.7010334,
 "097d0293e93db62b": 1794524453.1112177,
 "0980dfa6d591e8fe": 1794380451.074071,
+"098546383408b67d": 1794605443.9812016,
 "098b1bbb56dbb5e3": 1794470449.1915379,
 "098d2a61d57f99d8": 1794380451.074071,
 "09a201a6a0145c26": 1794380451.074071,
@@ -12892,6 +13042,7 @@
 "24dde4a11c5db8ca": 1794330627.8580275,
 "24e689f93b4a39c0": 1794252026.8992693,
 "24ed76111a9a8dc4": 1794517191.9281797,
+"24f0f86cd50f3f4a": 1794605443.9812016,
 "24f3f46db68bde4d": 1794075023.4417136,
 "25024e7c9d7cae67": 1794433823.5002458,
 "250488f8dd8de510": 1794466847.0948906,
@@ -14755,6 +14906,7 @@
 "536d0a1a81fe1db6": 1794211253.7643282,
 "537b42b1f5e35d85": 1794560452.434531,
 "537e02907e82c61e": 1794090024.092463,
+"538719af47bdc3b5": 1794605443.9812016,
 "538b70ec95d1f3f1": 1794294057.2981856,
 "5391c76e4564edd8": 1794594024.9582636,
 "539eeba8ea45833b": 1794176424.6910276,
@@ -15283,6 +15435,7 @@
 "61005b9ae3c16159": 1794234029.8370936,
 "6100653130a7943c": 1794517191.9281797,
 "61043e1a03331cc2": 1794084478.5793717,
+"610f66a45e308236": 1794605443.9812016,
 "61100bfada86ab3f": 1794603612.7931938,
 "6112e502efd559d9": 1794213043.0947626,
 "611da1f5719a1c69": 1794225653.3544042,
@@ -15881,6 +16034,7 @@
 "7117ddde300e5826": 1794053146.8970654,
 "7120f7828498a62a": 1794346823.352614,
 "712985e79125683b": 1794516025.4582257,
+"7131c7d1ac6c3c71": 1794605443.9812016,
 "713cfb6dfb4d8f75": 1794090024.092463,
 "713dd6b778b17261": 1794072642.3225284,
 "7144cad56422a1ae": 1794255028.7159631,
@@ -17006,6 +17160,7 @@
 "8e6f799dbea72023": 1794053146.8970654,
 "8e75a08ab749c859": 1794430653.1918259,
 "8e7f781521ab2adb": 1794603026.4555879,
+"8e87783c570f91bb": 1794605443.9812016,
 "8e94660afb128b9c": 1794466847.0948906,
 "8e96f38c65770e7a": 1794340852.0511594,
 "8ea3c81ba553b565": 1794486023.9169981,
@@ -19392,6 +19547,7 @@
 "c959377c00857a1d": 1794516025.4582257,
 "c959d61e369897d2": 1794489626.5939486,
 "c95a906395616372": 1794314423.5789354,
+"c95c5561dcb9d3b9": 1794605443.9812016,
 "c95e453c89d30049": 1794261023.1557755,
 "c973d11670ac669a": 1794471021.9148986,
 "c9803243e51d0905": 1794470449.1915379,
@@ -19651,6 +19807,7 @@
 "cf91bee8cf1bbcdf": 1794243659.0740352,
 "cfa9f82f9bccd35a": 1794408026.6576438,
 "cfb48f748ee4b000": 1794514824.538045,
+"cfbeafb65d0d13ae": 1794605443.9812016,
 "cfca70f9ced35f96": 1794075624.4430547,
 "cfcce0e7e9ae98ec": 1794331841.6847267,
 "cfd6891647a4e6f0": 1794223842.150146,
@@ -20655,6 +20812,7 @@
 "e8d3eff90c877a45": 1794162024.6325307,
 "e8d4ac54f7454145": 1794232853.9654045,
 "e8db2e95e2acdcf2": 1794583844.0482495,
+"e8df4e152146a56e": 1794605443.9812016,
 "e8e2e67475208aa9": 1794468024.138138,
 "e8e3550ca41424a6": 1794298226.443851,
 "e8e85e0107d977a3": 1794090024.092463,
@@ -21169,6 +21327,7 @@
 "f58a70f4dcf7d447": 1794420049.9604123,
 "f58e582130ff435d": 1794399624.5316026,
 "f5959f12842f6567": 1794553252.738333,
+"f59ad8454ca2b065": 1794605443.9812016,
 "f5a427fbb247f51f": 1794397224.4272263,
 "f5af8eee726a081d": 1794294057.2981856,
 "f5b11fa628d0d114": 1794381624.5089903,
