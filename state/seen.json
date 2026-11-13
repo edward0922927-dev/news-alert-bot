@@ -542,7 +542,47 @@
 "t": "11-13 22:41"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXJmalVqcjF1WEgxXzRyZ2hNRTRMWXdCWGdpblhnaGwxY0ZDeFIwYTVnWENtQ2U2NFg3YkpUS21EdkNHaXlwVlVicGxWd2RJZnJqOXlySXJfZzdscXlqRFNJSkswUjZ0ZjFINC11aU9GMWdrMGR6SzdfYUlkN3pGaDZZci1NbnkxWmtoZ1lNa3E2MmxDcnFqRnN0MWpwUURLT05odHBpdVlhNXRjNUJOd3JGcnNCYzd6bjVqWQ?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January - Bloomberg.com",
+"ts": 1794599701,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHhKNS1YbHpLcldfQTByOFM5TzNFOC16QmlWZHRva3lhTkxSVldFaWVkZ2ZWdDFzODFGZk02MU56X0hkWWtDZzJUa3JOSkd4YUFVVEVNZmN0ZXZWN1QtR01SV1N4UW84SzJxTFJEcnFSdndlYnhHWlFDVGtibWVRTkF0aU1WejNKOVdHVVRGWkt3WlBGbDRFVXptYTBoVjhFUDlKV0lpU0JDSEJ5RWdneHZYMA?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports - Reuters",
+"ts": 1794605939,
+"unmatched": true
+},
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBXeGVqbmpCZDM1QU4tTFk1eENoWi1TYkt3TjBXWEEzclY0S0h1c3kyUXBXaGFGUXNQdXMzWlVBc1RhSFJsRkhN?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u57fa\u5efa",
+"summary": "Check out Intel Corp's stock price (INTC) in real time &nbsp;&nbsp; CNBC",
+"tags": [],
+"title": "Check out Intel Corp's stock price (INTC) in real time - CNBC",
+"ts": 1794606577,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -611,7 +651,7 @@
 },
 "_last_check": 0
 },
-"last_run": 1794609722.8935099,
+"last_run": 1794610302.3887315,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -786,6 +826,7 @@
 "03b742a64c8af339": 1794298226.443851,
 "03b8cd1f47343d1b": 1794058663.5416367,
 "03bd41560b63bf5f": 1794133224.9019783,
+"03c2b9f397398270": 1794610221.7065277,
 "03c4706fdfe7026b": 1794586827.1055727,
 "03c77f08f5b003ff": 1794599423.2374692,
 "03d734c2d8d23c85": 1794053146.8970654,
@@ -3246,6 +3287,7 @@
 "3daebb31e160f668": 1794313222.9578052,
 "3db53c2674e08d92": 1794090024.092463,
 "3dbb259fa2e3705e": 1794225025.2256005,
+"3dc5fc895c848dc8": 1794610221.7065277,
 "3dc67c4d4a78ee0b": 1794207655.353521,
 "3dd0a6950c7fd458": 1794564640.4195065,
 "3dd35571aa42cb42": 1794466847.0948906,
@@ -3704,6 +3746,7 @@
 "47cdd46a67e14800": 1794344455.684342,
 "47cf7630ed73fe83": 1794499252.6606731,
 "47d293594432c0ba": 1794090024.092463,
+"47d94556b35a1632": 1794610221.7065277,
 "47dc5068ca0805d9": 1794053146.8970654,
 "47dd832efcced8e3": 1794255028.7159631,
 "47e192c3ec1a8bd9": 1794607254.5702827,
@@ -7085,6 +7128,7 @@
 "973926483732d7ee": 1794582626.619808,
 "973bb66f4e0ec9cb": 1794345622.3845239,
 "9753052e20021910": 1794413426.5364234,
+"975904f6b9530662": 1794610221.7065277,
 "975a0cdb7bc43135": 1794506777.1747909,
 "975b4a4189427bb0": 1794572423.7774122,
 "975d927bd120b281": 1794498623.3847704,
@@ -10070,6 +10114,7 @@
 "db66f6010bc01da3": 1794380451.074071,
 "db6c5c550684e72f": 1794349221.7950053,
 "db70a97aa0411ff6": 1794176424.6910276,
+"db784e455094abf0": 1794610221.7065277,
 "db8a35b0f72db699": 1794410424.1208882,
 "db9264b8b55e8822": 1794489626.5939486,
 "db93955d213706d7": 1794085249.7228966,
@@ -10696,6 +10741,7 @@
 "eb0c2a42f526fa1f": 1794207655.353521,
 "eb15c6d56f23f1b6": 1794520849.7436028,
 "eb257f78542085bc": 1794090024.092463,
+"eb280629ae2d4660": 1794610221.7065277,
 "eb2aa62c6d245ec9": 1794468024.138138,
 "eb2dd5df6801d321": 1794486023.9169981,
 "eb4316452456577e": 1794240627.3822312,
@@ -12058,6 +12104,7 @@
 "0bbc6a4ef3c35232": 1794340852.0511594,
 "0bca50c074aefafc": 1794351023.4319475,
 "0bcb877ff404141a": 1794440422.6466875,
+"0bda6bbb7eb6a0de": 1794610221.7065277,
 "0bdaa4d28cf7f8a2": 1794423022.5466254,
 "0bdb85305af97fda": 1794090024.092463,
 "0be34bb61c0411eb": 1794058663.5416367,
@@ -14377,6 +14424,7 @@
 "44d72101eeaf5e32": 1794090024.092463,
 "44d79be4a3cb5a46": 1794093624.3200548,
 "44e3028cb873ea48": 1794420624.586875,
+"44ea4def8183940f": 1794610221.7065277,
 "44ee01f249874a7c": 1794243659.0740352,
 "44f3adf2b5285166": 1794588025.8512602,
 "4503c539d170b597": 1794073224.1004374,
@@ -14501,6 +14549,7 @@
 "48658b255566ae83": 1794207655.353521,
 "4867472be30f80ac": 1794413426.5364234,
 "4874633151509749": 1794310823.0024471,
+"487c6c4242c7c287": 1794610221.7065277,
 "4899a9b713b706f8": 1794516025.4582257,
 "4899b295d0d54800": 1794294057.2981856,
 "489c2727e2d9ef84": 1794508823.8400886,
@@ -16872,6 +16921,7 @@
 "857de65dd534edbd": 1794207655.353521,
 "8583e0cf3bda36e8": 1794566426.5819597,
 "8588c2e16242d17e": 1794129624.9673119,
+"858bae8aa45f598a": 1794610221.7065277,
 "858d9643c5dff870": 1794053146.8970654,
 "8590ffd3e70af492": 1794090024.092463,
 "85998d39acfbac83": 1794180024.180841,
