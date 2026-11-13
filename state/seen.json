@@ -542,7 +542,62 @@
 "t": "11-13 17:40"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVG9FMWVSeGhlb2hKb1JMN1VRZWNCWEsxR1pFanBrUGFEdkRUZmJySFh6SEk5RnU1WFc3U1NldWRNZVJONmU4VHhsb1lCTUxRZkVOcmxOS0pJODJCNjhaelJCbS01MWlVem1sUkpaYXFWVWVCVmVXUzBYOEVydlNZRVRVYUtmajl1NE5GSmMzczBPQzctd1I1NTNReGtGU3hiclZkSklsNmVnS1RfQ1BTVElnQ1V4WXktZnJlNlp3SWtuMVJoUHc?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Canada to invest C$200 million in Woodfibre LNG to grow project's capacity, source says &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Canada to invest C$200 million in Woodfibre LNG to grow project's capacity, source says - Reuters",
+"ts": 1794571092,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2l3V3M3V3pLTmpIcTdMYmJtU1c3MlFMMjJQamVXM0Q0ZnFxYTdFTXJldENCSEszbFpURFZFYmZUUlVZRTRVNlZic05MZ2F4VVRXYk9Pa3lQRVpSZWNwcFB1T0Y4T1J0dktYbXFjc2d0U0NiNm1fSkJ5NXBGY194WlNVZUNYdkNSZFdCYUEyQXFWUW9Ha2dlSzJyalBpQQ?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Nvidia Faces New Reality of Life After Jensen Huang &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"NVDA"
+],
+"title": "Nvidia Faces New Reality of Life After Jensen Huang - Bloomberg.com",
+"ts": 1794585602,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672553-milestone-forecasts-30-percent-opex-reduction-as-it-extends-cash-runway-into-late-2028?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Milestone forecasts ~30% opex reduction as it extends cash runway into late 2028",
+"ts": 1794591601,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672554-moving-image-anticipates-q2-2027-revenue-of-approximately-5_4m-supported-by-a-16-screen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Moving iMage anticipates Q2 2027 revenue of approximately $5.4M supported by a 16-screen turnkey upgrade",
+"ts": 1794591633,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -610,7 +665,7 @@
 },
 "_last_check": 1794589273.5840254
 },
-"last_run": 1794591651.9428236,
+"last_run": 1794592247.2356496,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1243,6 +1298,7 @@
 "104cc270afa24567": 1794066518.762267,
 "1058bd717e74c035": 1794323425.210853,
 "105977989ec67950": 1794505825.2474673,
+"105a198523b04409": 1794592225.4648783,
 "105e426496db4d5f": 1794410424.1208882,
 "1068ce865eeddf20": 1794348622.3454998,
 "107079cc3e93a603": 1794090024.092463,
@@ -2462,6 +2518,7 @@
 "2d4b71d8e0229973": 1794415827.7010334,
 "2d597c71cd643c01": 1794399624.5316026,
 "2d5d9e4b2b76c119": 1794295224.707564,
+"2d6c43658feb1c4f": 1794592225.4648783,
 "2d7d9141dc3f8149": 1794073224.1004374,
 "2d83dff6efd31f28": 1794585657.8760312,
 "2d93fb0592c95906": 1794053146.8970654,
@@ -3565,6 +3622,7 @@
 "477d1b98eb67758c": 1794405650.4852784,
 "477e2817db7edee8": 1794579629.967614,
 "478947f9a8283d13": 1794339626.7924395,
+"478d61d1d82cf6da": 1794592225.4648783,
 "478f11e26e7f58a0": 1794169225.368316,
 "479763e5242986db": 1794231625.7466462,
 "47baea7183c74044": 1794053146.8970654,
@@ -4045,6 +4103,7 @@
 "52caacf6288edb6e": 1794207655.353521,
 "52cb61ae8c3b8a54": 1794217228.4060323,
 "52dc82dc72d866cc": 1794259850.2098105,
+"52eba319ef2072d9": 1794592225.4648783,
 "52f4183c7535dc25": 1794424169.3167956,
 "52f93458e15fba5a": 1794264026.1524632,
 "5305b10b2f687588": 1794562823.5870972,
@@ -9244,6 +9303,7 @@
 "d0b53d4de6a7cbd3": 1794248479.105261,
 "d0b5f66eb72130b8": 1794414698.6025398,
 "d0b928e8c8da317e": 1794425437.8749177,
+"d0bbe245ddab241f": 1794592225.4648783,
 "d0bc2e259b0101dc": 1794466847.0948906,
 "d0bf506d7b9a22a1": 1794580245.1336462,
 "d0c0f1ad41947ab0": 1794385837.7839928,
@@ -10845,6 +10905,7 @@
 "f7fe702f4e77d5c7": 1794478824.179399,
 "f801f9cb8bdf2cde": 1794343223.611575,
 "f803f78486bbaf32": 1794466847.0948906,
+"f810fd521d2ecf75": 1794592225.4648783,
 "f8188407e348b6bf": 1794576645.1911607,
 "f81b6fb1770926b8": 1794335440.520374,
 "f81b8d9f259b0dbc": 1794325825.7082462,
@@ -11182,6 +11243,7 @@
 "00220f7fc37793da": 1794512437.91084,
 "0024ab133e6be196": 1794554424.4818478,
 "0033f98ef15a4452": 1794553252.738333,
+"004723a98568f0d2": 1794592225.4648783,
 "004e4be546d9c316": 1794331841.6847267,
 "004f8aee0a76db38": 1794320424.8171039,
 "006b7fe85cba79f6": 1794151225.6597934,
@@ -12241,6 +12303,7 @@
 "1c71c62b055e10eb": 1794224423.8500595,
 "1c71cfa0bf81673d": 1794053146.8970654,
 "1c7c1ee9d2171070": 1794348622.3454998,
+"1c811856469a039d": 1794592225.4648783,
 "1c844b76be317cb6": 1794468024.138138,
 "1c890b94f6338c38": 1794207655.353521,
 "1c95ef0e93f30e05": 1794582626.619808,
@@ -13002,6 +13065,7 @@
 "2f91e906d56f266b": 1794505825.2474673,
 "2f95d097a91dc99f": 1794066518.762267,
 "2f9e97b70947628e": 1794093624.3200548,
+"2faa27000c8d2727": 1794592225.4648783,
 "2facc929cb7eafb1": 1794388822.6516917,
 "2fb122651db224a3": 1794263443.2975552,
 "2fb304b08acb1b67": 1794317448.4307733,
@@ -13787,6 +13851,7 @@
 "434a18e5e1dc1d6e": 1794090024.092463,
 "4354940e5eacdf59": 1794493226.1332557,
 "4354e972d1c2565a": 1794144023.650658,
+"43661a3644051220": 1794592225.4648783,
 "43665f8040f14c1e": 1794481825.880578,
 "436b3c9213534177": 1794176424.6910276,
 "43713131a373d11e": 1794560452.434531,
@@ -16859,6 +16924,7 @@
 "95327dd3dbc07bd4": 1794310823.0024471,
 "9534ed10e41f4b70": 1794553252.738333,
 "953c5f62162ac1bf": 1794579024.9057784,
+"953c8fbf4a35a723": 1794592225.4648783,
 "953fa20ca1030527": 1794585024.6252208,
 "954307276aa43c99": 1794309624.5737193,
 "954c4247345aa0b6": 1794466847.0948906,
@@ -19500,6 +19566,7 @@
 "d8717e84123e332f": 1794305426.239695,
 "d875cc16a1db9f12": 1794231044.761608,
 "d878a0197c0cb801": 1794333323.0978487,
+"d8794713dd3dae48": 1794592225.4648783,
 "d879e8caf68d3952": 1794553252.738333,
 "d884c83b4dc37e28": 1794069041.6001287,
 "d8865c93955c9a3c": 1794567024.531577,
