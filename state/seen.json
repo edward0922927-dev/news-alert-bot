@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794608447.5756927,
+"ai_last_review": 1794609714.1757517,
 "ai_log": [
-{
-"err": "",
-"kept": 2,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 17,
-"ok": true,
-"t": "11-12 19:42"
-},
 {
 "err": "",
 "kept": 4,
@@ -540,109 +531,18 @@
 "n": 27,
 "ok": true,
 "t": "11-13 22:20"
+},
+{
+"err": "",
+"kept": 4,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 16,
+"ok": true,
+"t": "11-13 22:41"
 }
 ],
-"ai_queue": [
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOalBTLXlQMGN3UEt5X1ZDYVZRa3JMTDRqaDNpeVRwN3dlOHRNVFQxMFFOdUFQb2ZLcmxJT2tZaXo1UG1VUFkySTM4U1ktQjVQTWVEU0wwRVdpaFp3SENHZ2lmdFk4S1dubmtadFo5N0FpT2l2NHVrbF8yZmhVbGUtMHA1RVItdVBKMG05ZmlWSEc5U2h0Vm43QW50ODhrT05S?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Appeals court rules against Trump administration on New York highway funds &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Appeals court rules against Trump administration on New York highway funds - Reuters",
-"ts": 1794589870,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "AI rockets to top of worries about financial system in latest Fed survey &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "AI rockets to top of worries about financial system in latest Fed survey - Reuters",
-"ts": 1794603823,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672713-presidio-outlines-3-percent-to-5-percent-2026-ai-driven-production-uplift-while-targeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Presidio outlines 3% to 5% 2026 AI-driven production uplift while targeting around 4% exit rate potential",
-"ts": 1794608405,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cryptoslate.com/diesel-prices-plunge-8-yet-bitcoin-traders-face-a-squeeze/",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "CryptoSlate",
-"summary": "October\u2019s PPI slowed at the headline level, but higher freight prices and firm underlying inflation leave financing relief uncertain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-"tags": [
-"BTC"
-],
-"title": "Diesel prices plunge 8%, yet Bitcoin traders face a squeeze",
-"ts": 1794608446,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWp1a0NGNGhoMVktYTRuOTRLYmc0SjItWFpUdmE1SUxEaVhjU2MxLWdvQVRKbmt6endPZDNsX2FKSlY2djdmZjdsTzJzTFRtVllqSFNLdmNHaEN2MElTbmFENHQ0V0Y3VElWR3luS0Fha3JsYjUyZi1Xb3djWkxiVjN5TDduREg2emZfbXpZRS1DR1Y2Y014QWRLNA?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Stock Movers: Nvidia, Microsoft, CoreWeave &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"NVDA",
-"MSFT",
-"CRWV"
-],
-"title": "Stock Movers: Nvidia, Microsoft, CoreWeave - Bloomberg.com",
-"ts": 1794608526,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672711-battery-mineral-resources-appoints-interim-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Battery Mineral Resources appoints interim CFO",
-"ts": 1794608551,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/frontier/ai/nvidia-approached-arm-ceo-haas-in-search-ft-reports",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The board says it has not formally engaged any candidates, while some employees are calling for Jensen Huang\u2019s return ahead of Nov. 17 earnings.",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia Approached Arm CEO Haas in Search, FT Reports",
-"ts": 1794609052,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -709,9 +609,9 @@
 },
 "last_date": "2026-11-12"
 },
-"_last_check": 1794605455.8831818
+"_last_check": 0
 },
-"last_run": 1794609055.092524,
+"last_run": 1794609722.8935099,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -2104,6 +2004,7 @@
 "21c24050fbf9f22d": 1794338424.1118333,
 "21c91dbe307c10ed": 1794165625.0596616,
 "21d3472231868e1b": 1794577228.5573788,
+"21d985f0cd4f035a": 1794609625.5616333,
 "21d9e132e275b55a": 1794332440.321116,
 "21e13014fff4f304": 1794209441.2028658,
 "21e15c880b7207a2": 1794207655.353521,
@@ -2899,6 +2800,7 @@
 "33326462bf3027db": 1794080428.0610616,
 "333534aff371d1f1": 1794090024.092463,
 "333952656ab3b9e4": 1794402622.983302,
+"333cf3a0306cc64b": 1794609625.5616333,
 "3340ca3d456fe323": 1794601224.3173718,
 "33411af18d3bac8a": 1794066518.762267,
 "334bbbaf9b66873c": 1794469822.9927154,
@@ -3126,6 +3028,7 @@
 "38ce438cf42be7e2": 1794129624.9673119,
 "38d32eb6429d5f18": 1794607823.8860877,
 "38d5565578c446a9": 1794227444.8368437,
+"38d56033ef1253e8": 1794609625.5616333,
 "38e2a0c72a1ea4bc": 1794294057.2981856,
 "38e9b44591d493d5": 1794085249.7228966,
 "38f7172a1515ffa5": 1794492052.5954537,
@@ -4426,6 +4329,7 @@
 "565f4b498ff6b2ce": 1794294057.2981856,
 "566635377f49df3d": 1794381624.5089903,
 "5668540b5d0476d9": 1794249071.019277,
+"566ad05569f8526f": 1794609625.5616333,
 "567be4d21b958eca": 1794435021.8575943,
 "567f67a0137b4d0d": 1794305426.239695,
 "567f8697e0dba82a": 1794568827.5417576,
@@ -4617,6 +4521,7 @@
 "5af20a500e701d9b": 1794129624.9673119,
 "5af3bae642f63987": 1794380451.074071,
 "5afcf474416bd87a": 1794236457.02748,
+"5afe0d85f9b2ee7d": 1794609625.5616333,
 "5afe624ce43bf535": 1794466847.0948906,
 "5b02d9dfb6dcb47e": 1794406825.281866,
 "5b037d75a2d95f1e": 1794342025.2153375,
@@ -4752,6 +4657,7 @@
 "5e4144f36748bba8": 1794252642.0442708,
 "5e4c558904eca1fe": 1794339044.0547247,
 "5e4d0121aff004ce": 1794412225.421576,
+"5e56fa41cc676512": 1794609625.5616333,
 "5e57db08fbc6d1d1": 1794237626.3538754,
 "5e58f016e6b40b20": 1794381624.5089903,
 "5e5c0c96538ca724": 1794489626.5939486,
@@ -5431,6 +5337,7 @@
 "6d94d865bf9333bb": 1794129624.9673119,
 "6d9cc56d5f66c869": 1794294057.2981856,
 "6d9e22ee21192c10": 1794053146.8970654,
+"6da83f47d4d14ffa": 1794609625.5616333,
 "6db2b76108e5f1da": 1794553252.738333,
 "6db6dbce4d044ea9": 1794347425.5105855,
 "6dc119078f7e59eb": 1794211253.7643282,
@@ -5594,6 +5501,7 @@
 "71a22ec1a9620a76": 1794570626.8175335,
 "71a52d09ea0aff14": 1794086423.3945913,
 "71a6a232658e5232": 1794080428.0610616,
+"71a6fa4f00adc3eb": 1794609625.5616333,
 "71ac1563c32d0916": 1794207655.353521,
 "71b53f7da0bc2e2d": 1794069041.6001287,
 "71b5e89bce86f347": 1794121251.8481042,
@@ -7734,6 +7642,7 @@
 "a4fe480fc0832989": 1794412225.421576,
 "a51014b94c7a55b7": 1794583227.8628414,
 "a51f1b91a727270f": 1794073825.720103,
+"a5215f4d8c10327f": 1794609625.5616333,
 "a5259b5557c315e6": 1794589259.3099487,
 "a52b7b0eb9afc159": 1794466847.0948906,
 "a52e4f30fd6505bd": 1794227444.8368437,
@@ -9405,6 +9314,7 @@
 "c9fca68b1905091f": 1794471021.9148986,
 "ca1f7d37d9ae0c8d": 1794598241.8747663,
 "ca2c218af66f5909": 1794053146.8970654,
+"ca2fa8467e887917": 1794609625.5616333,
 "ca371d1128dd6b24": 1794553252.738333,
 "ca3bac92be0a14e9": 1794495654.5774844,
 "ca3dc0609750356a": 1794436824.2970095,
@@ -12749,6 +12659,7 @@
 "1b7601285f898d14": 1794586827.1055727,
 "1b7dfab04bc03429": 1794090024.092463,
 "1b9d610448d84163": 1794151225.6597934,
+"1ba7f4fafa980bd8": 1794609625.5616333,
 "1bb16f0932a80650": 1794252026.8992693,
 "1bb19f13d748b568": 1794569442.764256,
 "1bb27255558ce4ff": 1794066518.762267,
@@ -13197,6 +13108,7 @@
 "264d24ab5599d713": 1794090024.092463,
 "26509c4a0b8efe47": 1794519043.7777076,
 "26511cd848004fc6": 1794325825.7082462,
+"265f006b6d79fa81": 1794609625.5616333,
 "265f8e93694fcda6": 1794325226.4663944,
 "26670472475402aa": 1794294057.2981856,
 "266b4f8b6063b419": 1794207655.353521,
@@ -13344,6 +13256,7 @@
 "29c248df90ba731a": 1794234029.8370936,
 "29c271ef3ea796d1": 1794226224.6034505,
 "29c7dd1d37fd10a7": 1794558639.9624033,
+"29c9a105a4ab2ea7": 1794609625.5616333,
 "29d225a8a621994b": 1794315026.6277947,
 "29d2327286e2c2d1": 1794058663.5416367,
 "29d39eb9432082c1": 1794521423.7718086,
@@ -13592,7 +13505,9 @@
 "2fd2451c18a4afee": 1794439835.9165068,
 "2fdf6ec3c69298dc": 1794517191.9281797,
 "2fe89563ec2b7ca0": 1794294057.2981856,
+"2ff12c595f53a63f": 1794609625.5616333,
 "2ff3d5afa8735e93": 1794499252.6606731,
+"2ffa982149845fe3": 1794609625.5616333,
 "2ffbcf0946015ae8": 1794222625.9546466,
 "2ffd2fa84bfa4e08": 1794380451.074071,
 "2fffdbc3566da807": 1794214856.1278765,
@@ -15257,6 +15172,7 @@
 "59f033343e868ba0": 1794060010.396961,
 "59f19994dc74c769": 1794058663.5416367,
 "59f6a1d29d806a08": 1794245441.3708878,
+"59f97518d5a42474": 1794609625.5616333,
 "59fd9cae20bee84e": 1794468024.138138,
 "5a059ab836a07026": 1794419428.8587933,
 "5a08b69b619e7cb6": 1794207655.353521,
@@ -15468,6 +15384,7 @@
 "5f8314b4bc8301ff": 1794432030.7467659,
 "5f84018777ead46f": 1794494426.657751,
 "5f876ccc4a296b51": 1794322856.5589402,
+"5f87978089053b16": 1794609625.5616333,
 "5f8bba0571a62a6e": 1794596453.3442338,
 "5f8dddd6b9fd5a12": 1794553252.738333,
 "5f9125fcd322958b": 1794070201.937629,
@@ -17959,6 +17876,7 @@
 "9f0104d9f21d1e83": 1794298226.443851,
 "9f0e462a33a5162f": 1794072642.3225284,
 "9f0f8a96492fe749": 1794570025.4563718,
+"9f11e083a63f7e59": 1794609625.5616333,
 "9f14089f42329c9b": 1794606637.7515986,
 "9f17078267ce8778": 1794090024.092463,
 "9f171bb1072901ab": 1794561624.144115,
@@ -18969,6 +18887,7 @@
 "b7ef0106c5f0ad9e": 1794207655.353521,
 "b7ef92709d177d9a": 1794520849.7436028,
 "b7f653e5ec91cf2b": 1794090024.092463,
+"b803778712d6b2a7": 1794609625.5616333,
 "b804d3b03fce65c6": 1794508823.8400886,
 "b805a76647a9543a": 1794607823.8860877,
 "b80853cf8cf150ff": 1794489036.1626346,
@@ -19940,6 +19859,7 @@
 "ceb371d1bad3493b": 1794390025.792391,
 "cebe5fb8db918277": 1794523824.2808256,
 "ced14c19808b5382": 1794247257.3744018,
+"ced4989711834183": 1794609625.5616333,
 "ceedf75895567941": 1794327026.3092759,
 "cef3dcab7726ab8b": 1794252642.0442708,
 "cef491d16342c321": 1794595228.1283655,
