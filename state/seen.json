@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794556866.3367414,
+"ai_last_review": 1794558041.0678759,
 "ai_log": [
-{
-"err": "",
-"kept": 4,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 22,
-"ok": true,
-"t": "11-11 21:21"
-},
 {
 "err": "",
 "kept": 3,
@@ -540,146 +531,18 @@
 "n": 17,
 "ok": true,
 "t": "11-13 08:01"
+},
+{
+"err": "",
+"kept": 6,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 12,
+"ok": true,
+"t": "11-13 08:20"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM09rZGhVaFV2UmdSTzFLdnJXWkxfSENxUk9mT0kwM2E5ZWlSYUQ2bU1jTnlxYzcxWkNjSmxsZ2V0YXJUX2cxeFA4VWtJbXh3cXBYNi1DWXVabTQ4d0VYbUE3OXFjLVdHYXA2U2lGRmxzUDd6SW9YWmU0bVFaUUgzRkFXNURHZGlzQjNZVGtyanZSU29XUGRxRjhTUDVSbVNxaTBNTkhNZWE0Ui1sOTQxOTFUbw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Server Maker xFusion Gets Shenzhen Nod for $1.2 Billion Listing &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Server Maker xFusion Gets Shenzhen Nod for $1.2 Billion Listing - Bloomberg.com",
-"ts": 1794549900,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkE1dWxDNUV0V1JFQ3RZX2tXMmd3TjJ5QnJNNFR5ZDZrQzJvbE5lS3plRC1FLUFrOENiN1k0RHg4UDRibklwTV82a2NuWDM2MEFub3RkYnhmNjJlUVB0c0IyY1M1MTJOYmNCbXYtOTNvQmVlOVdyZURZZ1hsNkFHZmVTTmsxdVVaVW9fVVBERXFQOC1JV2M5U3ZraXB5Rzl5VEktNGstbDZwNDFDRmFiOEtkVQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "China's eSSD order opens up US market opportunity for Samsung, SK Hynix &nbsp;&nbsp; digitimes",
-"tags": [
-"000660"
-],
-"title": "China's eSSD order opens up US market opportunity for Samsung, SK Hynix - digitimes",
-"ts": 1794553727,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdFc4VlI0RWNPVTZZa2VUeEFvZlM5bWZCYU93QkhUNVVGOW9MRlZMX0pjTEJKcm53N194Qk5rVkZUYzA4RkxTV2k0QU1SSjlPc3RuRWphd2NjQUM2VTJBTThRQmstelcxTGNpTTQtbTQtTkVDaFRCQzNqWGFXUTlWajZmaDM0UTVVeWNmNGEydFR6NWdHQ3hjT2hhUE11bEZ3U0VqSUpmSFpqaHgtZVNj?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Post-Jensen US Chip Curbs Threaten Southeast Asia\u2019s AI Boom &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Post-Jensen US Chip Curbs Threaten Southeast Asia\u2019s AI Boom - Bloomberg.com",
-"ts": 1794554280,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUktHYWpTUU04a0EtaURaV0Juemk4YUdXZUtEczJxQ08tSWV6SHdTRWV5RWtvX0YyTlNvRFM0bEdQaU5fcEcwWWpwb3BBQUxJdkgzcUkzeENGQ1BmbDNHcjdBMmFXSzcyTmVKdUFxVjNtVXdNSDdHWVBXeXN2QWZBdTFveGZYRGtSVzhTSWZqanh4VEVubWRMVTg5Z252dWZzZW1BZUJB?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Samsung reportedly in talks to acquire data center cooling firm Modine &nbsp;&nbsp; digitimes",
-"tags": [
-"data center"
-],
-"title": "Samsung reportedly in talks to acquire data center cooling firm Modine - digitimes",
-"ts": 1794554451,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVBKc2pnTnFwZHRDWWVfb2l6RWwwM2ozUlBJOHdNbHpZVVdXa2hoTlctYWZfT253THRtYS1Eam5ZS2tYc1Z0SEx0YVFkR0t6X0ZXZjY1V3VJeldPeWxCWHBMUE9lcGtxdDU5UjhpbDE1V0ZWcjV0a2JLTHdhR3JsdGYxUGxJd0JkaW8tdTlqWXFHWDNXTF9OeTRJWE1ZWnJ6UWc?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Korean labor minister hears chipmakers on 52-hour cap amid dragging special-zone talks &nbsp;&nbsp; digitimes",
-"tags": [],
-"title": "Korean labor minister hears chipmakers on 52-hour cap amid dragging special-zone talks - digitimes",
-"ts": 1794555464,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmF5UXJEZEQ3bzk4MUxoU00yb1pBRllnbXJzSXZFNUk2WUdYVkVxSmVZMlBaVWQ3dE95T2YtckphaC01ZHVqSGl4WnFsb1lfU01hM29va3ZhNkl0dzNmbXpsS0lGREhJUGZtQTdTcXNuazluMExoTXNzTk9NcFBjV1JoV3RoTUx0d2dnY0xqSTRPYWMzbno1NWxlUkNBYXVU?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Chinese AI firms reportedly race for overseas compute, fear upcoming chip curbs amid Nvidia spy case &nbsp;&nbsp; digitimes",
-"tags": [
-"NVDA"
-],
-"title": "Chinese AI firms reportedly race for overseas compute, fear upcoming chip curbs amid Nvidia spy case - digitimes",
-"ts": 1794555708,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWZfcTRUczZWRS1adWRuQTlNNENjRE9Nak12NGRCOUR3TmFtc2NCWWlsOW92akFYcXVOSTZEdDBjUVpTQW81M01OcHhJZkFQS1RyRjl0am5zQmV3d2Q5bG5lT2xSUGNXcWdEaUtyV08wYnFmU09md0pHZDBHamI1Z2dibEhvS0JFS1RhY3pJeXd3MzVLVXlfUQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Cerebras Systems 3Q26 earnings: macro resilience, sector performance, and future outlook &nbsp;&nbsp; digitimes",
-"tags": [],
-"title": "Cerebras Systems 3Q26 earnings: macro resilience, sector performance, and future outlook - digitimes",
-"ts": 1794555864,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHNKbEg5THlOdVlXUndLUmprMjA0dDg3TmtJQW54czRMNGxBdlB2VEVuZE5pa0hGa0RiUTlObFJERHJ1VGc5azBNdDNKUUtscERPZmkteGR5WDctLTIyQ3pmd2JNREwxaWVUdHk0WkVFSEgwNXQ1SDlNS0xZX1dHMmZNTnQ1TTVPX1NiNTFhRkxhalFkMmk0bzgyRWRpcFZBWWc0Ng?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Samsung weighs separating memory and mobile leadership &nbsp;&nbsp; digitimes",
-"tags": [],
-"title": "Samsung weighs separating memory and mobile leadership - digitimes",
-"ts": 1794556500,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672146-frances-october-inflation-confirmed-at-34-as-estimated?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "France's October inflation confirmed at 3.4% as estimated",
-"ts": 1794556754,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672159-enhanced-group-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Enhanced Group reports Q3 results",
-"ts": 1794556957,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -747,7 +610,7 @@
 },
 "_last_check": 1794556237.290292
 },
-"last_run": 1794557437.4901123,
+"last_run": 1794558054.406181,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -3140,6 +3003,7 @@
 "3eff966b3d21e4bb": 1794553252.738333,
 "3f1d82749735f76b": 1794312054.550939,
 "3f299ddc7ad4aa38": 1794228625.7348583,
+"3f2bbc364c50584f": 1794558027.197113,
 "3f3526a0698ccda2": 1794318626.6609201,
 "3f3816eab4c6231a": 1794297025.7499537,
 "3f393f20c280b87f": 1794213043.0947626,
@@ -5187,6 +5051,7 @@
 "756a37589e90455d": 1794496825.0216095,
 "7576d99ef8ca3065": 1794489626.5939486,
 "757a38082c29fd8b": 1794557426.661249,
+"757ffe70ee594e28": 1794558027.197113,
 "7583c4eb65b6bc17": 1794399624.5316026,
 "7589bddce51ca47e": 1794336628.7999065,
 "75963837ab5adf6b": 1794520849.7436028,
@@ -6721,6 +6586,7 @@
 "9e444e85e60e71e2": 1794495654.5774844,
 "9e46a07fd6fbdd8f": 1794223842.150146,
 "9e4a0523181297da": 1794236457.02748,
+"9e56d3512d8dffe2": 1794558027.197113,
 "9e58a53f9123b4a0": 1794386422.9841938,
 "9e592eb511327bab": 1794129624.9673119,
 "9e651344e06f281a": 1794165625.0596616,
@@ -7745,6 +7611,7 @@
 "b8271751c0081b13": 1794337825.344606,
 "b82afadbe93efeaa": 1794466847.0948906,
 "b82dc72df94fae7f": 1794418239.536956,
+"b82e66009087be5d": 1794558027.197113,
 "b832e930aff8f744": 1794247875.6926105,
 "b83889dc9e7b7f1c": 1794234029.8370936,
 "b83e677243e3f7c7": 1794207655.353521,
@@ -8754,6 +8621,7 @@
 "d1e46691fa229ef0": 1794262824.4868238,
 "d1e4aee392da87ea": 1794053146.8970654,
 "d1e55c3c770325ab": 1794207655.353521,
+"d1e79d684ce2a354": 1794558027.197113,
 "d1ec827175fac118": 1794303626.3132353,
 "d1f7e6fa847738b2": 1794058663.5416367,
 "d1fa3b282aec1d3f": 1794144023.650658,
@@ -10063,6 +9931,7 @@
 "f42b2070383d2350": 1794554424.4818478,
 "f42c260ba3b91a3e": 1794090024.092463,
 "f42fb1e22c558625": 1794477651.6975112,
+"f430b6e1fc9d12cc": 1794558027.197113,
 "f431fb9c07f3b1b9": 1794334224.0104544,
 "f44954e58429d5e6": 1794053146.8970654,
 "f450feb904a39218": 1794380451.074071,
@@ -13702,6 +13571,7 @@
 "5af38cd0f08b71d6": 1794212427.3416302,
 "5af5a33e474aec91": 1794053146.8970654,
 "5afff57749d755e9": 1794234645.282263,
+"5b064f563ba79266": 1794558027.197113,
 "5b096c8f82a84f01": 1794210025.2421503,
 "5b1056d55b0d4853": 1794504641.9706995,
 "5b14fe377478a66d": 1794215424.0711486,
@@ -17603,6 +17473,7 @@
 "c8f09607b8b5574c": 1794515442.8235493,
 "c9004ddd67a00e74": 1794240054.5770936,
 "c90497c16d92e234": 1794090024.092463,
+"c90712cca4c2ee8d": 1794558027.197113,
 "c91f4e790463744e": 1794053146.8970654,
 "c92a03febc59f12d": 1794553252.738333,
 "c92d991eae0da94b": 1794380451.074071,
