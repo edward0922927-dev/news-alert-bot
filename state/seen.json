@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794594111.5892649,
+"ai_last_review": 1794595263.4674997,
 "ai_log": [
-{
-"err": "",
-"kept": 9,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 27,
-"ok": true,
-"t": "11-12 14:42"
-},
 {
 "err": "\u8d85\u6642\uff08[gemma-4-31b-it] ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)\uff09",
 "kept": 9,
@@ -540,94 +531,24 @@
 "n": 15,
 "ok": true,
 "t": "11-13 18:21"
+},
+{
+"err": "",
+"kept": 4,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 16,
+"ok": true,
+"t": "11-13 18:41"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMXpndF85M293NHBSX3k2U055Y0hlQjVxTEZRRXdfenUtay1QUzhvVmNNamZJUk1IUXFYa2dwTkZLYUc5TVJnY3FGaUlzMVVVcDVsdUluRjhXOEhQS2IwZktVQnVTX3hxM3l4bUc5dGUyWXlUVGwzYkxkcjB6R3BKZGluTzkxTy1ZeUdGUjFyQkhHNHZBd0hlVTFnY2ozRXU0WVJDcmhnWC1iT1pwUEhsODVrTTE5by1ieHNhRjFvQ1dqbTVScl9aNm1Ua0p6R2JwY0F3S0dUbjNvXzhoWnV6Ug?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission - Reuters",
-"ts": 1794577037,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0ZXpJdDhseTlYVDE1T2J4ZjJVLUE2VmVPNmdYLW9hUFhmdDhMMGVOYzRaYzY5Y01JbGtpMWJPcXNKU0hMdkdmY2lCQUlFWE1LWmdaOHMzSQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Physical AI &nbsp;&nbsp; digitimes",
-"tags": [],
-"title": "Physical AI - digitimes",
-"ts": 1794588450,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672529-dont-see-lot-of-displacement-from-ai-but-see-less-need-to-hire-more-san-francisco-feds-daly?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Don't see lot of displacement from AI, but see less need to hire more: San Francisco Fed's Daly",
-"ts": 1794593875,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672573-eledon-pharmaceuticals-gaap-eps-of-0_03-beats-by-0_14?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Eledon Pharmaceuticals GAAP EPS of -$0.03 beats by $0.14",
-"ts": 1794594047,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/the-epic-29-trillion-battle-for-social-security-has-begun-a5e57f5a?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "The future of Social Security affects everyone. Too many people aren\u2019t paying attention.",
-"tags": [],
-"title": "The epic $29 trillion battle for Social Security has begun",
-"ts": 1794594300,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672572-nextera-energy-stock-struggles-oversold-bounce-or-another-leg-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "NextEra Energy stock struggles: Oversold bounce or another leg lower?",
-"ts": 1794594468,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-13T16:00"
+"last_date": "2026-11-13T17:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -637,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-13T16:00"
+"last_date": "2026-11-13T17:00"
 },
 "FNG": {
 "cool": {
@@ -659,11 +580,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-13T16:00"
+"last_date": "2026-11-13T17:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-13T16:00"
+"last_date": "2026-11-13T17:00"
 },
 "UST10Y": {
 "cool": {
@@ -687,9 +608,9 @@
 },
 "last_date": "2026-11-12"
 },
-"_last_check": 0
+"_last_check": 1794595238.4811811
 },
-"last_run": 1794594714.7360497,
+"last_run": 1794595273.6183386,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -3292,6 +3213,7 @@
 "3f299ddc7ad4aa38": 1794228625.7348583,
 "3f2bbc364c50584f": 1794558027.197113,
 "3f3526a0698ccda2": 1794318626.6609201,
+"3f36397c302bf83e": 1794595228.1283655,
 "3f3816eab4c6231a": 1794297025.7499537,
 "3f393f20c280b87f": 1794213043.0947626,
 "3f4155743dbfd5bf": 1794586230.6376176,
@@ -3443,6 +3365,7 @@
 "424219e08cabc20f": 1794383424.7516904,
 "4242dcc08b3550a7": 1794514824.538045,
 "424a4199fd9b94cf": 1794215424.0711486,
+"42515285f759f393": 1794595228.1283655,
 "4257f617394046d6": 1794180024.180841,
 "42597c50f41ac967": 1794063069.3473625,
 "425f57fa54f31e4f": 1794553252.738333,
@@ -3542,6 +3465,7 @@
 "44b0f1e036aa3076": 1794253225.6358817,
 "44b6503a997bd153": 1794402054.0077875,
 "44bae730662ad469": 1794248479.105261,
+"44c22be9f6dae070": 1794595228.1283655,
 "44c5010671dbbba8": 1794223228.835452,
 "44c59903b403d343": 1794224423.8500595,
 "44c6a15a8f92be56": 1794387024.263017,
@@ -3705,6 +3629,7 @@
 "4882cfcbc622b611": 1794214856.1278765,
 "488daeb15a3994fc": 1794227444.8368437,
 "489143d3d5b2cd41": 1794090024.092463,
+"489e9bbfb5157d99": 1794595228.1283655,
 "48a158716376dec6": 1794053146.8970654,
 "48aa43e904e65149": 1794053146.8970654,
 "48b45ba2e8b57cc8": 1794416450.9334848,
@@ -3957,6 +3882,7 @@
 "4ecbbd3aebbfda64": 1794380451.074071,
 "4ecf022f37fc18c8": 1794090024.092463,
 "4ed781a74fb41252": 1794151225.6597934,
+"4ed9150c92688502": 1794595228.1283655,
 "4edf38fa666ceb15": 1794208823.7725184,
 "4edfee7811ea8ad9": 1794382236.912113,
 "4ee747f0d09a2cfc": 1794343223.611575,
@@ -5198,6 +5124,7 @@
 "6c0c50b3fbfb0013": 1794466847.0948906,
 "6c28c0fb89c41bdc": 1794381624.5089903,
 "6c2c638b29c1ef5c": 1794468024.138138,
+"6c2d790b2b58a6e3": 1794595228.1283655,
 "6c2fb184c2946d98": 1794402054.0077875,
 "6c397c266e198ab8": 1794520849.7436028,
 "6c45f9c4d1a2ec93": 1794129624.9673119,
@@ -5944,6 +5871,7 @@
 "7f00c99d1eb37661": 1794351023.4319475,
 "7f0acfe24e3fa5db": 1794217823.792214,
 "7f0ebcd7dc28810e": 1794207655.353521,
+"7f1896d26664e165": 1794595228.1283655,
 "7f18e793430d080f": 1794129624.9673119,
 "7f1cb02e89d03e6b": 1794121251.8481042,
 "7f1d96e6dc0f7e53": 1794514824.538045,
@@ -8567,6 +8495,7 @@
 "be81db3f10d90495": 1794410424.1208882,
 "be845543fb079b9f": 1794210624.6922936,
 "be88a076b33703af": 1794473421.2667904,
+"be8b2057c2a5a214": 1794595228.1283655,
 "bea352d1ecbfec5e": 1794262226.7977734,
 "beab1fc9a9ba80cb": 1794499252.6606731,
 "beb41f91a525f16f": 1794321626.205444,
@@ -9538,6 +9467,7 @@
 "d4c613d38249a6f5": 1794430653.1918259,
 "d4d1d494e3153f44": 1794324648.7021484,
 "d4d60f4a0799b012": 1794417625.2380702,
+"d4e2d1e65bdc9941": 1794595228.1283655,
 "d4e732081d476916": 1794514824.538045,
 "d4e8a50568c49996": 1794076241.5731697,
 "d4ed4c65aef97a79": 1794234645.282263,
@@ -9799,6 +9729,7 @@
 "da9a1c60bdccc5f7": 1794069624.2005684,
 "daa25721b87d8f56": 1794431426.5168767,
 "daa397fa79a003a1": 1794129624.9673119,
+"daa4c4f3fe2c0f4b": 1794595228.1283655,
 "daa554fda7da8997": 1794385221.6704128,
 "daa6839fd88682f5": 1794053146.8970654,
 "daab9792bf829004": 1794562241.9332683,
@@ -10697,6 +10628,7 @@
 "f107dd841bad47ea": 1794242424.5403016,
 "f11476cd5ec906bc": 1794090024.092463,
 "f1185e60000a5587": 1794248479.105261,
+"f11e3b727c5ba56e": 1794595228.1283655,
 "f11f8bfb5731cc9a": 1794591053.6013825,
 "f128079a6b0c4111": 1794380451.074071,
 "f1283144435f0af8": 1794053146.8970654,
@@ -11060,6 +10992,7 @@
 "f9d6d6bdd4bacb8d": 1794406825.281866,
 "f9dc070947fa908f": 1794301258.7214239,
 "f9e36f9f3370e238": 1794207655.353521,
+"f9e40fda256e0adf": 1794595228.1283655,
 "f9e9a82733c2e8a5": 1794310242.809073,
 "f9edcab504dcc7a9": 1794317448.4307733,
 "f9ee438b752436c0": 1794470449.1915379,
@@ -11591,6 +11524,7 @@
 "0779d1fb157b8a4e": 1794327026.3092759,
 "077b6f0dbad6b769": 1794151225.6597934,
 "077e5325ac50752e": 1794381624.5089903,
+"078712da3dcb74ba": 1794595228.1283655,
 "07894e97730f1573": 1794400828.886451,
 "079d4366ada275ea": 1794553252.738333,
 "07aa9381146ec209": 1794228023.5425556,
@@ -11939,6 +11873,7 @@
 "105e97bc501afd60": 1794053146.8970654,
 "1060eb81ba5655f7": 1794522643.152942,
 "10699a7b586f842d": 1794436236.6229744,
+"106e973d86c0d397": 1794595228.1283655,
 "10717d3c8486d081": 1794337252.3296568,
 "107ce82098802c76": 1794515442.8235493,
 "108f25e47c7838fa": 1794151225.6597934,
@@ -12244,6 +12179,7 @@
 "18da6ebb4ef367fd": 1794090024.092463,
 "18e43457fcf57fe9": 1794559823.6296525,
 "18e5cc148294725c": 1794573047.278476,
+"18e7fbede3ddc2a9": 1794595228.1283655,
 "18ee2ae194879f6e": 1794553252.738333,
 "1914810a77fa1a10": 1794226224.6034505,
 "19161025d435a842": 1794349221.7950053,
@@ -12386,6 +12322,7 @@
 "1c890b94f6338c38": 1794207655.353521,
 "1c95ef0e93f30e05": 1794582626.619808,
 "1c970c2563c556dd": 1794486023.9169981,
+"1caae0631f06146a": 1794595228.1283655,
 "1cab52ca37f0dd26": 1794436236.6229744,
 "1cba9dbd83244ef3": 1794245441.3708878,
 "1cbb1a3fc0bc3d3a": 1794380451.074071,
@@ -12469,6 +12406,7 @@
 "1eaade57b995dc8d": 1794432030.7467659,
 "1eac124eb07867f0": 1794249071.019277,
 "1ebc008ce8d58a9d": 1794219024.1165798,
+"1ec0415146975648": 1794595228.1283655,
 "1ec21e8bab809926": 1794307223.432283,
 "1ec44774dff6e17e": 1794151225.6597934,
 "1ec8ab52979648e3": 1794521423.7718086,
@@ -13828,6 +13766,7 @@
 "406f33e3735c0bd5": 1794336628.7999065,
 "407ec61d133c1a8e": 1794341426.2465568,
 "4086b1cd6b557ea2": 1794343223.611575,
+"4086c97c06109492": 1794595228.1283655,
 "408a1fcd6abb8172": 1794577228.5573788,
 "40948e02acd6f3f2": 1794129624.9673119,
 "409565f365981edd": 1794553252.738333,
@@ -15370,6 +15309,7 @@
 "69a3fe6d65a753ef": 1794321626.205444,
 "69a4d638459ce622": 1794322224.436821,
 "69b6bcfd3c4ca246": 1794209441.2028658,
+"69bd86ae541a44ba": 1794595228.1283655,
 "69bf97712e69030b": 1794319254.2679577,
 "69cd12dab88b81eb": 1794466847.0948906,
 "69cda755692bb34f": 1794468024.138138,
@@ -17750,6 +17690,7 @@
 "a75d7e60b70461e8": 1794330055.137018,
 "a761ddfb0391e6fb": 1794147624.409764,
 "a765de5e08097b7d": 1794129624.9673119,
+"a76e3884589b67f7": 1794595228.1283655,
 "a76f5b0d7ffe15b0": 1794380451.074071,
 "a77099ee1c6ae8d2": 1794217228.4060323,
 "a783f205b8d164ee": 1794294057.2981856,
@@ -17758,6 +17699,7 @@
 "a793005be2e04128": 1794053146.8970654,
 "a7958e420004c7e8": 1794349844.933684,
 "a7962d9b812a9ce5": 1794299443.3490458,
+"a79bce086dc8cebe": 1794595228.1283655,
 "a7a06017da2a21aa": 1794495654.5774844,
 "a7a106fb37f1a1ad": 1794241843.488906,
 "a7a2e67b0f8d1b78": 1794519626.4708598,
@@ -18377,6 +18319,7 @@
 "b7f653e5ec91cf2b": 1794090024.092463,
 "b804d3b03fce65c6": 1794508823.8400886,
 "b80853cf8cf150ff": 1794489036.1626346,
+"b810053e6dd58a90": 1794595228.1283655,
 "b810bf95be62c0e3": 1794306027.3632174,
 "b811e5fb04fcfdf4": 1794207655.353521,
 "b814dffae6930805": 1794129624.9673119,
@@ -19320,6 +19263,7 @@
 "ced14c19808b5382": 1794247257.3744018,
 "ceedf75895567941": 1794327026.3092759,
 "cef3dcab7726ab8b": 1794252642.0442708,
+"cef491d16342c321": 1794595228.1283655,
 "cef7659c2f8eb6b5": 1794069041.6001287,
 "cf019ba44e73c694": 1794589828.9299436,
 "cf0366313cbc2f1f": 1794058663.5416367,
@@ -20506,6 +20450,7 @@
 "eda3cf02bf77f68e": 1794342640.7023919,
 "edb0d295bccf73e5": 1794484224.3376696,
 "edb1e683f9172213": 1794294057.2981856,
+"edbf95bfacf49953": 1794595228.1283655,
 "edcdaaa6fb7397b3": 1794067878.5266922,
 "ede342893108b451": 1794483042.7861938,
 "ede7f5f51fef478b": 1794588625.1002343,
