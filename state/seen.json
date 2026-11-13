@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794580843.868504,
+"ai_last_review": 1794582135.009738,
 "ai_log": [
-{
-"err": "",
-"kept": 4,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 16,
-"ok": true,
-"t": "11-12 11:01"
-},
 {
 "err": "",
 "kept": 6,
@@ -540,206 +531,24 @@
 "n": 22,
 "ok": true,
 "t": "11-13 14:40"
+},
+{
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 22,
+"ok": true,
+"t": "11-13 15:02"
 }
 ],
-"ai_queue": [
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QRERKM2ZMcUtQanhwMkJrSG9DTmFQS0k3Vmo0MDUzTGNVLWd2elRudTM2YmR4M0FkSEYxVHlCQmotcFZTbjJfNEMteVI4aDVzZGQ0dUJmWU1OTWZlTUtiMVBvRl81dUJKLU5YYmZXWHFsZGk0WlJfRUwwTQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "This cybersecurity stock is down nearly 20% over the past month. KeyBanc says it's a buy &nbsp;&nbsp; CNBC",
-"tags": [],
-"title": "This cybersecurity stock is down nearly 20% over the past month. KeyBanc says it's a buy - CNBC",
-"ts": 1794570258,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHRRSm8tM1ZqT0xZeG9YbUlzdEhoV0ZVY1ZYVE50VFV1bE5KbWhvS2VCR2RuMWVnN1hITi02dkJta3FxaXJvZlhyV3EwNDhPTi1QZml6VTVPWFlVRi1nUjFCTUdtQ05LWlJHblYtQXRBRjFyN3hoMnlGa1Z3SjBaTnBlS1lEbmN2RmszU2dNd2VwajJqQzY1bVhfSGdDQTRlMS16dV9QbnlLUV9wS19Nekl1SEw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Russia Oil Revenues Hit Five-Month High on Crude Rally, IEA Says &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Russia Oil Revenues Hit Five-Month High on Crude Rally, IEA Says - Bloomberg.com",
-"ts": 1794572256,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHBWVGNXcW1VWElRUU1zTGRhUl9uZkc3ZGFMdTBKUTNReF93eTZRb0tXNklsRzdNMTMxVDM2WUc3NDgyUTF2RmdQTkdRNTV1S29yY0N6S25UcS1MaXcyaHpiWDRGSmFaQnY3TWY4Uy1vQkxWVVRzallNMFZ6eVUyVDF6NmlhX3lpOUVyMmsyeUxYYmd3SGs1M0wwWmhlVTVIRFpvNC1nUloyVzFLX2NSeTdmblZ0bDFOb0N3akVGR0ZPWDUx?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
-"summary": "DOJ Says It Helped Freeze Nearly Half of More Than $6 Billion Stolen in North Korea\u2019s Binance Hack &nbsp;&nbsp; WSJ",
-"tags": [
-"Binance",
-"Hack"
-],
-"title": "DOJ Says It Helped Freeze Nearly Half of More Than $6 Billion Stolen in North Korea\u2019s Binance Hack - WSJ",
-"ts": 1794577920,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-once-upon-a-farm-stock-sliding-today-93CH-5025858",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Once Upon A Farm stock sliding today?",
-"ts": 1794580291,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-owlet-stock-plummeting-today-93CH-5025860",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Owlet stock plummeting today?",
-"ts": 1794580295,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-sp-500-rising-to-8700-next-year-despite-slower-earnings-growth-5025856",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth",
-"ts": 1794580599,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672377-dallas-feds-logan-urges-fed-to-bolster-operational-readiness-before-a-crisis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Dallas Fed's Logan urges Fed to bolster operational readiness before a crisis",
-"ts": 1794580834,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/tandem-diabetes-stock-jumps-8-on-fda-clearance-for-tubeless-pump-5025931",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Tandem Diabetes stock jumps 8% on FDA clearance for tubeless pump",
-"ts": 1794580896,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/dominos-pizza-shares-rise-after-baird-upgrades-stock-on-improving-sales-outlook-5025934",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Domino\u2019s Pizza shares rise after Baird upgrades stock on improving sales outlook",
-"ts": 1794580937,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/wall-st-opens-higher-after-soft-producer-prices-data-5025935",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Wall St opens higher after soft producer prices data",
-"ts": 1794580946,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/redbird-launches-milan-sports-holding-company-names-brett-yormark-ceo-5025940",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "RedBird launches Milan sports holding company, names Brett Yormark CEO",
-"ts": 1794580972,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672412-emcor-agrees-to-acquire-p1-construction-in-all-cash-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "EMCOR agrees to acquire P1 Construction in all-cash deal",
-"ts": 1794581066,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bitcoin Magazine",
-"summary": "Bitcoin Magazine President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed The White House sent four SEC and CFTC nominees to the Senate on Thursday, including former CFTC Commissioner Kristin Johnson and two staffers who worked on the Clarity Act. This post President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Bo",
-"tags": [
-"BTC",
-"Clarity Act"
-],
-"title": "President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed",
-"ts": 1794581100,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/article/4967800-nvidia-its-good-that-jensen-resigned?source=feed_symbol_NVDA",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA NVDA",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia: It's Good That Jensen Resigned",
-"ts": 1794581219,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-13T12:00"
+"last_date": "2026-11-13T14:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -749,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-13T12:00"
+"last_date": "2026-11-13T14:00"
 },
 "FNG": {
 "cool": {
@@ -771,11 +580,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-13T12:00"
+"last_date": "2026-11-13T14:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-13T12:00"
+"last_date": "2026-11-13T14:00"
 },
 "UST10Y": {
 "cool": {
@@ -799,9 +608,9 @@
 },
 "last_date": "2026-11-12"
 },
-"_last_check": 0
+"_last_check": 1794582072.372398
 },
-"last_run": 1794581516.4039555,
+"last_run": 1794582141.2653334,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -3798,6 +3607,7 @@
 "4a72b1b19f5c68f8": 1794219024.1165798,
 "4a73c29c82dd9f19": 1794255624.7521412,
 "4a744f32b14f96da": 1794294057.2981856,
+"4a7a4efa7c966da2": 1794582061.9461782,
 "4a884fb4e2a594a4": 1794227444.8368437,
 "4a8ff71bdf1604c4": 1794494426.657751,
 "4a9270f09cad500b": 1794498623.3847704,
@@ -3994,6 +3804,7 @@
 "4f458c7b799edc6b": 1794053146.8970654,
 "4f50dc36a93cfab8": 1794251432.9348457,
 "4f536c4e64a4ca34": 1794466847.0948906,
+"4f54c50975b88f01": 1794582061.9461782,
 "4f5a965881a02331": 1794300023.3124595,
 "4f6b9aac849774c2": 1794343223.611575,
 "4f70ff22544d50c1": 1794323425.210853,
@@ -4299,6 +4110,7 @@
 "56c19dc5c830017a": 1794349221.7950053,
 "56c6f1dd3a21de23": 1794125424.4951053,
 "56c73480e94bca85": 1794090024.092463,
+"56d0acb4075710cc": 1794582061.9461782,
 "56de8352c0f764e9": 1794223842.150146,
 "56dfc2e013285bd0": 1794263443.2975552,
 "56e1eedb376827aa": 1794125424.4951053,
@@ -4527,6 +4339,7 @@
 "5cbc4c9da6797fbc": 1794207655.353521,
 "5cbd1150e5fac76b": 1794237626.3538754,
 "5cbd37313b72c9cd": 1794210025.2421503,
+"5cbf486593975dd7": 1794582061.9461782,
 "5cca588f56e44251": 1794513026.7298062,
 "5ccb1fa7a902ead6": 1794505825.2474673,
 "5cd6a7ca6abaf773": 1794241843.488906,
@@ -5191,6 +5004,7 @@
 "6cc9f3d1eef39bd9": 1794214856.1278765,
 "6cd1c25003afbb16": 1794151225.6597934,
 "6cd3806757a9ca84": 1794210025.2421503,
+"6ce07cd47f4ea789": 1794582061.9461782,
 "6ce10134e6e61c8d": 1794294057.2981856,
 "6cea45ae7cff9313": 1794169225.368316,
 "6cebb53f8297bf3d": 1794090024.092463,
@@ -6491,6 +6305,7 @@
 "8d5bff8786a961fc": 1794343223.611575,
 "8d5cabcbd905cfcd": 1794255624.7521412,
 "8d5fb62caa18fdd8": 1794069041.6001287,
+"8d6313b13d905171": 1794582061.9461782,
 "8d75afce76b24403": 1794053146.8970654,
 "8d78d30fcecf4a02": 1794213626.9912028,
 "8d7aea56508fdbc9": 1794437421.737116,
@@ -6687,6 +6502,7 @@
 "929c2738e7735fac": 1794090024.092463,
 "92a49da66c4b6438": 1794129624.9673119,
 "92a8eea1478dd52c": 1794322856.5589402,
+"92acc8e237bcf8d5": 1794582061.9461782,
 "92b849ab01d0ae2b": 1794553252.738333,
 "92b90256939cea5d": 1794053146.8970654,
 "92d4b3d6a88201c4": 1794351653.6511967,
@@ -8802,6 +8618,7 @@
 "c651b434376bebb6": 1794261654.088547,
 "c65348a592fad8ca": 1794216642.1444197,
 "c6577e5c5f29223e": 1794207655.353521,
+"c65a0f311df2b613": 1794582061.9461782,
 "c65c0fdc85b0ef86": 1794301258.7214239,
 "c65ee83cb39a1612": 1794058663.5416367,
 "c6616d5039e4c213": 1794435624.6895678,
@@ -10579,6 +10396,7 @@
 "f24747a8b8af41aa": 1794207655.353521,
 "f247ac66677c3abf": 1794207655.353521,
 "f24cdbb2e274b2e0": 1794294057.2981856,
+"f24d4a56a9b36f38": 1794582061.9461782,
 "f255e1ccaa28ba0c": 1794487221.4696975,
 "f25aa00d482a7cd9": 1794557426.661249,
 "f25c1b3316eea171": 1794508823.8400886,
@@ -10755,6 +10573,7 @@
 "f7344656e2da3d9c": 1794483042.7861938,
 "f73b945d4d212687": 1794207655.353521,
 "f73c2d0b8cf71cfe": 1794340852.0511594,
+"f73d17173e378285": 1794582061.9461782,
 "f73f8a2487e3bb36": 1794315657.2528052,
 "f7422f172a60e0fd": 1794505825.2474673,
 "f755d811ddae8109": 1794559221.9447162,
@@ -13067,6 +12886,7 @@
 "33ca764531f509e4": 1794514824.538045,
 "33d3aa8f676855b9": 1794299443.3490458,
 "33d93e124fd5d924": 1794380451.074071,
+"33dbb75e4c51b878": 1794582061.9461782,
 "33fcd40561a7866a": 1794493226.1332557,
 "3403a5519d702632": 1794382236.912113,
 "340515b57e51656c": 1794511843.3080857,
@@ -13929,6 +13749,7 @@
 "4b316359f7d6c8a4": 1794380451.074071,
 "4b31f69a2171a29f": 1794250228.0065682,
 "4b384c4091a93166": 1794430653.1918259,
+"4b3f4bc6cf3225a2": 1794582061.9461782,
 "4b43be24efb013cb": 1794553252.738333,
 "4b45a0ace6597088": 1794302427.8214426,
 "4b46bb8788265aaf": 1794380451.074071,
@@ -15657,6 +15478,7 @@
 "7a86cd1fb8267671": 1794397224.4272263,
 "7a8b1caf7b86d5fe": 1794502854.2969291,
 "7a8c90cc558e9233": 1794384051.3623385,
+"7a98c07d1f5f8be9": 1794582061.9461782,
 "7a9b850885b5b84a": 1794390621.9689424,
 "7aadbf9c339a6b44": 1794576645.1911607,
 "7ab8081b6b923bfc": 1794514824.538045,
@@ -15853,6 +15675,7 @@
 "7fc6e9991201af74": 1794215424.0711486,
 "7fd7421f7cd32c8d": 1794294057.2981856,
 "7fdc824d78357c57": 1794136824.1662278,
+"7fdcded2ede18716": 1794582061.9461782,
 "7fde9069060ee5cc": 1794243026.4460754,
 "7fee74530506bd16": 1794435624.6895678,
 "7feff89fcbb5ef4e": 1794298825.0579662,
@@ -18018,6 +17841,7 @@
 "b8cf61e011cebe7f": 1794466847.0948906,
 "b8d1ae1ff0f6af4d": 1794259850.2098105,
 "b8d921f67aedbd88": 1794238265.7345989,
+"b8e6bde7afbc6f05": 1794582061.9461782,
 "b8f04bc24566d55b": 1794477025.1202402,
 "b8f66ab84531c476": 1794570626.8175335,
 "b8fff87769b4bbd0": 1794343822.9605784,
@@ -18618,6 +18442,7 @@
 "c81eeaa8b1e73fc3": 1794469822.9927154,
 "c821d6d5b66227d0": 1794243659.0740352,
 "c8263565e7ea5ccb": 1794058663.5416367,
+"c8276bb86607ead2": 1794582061.9461782,
 "c82ab6a03787cbfb": 1794263443.2975552,
 "c8344658f6a410a2": 1794053146.8970654,
 "c84192774938fe72": 1794090024.092463,
@@ -18956,6 +18781,7 @@
 "d12a2a99e0c50856": 1794513026.7298062,
 "d12d9104fe24185a": 1794327026.3092759,
 "d13503c8dbd8600c": 1794521423.7718086,
+"d135cf0bbe26c772": 1794582061.9461782,
 "d14d55cd6e1ff4b3": 1794519043.7777076,
 "d150bc48bb0150d4": 1794495024.9189398,
 "d15b4c74d0792306": 1794322856.5589402,
@@ -19338,6 +19164,7 @@
 "daf96126ee0798ee": 1794568827.5417576,
 "dafbb80c84d26d34": 1794058663.5416367,
 "db0b29c5a90ee3f9": 1794386422.9841938,
+"db0baaef9d80eb70": 1794582061.9461782,
 "db1b3290185fdead": 1794553252.738333,
 "db29f8c410bc5425": 1794248479.105261,
 "db2fbf5c494f6c8b": 1794090024.092463,
@@ -20127,6 +19954,7 @@
 "f039c8af578cf95e": 1794253225.6358817,
 "f03bd73c0704fd27": 1794053146.8970654,
 "f042f0d89bbc43fd": 1794069624.2005684,
+"f042f24739f9f071": 1794582061.9461782,
 "f04a0bebb5bf97dd": 1794487221.4696975,
 "f0685ce3c48968c5": 1794578453.55955,
 "f06b51709764c96d": 1794414698.6025398,
