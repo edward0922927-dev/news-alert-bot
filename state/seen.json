@@ -542,13 +542,134 @@
 "t": "11-13 10:02"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Cointelegraph",
+"summary": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months.",
+"tags": [
+"Binance",
+"hack"
+],
+"title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+"ts": 1794562034,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "Cointelegraph",
+"summary": "Unocoin said the transfers were signed outside BitGo\u2019s platform while its account was frozen, possibly via a wallet recovery feature.",
+"tags": [],
+"title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+"ts": 1794563901,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672218-obsidian-therapeutics-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Obsidian Therapeutics, Inc. reports Q3 results",
+"ts": 1794563912,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672219-adarx-pharmaceuticals-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "ADARx Pharmaceuticals reports Q3 results",
+"ts": 1794564028,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672196-biggest-stock-movers-friday-cbrs-flo-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Biggest stock movers Friday: CBRS, FLO, and more",
+"ts": 1794564096,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672220-vitalhub-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "VitalHub reports Q3 results",
+"ts": 1794564116,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672221-china-gold-international-resources-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "China Gold International Resources reports Q3 results",
+"ts": 1794564178,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672217-goldman-sees-two-more-fed-hikes-then-cuts-as-2027-growth-edges-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Goldman sees two more Fed hikes, then cuts, as 2027 growth edges up",
+"ts": 1794564247,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672222-interactive-brokers-gives-european-clients-access-to-anthropic-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Interactive Brokers gives European clients access to Anthropic IPO",
+"ts": 1794564506,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-13T06:00"
+"last_date": "2026-11-13T09:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +679,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-13T06:00"
+"last_date": "2026-11-13T09:00"
 },
 "FNG": {
 "cool": {
@@ -580,11 +701,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-13T06:00"
+"last_date": "2026-11-13T09:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-13T06:00"
+"last_date": "2026-11-13T09:00"
 },
 "UST10Y": {
 "cool": {
@@ -608,9 +729,9 @@
 },
 "last_date": "2026-11-12"
 },
-"_last_check": 0
+"_last_check": 1794564651.5349934
 },
-"last_run": 1794564150.1342757,
+"last_run": 1794564673.3911433,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1653,6 +1774,7 @@
 "1bc7d5e6597dde42": 1794380451.074071,
 "1bcfdd7dbcef296c": 1794294057.2981856,
 "1be92c78f293d912": 1794069624.2005684,
+"1bf0b9c588faab53": 1794564640.4195065,
 "1bf4a31f977375f0": 1794380451.074071,
 "1c09e39d8c8aeeea": 1794488450.726929,
 "1c0a643e231270e8": 1794466847.0948906,
@@ -2157,6 +2279,7 @@
 "285bb1c0b541a7b7": 1794553252.738333,
 "285ee653e42deece": 1794437421.737116,
 "285fb99bb6bc362a": 1794478222.0113163,
+"286d10d5b1155e1e": 1794564640.4195065,
 "28716d930484843e": 1794503768.242245,
 "28727419753ab2f3": 1794487822.3175094,
 "2874c203ddde336c": 1794090024.092463,
@@ -2182,6 +2305,7 @@
 "28d0d35b9f89aabe": 1794405024.213529,
 "28d9c1922e327df1": 1794511224.5455616,
 "28da00393c8724cf": 1794330627.8580275,
+"28db26f98ea2f16b": 1794564640.4195065,
 "28e961dc366f878d": 1794466847.0948906,
 "28eb4dbc1d724374": 1794380451.074071,
 "28fd162f35c0375c": 1794399624.5316026,
@@ -2657,6 +2781,7 @@
 "355c7f0f237f024c": 1794090024.092463,
 "355d673ff9af534b": 1794342025.2153375,
 "356536599ae0fbdc": 1794343822.9605784,
+"3566c7fd7ebb2cc6": 1794564640.4195065,
 "3567fafb0d3eda62": 1794519626.4708598,
 "3568ccc527792c92": 1794502224.8850534,
 "356aa74e6bcec873": 1794491425.9515207,
@@ -2841,6 +2966,7 @@
 "39df33b8e7fee7ca": 1794487822.3175094,
 "39e6f22538c03601": 1794317448.4307733,
 "39e8e4cf4b3b514a": 1794053146.8970654,
+"39ef97df9becdaff": 1794564640.4195065,
 "3a017979ce908075": 1794436824.2970095,
 "3a11ba553244ee8e": 1794151225.6597934,
 "3a1951a5a76a2999": 1794496825.0216095,
@@ -2984,6 +3110,7 @@
 "3db53c2674e08d92": 1794090024.092463,
 "3dbb259fa2e3705e": 1794225025.2256005,
 "3dc67c4d4a78ee0b": 1794207655.353521,
+"3dd0a6950c7fd458": 1794564640.4195065,
 "3dd35571aa42cb42": 1794466847.0948906,
 "3de32bbf0bda983e": 1794327026.3092759,
 "3de449b078eaeb38": 1794553252.738333,
@@ -5269,6 +5396,7 @@
 "79a1a159f1cb894f": 1794210025.2421503,
 "79a9e1e0c122fb3e": 1794494426.657751,
 "79b2ea9030e7c6c8": 1794510065.4285805,
+"79b632ec34a8de1d": 1794564640.4195065,
 "79b78c4eea5be921": 1794400239.7773461,
 "79b92dd192384098": 1794207655.353521,
 "79dd1089984ffa40": 1794294057.2981856,
@@ -7636,6 +7764,7 @@
 "b5776ae5ce475baf": 1794219625.99357,
 "b5917408baabd0c1": 1794502854.2969291,
 "b599bf2d10bd737a": 1794320424.8171039,
+"b59ab7b78aaa69bd": 1794564640.4195065,
 "b5a3aa9c37ded2f4": 1794324648.7021484,
 "b5a7adec914612f6": 1794305426.239695,
 "b5c48fbfc284c9cc": 1794321043.2025392,
@@ -8459,6 +8588,7 @@
 "ca8d37582b5e717a": 1794308400.5846508,
 "ca8d4811022cb33e": 1794468024.138138,
 "ca949f3cb68994da": 1794489036.1626346,
+"caa98ca7181aa80a": 1794564640.4195065,
 "cab1227e400b1f84": 1794380451.074071,
 "cab3d374842accc2": 1794559823.6296525,
 "caba12dcf675449b": 1794147624.409764,
@@ -9344,6 +9474,7 @@
 "e0c6fa7e8bd29357": 1794505825.2474673,
 "e0d0c062912341ae": 1794055787.7739694,
 "e0d28ae3053419b9": 1794295224.707564,
+"e0d5253a770b97ea": 1794564640.4195065,
 "e0d54f510d485ba3": 1794072642.3225284,
 "e0e5b712b9a0bd3d": 1794147624.409764,
 "e0ee1c3ac31fc28e": 1794435624.6895678,
@@ -9860,6 +9991,7 @@
 "eefe9a4cd2f98bd7": 1794402622.983302,
 "ef09c28dd460c303": 1794496825.0216095,
 "ef0af70a20587657": 1794416450.9334848,
+"ef0c5b3572f74144": 1794564640.4195065,
 "ef0ff43d5c4915ab": 1794209441.2028658,
 "ef11e322c0d24cc8": 1794090024.092463,
 "ef202ef777270797": 1794515442.8235493,
@@ -12063,6 +12195,7 @@
 "2a7ac55de2be1e72": 1794400828.886451,
 "2a80152f50c6be9d": 1794207655.353521,
 "2a83e02c339d5d51": 1794207655.353521,
+"2a8686af43afc7d1": 1794564640.4195065,
 "2a86ceed1af4cd4a": 1794331841.6847267,
 "2a8b2dd50b9aa388": 1794090024.092463,
 "2a8c9be628dae208": 1794380451.074071,
@@ -12751,6 +12884,7 @@
 "3ca8aa084a5aaf62": 1794553252.738333,
 "3cac9d1d74f7a6ed": 1794417111.777808,
 "3cb14c630877db76": 1794380451.074071,
+"3cb34b670fd0c290": 1794564640.4195065,
 "3ccb43371cc06ef3": 1794158423.5148294,
 "3ccc25f1f40a9201": 1794466847.0948906,
 "3cd0dfe1604edfd9": 1794073224.1004374,
@@ -12823,6 +12957,7 @@
 "3ee4bb5b06a95a24": 1794380451.074071,
 "3eec325f6db3f631": 1794400239.7773461,
 "3ef5c2ce57460f90": 1794499252.6606731,
+"3ef72df55eeebf66": 1794564640.4195065,
 "3efc1dca285ed52d": 1794262226.7977734,
 "3eff0b0b0685f724": 1794265255.9845357,
 "3f0bac804c2a078f": 1794244826.386174,
@@ -13554,6 +13689,7 @@
 "5431ea42af764fd7": 1794524453.1112177,
 "5436e7942d156618": 1794211829.3207283,
 "5447dcc6a1044f0c": 1794294057.2981856,
+"5448691fd5a988a2": 1794564640.4195065,
 "54542c87f6ec5c2a": 1794380451.074071,
 "5457e8c10b5e7c9f": 1794555041.917416,
 "545806e6afa49201": 1794229254.159377,
@@ -13832,6 +13968,7 @@
 "5c72e496628d1c43": 1794090024.092463,
 "5c7caaec9eb5be30": 1794314423.5789354,
 "5c8cb0e89cfb4149": 1794410424.1208882,
+"5c919b4fb1a2c56b": 1794564640.4195065,
 "5c988854ea5a4369": 1794310242.809073,
 "5c9db791282f675a": 1794558639.9624033,
 "5ca14397a269be07": 1794294057.2981856,
@@ -14144,6 +14281,7 @@
 "653a566711888b5b": 1794409250.9206789,
 "653f26c01fdba179": 1794241225.0884333,
 "654c8babadad5890": 1794327630.5502307,
+"6555827b1c77bf37": 1794564640.4195065,
 "656a47c369b3c207": 1794349221.7950053,
 "656b65effb05a55b": 1794058663.5416367,
 "6570c2a54bf1d90f": 1794076826.2653458,
@@ -16851,6 +16989,7 @@
 "b0b64c3a428979b7": 1794053146.8970654,
 "b0bb574b307afcba": 1794267626.597747,
 "b0bfe03a0bd2c524": 1794404423.5930965,
+"b0d219d462720602": 1794564640.4195065,
 "b0d4907bef77406f": 1794469822.9927154,
 "b0dbbf1ca88a34b6": 1794217228.4060323,
 "b0efd479b2ffbfa0": 1794207655.353521,
@@ -18523,6 +18662,7 @@
 "ddf022f8d9694ac9": 1794264026.1524632,
 "ddf46bdd268c7b53": 1794147624.409764,
 "de0360468fc88b60": 1794505825.2474673,
+"de036ab3de8501c3": 1794564640.4195065,
 "de0425184ef76e94": 1794351023.4319475,
 "de0e92ef6513269e": 1794207655.353521,
 "de14edb36303056c": 1794121251.8481042,
@@ -19289,6 +19429,7 @@
 "f2d4d5f926788763": 1794400828.886451,
 "f2dac37b3cec7214": 1794255624.7521412,
 "f2e8bcc999e5fc19": 1794294057.2981856,
+"f2f2569a5cd18e10": 1794564640.4195065,
 "f2fa9049f7f5115f": 1794406825.281866,
 "f30443a9eda4f9ac": 1794475223.5479877,
 "f310baccb83704d1": 1794079224.7359486,
@@ -19502,6 +19643,7 @@
 "f88d5723c3a665df": 1794176424.6910276,
 "f8956196e590fdf8": 1794295841.2960658,
 "f8b53e090e524889": 1794129624.9673119,
+"f8b60663796f6291": 1794564640.4195065,
 "f8b6ef3d00f5b175": 1794224423.8500595,
 "f8b8ee24dc508078": 1794480621.4125366,
 "f8bd552d164535ec": 1794466847.0948906,
