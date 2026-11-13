@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794612114.494537,
+"ai_last_review": 1794613313.960031,
 "ai_log": [
-{
-"err": "",
-"kept": 9,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 34,
-"ok": true,
-"t": "11-12 20:40"
-},
 {
 "err": "",
 "kept": 4,
@@ -540,51 +531,18 @@
 "n": 4,
 "ok": true,
 "t": "11-13 23:21"
-}
-],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNTZyWmp1V2VmME1nRjRlMWQ1YVhGLTlZcmZ2YkJVdmZCV3ZuVEJodVJwVHMtSnFNakwtQXV3Y0g2YzM1Snc0czJjbHZfVW00VW1PNDBsVkdmcVJvVC0yOHFKMjJaLVkzM3prdHY2RDYtanNmX3k4WV9IMXhpNEY5SUhrNHN0Uzc1OHQzYlEtTU1pekZ1TjVQSDI0Zi1xVE1K?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Chile Mulls Private-Sector Role in Codelco\u2019s Mines and Infrastructure &nbsp;&nbsp; Bloomberg",
-"tags": [],
-"title": "Chile Mulls Private-Sector Role in Codelco\u2019s Mines and Infrastructure - Bloomberg",
-"ts": 1794596072,
-"unmatched": true
 },
 {
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbWJjdW5EZHpuS2hwNTdtX25xRGJYRE9QMktYOXpKNnd5YWZfblBVT0F6TnB3ZUhyWjBGMnZnT2tFczBuc2xYNUFROXVFRFJ4WVFSVE1QZVIzMEM2VllualQ4RTVGMkE?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Anthropic IPO is overpriced, says CIO &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Anthropic IPO is overpriced, says CIO - Reuters",
-"ts": 1794608437,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "CoinDesk",
-"summary": "",
-"tags": [
-"BTC"
-],
-"title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-"ts": 1794612600,
-"unmatched": false
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 7,
+"ok": true,
+"t": "11-13 23:41"
 }
 ],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -653,7 +611,7 @@
 },
 "_last_check": 0
 },
-"last_run": 1794612723.6887898,
+"last_run": 1794613320.6732914,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1952,6 +1910,7 @@
 "1f204027388f965a": 1794556225.832143,
 "1f2c2dc27a55a3c3": 1794249071.019277,
 "1f2e0ac20e53e021": 1794053146.8970654,
+"1f360f9f4663c9fd": 1794613228.4424767,
 "1f37d47aa74b8331": 1794380451.074071,
 "1f385b028e233077": 1794336628.7999065,
 "1f461bd9fcc6c777": 1794466847.0948906,
@@ -4620,6 +4579,7 @@
 "5c2442efbec7486b": 1794294057.2981856,
 "5c27664b81cea507": 1794313222.9578052,
 "5c284ec2d41d56c0": 1794297654.3266497,
+"5c2b749da6a8aca1": 1794613228.4424767,
 "5c2c9aa9eafcfe09": 1794226823.8223224,
 "5c3db18b514b7ad4": 1794207655.353521,
 "5c3e213cfd9f69bc": 1794053146.8970654,
@@ -6750,6 +6710,7 @@
 "8d5fb62caa18fdd8": 1794069041.6001287,
 "8d6313b13d905171": 1794582061.9461782,
 "8d75afce76b24403": 1794053146.8970654,
+"8d77fadbc6a60144": 1794613228.4424767,
 "8d78d30fcecf4a02": 1794213626.9912028,
 "8d7aea56508fdbc9": 1794437421.737116,
 "8d7c73bb3851aa58": 1794597626.0547297,
@@ -10549,6 +10510,7 @@
 "e4d930e509c260c2": 1794222054.6299663,
 "e4e596b413c1c274": 1794423649.5969415,
 "e4e78427d6eec1a2": 1794207655.353521,
+"e503eed5d8e2cc07": 1794613228.4424767,
 "e50683a4d874a7d5": 1794343822.9605784,
 "e509b916a77ea1aa": 1794610854.8571496,
 "e50ced6bcd6e2264": 1794341426.2465568,
@@ -10807,6 +10769,7 @@
 "ec16cfc433909cb9": 1794476423.816981,
 "ec1ec952846d0904": 1794225025.2256005,
 "ec215288cc4e33f1": 1794060010.396961,
+"ec3a35b871534c9d": 1794613228.4424767,
 "ec416decdbe34673": 1794510065.4285805,
 "ec44f6331c71f962": 1794594024.9582636,
 "ec4bb966f7cc9a7d": 1794053146.8970654,
@@ -14105,6 +14068,7 @@
 "3b6a73b4144636be": 1794318026.068809,
 "3b72dba6491831f3": 1794313222.9578052,
 "3b78245cdac5301a": 1794424831.721633,
+"3b850593708db07f": 1794613228.4424767,
 "3b8c0a815fde3449": 1794553252.738333,
 "3b9bad70eb02aa57": 1794476423.816981,
 "3b9df313e79bbe72": 1794604223.4254403,
@@ -17862,6 +17826,7 @@
 "9c2460255726e5cc": 1794257425.5432699,
 "9c25a06776392a6c": 1794612641.4206915,
 "9c287e4beed7b901": 1794594024.9582636,
+"9c33de59bef4f84a": 1794613228.4424767,
 "9c34bf99de75ad26": 1794129624.9673119,
 "9c3602631b09ae10": 1794385221.6704128,
 "9c37e368ce133b4c": 1794053146.8970654,
@@ -18307,6 +18272,7 @@
 "a6bace643a699451": 1794437999.1397626,
 "a6bc9a8811c9c8d1": 1794496825.0216095,
 "a6c007d1d8f093ce": 1794239425.4260268,
+"a6c471ed5e45efc5": 1794613228.4424767,
 "a6cd3a88d1ceae18": 1794409250.9206789,
 "a6cf3835e41ab824": 1794594024.9582636,
 "a6d01492e09a8bda": 1794407438.9483976,
@@ -19793,6 +19759,7 @@
 "cab36f19eb31a6de": 1794207655.353521,
 "cab48829a199e23a": 1794606637.7515986,
 "cab9609e5abdb9fb": 1794207655.353521,
+"cabbc07f56c7f650": 1794613228.4424767,
 "cabe77908efc6eb9": 1794395417.5307865,
 "cac0b277cd8e0f34": 1794333323.0978487,
 "cac3ae9ff9fceda3": 1794482423.8483984,
@@ -21742,6 +21709,7 @@
 "fa9e301e4ceaa531": 1794207655.353521,
 "faaa3987114d3e8e": 1794402054.0077875,
 "faabff3b3407f719": 1794341426.2465568,
+"fab110319b5287fe": 1794613228.4424767,
 "fab8aba5c8f6c314": 1794090024.092463,
 "fac4e2f798de6f57": 1794580829.6408918,
 "face87eba9bcecd1": 1794380451.074071,
