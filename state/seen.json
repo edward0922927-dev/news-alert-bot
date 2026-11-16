@@ -542,13 +542,159 @@
 "t": "11-16 08:20"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFBtWHRRVmtsVVd5XzJVZzh4TmxCU3gyTi16QV9WZ2lvcUIzcmpfZ1ZpczJET2w5WmRmcHA3TGNIeUFjNnRkci05OFgyU3JNT2d3WG1MdC16RG5uVFVoTHUxdmxxMEZ4TnBwZVRnUUlkdEZFdjhfZ01Oal8zMnV3ZHhMZnFaQWZnS3RQeVZycW9kSVNSVklCNENYX1BaelY2Y1RkZ1ZNeG56N2lQYWhnSXpOZjVrZw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u57fa\u5efa",
+"summary": "A Battle Over Science Risks Jeopardizing Climate Talks for Years &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "A Battle Over Science Risks Jeopardizing Climate Talks for Years - Bloomberg.com",
+"ts": 1794816000,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEFkN0NFME5JWHlIMXh2SDY4dXhWbVdfa3I2ZmNhLWw0NEdUUUI3bklkbW1CUkRKdU5JMlh4YUVRZElZOG5fdFcybHVaaFhnZlFyRTFGTGJzOHBUV3VpNGVMblVueUpuS2NGQk1NRHBnWGlhdHJJTkk0dWpOUjJScEF2T0Y4Mno3dWpFQkg0TW5WYms3QkVOMW00MEZCM2Y0MVNJZUdaeG1lQ2p5YWJvZ1JYZWE?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Kazakh Fintech Tycoon Atop World Chess Seeks to Outplay Revolut &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Kazakh Fintech Tycoon Atop World Chess Seeks to Outplay Revolut - Bloomberg.com",
+"ts": 1794816450,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVliR29nR2I5d2hvdUM4ZkNZU0kwWmhTTUhUQlk5MkMwdEladlhtcW1vZk1rbXg4RTdPSWU5X3dfMUNpNHl3aXAtUWE5d2ozV21KV2szZTlIY3R4ZTRSZFJYdFNHWHZZbmFlaktSRjljeHRab3kxSjNJa0prRjNsdkhZYTFXeDlxUUhqNGdLWVoyYTc4c2xtV3BpdlBXYXRTN3IzOWphdTBMMzgtbmdwQWhQZGw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "European Stocks Fluctuate as AI Concerns Keep Investors on Edge &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "European Stocks Fluctuate as AI Concerns Keep Investors on Edge - Bloomberg.com",
+"ts": 1794816461,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672842-morgan-stanley-6625-pfd-ser-q-declares-04141-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Morgan Stanley 6.625 PFD SER Q declares $0.4141 dividend",
+"ts": 1794816984,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672843-morgan-stanley-dep-shs-non-cum-pfd-registered-shs-series-a-declares-03197-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Morgan Stanley Dep Shs Non-Cum Pfd Registered Shs Series A declares $0.3197 dividend",
+"ts": 1794817021,
+"unmatched": true
+},
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbDdsUmtBVWREZFRNUEdkZGkxWXk4LVNIZlVxeW1lb0UzV3lCMnQ1X2ZZLVNHTWV2NjN1MnpwUGczTHo3c1A0UWVFOFdqZ2VDTDV6WERhZXBGa0RqaHJkTDhYUjVxNnZBSHY1QmM0NVRLZ0NYSjV3a2g3aE4tVzZQMjdQZU1yMWdQb3lXVGRtc1VEUlpqS2t0Y185R2NGSEJqVkRj?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u57fa\u5efa",
+"summary": "Not seeing slowdown in AI data center buildout: Skanska CEO &nbsp;&nbsp; CNBC",
+"tags": [
+"data center"
+],
+"title": "Not seeing slowdown in AI data center buildout: Skanska CEO - CNBC",
+"ts": 1794817023,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnNRaHctcFVDbXRFNzlkVlB1UXJhOVIwVFF1UlZaYUZWVkcyZWwxN0lKZjVBSUR6RkFxY3ZDSHpmM0xoNzZGLWdEVEJxWFd1dkE5VDgtMklfWmhneWtaRThpY1daWG9ZU0NHYzlkdWtJWngxdkdxT2FiaWtkWDBlV2EySkktcUlJMmlrR2IxYXp1YmJMVXlsaU0ySGJqOEJEMHJydDBWWGhoMzQ?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "BOJ chief Ueda tells government panel wage growth 'quite strong' &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "BOJ chief Ueda tells government panel wage growth 'quite strong' - Reuters",
+"ts": 1794817026,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672844-morgan-stanley-deposit-shs-repr-11000th-non-cum-pfd-shs-series-k-declares-03656-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Morgan Stanley Deposit Shs Repr 1/1000th Non-Cum Pfd Shs Series K declares $0.3656 dividend",
+"ts": 1794817056,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672845-morgan-stanley-dep-shs-rpstg-11000th-int-fxd-to-flag-prfd-ser-f-declares-04392-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Morgan Stanley Dep Shs Rpstg 1/1000th Int Fxd to Flag Prfd Ser F declares $0.4392 dividend",
+"ts": 1794817087,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672846-morgan-stanley-prfd-series-i-declares-04073-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Morgan Stanley Prfd Series I declares $0.4073 dividend",
+"ts": 1794817122,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672847-morgan-stanley-4875-prfd-stk-series-l-declares-03047-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Morgan Stanley 4.875% Prfd Stk, Series L declares $0.3047 dividend",
+"ts": 1794817222,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-16T06:00"
+"last_date": "2026-11-16T07:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +704,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-16T06:00"
+"last_date": "2026-11-16T07:00"
 },
 "FNG": {
 "cool": {
@@ -580,11 +726,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-16T06:00"
+"last_date": "2026-11-16T07:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-16T06:00"
+"last_date": "2026-11-16T07:00"
 },
 "UST10Y": {
 "cool": {
@@ -609,9 +755,9 @@
 },
 "last_date": "2026-11-13"
 },
-"_last_check": 1794813641.471424
+"_last_check": 1794817854.1954129
 },
-"last_run": 1794817246.051895,
+"last_run": 1794817876.006578,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -846,6 +992,7 @@
 "0452265a24df9556": 1794265822.861851,
 "0453c12284d43c6d": 1794389438.4958024,
 "045883141924fa14": 1794228625.7348583,
+"0459efe6504194c9": 1794817844.8736691,
 "04652ed000cccc00": 1794295224.707564,
 "0467abed2627ab7d": 1794612030.327053,
 "046b2989800f27f7": 1794324648.7021484,
@@ -4238,6 +4385,7 @@
 "467fab27ab43010e": 1794520225.482529,
 "467ffc6566d7a40a": 1794267626.597747,
 "4683b1cb8e335399": 1794812457.8102336,
+"4687c8647081657c": 1794817844.8736691,
 "468ad7e3f096288d": 1794726050.5794117,
 "468f69a4a0950101": 1794053146.8970654,
 "468fb22367113a23": 1794439835.9165068,
@@ -5231,6 +5379,7 @@
 "5a5d81a8efe9d7cf": 1794564053.8815415,
 "5a6c01db82c76e9b": 1794478222.0113163,
 "5a6ec2f7f69d1bdb": 1794643251.6467984,
+"5a75570e36c2d2b0": 1794817844.8736691,
 "5a7ae05163ad1e5b": 1794483623.074817,
 "5a7be42405d33d2f": 1794219024.1165798,
 "5a80db541fbebc14": 1794661257.6211615,
@@ -5976,6 +6125,7 @@
 "68c2882472720a89": 1794585657.8760312,
 "68c91e36534fccd8": 1794525625.227499,
 "68ca77e7b435ccb9": 1794410424.1208882,
+"68ca8239f6a72c32": 1794817844.8736691,
 "68d160cbd88ba284": 1794053146.8970654,
 "68e0fd037c54ef0d": 1794740464.3976526,
 "68e50b7a77a0ef57": 1794432030.7467659,
@@ -6721,6 +6871,7 @@
 "78c488b82beb8da3": 1794294057.2981856,
 "78ccb869a76b9e29": 1794261654.088547,
 "78d2305e1dd2d141": 1794471624.4228327,
+"78db35f0c82baca8": 1794817844.8736691,
 "78dc45c3ba679bab": 1794207655.353521,
 "78ddd92ff4104f76": 1794380451.074071,
 "78df1388c929cfa1": 1794812457.8102336,
@@ -6926,6 +7077,7 @@
 "7cba292e1dbd529e": 1794151225.6597934,
 "7cbce502c45500a1": 1794076826.2653458,
 "7cbed129390836f8": 1794470449.1915379,
+"7cc26a01f4de911c": 1794817844.8736691,
 "7cca6b99ce299821": 1794335440.520374,
 "7ccbbfc63438d5b5": 1794240627.3822312,
 "7ccd477081ced16b": 1794514824.538045,
@@ -7370,6 +7522,7 @@
 "8515378805d79ce0": 1794563426.5895348,
 "851a6645a7b5b97a": 1794053146.8970654,
 "851d083ae2eaad57": 1794380451.074071,
+"85239a18d0f7d7ff": 1794817844.8736691,
 "852b1e734ff159ef": 1794305426.239695,
 "852c01a3f781f2f9": 1794319254.2679577,
 "852d379929846fe1": 1794496825.0216095,
@@ -7490,6 +7643,7 @@
 "8753f4d20e102e13": 1794090024.092463,
 "8754ee900f858c17": 1794427822.4253979,
 "875c0cec8046ab00": 1794154823.0343263,
+"8763af9748eb4dec": 1794817844.8736691,
 "8765dba728cbe9d4": 1794553252.738333,
 "8766e9c4c97831e5": 1794172824.1624086,
 "87687e4678f5ba1c": 1794506777.1747909,
@@ -7924,6 +8078,7 @@
 "8f7364ffe98bb1e6": 1794573633.2208738,
 "8f7577cd6e8c4dd6": 1794234029.8370936,
 "8f7c5e71f6b01301": 1794812457.8102336,
+"8f7df285a5263282": 1794817844.8736691,
 "8f7e471c6f2e4e93": 1794321626.205444,
 "8f7f81f35b9f35d5": 1794066518.762267,
 "8f812ac80b324a59": 1794499252.6606731,
@@ -8006,6 +8161,7 @@
 "915aaabfe432fa8e": 1794336628.7999065,
 "915ac7c7ad788ae7": 1794433226.3689482,
 "91723f02b7ff6aae": 1794506777.1747909,
+"91766f5633329471": 1794817844.8736691,
 "917c55d333fa763d": 1794380451.074071,
 "918651dc728ff635": 1794294057.2981856,
 "918cb8c0991e5b16": 1794176424.6910276,
@@ -11035,6 +11191,7 @@
 "cbebc04d58dc8d98": 1794328242.1321893,
 "cbf12f4046a09df1": 1794090024.092463,
 "cbf1ab2a3502c2bb": 1794090024.092463,
+"cbf32f4595abed66": 1794817844.8736691,
 "cbf3ec1a3f3901b9": 1794386422.9841938,
 "cbf4b72cac5e6d16": 1794639651.002237,
 "cbfb81b6ac0d6459": 1794121251.8481042,
@@ -11282,6 +11439,7 @@
 "d0e61ae7ca29c267": 1794573047.278476,
 "d0ee67aa3beef47d": 1794759035.471768,
 "d0f217dccf1b1001": 1794067878.5266922,
+"d0f2ef27d5711822": 1794817844.8736691,
 "d0f3bb21511734ea": 1794472237.104473,
 "d0f44b09882c23e4": 1794335440.520374,
 "d0f5428841faf750": 1794697827.267664,
@@ -11585,6 +11743,7 @@
 "d6351520faf1c3f1": 1794561624.144115,
 "d635515132e019da": 1794235227.58563,
 "d63f5c987925518d": 1794212427.3416302,
+"d640aaf7ac45271e": 1794817844.8736691,
 "d6434c74e5276d4f": 1794511843.3080857,
 "d644fa1dd0615355": 1794073481.0579536,
 "d64715371908cc45": 1794227444.8368437,
@@ -11808,6 +11967,7 @@
 "daa554fda7da8997": 1794385221.6704128,
 "daa6839fd88682f5": 1794053146.8970654,
 "daab9792bf829004": 1794562241.9332683,
+"dab8b400e796c530": 1794817844.8736691,
 "dab92f1fae4ff9e1": 1794639651.002237,
 "dacc319231509050": 1794210624.6922936,
 "dad222db3ec059fa": 1794406825.281866,
@@ -13349,6 +13509,7 @@
 "f9dc070947fa908f": 1794301258.7214239,
 "f9e36f9f3370e238": 1794207655.353521,
 "f9e40fda256e0adf": 1794595228.1283655,
+"f9e4f9ca4665e587": 1794817844.8736691,
 "f9e9a82733c2e8a5": 1794310242.809073,
 "f9edcab504dcc7a9": 1794317448.4307733,
 "f9ee438b752436c0": 1794470449.1915379,
@@ -14202,6 +14363,7 @@
 "0bca50c074aefafc": 1794351023.4319475,
 "0bcb877ff404141a": 1794440422.6466875,
 "0bda6bbb7eb6a0de": 1794610221.7065277,
+"0bda82337f798ea5": 1794817844.8736691,
 "0bdaa4d28cf7f8a2": 1794423022.5466254,
 "0bdb85305af97fda": 1794090024.092463,
 "0be34bb61c0411eb": 1794058663.5416367,
@@ -16681,6 +16843,7 @@
 "40401f4ef34079c0": 1794393621.6505487,
 "4042ab8248d94738": 1794466847.0948906,
 "4046492fdd3ab050": 1794070201.937629,
+"404bb53cbaff1791": 1794817844.8736691,
 "404c9ce8ee6418c9": 1794303041.7631679,
 "405b50f803602436": 1794223842.150146,
 "405db81ef756df50": 1794060010.396961,
@@ -18517,6 +18680,7 @@
 "6885e693c049d52f": 1794413426.5364234,
 "688bf2121ef184f0": 1794726050.5794117,
 "6890efd2f9c695d0": 1794327026.3092759,
+"68911cafc0e09793": 1794817844.8736691,
 "68977ff99409ffb5": 1794502224.8850534,
 "689a115e5c37c2a1": 1794294057.2981856,
 "689f4227b44d1cc4": 1794498623.3847704,
@@ -19109,6 +19273,7 @@
 "7580a8b846a57687": 1794687025.0344095,
 "7589cb9625a5b53b": 1794391797.617886,
 "759079d99a4cae50": 1794207655.353521,
+"7590f0bd8cb75f04": 1794817844.8736691,
 "7599f5d8be44ff7b": 1794430653.1918259,
 "759a42eebc2de2d3": 1794247257.3744018,
 "75a16f188fd7a068": 1794406825.281866,
@@ -19198,6 +19363,7 @@
 "7798131d230c40d3": 1794577823.9210808,
 "779cd811262b3123": 1794554424.4818478,
 "779dcaa0f0dacff6": 1794751824.973813,
+"779dfa7f485fb09a": 1794817844.8736691,
 "77a0e80fd0d218fb": 1794079839.2548869,
 "77a33b9106eb28af": 1794494426.657751,
 "77a463d0613ad0ae": 1794430653.1918259,
@@ -19641,6 +19807,7 @@
 "80d3fda01eaa9e1a": 1794070853.5888453,
 "80d78c95bbd21180": 1794294057.2981856,
 "80e78178dc8a4f26": 1794391247.467394,
+"80ed613abae1ce27": 1794817844.8736691,
 "80f0729ccdd623dc": 1794510065.4285805,
 "80fbae297cd14782": 1794726050.5794117,
 "80fd6b48c405842f": 1794595826.1217241,
@@ -20040,6 +20207,7 @@
 "8984e7824b3ecd6c": 1794334224.0104544,
 "8987487bec143cbc": 1794726050.5794117,
 "898bafef83a5b71c": 1794672623.5060716,
+"8997e6dd18837bd5": 1794817844.8736691,
 "899d5027dbdecdaf": 1794258020.3289478,
 "89a0f97aeebdba54": 1794813634.065804,
 "89bbe1510d323e59": 1794518426.1797802,
@@ -20597,6 +20765,7 @@
 "9563c16f6777de56": 1794574224.2361157,
 "95672cd9947328bb": 1794058663.5416367,
 "956af19547c1fd67": 1794483042.7861938,
+"956e8a8c9ff773d5": 1794817844.8736691,
 "9585d2ba9fa2f738": 1794342640.7023919,
 "958cb7fc3d388bac": 1794090024.092463,
 "9590bf49dbae4c71": 1794571266.8124526,
@@ -20626,6 +20795,7 @@
 "9607e9eea82500a8": 1794129624.9673119,
 "961fd35b699b88a0": 1794466847.0948906,
 "962b3d602365f987": 1794812457.8102336,
+"963ae949439c56d5": 1794817844.8736691,
 "96483ae6e15fed5f": 1794307223.432283,
 "964ede33da9e1e97": 1794747886.992174,
 "9654bb86fdd526ca": 1794606028.3801425,
@@ -22764,6 +22934,7 @@
 "c286fe87ab8abb1b": 1794380451.074071,
 "c29402932129b6e1": 1794231625.7466462,
 "c296c75c71e9d147": 1794502854.2969291,
+"c2978dc6755b7001": 1794817844.8736691,
 "c29c768bb9ae5e7b": 1794121251.8481042,
 "c2a05aab7d591f13": 1794352223.2402766,
 "c2a224a984c48851": 1794090024.092463,
@@ -23590,6 +23761,7 @@
 "d3cb7039157c327e": 1794516025.4582257,
 "d3cf4489a0ebb016": 1794380451.074071,
 "d3dc43f4156f4b6f": 1794508823.8400886,
+"d3dc48bd4ae32dc8": 1794817844.8736691,
 "d3dd37f7c5d78f9f": 1794736860.6169236,
 "d3dec5bd43d64623": 1794657652.7046778,
 "d3e2b30c4112e5db": 1794812457.8102336,
@@ -24249,6 +24421,7 @@
 "e15740f79f19e794": 1794736860.6169236,
 "e158a1402199923a": 1794129624.9673119,
 "e15abf705acd934f": 1794129624.9673119,
+"e15e37608dd09910": 1794817844.8736691,
 "e16482655348dfc8": 1794497444.5440981,
 "e165ede59159442e": 1794425437.8749177,
 "e169d58167775f8c": 1794607254.5702827,
@@ -24636,6 +24809,7 @@
 "e9ce07eae332480f": 1794676225.6021314,
 "e9f9da5f5913ea90": 1794300625.907344,
 "ea04ec7bb77b29c5": 1794502854.2969291,
+"ea0a126a62533041": 1794817844.8736691,
 "ea0b19f0c8125807": 1794207655.353521,
 "ea156921232bf91f": 1794520849.7436028,
 "ea1d99f0278e6394": 1794473421.2667904,
