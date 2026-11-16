@@ -542,13 +542,107 @@
 "t": "11-16 23:40"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2FLd3hqa2NhZzVyWkNPMXhZWlZ0NGZzcUJoNmlOOGlCSnNtVXlfbGgwdWxYb0hpbWVCc1dtLTc2Mmt0MzJTUjRkRVpqWWNBa1g1bV9JYmU1N19XSDk0eVk3elJOY0p6cWZnSVpMd2JSajNZRHR4THJ0MjZSVkFXM1NZdE1RVmhONGhHVUNidG5USmxNbUVBRHFHZnh2VWJ1NlIyVVp3?oc=5",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "AI \u878d\u8cc7",
+"summary": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru - Reuters",
+"ts": 1794857984,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHFoREFNUWJRYTJxR0pTRnpHM2Q1NlhjQ1pjN0w3U1FWM09sclNuMlVNLWx4YXF0TURpOEdtSk9sc3BXTEpBakhLd21neWhod2pvZ1hRNVAtZWxNTlZmUXl4TXNJQ0MyTTFqa0tpRGVmOVpQZlRidlZzYkFLYnlNSXduLUtPSXo3QUJ0aVhlM0xWVFNh?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"NVDA"
+],
+"title": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap - Bloomberg.com",
+"ts": 1794866811,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWVIwQmdMSUg3WG5LNS1oa0VlMjFNU1dTTG1oT3B6ZllCeHRUS2lDeXpneDduNVYxUHY2dk8yZzBJWEp5dlFpaUNLS0FjaVhHa1hzVE9EN3ByTWkwS3BDSFVqN3hQSkc3ajA2aHJheGVna2JqUVgtYkJOZnhfdVQtTlpYZ2l0czBEWVdCdTAzRF9SLUJKNkUteWFKLWxZVUxsa0JSUVJhX3lkUW43ekN1MVh3UWpocE0?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "North Korea's Kim inspects tourist zone as senior official visits Moscow &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "North Korea's Kim inspects tourist zone as senior official visits Moscow - Reuters",
+"ts": 1794868809,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673400-cheniere-energy-promotes-davis-to-president-and-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Cheniere Energy promotes Davis to President and CFO",
+"ts": 1794872196,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/insurer-core-specialty-reveals-revenue-dip-in-us-ipo-filing-5031284",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Insurer Core Specialty reveals revenue dip in US IPO filing",
+"ts": 1794872546,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673398-tudor-adds-iridium-exits-teck-boosts-spy-stakes-among-q3-trades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Tudor adds Iridium, exits Teck, boosts SPY stakes among Q3 trades",
+"ts": 1794872670,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673401-einhorns-dme-exits-paypal-stubhub-adds-century-aluminum-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Einhorn's DME exits PayPal, Stubhub, adds Century Aluminum, among Q3 moves",
+"ts": 1794872782,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-16T21:00"
+"last_date": "2026-11-16T22:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +652,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-16T21:00"
+"last_date": "2026-11-16T22:00"
 },
 "FNG": {
 "cool": {
@@ -582,11 +676,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-16T21:00"
+"last_date": "2026-11-16T22:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-16T21:00"
+"last_date": "2026-11-16T22:00"
 },
 "UST10Y": {
 "cool": {
@@ -611,9 +705,9 @@
 },
 "last_date": "2026-11-13"
 },
-"_last_check": 1794869432.5410109
+"_last_check": 1794873045.3561108
 },
-"last_run": 1794872453.1865866,
+"last_run": 1794873088.0005038,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1008,6 +1102,7 @@
 "07531a045fc1e908": 1794499252.6606731,
 "075e7589fdefadd0": 1794506777.1747909,
 "075ecbd3139fccd6": 1794493226.1332557,
+"0766fa5f6f20c8de": 1794873034.3945842,
 "076ad2dc2c8e5f5f": 1794831630.3882475,
 "076e693feeccc17e": 1794176424.6910276,
 "076ff530d206bca3": 1794229254.159377,
@@ -3014,6 +3109,7 @@
 "2a92097d2090328f": 1794466847.0948906,
 "2a9632c4c6960054": 1794515442.8235493,
 "2a988ce225e3b8bc": 1794063069.3473625,
+"2aa3a6922a037922": 1794873034.3945842,
 "2aa540ecdb0a683a": 1794646850.1928723,
 "2aa70dc854dacb14": 1794814826.9861326,
 "2aa74577f7355b07": 1794839441.845789,
@@ -5036,6 +5132,7 @@
 "4dda89b8377bd51e": 1794862222.292923,
 "4dde491f94d02cbe": 1794726050.5794117,
 "4de5c9f0941f823c": 1794854423.910638,
+"4def616c85d499b5": 1794873034.3945842,
 "4defeea822f923b1": 1794336628.7999065,
 "4df58278218dc3d5": 1794158423.5148294,
 "4dfc3c55d3f2e30f": 1794345025.53064,
@@ -7349,6 +7446,7 @@
 "78e64277af9b6ba7": 1794839441.845789,
 "78e8c8740b23c47b": 1794500033.245441,
 "78ec76ae021eb412": 1794466847.0948906,
+"78ef23a712ca9638": 1794873034.3945842,
 "78f3dfecf151b2cc": 1794297654.3266497,
 "78fa8d03a76bffae": 1794133224.9019783,
 "78ff76e2892dbb1b": 1794820823.8602707,
@@ -8399,6 +8497,7 @@
 "8afafe4a54260a8c": 1794258020.3289478,
 "8afb0c64c162b2ac": 1794309624.5737193,
 "8aff6390f6743d13": 1794591053.6013825,
+"8b0d4ce7358fe9a2": 1794873034.3945842,
 "8b0e0d4cf24bd772": 1794733251.876912,
 "8b107401479742af": 1794237626.3538754,
 "8b189b5797d599cc": 1794434449.3275425,
@@ -8688,6 +8787,7 @@
 "8fe6eda82c7129a4": 1794380451.074071,
 "8fee075ae0f7059c": 1794595826.1217241,
 "8ff61adde7be2eb4": 1794570626.8175335,
+"8ff8d343dc7e814e": 1794873034.3945842,
 "9001732be7885e95": 1794327026.3092759,
 "900b3055bd97bf7e": 1794413426.5364234,
 "900c13b3b289056a": 1794828024.2634065,
@@ -11870,6 +11970,7 @@
 "c805a234c92c6e9b": 1794759035.471768,
 "c807a1d472bdfeef": 1794654052.6240277,
 "c808b3ebc5f5e8c1": 1794603612.7931938,
+"c8094fdfcabb36d2": 1794873034.3945842,
 "c809e5ed28f92c46": 1794581426.666685,
 "c809feef232b91cd": 1794298825.0579662,
 "c80a32e67c30ef9b": 1794294057.2981856,
@@ -12762,6 +12863,7 @@
 "d6ed7a9af31c6b4a": 1794207655.353521,
 "d6f11a566ff4845b": 1794093624.3200548,
 "d6f128fbd7e8a0dd": 1794466847.0948906,
+"d6fc50c47f457232": 1794873034.3945842,
 "d6fde63f98751ac0": 1794516025.4582257,
 "d6fe8460c7cbc64f": 1794478824.179399,
 "d7046e8dfb743d67": 1794176424.6910276,
@@ -14503,6 +14605,7 @@
 "f7121846f75e1f1e": 1794129624.9673119,
 "f71316169a6ff7b8": 1794726050.5794117,
 "f714ff033ca00dc7": 1794654052.6240277,
+"f71f7267f7618b1a": 1794873034.3945842,
 "f729c5d1339b08ad": 1794520225.482529,
 "f7300185b8044b2b": 1794418239.536956,
 "f73146877979316c": 1794058663.5416367,
@@ -21264,6 +21367,7 @@
 "7ae72387f12e4706": 1794471624.4228327,
 "7ae9be359d62b8c7": 1794825041.4304469,
 "7aeb318240668ff8": 1794839441.845789,
+"7aefee1774e0c24f": 1794873034.3945842,
 "7af24387f614febf": 1794147624.409764,
 "7af2b8c8d97e589e": 1794083441.9529276,
 "7afb3841782bef12": 1794346823.352614,
@@ -21639,6 +21743,7 @@
 "8203d2f222dd0e9e": 1794294057.2981856,
 "8208e47201208d44": 1794053146.8970654,
 "8214be61d5a9012d": 1794257425.5432699,
+"82162440b77679eb": 1794873034.3945842,
 "8217c269fdf0bd4c": 1794469221.7331192,
 "82199b56f407bef7": 1794812457.8102336,
 "8220bb49c401d078": 1794262824.4868238,
@@ -22190,6 +22295,7 @@
 "8d30ea53c7dcb527": 1794500033.245441,
 "8d356eaefb11d047": 1794380451.074071,
 "8d3d8c22bc83679f": 1794569442.764256,
+"8d3fd6cf866f7a1e": 1794873034.3945842,
 "8d443dda222c6b9e": 1794427822.4253979,
 "8d4c0b27c1a87004": 1794180024.180841,
 "8d4e8faf7d83011c": 1794726050.5794117,
@@ -23787,6 +23893,7 @@
 "ab4f0784acff1de2": 1794813634.065804,
 "ab5490fe70139148": 1794093624.3200548,
 "ab5526cb3e82ac58": 1794489036.1626346,
+"ab56b567981ae86d": 1794873034.3945842,
 "ab56bf1dd5913884": 1794646850.1928723,
 "ab5a536b52bd7367": 1794067878.5266922,
 "ab5c76961375ec7c": 1794225025.2256005,
@@ -25194,6 +25301,7 @@
 "c52313f10b93be56": 1794207655.353521,
 "c52373f6a73311a2": 1794520225.482529,
 "c52e21376209a70f": 1794247257.3744018,
+"c52eb3771b287bab": 1794873034.3945842,
 "c52eee4101b74f0d": 1794380451.074071,
 "c538360b56b4c21f": 1794726050.5794117,
 "c5399c1de39ef9f4": 1794302427.8214426,
@@ -25793,8 +25901,10 @@
 "d0c8f613fd7bdb96": 1794296423.7597058,
 "d0cbcede09fa2b2c": 1794865824.424357,
 "d0ccde8bb6dbc86d": 1794322224.436821,
+"d0d44697952853c5": 1794873034.3945842,
 "d0db2608ff658573": 1794812457.8102336,
 "d0e3959304d2ce23": 1794345025.53064,
+"d0e4de839c881bb8": 1794873034.3945842,
 "d0ebf2b289518764": 1794846042.8849766,
 "d0f06b469655dc5d": 1794726050.5794117,
 "d0f0eed4b7dbda94": 1794498623.3847704,
@@ -26061,6 +26171,7 @@
 "d5ff3ef58ab8ed68": 1794411039.5612423,
 "d603e622c3c991f3": 1794348622.3454998,
 "d612ca56aa9f6315": 1794220241.562271,
+"d61515a42112dc5b": 1794873034.3945842,
 "d616f57f0631e250": 1794380451.074071,
 "d6175c362a4bc43f": 1794342025.2153375,
 "d617d1d61f66fbfa": 1794090024.092463,
