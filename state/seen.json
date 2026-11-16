@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794834710.3189888,
+"ai_last_review": 1794835879.2073746,
 "ai_log": [
-{
-"err": "",
-"kept": 6,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 32,
-"ok": true,
-"t": "11-13 21:21"
-},
 {
 "err": "",
 "kept": 3,
@@ -540,179 +531,24 @@
 "n": 37,
 "ok": true,
 "t": "11-16 13:11"
+},
+{
+"err": "",
+"kept": 5,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 24,
+"ok": true,
+"t": "11-16 13:31"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/telus-shares-jump-29-as-board-reviews-unsolicited-quebecor-takeover-proposal-5029600",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "TELUS shares jump 29% as board reviews unsolicited Qu\u00e9becor takeover proposal",
-"ts": 1794833896,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-telus-stock-surging-today-93CH-5029641",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Telus stock surging today?",
-"ts": 1794833991,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672959-tyson-foods-gains-as-it-battles-through-beef-headwinds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Tyson Foods gains as it battles through beef headwinds",
-"ts": 1794834623,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672962-international-battery-metals-ltd-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "International Battery Metals Ltd. reports Q2 results",
-"ts": 1794834637,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672942-democratic-senators-ask-cftc-to-halt-efforts-to-fight-state-prediction-market-bans---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Democratic senators ask CFTC to halt efforts to fight state prediction market bans - report",
-"ts": 1794834721,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Decrypt",
-"summary": "The hardware wallet manufacturer says users can now read what they're approving on nine Solana apps, as it pitches its Atom device.",
-"tags": [
-"SOL"
-],
-"title": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
-"ts": 1794834728,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672964-jasper-therapeutics-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Jasper Therapeutics reports Q3 results",
-"ts": 1794834766,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "The Block",
-"summary": "Strategy's latest acquisitions came during a week that saw bitcoin drop to its lowest level in four months.",
-"tags": [
-"BTC",
-"MSTR"
-],
-"title": "\u2018This dip could use a little orange\u2019: Michael Saylor\u2019s Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
-"ts": 1794834794,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672965-montauk-renewables-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Montauk Renewables reports Q3 results",
-"ts": 1794834834,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672967-alx-oncology-gaap-eps-of--015-misses-by-002?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "ALX Oncology GAAP EPS of -$0.15 misses by $0.02",
-"ts": 1794834865,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-cg-oncology-stock-surging-today-93CH-5029742",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is CG Oncology stock surging today?",
-"ts": 1794834882,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/security/ledger-brings-clear-signing-to-solana-defi-transactions",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "Jupiter swaps can show assets and amounts on the signer before approval, but unsupported transactions still fall back to blind signing.",
-"tags": [
-"SOL"
-],
-"title": "Ledger Brings Clear Signing to Solana DeFi Transactions",
-"ts": 1794835179,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-16T11:00"
+"last_date": "2026-11-16T12:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -722,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-16T11:00"
+"last_date": "2026-11-16T12:00"
 },
 "FNG": {
 "cool": {
@@ -744,11 +580,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-16T11:00"
+"last_date": "2026-11-16T12:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-16T11:00"
+"last_date": "2026-11-16T12:00"
 },
 "UST10Y": {
 "cool": {
@@ -773,9 +609,9 @@
 },
 "last_date": "2026-11-13"
 },
-"_last_check": 0
+"_last_check": 1794835852.6025078
 },
-"last_run": 1794835308.1523223,
+"last_run": 1794835890.0754256,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1362,6 +1198,7 @@
 "0bd775fca36f12ea": 1794234029.8370936,
 "0bd872f536b29ce2": 1794423649.5969415,
 "0bdad0f3348bd8ef": 1794472822.705318,
+"0bfdeb7b4c3d9cbf": 1794835843.278346,
 "0bfe5d2edd118b12": 1794151225.6597934,
 "0c03ab22cc789703": 1794812457.8102336,
 "0c04e311b729007d": 1794612030.327053,
@@ -2180,6 +2017,7 @@
 "1b1d3e9d6ab8763b": 1794342025.2153375,
 "1b239dc21c56825f": 1794347425.5105855,
 "1b2668625ecab1ec": 1794676225.6021314,
+"1b3635f83f8fba3b": 1794835843.278346,
 "1b36b8e3ebf5f1ec": 1794439220.8457704,
 "1b3c37617487daa4": 1794601224.3173718,
 "1b4af98cb6036ddb": 1794827425.4141595,
@@ -3597,6 +3435,7 @@
 "355d673ff9af534b": 1794342025.2153375,
 "356536599ae0fbdc": 1794343822.9605784,
 "3566c7fd7ebb2cc6": 1794564640.4195065,
+"3567810b3c0618ec": 1794835843.278346,
 "3567fafb0d3eda62": 1794519626.4708598,
 "3568ccc527792c92": 1794502224.8850534,
 "356aa74e6bcec873": 1794491425.9515207,
@@ -4605,6 +4444,7 @@
 "47e192c3ec1a8bd9": 1794607254.5702827,
 "47e242d4ae73976b": 1794557426.661249,
 "47e2d9fa21b0f9dd": 1794687025.0344095,
+"47e6223ed81201cb": 1794835843.278346,
 "47e672158d2eaebf": 1794388822.6516917,
 "47edef0c608b94a9": 1794812457.8102336,
 "47ef1930955c9335": 1794466847.0948906,
@@ -5595,6 +5435,7 @@
 "5af20a500e701d9b": 1794129624.9673119,
 "5af3bae642f63987": 1794380451.074071,
 "5afcf474416bd87a": 1794236457.02748,
+"5afd0f66dbde226c": 1794835843.278346,
 "5afe0d85f9b2ee7d": 1794609625.5616333,
 "5afe624ce43bf535": 1794466847.0948906,
 "5b02d9dfb6dcb47e": 1794406825.281866,
@@ -5621,6 +5462,7 @@
 "5b68042c6187c609": 1794482423.8483984,
 "5b6a3b0c8d79922e": 1794121251.8481042,
 "5b72b6b94ebb2ce8": 1794433823.5002458,
+"5b7468c1023df741": 1794835843.278346,
 "5b74e99a8b21a56f": 1794469221.7331192,
 "5b759862daae7f0b": 1794058663.5416367,
 "5b76418af43ba139": 1794058663.5416367,
@@ -7415,6 +7257,7 @@
 "7e66c7799e41c7ab": 1794668452.1981072,
 "7e688b1d24e5510c": 1794129624.9673119,
 "7e6a4d442f844bf2": 1794053146.8970654,
+"7e6ce883732486d5": 1794835843.278346,
 "7e7235640646b9ce": 1794751824.973813,
 "7e7277f3d99b3e80": 1794511224.5455616,
 "7e76f744351b6e87": 1794473421.2667904,
@@ -10555,6 +10398,7 @@
 "b98b26ecb4b1a54c": 1794264026.1524632,
 "b98b2ac28f51d009": 1794483042.7861938,
 "b99ae30689f5f7c4": 1794317448.4307733,
+"b99fc6894b78808f": 1794835843.278346,
 "b9a404be0495fb7d": 1794224423.8500595,
 "b9a897f46ce5645d": 1794766822.8655136,
 "b9a9773b977193d1": 1794053146.8970654,
@@ -11415,6 +11259,7 @@
 "c917c162f5b34cb6": 1794129624.9673119,
 "c917f12aaac14ff3": 1794520225.482529,
 "c91804c0689d7bd1": 1794387652.7155762,
+"c91b7fbdb7abcdb6": 1794835843.278346,
 "c91dfbd45e135677": 1794825041.4304469,
 "c92084627e8baa89": 1794643251.6467984,
 "c9247fb66ee783cd": 1794315026.6277947,
@@ -11726,6 +11571,7 @@
 "ced4791cb3311581": 1794253225.6358817,
 "cedc9902dd8d3236": 1794502224.8850534,
 "ceddfbf79cee669f": 1794320424.8171039,
+"cee01917862e2b6c": 1794835843.278346,
 "cee35cf4d4b49b76": 1794481251.5846794,
 "cee7d63a77bcb048": 1794424831.721633,
 "ceebba177e9622b0": 1794697827.267664,
@@ -11990,6 +11836,7 @@
 "d38d2ac883c19e9d": 1794417111.777808,
 "d38e3ceb03f8c16b": 1794246025.5884385,
 "d399331871109cca": 1794294057.2981856,
+"d39c6e3c51ecc08e": 1794835843.278346,
 "d39d4278f8af7b3b": 1794594024.9582636,
 "d3a2793804e2208a": 1794812457.8102336,
 "d3a9201f56b8082e": 1794306027.3632174,
@@ -14149,6 +13996,7 @@
 "fd9f6c091fa876b9": 1794380451.074071,
 "fd9fbea7baa168d4": 1794726050.5794117,
 "fda604d40c03a51a": 1794668452.1981072,
+"fda89a9ca03c0c90": 1794835843.278346,
 "fda94758b42284d9": 1794246025.5884385,
 "fdab0ad21ccc9e65": 1794090024.092463,
 "fdadb49dc711f3c2": 1794090024.092463,
@@ -14227,6 +14075,7 @@
 "ff1a54dc0538bba9": 1794726050.5794117,
 "ff28b2882001627c": 1794569442.764256,
 "ff2ef840bf1ab282": 1794473421.2667904,
+"ff2f02e032758cf2": 1794835843.278346,
 "ff3205d8df4d2f79": 1794594645.7815912,
 "ff3657f46ab509be": 1794090024.092463,
 "ff3f39d954c35506": 1794232224.3910127,
@@ -15404,6 +15253,7 @@
 "18332a59efce7ab9": 1794294057.2981856,
 "1834bbfcb4f22aca": 1794319254.2679577,
 "18388a5cc6922ca7": 1794604223.4254403,
+"1838bcda69b3f9fb": 1794835843.278346,
 "183ad7816451543d": 1794165625.0596616,
 "183e218ec7b8372a": 1794208823.7725184,
 "184a851ba56d7608": 1794679824.3245559,
@@ -19476,6 +19326,7 @@
 "6c134cae61ef13bb": 1794345622.3845239,
 "6c18b0f666f83b70": 1794090024.092463,
 "6c190bb82a1c05d8": 1794516025.4582257,
+"6c1a7df6e5af103f": 1794835843.278346,
 "6c20e53ebfcc6000": 1794432640.6076887,
 "6c2daf5c48e1eae2": 1794829833.7386382,
 "6c336a202c5c30f3": 1794072025.2238693,
@@ -19568,8 +19419,10 @@
 "6de840459658d4d7": 1794413426.5364234,
 "6debe47c907fa539": 1794234029.8370936,
 "6df06d07f679e9e9": 1794498623.3847704,
+"6df7f9d456919b2c": 1794835843.278346,
 "6e0887795cb5da8d": 1794162024.6325307,
 "6e0e8215e855753a": 1794490843.0898888,
+"6e10e23a6eabb2b0": 1794835843.278346,
 "6e22bebe80fd1b65": 1794238824.4766295,
 "6e24797afc87d446": 1794090024.092463,
 "6e28745db6b60b80": 1794321626.205444,
@@ -21485,6 +21338,7 @@
 "966eef9668c52d06": 1794661257.6211615,
 "9672e6cc559630cc": 1794346823.352614,
 "967647b19ccbe05b": 1794072642.3225284,
+"96788e09c23be8c3": 1794835843.278346,
 "967a6cf257c795c4": 1794397224.4272263,
 "967ae97415ddf648": 1794207655.353521,
 "968050a8d26ac90c": 1794207655.353521,
@@ -22220,6 +22074,7 @@
 "a589a6c0eb6d6285": 1794553252.738333,
 "a590c5e6705b6ac3": 1794466847.0948906,
 "a5926b5a69d1c57e": 1794213626.9912028,
+"a59ed44814ebe6ab": 1794835843.278346,
 "a5a071df3bb9cb4a": 1794471021.9148986,
 "a5a58f20c10c489d": 1794080428.0610616,
 "a5a6f4b82235d565": 1794477025.1202402,
@@ -23153,6 +23008,7 @@
 "b847ceda3815376e": 1794763227.6773348,
 "b847eef916f56fdc": 1794217823.792214,
 "b84edd4067e34484": 1794440422.6466875,
+"b84fb2d35d836a2d": 1794835843.278346,
 "b850ccc5a160234b": 1794492052.5954537,
 "b8546916e2b8e6ef": 1794077422.772458,
 "b8589090032a884a": 1794425437.8749177,
@@ -24082,6 +23938,7 @@
 "ca3841fa14a48e4d": 1794525026.078514,
 "ca3bb634cc61199a": 1794814826.9861326,
 "ca3e2e67808f4686": 1794553252.738333,
+"ca453e82f3666f1f": 1794835843.278346,
 "ca465fd5d95b104e": 1794330627.8580275,
 "ca560b0778eada75": 1794380451.074071,
 "ca5fa78daea74d36": 1794436236.6229744,
@@ -24386,6 +24243,7 @@
 "d05eaa5c0451d4c9": 1794639651.002237,
 "d05eabf238fdb8ce": 1794507627.84046,
 "d05fdca96de49e20": 1794679824.3245559,
+"d061fa1b09b79c00": 1794835843.278346,
 "d06697927249344e": 1794090024.092463,
 "d06c8b3aff7ec342": 1794555623.064874,
 "d0742bf5586ee265": 1794304852.8805614,
@@ -24495,6 +24353,7 @@
 "d2b40e1fd95b0216": 1794312627.9335868,
 "d2bc76fed85ba036": 1794053146.8970654,
 "d2bca73ab2dabed5": 1794303041.7631679,
+"d2bd9cb4031e0c6c": 1794835843.278346,
 "d2bdf030c8aee52d": 1794230425.0439425,
 "d2c191b8de60c1d8": 1794053146.8970654,
 "d2ca29d060c9c315": 1794207655.353521,
@@ -24896,6 +24755,7 @@
 "daceb47ba85332ea": 1794327630.5502307,
 "dad79dfc7e424585": 1794246025.5884385,
 "dadbb5bab3663731": 1794588625.1002343,
+"dade915fdeb9ee13": 1794835843.278346,
 "dae1e9caf3cc86af": 1794121251.8481042,
 "daea2eda6535e07b": 1794511224.5455616,
 "daea39b3d80cc453": 1794435624.6895678,
@@ -25490,6 +25350,7 @@
 "e6e04e609fc9d770": 1794216642.1444197,
 "e6e8fb13bb376b37": 1794589828.9299436,
 "e6ec63dda94d1244": 1794070201.937629,
+"e6f1cc72da2d00e0": 1794835843.278346,
 "e6f2022eece40fb0": 1794581426.666685,
 "e6f51a5c5d973a6b": 1794572423.7774122,
 "e6f6ff7ea14f028e": 1794441023.1432993,
@@ -26627,6 +26488,7 @@
 "fe9e0a112700c172": 1794329428.1954625,
 "fea2fab0a72447c1": 1794121251.8481042,
 "fea4bccee8354db3": 1794441023.1432993,
+"feaa75c461c15602": 1794835843.278346,
 "feb2ed8a9666b092": 1794812457.8102336,
 "feb5fe7abb544dd3": 1794240054.5770936,
 "feb90db2a1accd09": 1794225025.2256005,
