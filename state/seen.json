@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794864114.334818,
+"ai_last_review": 1794865267.4700887,
 "ai_log": [
-{
-"err": "",
-"kept": 1,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 10,
-"ok": true,
-"t": "11-14 23:11"
-},
 {
 "err": "",
 "kept": 14,
@@ -540,394 +531,24 @@
 "n": 12,
 "ok": true,
 "t": "11-16 21:21"
+},
+{
+"err": "",
+"kept": 14,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 39,
+"ok": true,
+"t": "11-16 21:41"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk1PZ3RuRFM1SXhLQW83TklQS1Y2a0I2UUFvcVhhcHRpcDJOUzVzMG44dndWNWhoYlYxS2k0ZjUxMlc3djNvejc1NWN3WVJzM3RucHFYVXlJek43WWFSLUlUeTNXQ3B3UGhRZ3FiZmNPNHZqc3RWZWtFMi1fWGRaYVhsdDZFOEZzLVEwdHpkUk9XOE5kMGdwTGV1bHZyUzVfQlZ3ODNLWQ?oc=5",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Euro Falls Below $1.10 for the First Time Since April 2025 &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Euro Falls Below $1.10 for the First Time Since April 2025 - Bloomberg.com",
-"ts": 1794844862,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHhFdVFnWVI1cVRKdHE1N295Ymk2dXotUm4yb2RQeFJRSXdDMjZlYU1TbUkzZWlVRHdVVUIwZzR0NzJqMjgwdDhTVE85TjQycGtRVnVVMFZIRWlYMEd3RTRGUDZDTnJaa1RiX2VZOWkteEJBd0NYLUJVZ1hfdmFQYmhUX28?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "The delicate balance in America\u2019s AI chip war with China &nbsp;&nbsp; Financial Times",
-"tags": [],
-"title": "The delicate balance in America\u2019s AI chip war with China - Financial Times",
-"ts": 1794854145,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFdvV21YTl9IOXgyRi1ZSFY5VzgzMHFZMTJQSUM1ejJSMXY5LU9LYV9vRV8wOThjdTIzRTdDQVlWQjhrM3E2ZlI3SVk4WjNPallrSlZ3RUx4aFpBVHFwSzdEWnJ3VVJ0Mi12dHNDaDlCcXVKS29jVXQ0NlBOM1lmRVZPWl9VVmVhbGJ3N1dyRWdCMlNNZ054MktzcHE5LUcwVm51U0cyOVBPdUp5cnlB?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Citigroup Pulls $400 Million Loan for IT Provider UST Global &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Citigroup Pulls $400 Million Loan for IT Provider UST Global - Bloomberg.com",
-"ts": 1794858142,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWlRlX3pOelgxdVZHMkRZSVNxeWRkWmVrLW5hOUU1M3JVZ2hJcDRUQ1Bnc2liaC03dmZWNE0wd1JYT2hUNXBibFozbWgwQ2dadC1jVFZKemVoM0R4a2tMdUNadEwzMm11eXNxZFRjV1ZVSFhzQ1ItV3RBb0hJekpCYUNPS09UNVktX0lqeGJFUEN1bXQxeWZuTDBPTlhBMHNqM0x5QW1ORjViSFgwZEExbw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Tradeweb Is Rolling Out AI Assistant for US Treasury Traders &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Tradeweb Is Rolling Out AI Assistant for US Treasury Traders - Bloomberg.com",
-"ts": 1794858345,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGFoSHNvSVhKcVAzTlhNTWtnSzRfTHlIVzZqYkVIR21YdDFURUhoX1I0Zkw0NXdYYWJ3QThLaS1iLUtFQmVnQUFpcmdkN0lyTG9BTldRTXdPazI1dkY3X2tGTEdOOEFGb1RoQ09YenNaWDZiX0xLRmRSMlhLbVQyQmpJTWhiNGRURm94a1JGbWtGZkJ5SE41OEx3Z0ZjYkZwZFE2clMyamNuVFZJZ2JnZExjWQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "JPMorgan Is Working to Fix \u2018Technical Issue\u2019 Affecting Customers &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "JPMorgan Is Working to Fix \u2018Technical Issue\u2019 Affecting Customers - Bloomberg.com",
-"ts": 1794858450,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/windward-bio-raises-2512m-in-ipo-on-nasdaq-432SI-5030848",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Windward Bio raises $251.2M in IPO on Nasdaq",
-"ts": 1794863589,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW84a3pVTm5zenNzcHhCUFhHR0Q5d0owcEVlRlpBRWFScGluaDNrRlJPeWY3bTNvYk1FcVRYd2p3YzBzaGxUaWlHd2Z1cURRbDNMRU43WUFhaGgxNmpZYlA4UkpESk95SWIyTnU0ZjBsWlBaeWNCXzlmVzVrVnMxWmxVbXJFV2dwQnNPM3BWLTJnQ0ZGM3RwQ3dSUlZwNmRFTlVPT0Jn?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
-"summary": "Twenty One Capital Buys $10 Million of Bitcoin, Increasing Holdings to ~43,668 BTC \u2013 Company Announcement &nbsp;&nbsp; Financial Times",
-"tags": [
-"BTC"
-],
-"title": "Twenty One Capital Buys $10 Million of Bitcoin, Increasing Holdings to ~43,668 BTC \u2013 Company Announcement - Financial Times",
-"ts": 1794863700,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/investors-cooled-on-data-center-stocks-in-third-quarter-filings-show-5030947",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"data center"
-],
-"title": "Investors cooled on data center stocks in third quarter, filings show",
-"ts": 1794863912,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-120-5030949",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Russia stocks lower at close of trade; MOEX Russia Index down 1.20%",
-"ts": 1794864003,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bitcoin Magazine",
-"summary": "Bitcoin Magazine Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5% Bitcoin price held near $65,000 on Monday afternoon, shrugging off a 2.5% Nasdaq slide as Nvidia's board ruled out bringing back Jensen Huang and the dollar hit a 19-month high. This post Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5% first appeared on Bitcoin Magazine and is writt",
-"tags": [
-"NVDA",
-"BTC"
-],
-"title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
-"ts": 1794864036,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-says-bank-wires-can-now-arrive-as-usdc",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "A standing setting converts future incoming wires into stablecoins. Coinbase is also advertising a variable 3.75% APY reward for Coinbase One members.",
-"tags": [
-"COIN",
-"USDT"
-],
-"title": "Coinbase Says Bank Wires Can Now Arrive as USDC",
-"ts": 1794864234,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/converge/tradfi-and-fintech/abra-taps-nyse-parent-ice-to-hold-crypto-loan-collateral",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "Initial institutional borrowers can pledge bitcoin, ether or SOL for dollar loans, with collateral kept at ICE Digital Trust rather than lent onward.",
-"tags": [
-"BTC",
-"ETH",
-"SOL"
-],
-"title": "Abra Taps NYSE Parent ICE to Hold Crypto Loan Collateral",
-"ts": 1794864305,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/regulation/democrats-challenge-cftc-prediction-market-push-wsj",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "Nine senators want the agency to reverse its directive against geographic restrictions, the Journal reported, as federal and state authorities fight over market access.",
-"tags": [],
-"title": "Democrats Challenge CFTC Prediction Market Push: WSJ",
-"ts": 1794864332,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673304-banzai-international-gaap-eps-of-17_78-misses-by-5_58-revenue-of-4_7m-beats-by-0_7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Banzai International GAAP EPS of -$17.78 misses by $5.58, revenue of $4.7M beats by $0.7M",
-"ts": 1794864345,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/frontier/technology/zoox-launches-driverless-rides-on-uber-in-las-vegas",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "Eligible Uber trips can now match with a Zoox robotaxi at no extra cost. A multiyear MGM Resorts deal includes work on resort pickups and drop-offs.",
-"tags": [],
-"title": "Zoox Launches Driverless Rides on Uber in Las Vegas",
-"ts": 1794864354,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673305-getty-images-holdings-non-gaap-eps-of-0_26-revenue-of-234_03m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Getty Images Holdings Non-GAAP EPS of -$0.26, revenue of $234.03M",
-"ts": 1794864375,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/hacks/lighter-says-withdrawals-resume-after-api-key-theft",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The platform says its Security Council returned about 5 million USDC and added a wallet-signature requirement for transfers into public pools.",
-"tags": [
-"USDT"
-],
-"title": "Lighter Says Withdrawals Resume After API-Key Theft",
-"ts": 1794864379,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673306-orezone-gold-gaap-eps-of-0_04-revenue-of-238_52m-beats-by-6_85m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Orezone Gold GAAP EPS of $0.04, revenue of $238.52M beats by $6.85M",
-"ts": 1794864393,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/frontier/ai/cantwell-presses-lutnick-to-enforce-ai-chip-curbs",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The Senate Commerce panel\u2019s top Democrat urged action against prohibited buyers, adding an enforcement demand to congressional scrutiny of Nvidia exports.",
-"tags": [
-"NVDA"
-],
-"title": "Cantwell Presses Lutnick to Enforce AI Chip Curbs",
-"ts": 1794864406,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/frontier/ai/imf-chief-puts-ai-financing-loops-above-1-trillion",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "Georgieva told CNBC roughly two-thirds of the financing is debt, warning that dependence on AI investment leaves global growth vulnerable.",
-"tags": [],
-"title": "IMF Chief Puts AI Financing Loops Above $1 Trillion",
-"ts": 1794864426,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673307-bridger-aerospace-group-holdings-gaap-eps-of-0_37-misses-by-0_24-revenue-of-76_4m-misses-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Bridger Aerospace Group Holdings GAAP EPS of $0.37 misses by $0.24, revenue of $76.4M misses by $5.64M",
-"ts": 1794864428,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673292-twenty-one-capital-buys-154-bitcoin-amid-btc-price-slump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"BTC"
-],
-"title": "Twenty One Capital buys 154 Bitcoin amid BTC price slump",
-"ts": 1794864432,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-jpmorgan-launch-24-7-tokenized-dollar-transfers",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "Ant International is the first client of the US-Singapore link, which connects the banks' permissioned networks and uses Partior to coordinate settlement.",
-"tags": [],
-"title": "DBS, JPMorgan Launch 24/7 Tokenized Dollar Transfers",
-"ts": 1794864451,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673302-clean-seed-capital-group-announces-12m-financing-led-by-insiders-major-shareholders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Clean Seed Capital Group announces $1.2M financing led by insiders, major shareholders",
-"ts": 1794864469,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673297-google-will-offer-japan-early-access-to-frontier-ai-models-exec-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"GOOGL"
-],
-"title": "Google will offer Japan early access to frontier AI models, exec says",
-"ts": 1794864472,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/tradfi-and-fintech/toss-plans-in-app-crypto-wallet-for-eth-usdt-and-usdc",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "Korean reports citing Toss put the launch this week, with contact-based Ethereum transfers and no separate platform fee.",
-"tags": [
-"ETH",
-"USDT"
-],
-"title": "Toss Plans In-App Crypto Wallet for ETH, USDT and USDC",
-"ts": 1794864473,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/frontier/ai/nvidia-set-for-ai-national-champion-label-wsj-says",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The reported plan would put Nvidia alongside other US AI suppliers in an export push. Existing program rules offer priority review, not guaranteed chip-export licenses.",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia Set for AI 'National Champion' Label, WSJ Says",
-"ts": 1794864500,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-16T17:00"
+"last_date": "2026-11-16T20:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -937,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-16T17:00"
+"last_date": "2026-11-16T20:00"
 },
 "FNG": {
 "cool": {
@@ -954,16 +575,18 @@
 "last_date": "2026-11-13"
 },
 "USD": {
-"cool": {},
-"last_date": "2026-11-06"
+"cool": {
+"high": "2026-11-13"
+},
+"last_date": "2026-11-13"
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-16T17:00"
+"last_date": "2026-11-16T20:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-16T17:00"
+"last_date": "2026-11-16T20:00"
 },
 "UST10Y": {
 "cool": {
@@ -988,9 +611,9 @@
 },
 "last_date": "2026-11-13"
 },
-"_last_check": 0
+"_last_check": 1794865236.1034238
 },
-"last_run": 1794864724.1696944,
+"last_run": 1794865298.2710965,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -2702,6 +2325,7 @@
 "1f63b2afbcf8f65a": 1794380451.074071,
 "1f69fef5c965b46c": 1794345025.53064,
 "1f71185d64f2c9d4": 1794490843.0898888,
+"1f7920ba5536ed08": 1794865225.5430987,
 "1f812f6341977a01": 1794553252.738333,
 "1f8520f2c007afdc": 1794235227.58563,
 "1f915550e1545457": 1794055787.7739694,
@@ -3585,6 +3209,7 @@
 "2edd67bc3ff09d21": 1794812457.8102336,
 "2ee9a927d22ee11a": 1794413426.5364234,
 "2eec52c8dc689583": 1794090024.092463,
+"2efdd0f3b1f9657f": 1794865225.5430987,
 "2f04ae06f3072026": 1794500033.245441,
 "2f07810ec51447b7": 1794058663.5416367,
 "2f0c581c2c456893": 1794207655.353521,
@@ -4678,6 +4303,7 @@
 "41b067d23fa96368": 1794500033.245441,
 "41b0ab90b9c3b74b": 1794262824.4868238,
 "41b4a6a887f1965d": 1794208823.7725184,
+"41b6029c59022f93": 1794865225.5430987,
 "41b893ffb43fea44": 1794207655.353521,
 "41cff9b9ae32bf34": 1794825652.9827077,
 "41ec5271e11b272a": 1794129624.9673119,
@@ -5141,6 +4767,7 @@
 "4a326c5ce6d2f1be": 1794726050.5794117,
 "4a38cded335873e0": 1794466847.0948906,
 "4a4020097b41201b": 1794499252.6606731,
+"4a415dcfa05e33a4": 1794865225.5430987,
 "4a54ae6dbbdd20a7": 1794231625.7466462,
 "4a558b31b373e185": 1794479439.6312976,
 "4a629feb54065bf5": 1794129624.9673119,
@@ -5298,6 +4925,7 @@
 "4ce73c91f15cf50e": 1794557426.661249,
 "4cec91f41741250f": 1794262824.4868238,
 "4cf2508c726f52dc": 1794553252.738333,
+"4cf559097872fc67": 1794865225.5430987,
 "4cf97fc291fd0083": 1794834626.435269,
 "4cfc45e5290418b5": 1794129624.9673119,
 "4cfca9d9f63317cc": 1794053146.8970654,
@@ -5580,6 +5208,7 @@
 "51ccb9a5e3b1b666": 1794315026.6277947,
 "51d030bfcd8d666c": 1794151225.6597934,
 "51d21fb6829011af": 1794862222.292923,
+"51d3a4e285ac796f": 1794865225.5430987,
 "51d5a258a41cc91a": 1794220827.8644307,
 "51d6285a91200629": 1794825041.4304469,
 "51d65bfc8677ddb6": 1794207655.353521,
@@ -5976,6 +5605,7 @@
 "597f67bb13b303ec": 1794133224.9019783,
 "5980b1d7016b4d1f": 1794466847.0948906,
 "598c05e0412b1c64": 1794380451.074071,
+"598c8db99265a305": 1794865225.5430987,
 "599122e52e68ceef": 1794472822.705318,
 "599d836081331f86": 1794827425.4141595,
 "599dfa72f9fc44d8": 1794812457.8102336,
@@ -6226,6 +5856,7 @@
 "5df79496d5596407": 1794420049.9604123,
 "5df83dd163c901ae": 1794832825.1507735,
 "5df888dd94a143f1": 1794261023.1557755,
+"5e00507d8aa06fd1": 1794865225.5430987,
 "5e013a12a5d88415": 1794129624.9673119,
 "5e046e8e8de7f577": 1794672623.5060716,
 "5e0614bc48f01eff": 1794848455.616578,
@@ -6610,6 +6241,7 @@
 "64d2006f92036962": 1794585024.6252208,
 "64d50419d7186af2": 1794058663.5416367,
 "64d875adf995b3ae": 1794812457.8102336,
+"64d8dcb12f852871": 1794865225.5430987,
 "64e15df265318912": 1794860426.1956923,
 "64e7e2d4f64d1a50": 1794570025.4563718,
 "64edba2a821d5283": 1794478222.0113163,
@@ -10260,6 +9892,7 @@
 "a854cc805293aa02": 1794687025.0344095,
 "a85b5ddc03c7aab6": 1794777624.2384558,
 "a85bee0ed3ffb284": 1794639651.002237,
+"a867cc50eb541e9d": 1794865225.5430987,
 "a872417f44cdba00": 1794333323.0978487,
 "a87495eb64e78cfb": 1794594024.9582636,
 "a87897ca0f1b79b1": 1794466847.0948906,
@@ -11141,6 +10774,7 @@
 "b753611a13f14ae6": 1794759035.471768,
 "b758e0a352ad3370": 1794294057.2981856,
 "b760a89bda3ed59f": 1794690623.5489624,
+"b76898eb96285ee5": 1794865225.5430987,
 "b769acc5902c0961": 1794090024.092463,
 "b76f0640ed60b42e": 1794646850.1928723,
 "b776d695ab6c0742": 1794381624.5089903,
@@ -11775,6 +11409,7 @@
 "c2b94293b9b892ff": 1794436236.6229744,
 "c2c4002de1608c01": 1794352223.2402766,
 "c2d04573bad293bc": 1794436824.2970095,
+"c2d34cb9ffdcee17": 1794865225.5430987,
 "c2e438f753196140": 1794736860.6169236,
 "c2e5fcbc31a0b6c0": 1794207655.353521,
 "c2ef2b9da1183295": 1794426025.3083632,
@@ -13253,6 +12888,7 @@
 "dc2f4eef08824761": 1794063069.3473625,
 "dc3330d7c042fc39": 1794389438.4958024,
 "dc33f8ccfed1be9d": 1794837653.5733871,
+"dc34899353a78291": 1794865225.5430987,
 "dc373f03b2de9adb": 1794683423.9967415,
 "dc39d481dfc7bd49": 1794553252.738333,
 "dc3fb9247c27d265": 1794351653.6511967,
@@ -13636,6 +13272,7 @@
 "e34b1f2d5b8e8000": 1794294057.2981856,
 "e34f80401f368947": 1794812457.8102336,
 "e350ea3f696ad9d5": 1794490241.0443716,
+"e3522e68368e3c17": 1794865225.5430987,
 "e35380e8a19b38a2": 1794247257.3744018,
 "e35b77fc73cf3cf0": 1794323425.210853,
 "e35fb1be6cd01971": 1794501042.7863798,
@@ -14869,6 +14506,7 @@
 "fa44342cce5e4a1c": 1794438621.879703,
 "fa487b4bc322f753": 1794558639.9624033,
 "fa4a6548167cf835": 1794643251.6467984,
+"fa4da5d886cb3b2a": 1794865225.5430987,
 "fa4e600274b70ccf": 1794726050.5794117,
 "fa4e899b3c00c658": 1794312054.550939,
 "fa5189bad2584700": 1794294057.2981856,
@@ -16063,6 +15701,7 @@
 "11f8de250720da2c": 1794053146.8970654,
 "11fc0cf0a664dfd5": 1794401423.3914762,
 "11fee865f95444e6": 1794227444.8368437,
+"11ffa7753dabd72b": 1794865225.5430987,
 "1209b30189f0b1bc": 1794759035.471768,
 "120b06f01db9b045": 1794129624.9673119,
 "120ba1c4c0428a6c": 1794420049.9604123,
@@ -17101,6 +16740,7 @@
 "269a2f16c8b2262e": 1794729650.1855493,
 "269cc8720189243c": 1794679824.3245559,
 "269d1cdefb929d1b": 1794733251.876912,
+"26a42bc49b5ce78a": 1794865225.5430987,
 "26a661382f09d0be": 1794253225.6358817,
 "26abb8033587b110": 1794820223.9736097,
 "26b0c4ff7a15db40": 1794855025.715518,
@@ -17582,6 +17222,7 @@
 "2fb902c35ab476dd": 1794129624.9673119,
 "2fb9244f3614e8d1": 1794060010.396961,
 "2fb9d0fb84250925": 1794261023.1557755,
+"2fc63561a5af0fcd": 1794865225.5430987,
 "2fc85785dcc0955d": 1794250859.8781228,
 "2fcba6470c20c78d": 1794759035.471768,
 "2fcfe5388cb20249": 1794216024.5700488,
@@ -20999,6 +20640,7 @@
 "73b26067c4d40b71": 1794053146.8970654,
 "73bafa63118e570d": 1794053146.8970654,
 "73bce4727d60076f": 1794346240.584557,
+"73bf3d9a9b326c93": 1794865225.5430987,
 "73c0a2602eabf6d9": 1794672623.5060716,
 "73c360e1bc59f76c": 1794294057.2981856,
 "73cdc062defef3f2": 1794230425.0439425,
@@ -22270,6 +21912,7 @@
 "8d663f5572e6a868": 1794514824.538045,
 "8d6c86b04fba885c": 1794833424.9627757,
 "8d6ea0ec2ea2ad50": 1794650448.3692777,
+"8d715bf5a13faf25": 1794865225.5430987,
 "8d72ceb4b9cd4ef5": 1794297654.3266497,
 "8d7b44baf3629458": 1794207655.353521,
 "8d7d17d3395fa1a7": 1794053146.8970654,
@@ -22835,6 +22478,7 @@
 "97fa501ecd10f98f": 1794121251.8481042,
 "97fe35ff3eea2854": 1794176424.6910276,
 "9805f138e9a7e70c": 1794414698.6025398,
+"9807536cf754fe00": 1794865225.5430987,
 "980856b69c94f9f1": 1794418239.536956,
 "98086841a306bb0e": 1794349844.933684,
 "980b0ad6649b8472": 1794226823.8223224,
@@ -23281,6 +22925,7 @@
 "a0e132eb7d86cb3a": 1794668452.1981072,
 "a0e59182dab969ee": 1794058663.5416367,
 "a0e6a5b044912b0a": 1794053146.8970654,
+"a0f7cfd032d3c40c": 1794865225.5430987,
 "a0f7ded6ebd40877": 1794294057.2981856,
 "a1021cd608c0db6d": 1794325825.7082462,
 "a10590ed17dec039": 1794090024.092463,
@@ -24731,6 +24376,7 @@
 "bc4bc025954fa689": 1794207655.353521,
 "bc4c86513902aac1": 1794594024.9582636,
 "bc4e28f60b424e22": 1794487822.3175094,
+"bc4fc7ecde7894f7": 1794865225.5430987,
 "bc593cde75209f54": 1794417111.777808,
 "bc60230b8e5df7f6": 1794298825.0579662,
 "bc627d365c01a20c": 1794165625.0596616,
@@ -25033,6 +24679,7 @@
 "c216e58a5f14f43c": 1794216642.1444197,
 "c21b3d668dd1b232": 1794601224.3173718,
 "c21ea2e54ba81260": 1794415827.7010334,
+"c225579ba0f85ed1": 1794865225.5430987,
 "c225c0e4374a94f0": 1794090024.092463,
 "c23529ca0717043c": 1794478222.0113163,
 "c236e8118c58eb6b": 1794231625.7466462,
@@ -25303,6 +24950,7 @@
 "c6b9a540f866c193": 1794639651.002237,
 "c6ba1a0c353ea5e3": 1794053146.8970654,
 "c6bc65af151df738": 1794380451.074071,
+"c6c120450a1805d6": 1794865225.5430987,
 "c6d1b4c4e9b614fd": 1794327026.3092759,
 "c6df8193ab35fd68": 1794559823.6296525,
 "c6e543bf46394771": 1794466847.0948906,
@@ -25361,6 +25009,7 @@
 "c81d0eb5143c0074": 1794833424.9627757,
 "c81eeaa8b1e73fc3": 1794469822.9927154,
 "c821d6d5b66227d0": 1794243659.0740352,
+"c823a9f30e313405": 1794865225.5430987,
 "c8263565e7ea5ccb": 1794058663.5416367,
 "c8276bb86607ead2": 1794582061.9461782,
 "c82ab6a03787cbfb": 1794263443.2975552,
@@ -25417,6 +25066,7 @@
 "c959745657719589": 1794812457.8102336,
 "c959d61e369897d2": 1794489626.5939486,
 "c95a906395616372": 1794314423.5789354,
+"c95ad028302f29da": 1794865225.5430987,
 "c95c5561dcb9d3b9": 1794605443.9812016,
 "c95e453c89d30049": 1794261023.1557755,
 "c972b51d46198788": 1794639651.002237,
@@ -26189,6 +25839,7 @@
 "d7fd2c2df19c0093": 1794140423.8128505,
 "d804d0d97123e8b5": 1794264625.8600426,
 "d807603510d25f9b": 1794387652.7155762,
+"d81cc24700cc525a": 1794865225.5430987,
 "d81feb200853adba": 1794411039.5612423,
 "d822097b0a48936e": 1794499252.6606731,
 "d8270282d1ea237d": 1794053146.8970654,
@@ -27073,6 +26724,7 @@
 "e91f729663235d8a": 1794473421.2667904,
 "e9215778d1cc7e39": 1794466847.0948906,
 "e92c2bce7a9dbc5a": 1794294057.2981856,
+"e933cc29b8a373bb": 1794865225.5430987,
 "e93ba0cc8d731e5e": 1794341426.2465568,
 "e940caa38efac343": 1794496825.0216095,
 "e945bf811150c826": 1794606028.3801425,
