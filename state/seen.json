@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794825125.0603774,
+"ai_last_review": 1794826261.98362,
 "ai_log": [
-{
-"err": "",
-"kept": 3,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 17,
-"ok": true,
-"t": "11-13 19:01"
-},
 {
 "err": "",
 "kept": 3,
@@ -540,141 +531,24 @@
 "n": 37,
 "ok": true,
 "t": "11-16 10:32"
+},
+{
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 16,
+"ok": true,
+"t": "11-16 10:51"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDIwQ0VWS3J0OFVlLVluckVBTjZlTnc5MUVncmtQZ2lDVWtJd3BnN1NOVzN6N3J0X25JM3hmc0hDc3JiLWZyMmQtYkp4WW1uRndnbVFLWmhyVTZPWjRlRUNDOGpObmhfYXhfMzJxZkpSRVVNZUpZbDhBQmhhX29fNjJucFVvWTFRZEpVbXlsNXRsYWdfNWJBOGYwTmJSbEtEd0VPX0NibjR3cmhLU0lNYmJyUFRjUngzUTc2Nm5vUWE2aF9D?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Indian central bank seeks review of Supreme Court's Yes Bank AT-1 bonds order &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Indian central bank seeks review of Supreme Court's Yes Bank AT-1 bonds order - Reuters",
-"ts": 1794824624,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-summit-therapeutics-stock-plunging-today-93CH-5028838",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Summit Therapeutics stock plunging today?",
-"ts": 1794824808,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/crypto-stocks-slide-premarket-as-bitcoin-selloff-continues-5028842",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"BTC"
-],
-"title": "Crypto stocks slide premarket as Bitcoin selloff continues",
-"ts": 1794824849,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUN0T0ludy11cVJVRDI0MWY0STVHeUtCVjVpYUhxeHVkRjFnVDFaNHloWGJybC12bEw5Z282ZHg4YTBoUXVEdGJYNEZXTk9nYjRSTWx1Q2FONi1vbVBzYUpJclZQdU8ybnV2a241ZXloVnBpeFgtb1BWdVVtZmZhME00VUR2WDZkaDBKM1dPcw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "From AI to oil, here are Goldman and Morgan Stanley\u2019s outlooks for 2027 &nbsp;&nbsp; CNBC",
-"tags": [],
-"title": "From AI to oil, here are Goldman and Morgan Stanley\u2019s outlooks for 2027 - CNBC",
-"ts": 1794824910,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4672885-earnings-snapshot-baidu-beats-q3-revenue-and-profit-forecasts-ai-cloud-revenue-surges-94?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"AI Cloud"
-],
-"title": "Earnings Snapshot: Baidu beats Q3 revenue and profit forecasts; AI Cloud revenue surges 94%",
-"ts": 1794824977,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-058-5028847",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "India stocks higher at close of trade; Nifty 50 up 0.58%",
-"ts": 1794825006,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnVYQ3lZWXBwSXA1MU02ZDFvU3ZhaHViTUxkbmtqZTFzU2NTMFVrdTBCcWZMaEVjZ1U1ckVEY0JEWWRNTnhQb0FmOGpqQWtpSHdxVC1HaXJxY3RKTlJvb01jV0xwWXpLNUR3UUpIS2RZdGQxVG54YnZPT255SWZJLXJQcUxmY3loV2l0emgtQUMwdTZfdEh3MExJR0JXR0RzNmg5S3J1NEVwdnZMZnc?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Questions Around Howard Lutnick and Nvidia Keep Growing &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"NVDA"
-],
-"title": "Questions Around Howard Lutnick and Nvidia Keep Growing - Bloomberg.com",
-"ts": 1794825007,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/deutsche-bank-says-equity-positioning-rose-but-stays-underweight-93CH-5028861",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Deutsche Bank says equity positioning rose but stays underweight",
-"ts": 1794825216,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3dRLVE2VDBXcGhOOWhUSW1TLW5xLVl1a1o3VTVoQnJaaWE4RXdOUll3SHFqUEgxX0FVdEVfeWRWUFF6MHM0RUc1WjJuZ0JaYjZ2WGJGN2lRTUxWUW0xTW1LanBvVWl3WTRISnhteFZTQ3JGM0s0RFZna21pWmtKSFpVQVVvaHA4WjJoSVRKaVdVWTNOM01jVlVBdllhdw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Nvidia's CEO Search, Airlines Race to Recover, More &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"NVDA"
-],
-"title": "Nvidia's CEO Search, Airlines Race to Recover, More - Bloomberg.com",
-"ts": 1794825347,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-16T07:00"
+"last_date": "2026-11-16T09:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -684,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-16T07:00"
+"last_date": "2026-11-16T09:00"
 },
 "FNG": {
 "cool": {
@@ -706,11 +580,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-16T07:00"
+"last_date": "2026-11-16T09:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-16T07:00"
+"last_date": "2026-11-16T09:00"
 },
 "UST10Y": {
 "cool": {
@@ -735,9 +609,9 @@
 },
 "last_date": "2026-11-13"
 },
-"_last_check": 0
+"_last_check": 1794826237.0216284
 },
-"last_run": 1794825737.8325238,
+"last_run": 1794826268.3839092,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -942,6 +816,7 @@
 "0399601c366a1df5": 1794814826.9861326,
 "03a1359147b666ff": 1794380451.074071,
 "03a20e8c8ecad53f": 1794140423.8128505,
+"03a50c010e7e0924": 1794826225.04136,
 "03b0ce1857724175": 1794440422.6466875,
 "03b65d1358d5667a": 1794657652.7046778,
 "03b742a64c8af339": 1794298226.443851,
@@ -1635,6 +1510,7 @@
 "129c6b8aa398056f": 1794313222.9578052,
 "12a0ec7ece6f1174": 1794180024.180841,
 "12aa14872904f3de": 1794515442.8235493,
+"12ab6e861bf92ade": 1794826225.04136,
 "12af0e4e6b26bb04": 1794070853.5888453,
 "12afb6b496dd5455": 1794058663.5416367,
 "12b3a1c253ccdcb3": 1794553252.738333,
@@ -4092,6 +3968,7 @@
 "4028a5fb7f346a91": 1794466847.0948906,
 "402a9ef337812411": 1794729650.1855493,
 "402bde0944da7fe3": 1794563426.5895348,
+"402cdb8574b90294": 1794826225.04136,
 "4035a24d645e99ca": 1794074452.1558738,
 "4036218080bb66a7": 1794755433.9717534,
 "403bc294d4282377": 1794483042.7861938,
@@ -5426,6 +5303,7 @@
 "5a5d81a8efe9d7cf": 1794564053.8815415,
 "5a6c01db82c76e9b": 1794478222.0113163,
 "5a6ec2f7f69d1bdb": 1794643251.6467984,
+"5a6f6b18a5c1bb57": 1794826225.04136,
 "5a75570e36c2d2b0": 1794817844.8736691,
 "5a7ae05163ad1e5b": 1794483623.074817,
 "5a7be42405d33d2f": 1794219024.1165798,
@@ -9009,6 +8887,7 @@
 "a109f865b62d2c9a": 1794612641.4206915,
 "a1159691e4aed757": 1794090024.092463,
 "a1286729ea368b81": 1794577823.9210808,
+"a12f01e65584264e": 1794826225.04136,
 "a13c3b010d571ec1": 1794388822.6516917,
 "a13ca505506c27eb": 1794384051.3623385,
 "a13cb1b5794ad82c": 1794496825.0216095,
@@ -9739,6 +9618,7 @@
 "aef0a59578fdf6c2": 1794053146.8970654,
 "aef32817402e21b5": 1794380451.074071,
 "aefa2562b18638e8": 1794136824.1662278,
+"aefe4b4b21c91a9c": 1794826225.04136,
 "aeffc102fcea10e3": 1794494426.657751,
 "af00c558abb5f75c": 1794380451.074071,
 "af02d7e000bb58ae": 1794818423.9958396,
@@ -10290,6 +10170,7 @@
 "b8d96b42b554852f": 1794726050.5794117,
 "b8db530a155dd5e3": 1794212427.3416302,
 "b8df36382c06bd99": 1794341426.2465568,
+"b8e5ae9bec5e5e43": 1794826225.04136,
 "b8efafdc0082dbcb": 1794294057.2981856,
 "b8f33aee4e6684a8": 1794425437.8749177,
 "b8f5bb77fe1e6c19": 1794523223.4129152,
@@ -11083,6 +10964,7 @@
 "c78633ad41cfa2d1": 1794076241.5731697,
 "c78e91e7c8e50180": 1794380451.074071,
 "c790b470a3244e16": 1794090024.092463,
+"c7978b003eb63bb3": 1794826225.04136,
 "c79adc759b3af566": 1794294057.2981856,
 "c7a18e3c3c46e9b4": 1794736860.6169236,
 "c7ac1e932ad19258": 1794553252.738333,
@@ -11550,6 +11432,7 @@
 "d07ae91a54c2fc1f": 1794169225.368316,
 "d07f69367e2510fb": 1794058663.5416367,
 "d081224b84838ee6": 1794553252.738333,
+"d08501e8bedec0e4": 1794826225.04136,
 "d089a23c54a446ca": 1794466847.0948906,
 "d08a1b92ce0be6a8": 1794522022.9497743,
 "d08ca87d159f1d2f": 1794812457.8102336,
@@ -14043,6 +13926,7 @@
 "01721e7420630a61": 1794243026.4460754,
 "0175f821bc8d8dca": 1794053146.8970654,
 "01767e25c369c91c": 1794399624.5316026,
+"0179c2e7dc97d84a": 1794826225.04136,
 "017b5be0bd111cc3": 1794825652.9827077,
 "017f1b48fe1e53fb": 1794232853.9654045,
 "017fee6806c8010c": 1794413426.5364234,
@@ -14584,6 +14468,7 @@
 "0cc0db08386f1f89": 1794258020.3289478,
 "0cca3eb797ff4f77": 1794564053.8815415,
 "0cd134e59d3ea526": 1794759035.471768,
+"0cd3a55b1dcbf13b": 1794826225.04136,
 "0cd81dead47c1bba": 1794420624.586875,
 "0cd925974ab5ca0f": 1794319254.2679577,
 "0cd9e82c3da2af74": 1794479439.6312976,
@@ -14878,6 +14763,7 @@
 "132d25d10b8408c7": 1794404423.5930965,
 "13316ec198a388d9": 1794402054.0077875,
 "133269b6c2cf73bf": 1794385221.6704128,
+"13369de6f80e4e51": 1794826225.04136,
 "133b0573c9ca3f87": 1794090024.092463,
 "13450ba304bff628": 1794562823.5870972,
 "13679ff24b7032d3": 1794466847.0948906,
@@ -16706,6 +16592,7 @@
 "38c8ecf86fb25fe6": 1794498623.3847704,
 "38cbd49f804efbc7": 1794729650.1855493,
 "38cc63ac31aa4bf3": 1794589259.3099487,
+"38cea6c1d866340d": 1794826225.04136,
 "38d080bf508a7e2f": 1794579629.967614,
 "38d0fcf09ea0cddc": 1794812457.8102336,
 "38dcba5ec7493072": 1794261023.1557755,
@@ -23959,6 +23846,7 @@
 "d1371e83567807e6": 1794825041.4304469,
 "d13b6951575e5ec0": 1794639651.002237,
 "d1451790e0d0be84": 1794679824.3245559,
+"d147537da86d94cd": 1794826225.04136,
 "d14d55cd6e1ff4b3": 1794519043.7777076,
 "d150bc48bb0150d4": 1794495024.9189398,
 "d15116e84d414ed4": 1794747886.992174,
@@ -24068,6 +23956,7 @@
 "d391cc09ff78938f": 1794207655.353521,
 "d3a086b1a2f3aaea": 1794414698.6025398,
 "d3aafa8fc2c694ef": 1794466847.0948906,
+"d3b835518d333cdb": 1794826225.04136,
 "d3bc316e87a7c484": 1794466847.0948906,
 "d3bf2f1ac1ec0078": 1794347425.5105855,
 "d3c52c98298bab9a": 1794397829.6326773,
@@ -25422,6 +25311,7 @@
 "efdfc95f13670d19": 1794154823.0343263,
 "efe543416da75901": 1794481251.5846794,
 "efef7d5f89e9e5f5": 1794228625.7348583,
+"eff1f20bdcf882bf": 1794826225.04136,
 "eff3e263ecf350c0": 1794410424.1208882,
 "eff3fec7b5969808": 1794240054.5770936,
 "eff50e072dc190b4": 1794812457.8102336,
@@ -25715,6 +25605,7 @@
 "f5b11fa628d0d114": 1794381624.5089903,
 "f5b1cd617c7df150": 1794726050.5794117,
 "f5b200072b2d2691": 1794294057.2981856,
+"f5b51775ff76c7a9": 1794826225.04136,
 "f5bacaace31c06c1": 1794759035.471768,
 "f5be41941f20a667": 1794329428.1954625,
 "f5c5700f35c9f575": 1794396642.0870447,
