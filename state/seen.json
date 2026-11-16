@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794861712.5726395,
+"ai_last_review": 1794862942.845641,
 "ai_log": [
-{
-"err": "",
-"kept": 1,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 6,
-"ok": true,
-"t": "11-14 21:11"
-},
 {
 "err": "",
 "kept": 1,
@@ -540,198 +531,18 @@
 "n": 14,
 "ok": true,
 "t": "11-16 20:41"
+},
+{
+"err": "",
+"kept": 5,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 17,
+"ok": true,
+"t": "11-16 21:02"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4aFRORGVkX2VMbDBVX09WSHdHcHNpTS1idC1mckp2c0F0TnVha244X3pCUmdmS1BjX0NYWS1WR2o1TjJNMVktZEVJd2RMR3JxNkpOVnNzOS1oSkRhcFBfT2ZCUXVrUGM?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Trump says he needs funding for air traffic control after ground stop &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Trump says he needs funding for air traffic control after ground stop - Reuters",
-"ts": 1794850651,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1daV2tMdU9ubE1qdkd4Rzc2aDQzOVZ6U0prSWJJTU8ydm1pWjJMQTFtOEJMRWczRFVaLWtVLS1sa181V29MNlRScEY4blltam5aWElYUDlyUlpoUUZERUdXM2gyeDE5LVhjc19zQjJicXFxcHpVTXJPWHF5YjZrWll6a2N1WFJ2RkFlem5nWmxjV2xCWDI4TlJ2ajA5MWFQMmpjM1pWMUVHOXdLanpVNzBkcEJpQQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "US Oil Producers Sour on Hedges as Stronger Finances Offer Cover &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "US Oil Producers Sour on Hedges as Stronger Finances Offer Cover - Bloomberg.com",
-"ts": 1794852231,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYzVuWmo1ZEZLMzlpSkZTZnJwQk5uaHlLMGFYdWV6cGpySEVhdzZ1X09OZkp3VHh6LU5iTkd2emY5Um1UVkR5MWN6QTUzTUhVRnFIQkQ1MzN1SVBpQ3RtampsdV9BNklLeG4xNE1lUllkUHNaTTJPblMtc0UwZ2VBbldJc3ZESktOSnRZX1phN1J2SnQ5UW9fVmxnbWUzYmhPSnNlQWFrYnZ6bVpuU3YxbFdpUQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Microsoft Bug Undetected Since July Triggered Worldwide Outage &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"MSFT"
-],
-"title": "Microsoft Bug Undetected Since July Triggered Worldwide Outage - Bloomberg.com",
-"ts": 1794856239,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/fed-minutes-fedspeak-and-key-data-to-watch-this-week-93CH-5030802",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Fed minutes, Fedspeak and key data to watch this week",
-"ts": 1794860969,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-205-5030803",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Brazil stocks lower at close of trade; Bovespa down 2.05%",
-"ts": 1794861003,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/robinhood-dip-outlook-oversold-but-downtrend-intact-after-kalshi-threat-93CH-5030808",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Robinhood dip outlook: oversold but downtrend intact after Kalshi threat",
-"ts": 1794861039,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/best-semiconductor-etfs-smh-leads-on-cost-liquidity-and-momentum-93CH-5030811",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
-"ts": 1794861370,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673256-usa-rare-earth-plunges-11-as-william-blair-downgrades-on-feedstock-shortages?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "USA Rare Earth plunges 11% as William Blair downgrades on feedstock shortages",
-"ts": 1794861594,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cryptoslate.com/lighter-loses-15-5m-in-sudden-drain-and-blames-a-single-api-leak/",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "CryptoSlate",
-"summary": "Bitquery traced 10.39 million USDC off Lighter, while a second alleged loss and the recovery outcome remain unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-"tags": [
-"USDT"
-],
-"title": "Lighter loses $15.5M in sudden drain and blames a single API leak",
-"ts": 1794861612,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/chevron-to-buy-blackstonebacked-oil-producer-for-5-billion-ft-reports-5030814",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Chevron to buy Blackstone-backed oil producer for $5 billion, FT reports",
-"ts": 1794861775,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673262-xpeng-expects-q4-2026-deliveries-of-169000minus-174000-units-while-targeting-over-100000?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "XPeng expects Q4 2026 deliveries of 169,000-174,000 units while targeting over 100,000 overseas sales in 2026",
-"ts": 1794861830,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Block",
-"summary": "Four Democratic senators are raising concerns about the Securities and Exchange Commission's newly unveiled innovation exemption.",
-"tags": [],
-"title": "Democratic senators warn SEC\u2019s tokenized stock exemption has illicit finance gaps",
-"ts": 1794861841,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bitcoin Magazine",
-"summary": "Bitcoin Magazine Senate Agriculture Committee to Hear Trump&#8217;s CFTC Nominees Tuesday The Senate Agriculture Committee will hear Nathan Anonick and Matthew Rowland on Tuesday, President Trump's bipartisan picks to join CFTC Chairman Michael Selig, currently the agency's only sitting commissioner. This post Senate Agriculture Committee to Hear Trump&#8217;s CFTC Nominees Tuesday first appeared ",
-"tags": [
-"BTC"
-],
-"title": "Senate Agriculture Committee to Hear Trump\u2019s CFTC Nominees Tuesday",
-"ts": 1794861863,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-"tags": [],
-"title": "\u2018So sad, and so true\u2019: Has your family talked about SNL\u2019s \u2018Sister\u2019 sketch yet?",
-"ts": 1794861960,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -800,7 +611,7 @@
 },
 "_last_check": 0
 },
-"last_run": 1794862307.5681098,
+"last_run": 1794862954.0258994,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -8777,6 +8588,7 @@
 "908d540406886ecf": 1794861627.5459855,
 "9093cd6730f66105": 1794053146.8970654,
 "909bb6a1c8e3d10f": 1794090024.092463,
+"909dfea92713c2ed": 1794862854.4401803,
 "909f84af4b12f874": 1794295841.2960658,
 "90aba13c4234d297": 1794522643.152942,
 "90b428e7daede938": 1794063069.3473625,
@@ -13868,6 +13680,7 @@
 "ec6e4a8e3605c341": 1794432030.7467659,
 "ec726bd7e20528d5": 1794574224.2361157,
 "ec72df0ea8831915": 1794759035.471768,
+"ec796281f897e8ad": 1794862854.4401803,
 "ec7de5197d081173": 1794492052.5954537,
 "ec89b73a59a7e607": 1794574224.2361157,
 "ec8af8bf7f18d746": 1794151225.6597934,
@@ -14411,6 +14224,7 @@
 "f5f9e00441bdd8de": 1794726050.5794117,
 "f5fc27ebab10b2d8": 1794066518.762267,
 "f60a3138940b74d5": 1794129624.9673119,
+"f611c7b9ab233171": 1794862854.4401803,
 "f6139515ac73b9b2": 1794639651.002237,
 "f618f265670ee93a": 1794847227.3353586,
 "f61c3aa19ed15d4b": 1794579629.967614,
@@ -15475,6 +15289,7 @@
 "0ab5ba38cd4cb74b": 1794646850.1928723,
 "0ad1199ba691ecaa": 1794380451.074071,
 "0add3a23831a9b86": 1794405650.4852784,
+"0ae6cc2311e90c9b": 1794862854.4401803,
 "0aecc8234bf68a23": 1794251432.9348457,
 "0aed86c8676c2c45": 1794074452.1558738,
 "0aedb4b615962782": 1794591053.6013825,
@@ -19005,6 +18820,7 @@
 "5056e2a77569aa92": 1794643251.6467984,
 "5059e8000a28b509": 1794176424.6910276,
 "50612bcff924e3f4": 1794053146.8970654,
+"506295304661374c": 1794862854.4401803,
 "5062c54ae3cff97f": 1794812457.8102336,
 "506987b532eea9ae": 1794227444.8368437,
 "5077b91c21ee15af": 1794053146.8970654,
@@ -25080,6 +24896,7 @@
 "c7aaae5c1dcbecb1": 1794230425.0439425,
 "c7aaf19992945ed4": 1794486023.9169981,
 "c7b089b9c5757164": 1794466847.0948906,
+"c7b18b6a0678928e": 1794862854.4401803,
 "c7b535abf578e692": 1794828024.2634065,
 "c7be8fef603e7898": 1794828024.2634065,
 "c7c28c1e6391698f": 1794250228.0065682,
