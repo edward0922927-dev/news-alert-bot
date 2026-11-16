@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794820936.9875824,
+"ai_last_review": 1794822140.4644575,
 "ai_log": [
-{
-"err": "",
-"kept": 3,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 15,
-"ok": true,
-"t": "11-13 18:02"
-},
 {
 "err": "",
 "kept": 1,
@@ -540,181 +531,18 @@
 "n": 27,
 "ok": false,
 "t": "11-16 09:22"
+},
+{
+"err": "",
+"kept": 7,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 19,
+"ok": true,
+"t": "11-16 09:42"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEtSYVEzeHNfTmkxeDJMbTVXRWxob25fM2dMU2RBRFBYOGxSV2Y2TGMyUldFeVdlMWFMc21sV2gyTWdFOFZnelItcklxdDdPaU5QQ0hJZV9OZE5PaS1rek5ZN3pXdEpURWJSdjlkRWhOSlRsUS1sZXpPN3JBUjgyaWlTNDhIa0tUQU5LQl8wT0J3X3o3d2lIZWpEVUY4NU5WNk9Vd1ZLSWc3M1BJOUxhdA?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Ukraine hits key Crimean bridge, curbing traffic, Russian governor says &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Ukraine hits key Crimean bridge, curbing traffic, Russian governor says - Reuters",
-"ts": 1794812820,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUFvQmRoWHRyMlFlNFRTc3hCTDJWQXFGd2dacHJGTThMQnFWNVJ6cDRTeHFPdDY2S3Q2RmYxLV9DNnZTcVdOMlgxT0VDM0FGZlgtZm42aXJMS0V2NWJFMnFUN2lfTzA0a0RRaHpGVVVwY3ZsN2dpNWVKZjF4a1Q0T3M1UXgzU2Zyc05taFFhWnI1VDV2MmRKYk5zQkJpR3ViR09FckNn?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "France temporarily bans firework mortars amid school protests &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "France temporarily bans firework mortars amid school protests - Reuters",
-"ts": 1794818264,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnljd04xQmFPNmJ2UXR1SGluY3NTMnI1Vm16RV9mSEJfMnowcE5UVFo1eld1TlZHRUxTdmJnTVZLY3FQQVZhTFlPaHhpdWJ3bDJWR0RoYWM2cUNiWlN0aHRqUVpzaDdsSlEwZFpWc01tMVVzMVZxMHRGbXA4WEZsdmkxZndubm1TRW5NMUNpeXh4YVBEUURvcDZWQ0UzSTR3cFdfWXZSbk9qcTJOVk1GVA?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Baidu Posts Sixth Straight Sales Drop After AI Drag Persists &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Baidu Posts Sixth Straight Sales Drop After AI Drag Persists - Bloomberg.com",
-"ts": 1794820002,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGpLUlRKTU5ubFlqd1pXNE9yYnZCV1RsMlBxTHFZRzd1ZXdHem1XMDlLb3FpLUZtSk02ckJNRzBGZ2hXRmRXMS1zbUtHcVZvXzAxU241QkU1bnF5dmFFZFpyWFVoLUNuOXlPNTdjQkZhZzBxelZwUzZSMTlwa0tZV2FDZkJraFIxQ0IyQ0lNb2NmZjIwbUdLV3h3TXk?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "What court administration entails for Revolut &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "What court administration entails for Revolut - Reuters",
-"ts": 1794820620,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "CoinDesk",
-"summary": "",
-"tags": [
-"NVDA",
-"FOMC"
-],
-"title": "FOMC minutes, Nvidia earnings, Russia\u2019s retail crypto rules: Crypto Week Ahead",
-"ts": 1794820987,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Decrypt",
-"summary": "Huang has reportedly discussed a comeback with confidants, but Treasury Secretary Scott Bessent says Nvidia needs a \"dramatic shake-up.\"",
-"tags": [
-"TSLA",
-"NVDA"
-],
-"title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
-"ts": 1794821101,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0pxOWhsOERwTHZyU2JuUjFrSENFSkNUWnlLdFBvaEdkb2NKQkxVUmNOZXVHSS1qdkJobDF6ZzB4MzdESk5BZHhaY3ZlV0JVZWRfR1FrSUc2WGdWbTVJaTN2a1hjWnRXY25yZ2R2SFRBSEYyaklDUml5ekFrWnhIbEhCd3ZxVjh2am1oMXFkZG5QaFNOa1VUUWVtcEJZWjNLVllyUG53bmZXaldEaXRKT29CeXc0aWNPLWZxVQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Singapore, US agree to continue discussing Megaspeed case, Straits Times says &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Singapore, US agree to continue discussing Megaspeed case, Straits Times says - Reuters",
-"ts": 1794821178,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Block",
-"summary": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
-"tags": [],
-"title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
-"ts": 1794821199,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15620",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "Dell Technologies has introduced two new servers powered by AMD\u2019s sixth-generation EPYC processors: the Dell PowerEdge R9825 and Dell PowerEdge R9815.Both servers feature air-cooled designs as standard, with direct liquid cooling available as an option. Dell Korea said customers can deploy high-perf",
-"tags": [
-"AMD"
-],
-"title": "Dell Unveils New Servers Powered by Sixth-Generation AMD EPYC Processors",
-"ts": 1794824221,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15653",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "Hyosung Heavy Industries will supply extra-high-voltage power equipment to SK Telecom\u2019s artificial intelligence (AI) data centers. The two companies will also collaborate on developing next-generation power technologies, including 800-volt (V) direct current (DC) distribution and solid-state transfo",
-"tags": [
-"data centers",
-"Data Centers"
-],
-"title": "Hyosung Heavy Industries to Supply Power Equipment to SK Telecom AI Data Centers",
-"ts": 1794853691,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15649",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "LS Electric will supply approximately 130 billion won worth of power equipment to an artificial intelligence (AI) data center operated by a major US technology company.LS Electric said on Nov. 16 that it had signed a $93.83 million contract with a global technology company to supply power systems.Th",
-"tags": [
-"data center"
-],
-"title": "LS Electric Wins $93.83 Million Power Equipment Deal With US Tech Giant",
-"ts": 1794853694,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.thelec.net/news/articleView.html?idxno=15629",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Elec",
-"summary": "Samsung SDI will showcase lithium iron phosphate (LFP) batteries for energy storage systems (ESS) and high-power products for artificial intelligence (AI) data centers at a US energy industry exhibition.Samsung SDI said on Nov. 15 that it will participate in RE+ 2026 in Las Vegas. The three-day even",
-"tags": [
-"data centers"
-],
-"title": "Samsung SDI to Unveil ESS Batteries at RE+ 2026",
-"ts": 1794853736,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -781,9 +609,9 @@
 },
 "last_date": "2026-11-13"
 },
-"_last_check": 1794817854.1954129
+"_last_check": 0
 },
-"last_run": 1794821450.4392083,
+"last_run": 1794822155.4071748,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1890,6 +1718,7 @@
 "165d9007748f9bfd": 1794295841.2960658,
 "165e4b12216ee8d4": 1794496825.0216095,
 "16600912ea813d08": 1794518426.1797802,
+"1660e8da986ff62c": 1794822037.0163786,
 "166680f65e03b05b": 1794672623.5060716,
 "166e1a8294974964": 1794336024.4023893,
 "16809c77403a072d": 1794228625.7348583,
@@ -2214,6 +2043,7 @@
 "1cde162ed3adea32": 1794060010.396961,
 "1cdfe1f9e47d8db3": 1794812457.8102336,
 "1ce162e5b855ac45": 1794302427.8214426,
+"1ce1dec23a4443b9": 1794822037.0163786,
 "1cecd6d421e5014f": 1794516025.4582257,
 "1cf2a2f9375c9b7b": 1794639651.002237,
 "1cfa01240704a27d": 1794466847.0948906,
@@ -2618,6 +2448,7 @@
 "245a2552466b3529": 1794225653.3544042,
 "245af53cb2d1f27a": 1794294057.2981856,
 "245c638ae781d66b": 1794733251.876912,
+"24609585ef5c2761": 1794822037.0163786,
 "2460b71211ef7957": 1794136824.1662278,
 "2465a685fcedf630": 1794559823.6296525,
 "2465cb34db03cb7e": 1794697827.267664,
@@ -4138,6 +3969,7 @@
 "407e253f783e386a": 1794258625.424642,
 "40826a6a71b92a3b": 1794521423.7718086,
 "408382f3d23b69af": 1794466847.0948906,
+"408b075cbe49d2c5": 1794822037.0163786,
 "4091eabab38f0cef": 1794489626.5939486,
 "4099316f0de9e436": 1794784823.9320164,
 "40a1a6204700bca3": 1794466847.0948906,
@@ -4786,6 +4618,7 @@
 "4cfd2bc6eb08536a": 1794176424.6910276,
 "4d0173061d483da6": 1794417111.777808,
 "4d0a71a207787791": 1794306641.07634,
+"4d0c10b2c2346029": 1794822037.0163786,
 "4d14296bde83748d": 1794466847.0948906,
 "4d1c3cdee6a9356a": 1794090024.092463,
 "4d21730dd8e781aa": 1794349844.933684,
@@ -5118,6 +4951,7 @@
 "53c9f8c00a5bba75": 1794070853.5888453,
 "53cb96f1180072ac": 1794812457.8102336,
 "53ce1911db6b6764": 1794420049.9604123,
+"53ce8a9bbc473f46": 1794822037.0163786,
 "53ceb01ac56e7d3f": 1794151225.6597934,
 "53cf42e46cd7cdca": 1794207655.353521,
 "53d44c9aa9abf9b0": 1794609044.361693,
@@ -7517,6 +7351,7 @@
 "8332a6f54b3dd459": 1794380451.074071,
 "833813912880ac65": 1794554424.4818478,
 "833ddec032b5b69d": 1794079839.2548869,
+"833e63e9d0db6d6e": 1794822037.0163786,
 "83463bcbee01c391": 1794228625.7348583,
 "834b9c55a6fa8012": 1794555623.064874,
 "8350d62f5a4f5544": 1794495654.5774844,
@@ -8316,6 +8151,7 @@
 "92d4b3d6a88201c4": 1794351653.6511967,
 "92d4ec5449db3446": 1794468024.138138,
 "92d519531c4d4fae": 1794380451.074071,
+"92d9c8b144ab9cd8": 1794822037.0163786,
 "92dae441ae0be4e9": 1794294057.2981856,
 "92dd781bb0d2139a": 1794079224.7359486,
 "92e3c022195bf94b": 1794237626.3538754,
@@ -8585,6 +8421,7 @@
 "9843a67312981cbe": 1794217823.792214,
 "984547a6b5061f6b": 1794345025.53064,
 "98459a0b74fd12c6": 1794399624.5316026,
+"98470a8d8db4a566": 1794822037.0163786,
 "98479cdeb4d10a75": 1794053146.8970654,
 "984a0a13cc7e60a7": 1794075023.4417136,
 "984a63a57c5a2c8e": 1794133224.9019783,
@@ -9214,6 +9051,7 @@
 "a52f1285972c0e2e": 1794755433.9717534,
 "a52f6ba54dee86f0": 1794432030.7467659,
 "a533db1ff4786578": 1794385221.6704128,
+"a5342eefa9dddafa": 1794822037.0163786,
 "a5367c805a451c2e": 1794654052.6240277,
 "a5417b117981856d": 1794496825.0216095,
 "a541b1e8ae3594fd": 1794423022.5466254,
@@ -13095,6 +12933,7 @@
 "ef217af79ef7097a": 1794327026.3092759,
 "ef27a8c1e01478b1": 1794471021.9148986,
 "ef2b0271a4d86612": 1794330627.8580275,
+"ef2ce0a0152c3d05": 1794822037.0163786,
 "ef3397842c8e8075": 1794318026.068809,
 "ef38696401a69094": 1794468024.138138,
 "ef38b221024eba3f": 1794310242.809073,
@@ -15715,6 +15554,7 @@
 "261331621f5637e1": 1794328242.1321893,
 "26154edc3ec5b77a": 1794577228.5573788,
 "2618111c9fbe11fb": 1794320424.8171039,
+"26185f9af2f49a5d": 1794822037.0163786,
 "2630be4dec0e5b6e": 1794314423.5789354,
 "263617d3d8d868d3": 1794176424.6910276,
 "2639282bc325c517": 1794486023.9169981,
@@ -15731,6 +15571,7 @@
 "26648a9f582c3883": 1794643251.6467984,
 "26670472475402aa": 1794294057.2981856,
 "266b4f8b6063b419": 1794207655.353521,
+"266dfcf611a2605f": 1794822037.0163786,
 "2673d161784e7d48": 1794294057.2981856,
 "267aeed2c200f279": 1794296423.7597058,
 "26820636746f5fa9": 1794493226.1332557,
@@ -20995,6 +20836,7 @@
 "96483ae6e15fed5f": 1794307223.432283,
 "964ede33da9e1e97": 1794747886.992174,
 "9654bb86fdd526ca": 1794606028.3801425,
+"96558539dd602bb6": 1794822037.0163786,
 "9659e3436580c81a": 1794599423.2374692,
 "965b98eba27a3010": 1794207655.353521,
 "96606e0e6551534e": 1794207655.353521,
@@ -21320,6 +21162,7 @@
 "9d2cd750e10f9bdc": 1794231625.7466462,
 "9d2fd7c27c151ec2": 1794121251.8481042,
 "9d343f82e22352cf": 1794294057.2981856,
+"9d3a74078ad1b8fc": 1794822037.0163786,
 "9d476a5393bab72b": 1794610854.8571496,
 "9d4a1ff24ed14315": 1794349221.7950053,
 "9d4e035f591a6d81": 1794235227.58563,
@@ -23110,6 +22953,7 @@
 "c1af5104742de641": 1794516624.7725692,
 "c1bb8426d7fade17": 1794413426.5364234,
 "c1c5ffa483cac9f6": 1794228023.5425556,
+"c1d2d175194cbfd9": 1794822037.0163786,
 "c1d9092ec5cebd81": 1794821440.8058648,
 "c1da2aeda41832f8": 1794213626.9912028,
 "c1dfc0feb0ed56b4": 1794417625.2380702,
@@ -24524,6 +24368,7 @@
 "deb028d172e9f079": 1794558639.9624033,
 "deb84ab1c56c87ee": 1794090024.092463,
 "debe3e61bd23a02d": 1794058663.5416367,
+"dec3bf412b87acce": 1794822037.0163786,
 "dec50cab24280f34": 1794487822.3175094,
 "dec71e3466bfa0bd": 1794489036.1626346,
 "decc589f4c9ecc55": 1794466847.0948906,
@@ -25987,6 +25832,7 @@
 "fdf3af17aeb1b3d6": 1794494426.657751,
 "fdfbb64a1d4cc4fe": 1794310823.0024471,
 "fe00c16abdcf980a": 1794256242.8438334,
+"fe00f483e4bffe09": 1794822037.0163786,
 "fe08080a9edf4986": 1794697827.267664,
 "fe11bac98c51b312": 1794380451.074071,
 "fe19a2c0252aae56": 1794408622.988186,
