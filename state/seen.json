@@ -542,13 +542,161 @@
 "t": "11-16 11:51"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/citi-raises-spacex-stock-price-target-on-starship-progress-93CH-5029136",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Citi raises SpaceX stock price target on Starship progress",
+"ts": 1794829213,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672907-analysts-expect-a-slow-recovery-for-kraft-heinz?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Analysts expect a slow recovery for Kraft Heinz",
+"ts": 1794829615,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/barclays-upgrades-chemical-makers-on-pricing-strength-tighter-supply-5029180",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Barclays upgrades chemical makers on pricing strength, tighter supply",
+"ts": 1794829700,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672914-xtend-ai-robotics-gaap-eps-of-045-revenue-of-149m-misses-by-82m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Xtend AI Robotics GAAP EPS of -$0.45, revenue of $14.9M misses by $8.2M",
+"ts": 1794829705,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672902-uber-expands-canadian-retail-push-with-best-buy-delivery-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Uber expands Canadian retail push with Best Buy delivery deal",
+"ts": 1794829751,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/why-is-humana-stock-climbing-today-93CH-5029193",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Why is Humana stock climbing today?",
+"ts": 1794829869,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672916-minera-alamos-non-gaap-eps-of-001-revenue-of-3265m-on-track-to-achieve-2026-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Minera Alamos Non-GAAP EPS of $0.01, revenue of $32.65M; on track to achieve 2026 guidance",
+"ts": 1794829884,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/us-stock-futures-little-changed-as-investors-await-nvidia-earnings-5028292",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [
+"NVDA"
+],
+"title": "Nasdaq, S&P futures fall with Nvidia earnings, Anthropic debut looming",
+"ts": 1794830014,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/nvidia-set-to-deliver-first-lifeafterhuang-briefing-5029204",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [
+"NVDA"
+],
+"title": "Nvidia set to deliver first life-after-Huang briefing",
+"ts": 1794830082,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/unicredit-wins-eu-and-us-approval-for-commerzbank-acquisition-5029209",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "UniCredit wins EU and US approval for Commerzbank acquisition",
+"ts": 1794830096,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4672913-hyperscale-data-lifts-preliminary-q3-revenue-estimate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Hyperscale Data lifts preliminary Q3 revenue estimate",
+"ts": 1794830206,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-16T09:00"
+"last_date": "2026-11-16T11:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +706,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-16T09:00"
+"last_date": "2026-11-16T11:00"
 },
 "FNG": {
 "cool": {
@@ -580,11 +728,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-16T09:00"
+"last_date": "2026-11-16T11:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-16T09:00"
+"last_date": "2026-11-16T11:00"
 },
 "UST10Y": {
 "cool": {
@@ -609,9 +757,9 @@
 },
 "last_date": "2026-11-13"
 },
-"_last_check": 0
+"_last_check": 1794830526.763754
 },
-"last_run": 1794829922.5257485,
+"last_run": 1794830548.781302,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -800,6 +948,7 @@
 "0331097b7736a682": 1794494426.657751,
 "0334723449e9ccae": 1794342025.2153375,
 "033d1de35dfa1532": 1794494426.657751,
+"03495ba9b62fa475": 1794830462.0540502,
 "0355b74ee87516bc": 1794430653.1918259,
 "0358de60b25d1745": 1794553252.738333,
 "035cb8d955434838": 1794577228.5573788,
@@ -830,6 +979,7 @@
 "03dfdcbf113950df": 1794469822.9927154,
 "03e019919659dcdc": 1794294057.2981856,
 "03e401a005d5d53c": 1794650448.3692777,
+"03f26ffdda659474": 1794830462.0540502,
 "03f77c211a05b858": 1794410424.1208882,
 "03f7dda1af3a44b3": 1794219024.1165798,
 "03febf14717ce5f1": 1794250859.8781228,
@@ -1731,6 +1881,7 @@
 "164e5a5da9ecdeb4": 1794380451.074071,
 "164fc759b68919f4": 1794353439.0629678,
 "164fc7aeb87faf06": 1794090024.092463,
+"16514709404ecec6": 1794830462.0540502,
 "1652b282a561225d": 1794654052.6240277,
 "1653c0cb8315936d": 1794661257.6211615,
 "165d9007748f9bfd": 1794295841.2960658,
@@ -6482,6 +6633,7 @@
 "70315823546a857e": 1794121251.8481042,
 "70363c9b200b07ab": 1794053146.8970654,
 "7036f0bdbf5c756b": 1794055787.7739694,
+"7041d438f1a44dd1": 1794830462.0540502,
 "70485d5f0189fc26": 1794553252.738333,
 "705f70b56ddd3b82": 1794480024.280059,
 "7066bf97be22c6d2": 1794234029.8370936,
@@ -7984,6 +8136,7 @@
 "8d5fb62caa18fdd8": 1794069041.6001287,
 "8d626d44a4d20269": 1794639651.002237,
 "8d6313b13d905171": 1794582061.9461782,
+"8d64336afca557fc": 1794830462.0540502,
 "8d740ba0ffec59a3": 1794643251.6467984,
 "8d75afce76b24403": 1794053146.8970654,
 "8d773f83cccb53c7": 1794740464.3976526,
@@ -8291,6 +8444,7 @@
 "934f6b50dd9e1c18": 1794303626.3132353,
 "9355c9893e5b88ec": 1794499252.6606731,
 "935dfd78ffb09152": 1794066518.762267,
+"936035d44d14a1a4": 1794830462.0540502,
 "9374537fd400e0d9": 1794079224.7359486,
 "9375e87bc70de344": 1794493226.1332557,
 "9376be25c55484a6": 1794129624.9673119,
@@ -8831,6 +8985,7 @@
 "9e73eae42d9fb00f": 1794125424.4951053,
 "9e7fb30e3d87b2a6": 1794482423.8483984,
 "9e81e02def3623f5": 1794259850.2098105,
+"9e831afcc71ecbc8": 1794830462.0540502,
 "9e8b7ea0b168c13b": 1794129624.9673119,
 "9e8fc8b08720628e": 1794151225.6597934,
 "9e92bd5b0b0c06c4": 1794483623.074817,
@@ -9980,6 +10135,7 @@
 "b3d149aa821eb99f": 1794522022.9497743,
 "b3d7df68e13041e6": 1794080428.0610616,
 "b3e051e0685681d0": 1794820823.8602707,
+"b3eb44a7a2702d95": 1794830462.0540502,
 "b3f9278339f76584": 1794294057.2981856,
 "b3fac4580aa15ffe": 1794380451.074071,
 "b3fcf6bccbe3a42d": 1794380451.074071,
@@ -10267,6 +10423,7 @@
 "b956710e3c826764": 1794302427.8214426,
 "b957989e057b0db5": 1794553252.738333,
 "b95b88ae7b3794c8": 1794740464.3976526,
+"b95eb0c083a4fbc8": 1794830462.0540502,
 "b95fa2ca4dc777fd": 1794755433.9717534,
 "b961f3cc020b4ec7": 1794053146.8970654,
 "b96bd5ec0232fad0": 1794576029.428241,
@@ -12115,6 +12272,7 @@
 "db3afe875ebbd05a": 1794227444.8368437,
 "db3c35ff767b988c": 1794058663.5416367,
 "db3dab8307445132": 1794207655.353521,
+"db40ea7dd5501f5c": 1794830462.0540502,
 "db41aaccf327c0ad": 1794247257.3744018,
 "db44ba6a3cbf2845": 1794514824.538045,
 "db4c902fcb3b3f98": 1794348622.3454998,
@@ -13463,6 +13621,7 @@
 "f5dd63a62f53f2e6": 1794058663.5416367,
 "f5ddd2c36f34ff64": 1794694224.7511728,
 "f5e1e3f780888eac": 1794244224.5102243,
+"f5f214eaaba43664": 1794830462.0540502,
 "f5f506b3f2fb2a7d": 1794417625.2380702,
 "f5f5a6c9a3159330": 1794232853.9654045,
 "f5f76b970462a19d": 1794090024.092463,
@@ -14905,6 +15064,7 @@
 "14150e45aa126d66": 1794430653.1918259,
 "141a92417f71895e": 1794053146.8970654,
 "141e881c4e5e6756": 1794814826.9861326,
+"1428ccb887bd7be5": 1794830462.0540502,
 "143052f08890c4f7": 1794436236.6229744,
 "1437d9c37dec22d8": 1794324648.7021484,
 "144a7a84c031bdfb": 1794676225.6021314,
@@ -15233,6 +15393,7 @@
 "1b6db06fe8a4a8ea": 1794582626.619808,
 "1b722f09d61dcc16": 1794435021.8575943,
 "1b73355eed748a03": 1794405650.4852784,
+"1b7495edf8fbaf13": 1794830462.0540502,
 "1b7601285f898d14": 1794586827.1055727,
 "1b7dfab04bc03429": 1794090024.092463,
 "1b9d610448d84163": 1794151225.6597934,
@@ -17143,6 +17304,7 @@
 "41fe49fd1724aa41": 1794759035.471768,
 "42027de74cfa296c": 1794090024.092463,
 "420bc85c081c3759": 1794474627.5078099,
+"420ce79003168f5e": 1794830462.0540502,
 "420e657822a4b7c1": 1794520225.482529,
 "421205d8247f2438": 1794053146.8970654,
 "421530e69491f9c9": 1794479439.6312976,
@@ -17689,6 +17851,7 @@
 "4d547cd85278a4f9": 1794587446.8583572,
 "4d5fc61a064e4c66": 1794353439.0629678,
 "4d654d77ca53a6bd": 1794301829.133516,
+"4d665966a58fb346": 1794830462.0540502,
 "4d6aef9fc1a8e3ae": 1794473421.2667904,
 "4d710736a0b26539": 1794423649.5969415,
 "4d737382a832e1cd": 1794420624.586875,
@@ -21121,6 +21284,7 @@
 "9703d80cfa43350a": 1794480621.4125366,
 "97086f2edd768dd9": 1794207655.353521,
 "970a1f37059d3f21": 1794129624.9673119,
+"970b80da72bc8508": 1794830462.0540502,
 "970d1ef9f14f3c4c": 1794294057.2981856,
 "970f2fa050ad0185": 1794391797.617886,
 "9712e1ea01ca585a": 1794522022.9497743,
@@ -21294,6 +21458,7 @@
 "9a7438b52b2c3464": 1794553252.738333,
 "9a76387b63fa74ab": 1794654052.6240277,
 "9a7660dfae11355e": 1794661257.6211615,
+"9a7d11a171d2e8ad": 1794830462.0540502,
 "9a7f5ce266ff423b": 1794821440.8058648,
 "9a8034581900082e": 1794553252.738333,
 "9a85dffcf83fea24": 1794218488.7102273,
@@ -21744,6 +21909,7 @@
 "a40b726275f8cc11": 1794500033.245441,
 "a4200edc61e57057": 1794300625.907344,
 "a42a6620910db378": 1794380451.074071,
+"a4304d24749abd57": 1794830462.0540502,
 "a430c386b2824d9e": 1794755433.9717534,
 "a431f7bec44beebc": 1794522022.9497743,
 "a433e9aed5a38c97": 1794556225.832143,
@@ -22316,6 +22482,7 @@
 "af66614ad4a3de4c": 1794090024.092463,
 "af667d013166b31c": 1794070853.5888453,
 "af689c6f6de0959e": 1794058663.5416367,
+"af6dea8e1c488304": 1794830462.0540502,
 "af737aeef28ce79e": 1794338424.1118333,
 "af758956c0a17b1d": 1794319825.0401058,
 "af7a340318ac22f9": 1794466847.0948906,
@@ -22575,6 +22742,7 @@
 "b4fcdb2618abbfd3": 1794679824.3245559,
 "b50a5965ca6dfcbd": 1794129624.9673119,
 "b511867382319eb1": 1794207655.353521,
+"b511922a540ae0c9": 1794830462.0540502,
 "b51270ed825fbca0": 1794325226.4663944,
 "b51953f27b2f920a": 1794331841.6847267,
 "b529360687616e8b": 1794610854.8571496,
@@ -23084,6 +23252,7 @@
 "be9f002c5cdab9b1": 1794639651.002237,
 "bea8ec5ccad66d96": 1794261654.088547,
 "bea9ff6f7a7da1a7": 1794646850.1928723,
+"bec68f288b7cc30d": 1794830462.0540502,
 "becf1979f2b405d9": 1794053146.8970654,
 "bed07d8fabdffa53": 1794480024.280059,
 "bed6f7815bef23b5": 1794246025.5884385,
@@ -24781,6 +24950,7 @@
 "e0b4f832c6268af6": 1794382236.912113,
 "e0c66ee440aa5e6d": 1794431426.5168767,
 "e0c6aa6565872e5f": 1794129624.9673119,
+"e0d13ea5ff3160ed": 1794830462.0540502,
 "e0d2f3831b05c014": 1794380451.074071,
 "e0d3002a975e169d": 1794469221.7331192,
 "e0db5be62897feb0": 1794816053.4025834,
