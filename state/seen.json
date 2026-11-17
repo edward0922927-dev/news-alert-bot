@@ -542,13 +542,157 @@
 "t": "11-17 20:41"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeTRFdTVTX2lLOFVzcEJ4OXRKclJtR1BnUzdaQnNpdmVsdnNZMVBpX0lTWVRaQVFISWdoTDBPeHJaM1lrMV84TkZ3empIeEhGNGJTMXRJeW5Ya0kzRjdkbHlkS2V3WklvcnZacEZaN25OTUJMVDdXazBzc3dGWS1ZOFV4TjRCUWhtQThMUGJKNWJ1TUhEUElTX1VXb21GR3BEaUdNTDdwei05aC1la3Bn?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Missiles From Startup Destinus Helped Destroy Crimea Bridge &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Missiles From Startup Destinus Helped Destroy Crimea Bridge - Bloomberg.com",
+"ts": 1794936062,
+"unmatched": true
+},
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWN3X2JtemdFeTlNc29CSngzMkRHSGV1ODhTOGZINllOc21nVG45U01MSjljVVR1QnFmaTVuTnUyd0dnWVBaNk5JdFhJeWFTczFuVjVISV9lVzhTU1ZZZ1VCQmw3VE1uLVFnQnNiV09zLU14N1RSRnkyTGdjanlRMk5pMy0?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u878d\u8cc7",
+"summary": "Marine Le Pen floats lowering France\u2019s retirement age to as low as 60 &nbsp;&nbsp; Financial Times",
+"tags": [],
+"title": "Marine Le Pen floats lowering France\u2019s retirement age to as low as 60 - Financial Times",
+"ts": 1794936762,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "MarketWatch",
+"summary": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
+"tags": [],
+"title": "Private equity has been buying up hospice centers \u2014 with striking consequences",
+"ts": 1794948000,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673883-adia-med-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Adia Med reports Q3 results",
+"ts": 1794948006,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673885-family-office-of-america-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Family Office of America reports Q3 results",
+"ts": 1794948166,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673888-palatin-targets-phase-i-start-in-first-half-of-calendar-2027-for-lead-mc4r-lipidated-peptide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Palatin targets phase I start in first half of calendar 2027 for lead MC4R lipidated peptide",
+"ts": 1794948270,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/converge/regulation/fdic-proposes-rules-for-custodial-deposit-exemption",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "The proposal details which client funds smaller banks could exclude from brokered deposits, with potential savings on deposit-insurance assessments.",
+"tags": [],
+"title": "FDIC Proposes Rules for Custodial-Deposit Exemption",
+"ts": 1794948301,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673890-next-hydrogen-solutions-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Next Hydrogen Solutions reports Q3 results",
+"ts": 1794948379,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673891-nexscient-gaap-eps-of-000-revenue-of-116m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Nexscient GAAP EPS of $0.00, revenue of $1.16M",
+"ts": 1794948465,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673884-waymo-pauses-all-highway-rides-after-setback-in-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Waymo pauses all highway rides after a setback in California",
+"ts": 1794948534,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673892-modern-mining-technology-gaap-eps-of-028?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Modern Mining Technology GAAP EPS of -$0.28",
+"ts": 1794948560,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-17T18:00"
+"last_date": "2026-11-17T19:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +702,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-17T18:00"
+"last_date": "2026-11-17T19:00"
 },
 "FNG": {
 "cool": {
@@ -582,11 +726,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-17T18:00"
+"last_date": "2026-11-17T19:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-17T18:00"
+"last_date": "2026-11-17T19:00"
 },
 "UST10Y": {
 "cool": {
@@ -613,9 +757,9 @@
 },
 "last_date": "2026-11-16"
 },
-"_last_check": 0
+"_last_check": 1794948634.672871
 },
-"last_run": 1794948125.9707165,
+"last_run": 1794948657.504872,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1686,6 +1830,7 @@
 "11ee93a16655cf5b": 1794816624.697216,
 "11f5832cbd6d37cd": 1794492052.5954537,
 "11f9b0ddd223596a": 1794090024.092463,
+"11fa25c305dea1ab": 1794948623.2692866,
 "11fd33b4158ff8ec": 1794129624.9673119,
 "120215ebfb5d4efb": 1794490241.0443716,
 "120358e7cf0e1b6e": 1794841825.0479877,
@@ -3380,6 +3525,7 @@
 "2ba90f077fa2cd54": 1794556853.396381,
 "2baff10fcd2b0212": 1794437421.737116,
 "2bb34fbf8e45c2d7": 1794212427.3416302,
+"2bb9a87f63a63abb": 1794948623.2692866,
 "2bbc9dd0e1e6df85": 1794553252.738333,
 "2bc1166d05a30b75": 1794840636.8185883,
 "2bc6e6b5d0d07190": 1794933050.2404807,
@@ -3425,6 +3571,7 @@
 "2c5d5234808cad5a": 1794661257.6211615,
 "2c6162be3eab4fdf": 1794121251.8481042,
 "2c66a4a1b7787fc5": 1794932430.6081858,
+"2c67d9bbdb2198cb": 1794948623.2692866,
 "2c6b043d712c8548": 1794554424.4818478,
 "2c7187e6d252ccb3": 1794311424.003163,
 "2c79986ad6f6b1b2": 1794405650.4852784,
@@ -4942,6 +5089,7 @@
 "449534ada8aaf416": 1794090024.092463,
 "4497bc9066cbda9b": 1794466847.0948906,
 "44987794921b54d8": 1794223842.150146,
+"449936f5d791b94c": 1794948623.2692866,
 "449dd033c259f768": 1794774024.7173462,
 "44a65f029a953e78": 1794813634.065804,
 "44b055bfb32fa455": 1794069624.2005684,
@@ -5321,6 +5469,7 @@
 "4aa645fce4dbb256": 1794918028.1423836,
 "4aa74af3cfbade41": 1794489036.1626346,
 "4aaf7058119f35f3": 1794942881.587334,
+"4ab29c59d503ead0": 1794948623.2692866,
 "4ab8102c6089a0e7": 1794512437.91084,
 "4aba3225d2607474": 1794262824.4868238,
 "4abb046b475241b4": 1794479439.6312976,
@@ -6138,6 +6287,7 @@
 "57bae4bfef5c4663": 1794072025.2238693,
 "57bb0eca6601b3e4": 1794910825.2196436,
 "57bc8f0859089ad1": 1794553252.738333,
+"57c14369cf714b01": 1794948623.2692866,
 "57c463cde2d9e754": 1794385221.6704128,
 "57d16c2d5c4420e3": 1794525625.227499,
 "57dc7b3582040fd9": 1794348047.2236443,
@@ -7214,6 +7364,7 @@
 "692d143eb0c76ebf": 1794252642.0442708,
 "6931d17b801b4fea": 1794405650.4852784,
 "6932a752fd2eda20": 1794325226.4663944,
+"69352990ab432260": 1794948623.2692866,
 "6935eb29667a4191": 1794668452.1981072,
 "6935f31a131fa8fd": 1794261654.088547,
 "69379d83aa25aaa4": 1794664849.8725064,
@@ -8871,6 +9022,7 @@
 "851aba037d09a622": 1794922826.4302015,
 "851d083ae2eaad57": 1794380451.074071,
 "85239a18d0f7d7ff": 1794817844.8736691,
+"85247d66b0f8ef35": 1794948623.2692866,
 "8527cd8a558c8c9b": 1794923427.6688526,
 "852b1e734ff159ef": 1794305426.239695,
 "852c01a3f781f2f9": 1794319254.2679577,
@@ -10229,6 +10381,7 @@
 "9add6eb825fe15f8": 1794766822.8655136,
 "9adfd8d5ca28b85b": 1794919826.0019917,
 "9adfdc0261a43bd8": 1794294057.2981856,
+"9aede85a97bb96de": 1794948623.2692866,
 "9aee9a96c8ce200c": 1794211829.3207283,
 "9aefe62cee48f62f": 1794821440.8058648,
 "9af1e66aec011c28": 1794267040.2523782,
@@ -10478,6 +10631,7 @@
 "9f5c6cf749d0ccef": 1794380451.074071,
 "9f60578c96c6348d": 1794676225.6021314,
 "9f6917d836a65a8a": 1794898855.1759124,
+"9f6d6cf1fa163765": 1794948623.2692866,
 "9f6e58269cc6b12a": 1794090024.092463,
 "9f72283dc01ea77d": 1794477651.6975112,
 "9f74427ada01396a": 1794676225.6021314,
@@ -12942,6 +13096,7 @@
 "c5bfdab8f74db60b": 1794409250.9206789,
 "c5c7ac2f31676f06": 1794424831.721633,
 "c5cb69d72df3dba4": 1794814826.9861326,
+"c5d1cfcca964dc07": 1794948623.2692866,
 "c5d201ae464df449": 1794469221.7331192,
 "c5e381f773b454cf": 1794413426.5364234,
 "c5e6786b8f124079": 1794572423.7774122,
@@ -13699,6 +13854,7 @@
 "d149c6dec01d155a": 1794726050.5794117,
 "d14a5608e1949e31": 1794515442.8235493,
 "d14ae2b68bb44c08": 1794525026.078514,
+"d1541ba0f5a0cd82": 1794948623.2692866,
 "d155c38b8335bd45": 1794856826.4626367,
 "d1566e0963bcc255": 1794556853.396381,
 "d16608a228ad5891": 1794496825.0216095,
@@ -15045,6 +15201,7 @@
 "e71b326ed4db9b91": 1794169225.368316,
 "e71b4ef76c9ca4ad": 1794090024.092463,
 "e71c7e05868fadd2": 1794053146.8970654,
+"e72c73ae1bd0d862": 1794948623.2692866,
 "e733949ce325dee5": 1794925844.5959115,
 "e7388bb602e16951": 1794848455.616578,
 "e744896f3e728662": 1794936645.8912413,
@@ -16473,6 +16630,7 @@
 "fea17261d3baa544": 1794493226.1332557,
 "feac4226ee9e11a7": 1794332440.321116,
 "feb44f6d2691041f": 1794920454.7222776,
+"feb7f9977df664d3": 1794948623.2692866,
 "fec23945de5afd09": 1794066518.762267,
 "fec2b83744bf3fee": 1794912025.7195742,
 "fecd2b0227dc9ab3": 1794330055.137018,
@@ -16822,6 +16980,7 @@
 "04c9a7d226bdfee7": 1794297025.7499537,
 "04cafc0d9d66a9fa": 1794612641.4206915,
 "04cb30e503640438": 1794482423.8483984,
+"04cb53f0a84c972c": 1794948623.2692866,
 "04d1965d05f3e5b0": 1794319254.2679577,
 "04d72c9cb58ab58b": 1794898855.1759124,
 "04dcefa2679a37f2": 1794090024.092463,
@@ -20429,6 +20588,7 @@
 "4354e972d1c2565a": 1794144023.650658,
 "4358c266df237905": 1794919826.0019917,
 "435965b3a2a0abf3": 1794650448.3692777,
+"435c59361c2cfb83": 1794948623.2692866,
 "43661a3644051220": 1794592225.4648783,
 "43665f8040f14c1e": 1794481825.880578,
 "436b3c9213534177": 1794176424.6910276,
@@ -23946,6 +24106,7 @@
 "823417ccb0a13a5c": 1794726050.5794117,
 "8234bfcc17a4c0a0": 1794483042.7861938,
 "823613d2c7165dfa": 1794586230.6376176,
+"8239a72be1e8681d": 1794948623.2692866,
 "824334c939e224df": 1794207655.353521,
 "8249f14843e0d72d": 1794229254.159377,
 "825012acbf9fb4e6": 1794583844.0482495,
@@ -24908,6 +25069,7 @@
 "9326a5352a6dc7f0": 1794812457.8102336,
 "93405507d48ed10d": 1794759035.471768,
 "9340daaaa7ccba47": 1794207655.353521,
+"9345f0287ef0666c": 1794948623.2692866,
 "93471a4b36dd54a8": 1794472237.104473,
 "934f5cb4b44f321f": 1794907227.2219234,
 "935010d23456cf6f": 1794263443.2975552,
@@ -25573,6 +25735,7 @@
 "9e5b24452e71fadb": 1794646850.1928723,
 "9e5ffd7f6fa58130": 1794726050.5794117,
 "9e67a7c238ebee3b": 1794258625.424642,
+"9e683b38ed772e43": 1794948623.2692866,
 "9e689e6143b763e2": 1794937829.209939,
 "9e6b449c215f3c46": 1794436824.2970095,
 "9e6ffc8c4d2a40c0": 1794499252.6606731,
@@ -26717,6 +26880,7 @@
 "b1c5b7f7fc5aa285": 1794466847.0948906,
 "b1c670feb5ea1444": 1794553252.738333,
 "b1cc95f42a9af9d0": 1794603026.4555879,
+"b1cc9ec7cc7e0726": 1794948623.2692866,
 "b1ce05ae126e1051": 1794933050.2404807,
 "b1d1a165f8bac2e2": 1794223842.150146,
 "b1d3ef4a6d8544e3": 1794784823.9320164,
@@ -27688,6 +27852,7 @@
 "c240d9878a8165ea": 1794474627.5078099,
 "c241ef095cfff70f": 1794090024.092463,
 "c24232350ca26083": 1794733251.876912,
+"c245be4e028b844a": 1794948623.2692866,
 "c24af9592f62821d": 1794310242.809073,
 "c25663427e82e6fb": 1794831630.3882475,
 "c25ab055eb1e49c2": 1794736860.6169236,
@@ -28103,6 +28268,7 @@
 "c932c918b2c0510f": 1794854423.910638,
 "c933267d602b27ca": 1794240627.3822312,
 "c934b6b59a464604": 1794828642.7782462,
+"c938e20ce40e27a1": 1794948623.2692866,
 "c940fd954a7a776b": 1794469822.9927154,
 "c94efa54149d1356": 1794336024.4023893,
 "c95259de1fd71981": 1794090024.092463,
@@ -30180,6 +30346,7 @@
 "ed0c6031b0d835a0": 1794929444.6381776,
 "ed0e2649452b2f03": 1794733251.876912,
 "ed136dcc71a52fb9": 1794490241.0443716,
+"ed17953dfd896d3b": 1794948623.2692866,
 "ed17d03496f51513": 1794090024.092463,
 "ed1834f255238d35": 1794382236.912113,
 "ed1b822bda0cd516": 1794213626.9912028,
@@ -30443,6 +30610,7 @@
 "f162f164f816b083": 1794333323.0978487,
 "f166ae833d6f5bab": 1794423022.5466254,
 "f16cdbc1c8064c24": 1794906639.260199,
+"f16db3eee15433e7": 1794948623.2692866,
 "f1706d790d9b00e2": 1794495024.9189398,
 "f17166bf87bee35f": 1794417111.777808,
 "f1740e5e399386c6": 1794435021.8575943,
@@ -30639,6 +30807,7 @@
 "f4d5190cb75e7d1a": 1794333323.0978487,
 "f4e1d85ed79a6707": 1794488450.726929,
 "f4e417c8b9fc390b": 1794900033.2937236,
+"f4f0d16017c1a52f": 1794948623.2692866,
 "f4f2a90ae465a5ff": 1794053146.8970654,
 "f4f46dcf3e3a448b": 1794487221.4696975,
 "f4fc46506fe8beec": 1794726050.5794117,
@@ -30996,6 +31165,7 @@
 "fb18f8922799b9e3": 1794060010.396961,
 "fb1b7e57881af662": 1794400828.886451,
 "fb1bcef05d9e22d7": 1794176424.6910276,
+"fb1eb47ca0b6d7fb": 1794948623.2692866,
 "fb1fb219a9570ef3": 1794945033.7249732,
 "fb1fb69394b4c94e": 1794581426.666685,
 "fb218c0bddff80f9": 1794639651.002237,
