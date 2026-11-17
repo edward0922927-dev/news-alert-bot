@@ -542,13 +542,40 @@
 "t": "11-17 08:01"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb01SbktQd3U1ekI4M0szX3R3V1dweUM3SUdLTVQ3LXRzSE5sWEU0UDk3emRBQzVmLUxwX1JkZHNnSHFZTEUtNElQVlc3elkyMGNJYnc3eFpaT240NENvX3dpTjZaT0FUZk9FeC1xR0FYaHRqNzJERFh5M3BGWERQdDBfZzlaWjZNMERfYTRzRDBsNjB4VjVxU1RYb2tZWU9ZTVUyVFViR2tBbHhPMXcwN01nYkwwNVFaQkt4NXpuNl9wR0toSk1hX2RIYw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "EXCLUSIVE: US presses UN agency over Taiwan flight restrictions, China hits back &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "EXCLUSIVE: US presses UN agency over Taiwan flight restrictions, China hits back - Reuters",
+"ts": 1794891960,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673468-elbit-systems-beats-q3-street-views?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Elbit Systems beats Q3 street views",
+"ts": 1794902519,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-17T06:00"
+"last_date": "2026-11-17T07:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +585,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-17T06:00"
+"last_date": "2026-11-17T07:00"
 },
 "FNG": {
 "cool": {
@@ -582,11 +609,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-17T06:00"
+"last_date": "2026-11-17T07:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-17T06:00"
+"last_date": "2026-11-17T07:00"
 },
 "UST10Y": {
 "cool": {
@@ -613,9 +640,9 @@
 },
 "last_date": "2026-11-16"
 },
-"_last_check": 1794898865.2806175
+"_last_check": 1794903034.1554759
 },
-"last_run": 1794902483.0972712,
+"last_run": 1794903074.8922176,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -2335,6 +2362,7 @@
 "1e765e883434a5c7": 1794489626.5939486,
 "1e78d320399d7ecd": 1794646850.1928723,
 "1e7a2efc12e90619": 1794828642.7782462,
+"1e7c2b4703f8126a": 1794903023.9191465,
 "1e7e6a5d33ed4843": 1794254452.6602533,
 "1e7f93fbcbc6e158": 1794207655.353521,
 "1e7fd22d5d12c47e": 1794325226.4663944,
@@ -3242,6 +3270,7 @@
 "2d48fc62c11f0566": 1794569442.764256,
 "2d49f189920b4083": 1794220827.8644307,
 "2d4b71d8e0229973": 1794415827.7010334,
+"2d4e9a16ec18cc7f": 1794903023.9191465,
 "2d597c71cd643c01": 1794399624.5316026,
 "2d5d6ee00967b404": 1794812457.8102336,
 "2d5d9e4b2b76c119": 1794295224.707564,
@@ -4247,6 +4276,7 @@
 "3e9cc9291ac7e6e9": 1794736860.6169236,
 "3e9ccf54019a81af": 1794385837.7839928,
 "3eaf5e44a1228e84": 1794230425.0439425,
+"3eb15053757fda6b": 1794903023.9191465,
 "3eb49178b1733d02": 1794261023.1557755,
 "3eb6434e4590ab16": 1794258020.3289478,
 "3ec0240d4e092e7b": 1794338424.1118333,
@@ -11502,6 +11532,7 @@
 "bd5e3b15b8172d49": 1794900643.8440216,
 "bd619dba57aea7ee": 1794553252.738333,
 "bd6254ac249a8d50": 1794694224.7511728,
+"bd6eb1bce08f518f": 1794903023.9191465,
 "bd70be38cbad960b": 1794832825.1507735,
 "bd75c3bc74469980": 1794500033.245441,
 "bd7a6bd42f403b0d": 1794498623.3847704,
@@ -17936,6 +17967,7 @@
 "30cce8bcbbdf1c43": 1794413426.5364234,
 "30d499844f21c0ec": 1794207655.353521,
 "30d51131f7787eeb": 1794726050.5794117,
+"30d5a1d4538c840d": 1794903023.9191465,
 "30da77b9174b210a": 1794294057.2981856,
 "30e58adfcf5a68ee": 1794554424.4818478,
 "30ef330610a8b29e": 1794208823.7725184,
@@ -22147,6 +22179,7 @@
 "815be03a9b0966a2": 1794125424.4951053,
 "815d326b3f035f3c": 1794524453.1112177,
 "815f6352f32b6c4b": 1794328242.1321893,
+"8162a79228ecede7": 1794903023.9191465,
 "816c96562511d660": 1794576645.1911607,
 "816ec9ee4153e8e5": 1794505825.2474673,
 "81731794fe71bead": 1794237626.3538754,
@@ -23365,6 +23398,7 @@
 "98422c7ccbc4b6ea": 1794586230.6376176,
 "9847693aebe059e5": 1794639651.002237,
 "984a0774a5aad115": 1794424831.721633,
+"984e53ea1af5bf16": 1794903023.9191465,
 "984f8925f49a24bb": 1794466847.0948906,
 "985343528097a4a7": 1794318626.6609201,
 "985a2aee5c474d99": 1794380451.074071,
