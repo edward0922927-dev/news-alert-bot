@@ -542,7 +542,130 @@
 "t": "11-17 21:40"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1kOVhVUG1QN2VIcUxHd1E2bEttV203WmY0U1hXODZrdHFFRnlXWmtka1dLajFpbHUwTzl2SnZpQXlIbjlQcjRaaEZYcE02V0RxWkhtN01ZSTVDNnVRUkoyUGFRM25aLXFRT2daNkZGWm1SZDRvaEE2OER0aUlkdXZZbHA?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
+"summary": "Trump Media investors learn the Truth about betting on bitcoin &nbsp;&nbsp; Financial Times",
+"tags": [
+"BTC"
+],
+"title": "Trump Media investors learn the Truth about betting on bitcoin - Financial Times",
+"ts": 1794936601,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0M0dm1nZ0NDS0NUZ1pxLUc1YkNsVjV2U05uT1lSUklOMlVjazVsNTMzVVFQVlZWWWFpTkdyMC1zdHZTTlZibkM0UUFMOUpfOTgzNWlTRTd2Q1N0ZXVCVXhGVXRvN2Q2MTlzMEk2aXRkVWNKRzhlUXNUUU1QYi0wTWxhRmJRanNjenp3NU56M3lKem9BdU9Rdms1c05wVUpRUElFbGNrMTREa1JwcC1uTUxkMHQ?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Lucky Strike CEO Makes Take-Private Offer as Loan Hits Distress &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Lucky Strike CEO Makes Take-Private Offer as Loan Hits Distress - Bloomberg.com",
+"ts": 1794937576,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXVmUWZwVEJzR1RYSkxSV1RaeEZQZjRvSk5Ddl8wM0dLTThaSG10RzN5ZUFWYllEOUNicHJfSVpQdjlCY3RPcEdfNmFoU3ZFRHB6YkVvbWtKWEdOYjJ5dm1lQ19ONTByOTZEYVUtaG9pV2RySy1CMGJaaFEtU0piV0JFYUxFMHR5Tk5tSjV0ZmZWR3JSdGMzZV9wUmFoU01NclFEMkZfME1qQVFaRlE?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Lawyer for Fed's Cook says she may not participate in 'unfair' White House hearing &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Lawyer for Fed's Cook says she may not participate in 'unfair' White House hearing - Reuters",
+"ts": 1794941367,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmxHN0VieTNVM0NsYTduejJkMGJXZFVVZmk3Q0VXZHhHMHZmSkdoRzFfYld4dk1xaFhwbmUzVjJKcVJBNml1b2dLVjhGbmhXZjQ0UnNEWjc2TnhlMWxmal9EbTdPTWlEdFZ2T2w5WENOcy13RjhOTzJiOFRtV0hPU01uN0Y0bTZteGU3anNNZVVJTzNQd0hBQkpGQldQb050OUdwTUNsNHVDVlZ0SEE?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "AppLovin among firms in talks to acquire Criteo, sources say &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "AppLovin among firms in talks to acquire Criteo, sources say - Reuters",
+"ts": 1794947475,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673930-motorola-solutions-raises-dividend-by-107-to-134?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Motorola Solutions raises dividend by 10.7% to $1.34",
+"ts": 1794951590,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673932-commercial-national-financial-raises-dividend-by-231-to-016?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Commercial National Financial raises dividend by 23.1% to $0.16",
+"ts": 1794951693,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673929-hub-group-receives-nasdaq-approval-for-continued-listing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Hub Group receives Nasdaq approval for continued listing",
+"ts": 1794951714,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4673933-interface-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Interface declares $0.03 dividend",
+"ts": 1794951739,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Decrypt",
+"summary": "OpenAI's latest models promise better professional work for less money, as the company battles Anthropic and Google for AI supremacy and faces tougher questions about increasingly capable systems and safety.",
+"tags": [
+"GOOGL",
+"OpenAI"
+],
+"title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+"ts": 1794951962,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -593,13 +716,13 @@
 "chg5d+": "2026-11-13",
 "lv5.0+": "2026-11-12"
 },
-"last_date": "2026-11-16"
+"last_date": "2026-11-17"
 },
 "UST2Y": {
 "cool": {
 "chg1d": "2026-11-10"
 },
-"last_date": "2026-11-16"
+"last_date": "2026-11-17"
 },
 "VIX": {
 "cool": {
@@ -613,9 +736,9 @@
 },
 "last_date": "2026-11-16"
 },
-"_last_check": 1794948634.672871
+"_last_check": 0
 },
-"last_run": 1794951657.930698,
+"last_run": 1794952307.458109,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1042,6 +1165,7 @@
 "07279bd6d5584cec": 1794252026.8992693,
 "072cd7cf943cec78": 1794129624.9673119,
 "072d27d41026427b": 1794837025.5415325,
+"0731981401efaaa6": 1794952224.5267148,
 "0731cb6f79e937fa": 1794755433.9717534,
 "0733af4308096c8b": 1794236457.02748,
 "0735fc24f14186aa": 1794306027.3632174,
@@ -1287,6 +1411,7 @@
 "0b43021b4147d31e": 1794075624.4430547,
 "0b476bd053babe46": 1794781226.0454638,
 "0b48ca2cb5c274d0": 1794468024.138138,
+"0b4a506eeb148911": 1794952224.5267148,
 "0b4c65c4dc34c436": 1794831630.3882475,
 "0b522c68148e90aa": 1794812457.8102336,
 "0b5b1d71108263f5": 1794812457.8102336,
@@ -1470,6 +1595,7 @@
 "0e2a6240d21f6d7e": 1794596453.3442338,
 "0e31f352a55a862d": 1794058663.5416367,
 "0e3248043cf2f228": 1794469822.9927154,
+"0e3ff1a706996577": 1794952224.5267148,
 "0e4804a987266f64": 1794923427.6688526,
 "0e4944318cbce194": 1794090024.092463,
 "0e5b2e6e605f8ce6": 1794466847.0948906,
@@ -3578,6 +3704,7 @@
 "2edd67bc3ff09d21": 1794812457.8102336,
 "2ee9a927d22ee11a": 1794413426.5364234,
 "2eec52c8dc689583": 1794090024.092463,
+"2ef478fa748295af": 1794952224.5267148,
 "2efdd0f3b1f9657f": 1794865225.5430987,
 "2efe5e0a61384e13": 1794943846.3159235,
 "2f04ae06f3072026": 1794500033.245441,
@@ -5376,6 +5503,7 @@
 "4b2df761f93f73a0": 1794837653.5733871,
 "4b34a276c0ecd31f": 1794900033.2937236,
 "4b4694c30cbd9e72": 1794399624.5316026,
+"4b46afb0eec060e4": 1794952224.5267148,
 "4b46dfa7829c6d20": 1794255624.7521412,
 "4b49af4626688308": 1794589828.9299436,
 "4b4a8f959b813126": 1794774024.7173462,
@@ -10016,6 +10144,7 @@
 "9618bf40481e8b49": 1794777624.2384558,
 "961a1ed1ee85df80": 1794207655.353521,
 "9620b725e6744958": 1794697827.267664,
+"9623059381ca2a1e": 1794952224.5267148,
 "96251dfd84f6e321": 1794915624.7389588,
 "962b6e7c2f41b201": 1794672623.5060716,
 "962bbf26bc2621ed": 1794928827.552128,
@@ -11268,6 +11397,7 @@
 "ab57feac8d0d8de6": 1794383424.7516904,
 "ab58657e23e95944": 1794327630.5502307,
 "ab5da64a54d0c7ad": 1794726050.5794117,
+"ab5eb650d637b19e": 1794952224.5267148,
 "ab5f12eb2f55ee7a": 1794053146.8970654,
 "ab6015c831910441": 1794921641.788313,
 "ab60ab0b36b3fd1b": 1794390025.792391,
@@ -13013,6 +13143,7 @@
 "c5940a4a8f3e8929": 1794300625.907344,
 "c5a295f308a3db48": 1794383424.7516904,
 "c5b087a05ffa243b": 1794646850.1928723,
+"c5b3b37737f417a1": 1794952224.5267148,
 "c5b748bf4d5fb1a0": 1794180024.180841,
 "c5b9396e1ca95409": 1794237626.3538754,
 "c5ba9298bfdb45d1": 1794349844.933684,
@@ -13858,6 +13989,7 @@
 "d29662e79ea74d79": 1794939626.9929001,
 "d29f8da0686467d5": 1794121251.8481042,
 "d2a73d07707b1f4a": 1794342640.7023919,
+"d2a87c1349f78b44": 1794952224.5267148,
 "d2ac73ee3b9d23f5": 1794821440.8058648,
 "d2b26ae5b8722d63": 1794922826.4302015,
 "d2b7d3b2bc220e3a": 1794294057.2981856,
@@ -13974,6 +14106,7 @@
 "d458a05911eca20c": 1794812457.8102336,
 "d4594b13662b1e13": 1794255624.7521412,
 "d45ee46a8c452021": 1794812457.8102336,
+"d467ba90242a44ee": 1794952224.5267148,
 "d477963b1387132c": 1794646850.1928723,
 "d4807280decd85c5": 1794294057.2981856,
 "d4830eff52d16d1f": 1794829227.3251061,
@@ -16972,6 +17105,7 @@
 "05bb269b83917b6d": 1794472822.705318,
 "05bd1349ffe817fa": 1794923427.6688526,
 "05c5b2c184144930": 1794468024.138138,
+"05c6ec0623b4a53d": 1794952224.5267148,
 "05cac1a4ca67ffc2": 1794176424.6910276,
 "05cd6c236928364e": 1794933050.2404807,
 "05d83bbd28a17163": 1794176424.6910276,
@@ -20632,6 +20766,7 @@
 "449e2f7f4dd6c1c6": 1794380451.074071,
 "44a258467dc85172": 1794090024.092463,
 "44a6ebec3175f70a": 1794580829.6408918,
+"44a74fb7cb551e75": 1794952224.5267148,
 "44a9713350e53858": 1794522022.9497743,
 "44b6407e293da519": 1794949905.0488856,
 "44b6b5046291f40a": 1794523223.4129152,
@@ -20752,6 +20887,7 @@
 "46916120c03df520": 1794836437.4633808,
 "4696517b339b324e": 1794594645.7815912,
 "46a99c96ea0acae0": 1794433226.3689482,
+"46b10da0340c31bb": 1794952224.5267148,
 "46bc00348ed94cfe": 1794525625.227499,
 "46bcf42ccd12c06a": 1794053146.8970654,
 "46be0d7ed0f783fe": 1794323425.210853,
@@ -22097,6 +22233,7 @@
 "5ee80b62563a2a1e": 1794517823.0717008,
 "5ef47bea9ecd1e77": 1794604830.1292682,
 "5efa5799f7fcd478": 1794247257.3744018,
+"5f065f186b1d05cf": 1794952224.5267148,
 "5f07a7ba1cbfbbca": 1794310823.0024471,
 "5f07bd65487b2a9a": 1794841825.0479877,
 "5f0f768210928fd7": 1794211829.3207283,
@@ -23315,6 +23452,7 @@
 "7475075fa49cc5e6": 1794314423.5789354,
 "747a361d39fbe430": 1794915041.7684574,
 "74801a1a3473331b": 1794230425.0439425,
+"7481d0e2862404fb": 1794952224.5267148,
 "7488908ad04bf2d8": 1794812457.8102336,
 "748914f594bb0278": 1794668452.1981072,
 "748dbc8185e377f1": 1794828024.2634065,
@@ -23907,6 +24045,7 @@
 "7f1ee73f27744b02": 1794090024.092463,
 "7f2aa42957b5f290": 1794136824.1662278,
 "7f3b60cc27cb793d": 1794320424.8171039,
+"7f3dcded79cde9ae": 1794952224.5267148,
 "7f45022120191833": 1794812457.8102336,
 "7f463493e2c9db5a": 1794849634.504655,
 "7f46d92b83adab8b": 1794380451.074071,
@@ -26120,6 +26259,7 @@
 "a586c72d1592f83a": 1794226823.8223224,
 "a586e31a2b507f16": 1794418239.536956,
 "a587fb8ab63efab2": 1794169225.368316,
+"a588579586d014bb": 1794952224.5267148,
 "a589a6c0eb6d6285": 1794553252.738333,
 "a590c5e6705b6ac3": 1794466847.0948906,
 "a5926b5a69d1c57e": 1794213626.9912028,
@@ -27322,6 +27462,7 @@
 "b9b119caaa6adec6": 1794508823.8400886,
 "b9b5dc98aed1541d": 1794074452.1558738,
 "b9c21d3be6573b8f": 1794491425.9515207,
+"b9c96bd3055b9fae": 1794952224.5267148,
 "b9cebb30df476400": 1794867623.9112976,
 "b9d1381b24555e90": 1794643251.6467984,
 "b9dc2b0d944f2219": 1794129624.9673119,
@@ -27592,6 +27733,7 @@
 "bdeb9ddfbc142e41": 1794919227.5566733,
 "bdee803aeb0feb5e": 1794733251.876912,
 "bdef6a8fd5c718e5": 1794090024.092463,
+"bdf33d8825049cd6": 1794952224.5267148,
 "bdf66b509b7f02ea": 1794932430.6081858,
 "bdff63a25ea102cd": 1794072642.3225284,
 "be0b5486cd7751d1": 1794381624.5089903,
@@ -28739,6 +28881,7 @@
 "d135cf0bbe26c772": 1794582061.9461782,
 "d1371e83567807e6": 1794825041.4304469,
 "d13b6951575e5ec0": 1794639651.002237,
+"d141d78b206fb07e": 1794952224.5267148,
 "d1451790e0d0be84": 1794679824.3245559,
 "d14543b5fc132d79": 1794826856.7571714,
 "d147537da86d94cd": 1794826225.04136,
