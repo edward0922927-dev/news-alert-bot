@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794907298.1664803,
+"ai_last_review": 1794908461.546214,
 "ai_log": [
-{
-"err": "",
-"kept": 2,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 27,
-"ok": true,
-"t": "11-15 21:21"
-},
 {
 "err": "",
 "kept": 7,
@@ -540,103 +531,24 @@
 "n": 27,
 "ok": true,
 "t": "11-17 09:21"
+},
+{
+"err": "",
+"kept": 6,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 11,
+"ok": true,
+"t": "11-17 09:41"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673516-us-stock-futures-lower-as-investors-brace-for-nvidia-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "U.S. stock futures lower as investors brace for Nvidia results",
-"ts": 1794907198,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "CoinDesk",
-"summary": "",
-"tags": [
-"ETH",
-"Binance"
-],
-"title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
-"ts": 1794907279,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
-"ts": 1794907524,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4673519-bunge-expands-blockchain-soy-traceability-to-vietnam?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Bunge expands blockchain soy traceability to Vietnam",
-"ts": 1794907560,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/infrastructure/solana-foundation-backs-coingecko-ahead-of-trading-push",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The crypto data provider pledged to preserve data integrity, but the announcements did not disclose ownership or control terms.",
-"tags": [
-"SOL"
-],
-"title": "Solana Foundation Backs CoinGecko Ahead of Trading Push",
-"ts": 1794907581,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Decrypt",
-"summary": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.",
-"tags": [
-"ETH"
-],
-"title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-"ts": 1794907649,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-17T07:00"
+"last_date": "2026-11-17T08:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -646,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-17T07:00"
+"last_date": "2026-11-17T08:00"
 },
 "FNG": {
 "cool": {
@@ -670,11 +582,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-17T07:00"
+"last_date": "2026-11-17T08:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-17T07:00"
+"last_date": "2026-11-17T08:00"
 },
 "UST10Y": {
 "cool": {
@@ -701,9 +613,9 @@
 },
 "last_date": "2026-11-16"
 },
-"_last_check": 0
+"_last_check": 1794908437.2460973
 },
-"last_run": 1794907911.431412,
+"last_run": 1794908474.9692602,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1193,6 +1105,7 @@
 "08d7ab899aab23ea": 1794571266.8124526,
 "08da8c86ad593cc2": 1794129624.9673119,
 "08e2b11745aec407": 1794570626.8175335,
+"08e8b47c983603c6": 1794908425.6984448,
 "08e91c7725da6726": 1794591053.6013825,
 "08edb42f46f25524": 1794257425.5432699,
 "08f19776b0ffaea8": 1794898855.1759124,
@@ -1424,6 +1337,7 @@
 "0ce7a61989335fd5": 1794479439.6312976,
 "0ceaa3b55ad8cc90": 1794566426.5819597,
 "0ceb681d75418f9c": 1794866465.1514442,
+"0ceefbad779c35a6": 1794908425.6984448,
 "0ceefeb1da500898": 1794604830.1292682,
 "0d0317184d465f08": 1794867623.9112976,
 "0d0fe15abd3099b7": 1794814826.9861326,
@@ -7081,6 +6995,7 @@
 "6d0001b49e86c60f": 1794466847.0948906,
 "6d019a053edfc7d4": 1794234029.8370936,
 "6d0245915f53d93c": 1794836437.4633808,
+"6d0a6f94aea28a4d": 1794908425.6984448,
 "6d0bd64f5bfadbce": 1794075624.4430547,
 "6d10703015dd65ef": 1794172824.1624086,
 "6d1f664963ff1b7d": 1794580829.6408918,
@@ -8819,6 +8734,7 @@
 "8b8e8a1c34824ee5": 1794437999.1397626,
 "8b90bab7fe6ec1d9": 1794898855.1759124,
 "8b934ffec9ef8491": 1794222054.6299663,
+"8b96c851fab5a782": 1794908425.6984448,
 "8b9ea21cb0a6427d": 1794315657.2528052,
 "8ba0d99e275ea311": 1794519043.7777076,
 "8ba1ae3de44b2510": 1794439220.8457704,
@@ -11312,6 +11228,7 @@
 "b6abc07fc1552670": 1794313843.890771,
 "b6ac03c5f1d16dfc": 1794333323.0978487,
 "b6b0fc305da4ced9": 1794813634.065804,
+"b6b3b04687fd27d5": 1794908425.6984448,
 "b6b6e780a8f40585": 1794553252.738333,
 "b6bf7e89d34be4b3": 1794319825.0401058,
 "b6c2966d47b4d171": 1794053146.8970654,
@@ -11838,6 +11755,7 @@
 "bf8e70bb8ddf1ff8": 1794318026.068809,
 "bf93e43b9ecf4524": 1794676225.6021314,
 "bf93fbfd65b59340": 1794258020.3289478,
+"bf97aa756f2a7483": 1794908425.6984448,
 "bf97dce4d4c02758": 1794053146.8970654,
 "bf9c3baff1114d5b": 1794570626.8175335,
 "bf9db413d0566a26": 1794216024.5700488,
@@ -12164,6 +12082,7 @@
 "c4c7b610a81ed451": 1794069041.6001287,
 "c4c7e723e0b205f1": 1794520849.7436028,
 "c4ce686f332f188e": 1794234029.8370936,
+"c4cfc842ac51fa18": 1794908425.6984448,
 "c4d06a9db8af9d9d": 1794841268.4702103,
 "c4d7cac6a0a9e92d": 1794213626.9912028,
 "c4d98b8ff9cc0d09": 1794067878.5266922,
@@ -13961,6 +13880,7 @@
 "e2b00ca68a5c635f": 1794341426.2465568,
 "e2b20609fda97aae": 1794129624.9673119,
 "e2b6446ca29ab058": 1794860426.1956923,
+"e2bbf58323d78d81": 1794908425.6984448,
 "e2bee1760af373a4": 1794058663.5416367,
 "e2bf1084f5c5af84": 1794346823.352614,
 "e2c7fe6fdd0fa59a": 1794133224.9019783,
@@ -15215,6 +15135,7 @@
 "f9074167b67dab33": 1794481825.880578,
 "f90b020e0bb02cbf": 1794351023.4319475,
 "f90bac83c25f5280": 1794726050.5794117,
+"f91086a48e675872": 1794908425.6984448,
 "f911e72ad9d01f73": 1794436236.6229744,
 "f91384942e646f24": 1794328242.1321893,
 "f916956999c62ac2": 1794846042.8849766,
@@ -18069,6 +17990,7 @@
 "2e1beeaf8b2aec9f": 1794328242.1321893,
 "2e22765293c05bdb": 1794227444.8368437,
 "2e257098005e65d6": 1794400828.886451,
+"2e28f3460e6ea4ee": 1794908425.6984448,
 "2e2926b2a776c397": 1794300625.907344,
 "2e35333a46a33e1e": 1794650448.3692777,
 "2e3ac5c9ac45ecb0": 1794211253.7643282,
@@ -18235,6 +18157,8 @@
 "311538b72eb7c1db": 1794406825.281866,
 "3117cdb1f594235d": 1794481251.5846794,
 "311b80d532b69f59": 1794643251.6467984,
+"311beaf006689f30": 1794908425.6984448,
+"311db720c0fffe2e": 1794908425.6984448,
 "312dbf7226e46204": 1794519626.4708598,
 "3132876386062c95": 1794563426.5895348,
 "3135ed1542464ce5": 1794238824.4766295,
@@ -22054,6 +21978,7 @@
 "79aaf3c6ac14c2fa": 1794319254.2679577,
 "79aeff090656df83": 1794813634.065804,
 "79af08a148225da5": 1794820823.8602707,
+"79b3cf2c2c38ecc6": 1794908425.6984448,
 "79b5e2f2d15f5dc2": 1794207655.353521,
 "79c365be02381596": 1794603612.7931938,
 "79c3affd5bf146f1": 1794471021.9148986,
@@ -22374,6 +22299,7 @@
 "7fc5078073284b60": 1794386422.9841938,
 "7fc6e9991201af74": 1794215424.0711486,
 "7fd7421f7cd32c8d": 1794294057.2981856,
+"7fdb11048e8fa5ef": 1794908425.6984448,
 "7fdc824d78357c57": 1794136824.1662278,
 "7fdcded2ede18716": 1794582061.9461782,
 "7fde9069060ee5cc": 1794243026.4460754,
@@ -24438,6 +24364,7 @@
 "a64b26126b7e3034": 1794165625.0596616,
 "a64ce704b4b9fc32": 1794129624.9673119,
 "a64f27313752f8ee": 1794812457.8102336,
+"a6523b075c8e357f": 1794908425.6984448,
 "a653dd1e11c39049": 1794207655.353521,
 "a653ee4dad435419": 1794232853.9654045,
 "a6549e29db0b5af9": 1794901225.4603486,
@@ -26702,6 +26629,7 @@
 "ce9c440576f68355": 1794898855.1759124,
 "cea1bab70a0a8d3e": 1794228625.7348583,
 "cea1e61fee8934b4": 1794240054.5770936,
+"cea24c36c9306337": 1794908425.6984448,
 "ceabbae209ef83b2": 1794639651.002237,
 "ceb371d1bad3493b": 1794390025.792391,
 "cebe5fb8db918277": 1794523824.2808256,
@@ -27113,6 +27041,7 @@
 "d68ceff80d13c130": 1794226224.6034505,
 "d68e340316c76955": 1794409250.9206789,
 "d6902c2f9e4ca46d": 1794121251.8481042,
+"d691aea148eb0f09": 1794908425.6984448,
 "d6933a4515690192": 1794403838.9067798,
 "d69586c8dcec7815": 1794499252.6606731,
 "d6983ad27ed381b3": 1794468024.138138,
