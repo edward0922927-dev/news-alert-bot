@@ -542,13 +542,53 @@
 "t": "11-17 23:21"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGR5R0M1OU15VUZfejctWmVDdnFsR21oZEl2Rm1uYW5yZFRBUEJmX3MyNlBDZUdZRXZjQlJjR1o0WnVtbVllUlJ5bmNDd0EzWmhTM1k4LVNOVnRjTUFXc0Y2d0pGZGlwM0thZEZJMHZoYWZQT0gySXUyN19Lc0xrYVp6NDl2ZUpmSzUtYkhkUng3d3VwUS1lbWdFa3hMaUt5cjBJeUd4RQ?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Estonia's plan to shut Russian border disrupts families on both sides &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Estonia's plan to shut Russian border disrupts families on both sides - Reuters",
+"ts": 1794946870,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONU5QamJIQjVVallfSWI0NS1XWkFsQUR6ZUNVOGVHTjFmdGFmOEtoYl93cE5SN2ZzY3hqeEJBdkd0R0hDVl9jbVdycjJGUXpHcVpZVGQ3c0lrZVJpbkRrTE5JcWx3Smk1RVM0Y1lZVmJZQ1RnRmcyWVRiSnB5Rk1CVFozOHdXdlhzSFVOcVRVcllSOTZ6Y1VkX1lZZWl1ZTFiNzRqZzFfQnBMeUVnaFY0?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "CFTC Orders Kalshi to Take Down Markets on Trump\u2019s Speeches &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "CFTC Orders Kalshi to Take Down Markets on Trump\u2019s Speeches - Bloomberg.com",
+"ts": 1794948651,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNmlFZlNZSHExMXlYYmxaTjYyQ2YxeGdJOFRlZW1GQzY3UzV5SWVHeGZmTzZaNDhGd0xyWmUxVTFhNXdOTWZMeVNoS0ZiU0ZTRk5ybmtpdjRiUURWbGRuMHdheU9XR2h6aW5oNWJ5UTZQVkI2QkhrcW5Wb2l2NG0yemxmWnVxbEZ3QWhyckdiT1BxVm5PN0dCZE9fY0x1M3dPNnF4QmllSTFtTUZUbzJQaA?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Sellas Life Sciences Stock Triples After Cancer Vaccine Data &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Sellas Life Sciences Stock Triples After Cancer Vaccine Data - Bloomberg.com",
+"ts": 1794951896,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-17T19:00"
+"last_date": "2026-11-17T22:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +598,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-17T19:00"
+"last_date": "2026-11-17T22:00"
 },
 "FNG": {
 "cool": {
@@ -582,11 +622,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-17T19:00"
+"last_date": "2026-11-17T22:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-17T19:00"
+"last_date": "2026-11-17T22:00"
 },
 "UST10Y": {
 "cool": {
@@ -613,9 +653,9 @@
 },
 "last_date": "2026-11-16"
 },
-"_last_check": 0
+"_last_check": 1794958252.5886693
 },
-"last_run": 1794957721.7779968,
+"last_run": 1794958292.691072,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1078,6 +1118,7 @@
 "07c5ad6392b95848": 1794679824.3245559,
 "07c5b7e218f0cd4c": 1794931258.5398288,
 "07c6e422541b5860": 1794924055.6250625,
+"07c850563e132ea3": 1794958240.5109558,
 "07c85ebb35c3b1bb": 1794825652.9827077,
 "07ccf570e22cc608": 1794929444.6381776,
 "07cf0a534b9256bf": 1794352223.2402766,
@@ -6454,6 +6495,7 @@
 "5bac82f23e2f1433": 1794207655.353521,
 "5badcfe888419479": 1794898855.1759124,
 "5bb072d741d8de2e": 1794066518.762267,
+"5bb789bbe43ace3a": 1794958240.5109558,
 "5bc3864169130ac5": 1794726050.5794117,
 "5bc47f07005cd9a1": 1794668452.1981072,
 "5bcb29a60c987f16": 1794294057.2981856,
@@ -9173,6 +9215,7 @@
 "87af99a8584b69e8": 1794520849.7436028,
 "87b1bed03623ed0e": 1794729650.1855493,
 "87b4506eb1d002fd": 1794588625.1002343,
+"87ba8ac678b5ac91": 1794958240.5109558,
 "87bd7f51db79d289": 1794216024.5700488,
 "87c0933e7a6c7cc5": 1794823261.6071203,
 "87c7a623d6e21441": 1794387652.7155762,
@@ -10364,6 +10407,7 @@
 "9a8abb39587c51d6": 1794499252.6606731,
 "9a9e4885a9b59a32": 1794650448.3692777,
 "9aa89518fd2a0cb7": 1794090024.092463,
+"9aaa3f060eacba98": 1794958240.5109558,
 "9ab2b590f24a9430": 1794162024.6325307,
 "9ab8fd311159f442": 1794294057.2981856,
 "9ab97efa162a88f3": 1794294057.2981856,
@@ -12864,6 +12908,7 @@
 "c1c253ff76a7b1c4": 1794295224.707564,
 "c1cae24833b6ca88": 1794697827.267664,
 "c1d00913a1cfaef4": 1794646850.1928723,
+"c1d5c22fda37ae87": 1794958240.5109558,
 "c1dc2a8b5e0f4881": 1794053146.8970654,
 "c1de354bc26ec00a": 1794726050.5794117,
 "c1e618539951538b": 1794518426.1797802,
@@ -16668,6 +16713,7 @@
 "fdbeae6d6ec5f9fe": 1794432030.7467659,
 "fdc1b72f74f6de65": 1794408026.6576438,
 "fdc641e19624d524": 1794898855.1759124,
+"fdc8176d22002d4e": 1794958240.5109558,
 "fdcbb23265a70cd2": 1794207655.353521,
 "fdd16f917edb2957": 1794299443.3490458,
 "fdd78dece2124483": 1794518426.1797802,
@@ -16992,6 +17038,7 @@
 "036820360f8fb34a": 1794605443.9812016,
 "036b577881273b76": 1794315026.6277947,
 "036c95b8ac813ba0": 1794325825.7082462,
+"037200e7dedf1f62": 1794958240.5109558,
 "0373695f5b5c4dad": 1794726050.5794117,
 "037accea7455e2f9": 1794555041.917416,
 "0381dee9f30da665": 1794812457.8102336,
@@ -18665,6 +18712,7 @@
 "2029e5c930939974": 1794133224.9019783,
 "202a813498f241da": 1794334825.2037544,
 "2030d6e64785b476": 1794294057.2981856,
+"20331ba1037d06a6": 1794958240.5109558,
 "203496a22692ac40": 1794169225.368316,
 "203d3e51b83f0ff1": 1794214856.1278765,
 "2043338dadbe076a": 1794906055.0815465,
@@ -20836,6 +20884,7 @@
 "44c3dfa00bc76689": 1794502854.2969291,
 "44c56d4ff1d267b4": 1794568231.101077,
 "44cc353d1fb3e7ce": 1794295224.707564,
+"44cdd87f4128b337": 1794958240.5109558,
 "44cfae50e3015f0d": 1794848455.616578,
 "44d34f2acbd1f56d": 1794900643.8440216,
 "44d72101eeaf5e32": 1794090024.092463,
@@ -24581,6 +24630,7 @@
 "8713cf40d67e4a30": 1794676225.6021314,
 "871b0eb2738be917": 1794578453.55955,
 "871c3027c76e1530": 1794224423.8500595,
+"87226c454f16c6c7": 1794958240.5109558,
 "872aeb11f40257df": 1794597626.0547297,
 "872b71835a7b2210": 1794499252.6606731,
 "8731b0c210d46f75": 1794687025.0344095,
@@ -26750,6 +26800,7 @@
 "ab99eb8eaa3c9e19": 1794383424.7516904,
 "ab9ffd91c2849314": 1794816624.697216,
 "aba16d077ef5d4d4": 1794495654.5774844,
+"aba6b600dbab1335": 1794958240.5109558,
 "aba918f5de7f5aa3": 1794466847.0948906,
 "abafb282d67548e8": 1794825041.4304469,
 "abb2f47db272792a": 1794505825.2474673,
