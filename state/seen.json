@@ -542,7 +542,37 @@
 "t": "11-18 10:40"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQanJKMzJaNDVraEhpYUJhZ0JYZjdwQU9QSG5xNGtvR3VWaEtRSGJ4ZE9fTkxDYnBObnB2c3Z4bk1kdWtFekF5bG9aZVJvMjk3S2dBWlp5QURJcngyNUVWZkFCZXFjZFRaNXRlN3NGeU9ybm9JWTMtY1NBQ2xjVkZxLU1HOTJnNTgzRjd6Qm5MNXYwbkQ1c1E?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Indonesia resumes rate hikes to defend rupiah, more tightening seen &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Indonesia resumes rate hikes to defend rupiah, more tightening seen - Reuters",
+"ts": 1794986580,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/news/markets/bitcoin-sheds-most-of-post-nvidia-bounce-in-35-minutes",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "Bitcoin remained near $64,100 Wednesday morning, about 24% below its Oct. 21 intraday high, after a brief rally following Nvidia's earnings release.",
+"tags": [
+"NVDA",
+"BTC"
+],
+"title": "Bitcoin Sheds Most of Post-Nvidia Bounce in 35 Minutes",
+"ts": 1794998845,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -617,7 +647,7 @@
 },
 "_last_check": 1794997243.197577
 },
-"last_run": 1794998451.397077,
+"last_run": 1794999035.8861263,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -994,6 +1024,7 @@
 "05f3f4a95b97d512": 1794694224.7511728,
 "05fe3a1122ad0354": 1794486023.9169981,
 "0606e1cbf636b27f": 1794941436.9141734,
+"060709e68f6fd2a0": 1794999024.990152,
 "060cbaa8bff94cbe": 1794492052.5954537,
 "061114f61744f0b4": 1794217228.4060323,
 "061a2c4ae534d230": 1794496825.0216095,
@@ -2696,6 +2727,7 @@
 "1fa8d3eca6648a58": 1794403838.9067798,
 "1fa9c565f263e282": 1794405650.4852784,
 "1fa9fa34fa2eb32d": 1794058663.5416367,
+"1fadfd6eeb64b1b3": 1794999024.990152,
 "1fae0267f6a79d14": 1794522643.152942,
 "1faed87b313d707e": 1794932430.6081858,
 "1fb0c09577fe9edb": 1794207655.353521,
@@ -3945,6 +3977,7 @@
 "31dc87247e6aed5a": 1794058663.5416367,
 "31df99ff23982e82": 1794247257.3744018,
 "31e30b30d2e353c5": 1794248479.105261,
+"31ec90c7e4f35eae": 1794999024.990152,
 "31ee7f4398027ab9": 1794812457.8102336,
 "31f08aa694ec1a15": 1794413426.5364234,
 "31f0bd4dd519bc2e": 1794839441.845789,
@@ -13089,6 +13122,7 @@
 "bdf599e16a3a14ef": 1794325226.4663944,
 "bdf77935227cc56a": 1794991826.9316912,
 "bdfc7ced1b6ba12e": 1794231625.7466462,
+"be04f6b6bcb02b51": 1794999024.990152,
 "be05ea91634a0574": 1794819655.1615279,
 "be092901e736df76": 1794646850.1928723,
 "be1176fcb1ae81cd": 1794433226.3689482,
@@ -21222,6 +21256,7 @@
 "3d750aae48c5fd24": 1794410424.1208882,
 "3d8c3009ddfbfb73": 1794245441.3708878,
 "3d9517c4182f7ced": 1794079224.7359486,
+"3d97fed5024d9fb0": 1794999024.990152,
 "3da5cd5b8d05be58": 1794639651.002237,
 "3daafb1142438a15": 1794063069.3473625,
 "3db6d6bdcee871a7": 1794232853.9654045,
@@ -32703,6 +32738,7 @@
 "fa99920ee154d9ee": 1794078625.195159,
 "fa9cc09f95c2ac63": 1794925844.5959115,
 "fa9e301e4ceaa531": 1794207655.353521,
+"faa90693f15736c5": 1794999024.990152,
 "faaa3987114d3e8e": 1794402054.0077875,
 "faabff3b3407f719": 1794341426.2465568,
 "fab110319b5287fe": 1794613228.4424767,
