@@ -542,7 +542,50 @@
 "t": "11-18 19:31"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUZZOG8wY3FsRFhEUlJjckxKd05LWXFtUXlGYUhrYXFXWkx5QVJtVnpTMmx3MjFLYlkxbXFCTWU1Z1VmWG1Ud1R5MDcyeWRZeUVhbTRncXJjazE4MldScVE1ci1mRkczSkYwN1V6Nlc1clkxRjNrUzU4cEd4X3FacGNycG5FS1BkVHItUjZYcjM0SnZ5eHJhbVlnTVNSbDY5SHBzajRYNmNOSVVZVW1ZR2F3?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u57fa\u5efa",
+"summary": "Starboard Touts Flowserve, Riot Platforms as Poised for Growth &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Starboard Touts Flowserve, Riot Platforms as Poised for Growth - Bloomberg.com",
+"ts": 1795029733,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "MarketWatch",
+"summary": "The Trump administration and Congress have been rushing to address the series of technology failures that have hit the U.S. over the past week, with Vice President J.D. Vance withdrawing from an event Wednesday in order to take part in meetings on the issue.",
+"tags": [],
+"title": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
+"ts": 1795030740,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Block",
+"summary": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
+"tags": [
+"Binance",
+"hack"
+],
+"title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+"ts": 1795030825,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -617,7 +660,7 @@
 },
 "_last_check": 0
 },
-"last_run": 1795030331.9716916,
+"last_run": 1795030905.4673984,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -5786,6 +5829,7 @@
 "4a4020097b41201b": 1794499252.6606731,
 "4a415dcfa05e33a4": 1794865225.5430987,
 "4a47c10ed5713af7": 1794948026.0694823,
+"4a48f61c49460e37": 1795030825.857825,
 "4a54ae6dbbdd20a7": 1794231625.7466462,
 "4a558b31b373e185": 1794479439.6312976,
 "4a629feb54065bf5": 1794129624.9673119,
@@ -6927,6 +6971,7 @@
 "5b124ea064d763fc": 1794053146.8970654,
 "5b17515c12654c66": 1794818423.9958396,
 "5b182833408e779a": 1794501042.7863798,
+"5b1868f8c1a887cf": 1795030825.857825,
 "5b20cd66ea30a506": 1794916854.9105375,
 "5b2195c83c79098e": 1794307825.328837,
 "5b2673a61528526c": 1794496825.0216095,
@@ -13471,6 +13516,7 @@
 "bb42e0ed911e933b": 1794613823.2341568,
 "bb49964dcba9641f": 1794672623.5060716,
 "bb4a081914752339": 1794554424.4818478,
+"bb561d3edc079db9": 1795030825.857825,
 "bb5cbaedc9a06553": 1794304852.8805614,
 "bb5d86ae49e15394": 1794472237.104473,
 "bb5dac0251e3845c": 1794235227.58563,
@@ -14022,6 +14068,7 @@
 "c339b15a46146793": 1794419428.8587933,
 "c33c42008baf00e2": 1794380451.074071,
 "c34246682fbffb46": 1794497444.5440981,
+"c342f11284a3315a": 1795030825.857825,
 "c345a0c58ded646d": 1794819655.1615279,
 "c352c6391419f3d7": 1794354025.1018605,
 "c354bb5546d3aa80": 1794176424.6910276,
@@ -20196,6 +20243,7 @@
 "1f4948880ba3ceb3": 1794207655.353521,
 "1f4b89f0871737e8": 1794472237.104473,
 "1f5391b38187f9e5": 1794162024.6325307,
+"1f539d2796ad0068": 1795030825.857825,
 "1f5463f79f99d4a2": 1794480024.280059,
 "1f57624cc0571e97": 1794585024.6252208,
 "1f6792aabe7f1cb9": 1794125424.4951053,
@@ -25558,6 +25606,7 @@
 "74aa009eb0ae6764": 1794487822.3175094,
 "74aa5a04ae274029": 1794380451.074071,
 "74ac76df59c5a1c7": 1794812457.8102336,
+"74af618c4f088098": 1795030825.857825,
 "74b17641d9639558": 1794434449.3275425,
 "74b1818c2784811c": 1794812457.8102336,
 "74b677e5f675a104": 1795028453.7565947,
@@ -31789,6 +31838,7 @@
 "d60d90053f1eac41": 1794900643.8440216,
 "d60de52ceb06e4fc": 1795027824.3007407,
 "d612ca56aa9f6315": 1794220241.562271,
+"d61365e200c10b44": 1795030825.857825,
 "d61515a42112dc5b": 1794873034.3945842,
 "d616f57f0631e250": 1794380451.074071,
 "d6175c362a4bc43f": 1794342025.2153375,
@@ -32518,6 +32568,7 @@
 "e0e1c754b5f04d7a": 1794207655.353521,
 "e0e1e9c3cc9eb2e0": 1795018397.3489969,
 "e0e40acf9801dcae": 1794910238.702595,
+"e0f6a5d0d8c45977": 1795030825.857825,
 "e103fa7d22ee776d": 1794906055.0815465,
 "e1053e476da080b9": 1794643251.6467984,
 "e109ac4610f826e6": 1794466847.0948906,
