@@ -542,7 +542,47 @@
 "t": "11-18 11:19"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXl0MVIyMEV6ZjZmSEZZS2MtZTItRW9vb0pJZThGWC1ybWIxcUc3SEVxcVFWSncwNUxyVUx4bUVaSW82dmJjUWZQbEdoQVE5UWV0S1hGeE1sQlF5VUI4TzVXMVRfWGI4NU5HLUFDVE1meUlsNWJObUtubXA1RFN3dDZIRW9qZW9GUXJ2VzBDaFU5LTM1aHl1TVVHTU5DeU0tRzdzYndXbEU4cl9lN2t2Yg?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "China Gas doubles volume in 20-yr LNG deal with Venture Global &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "China Gas doubles volume in 20-yr LNG deal with Venture Global - Reuters",
+"ts": 1794982020,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObkpRRjhQeXlnQkZLand6bWFiV0QzSTh3aGI1WTFmZWJOWm9iSHgtYURCRWVxZVFzWVdrUXdfQkwyNmRhLUpEczRfeldHaVVJbEIwZHViY0trdk0tbDFsaUhFRVNXYUpmaktXTmc1c0ZTdHRCNjFCNndLV1liV2ZQSlVCWERnMC1IdG5oTGFKcHl3MzJIS2NyZ05wQ3p5Znlub0NoRHJVbE9Rd0pQdmtLcmNB?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Anthropic Approaches Final IPO Hurdle After Tech Stocks Churn &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Anthropic Approaches Final IPO Hurdle After Tech Stocks Churn - Bloomberg.com",
+"ts": 1794996000,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.marketwatch.com/story/the-good-news-bubble-predictions-vastly-outnumber-actual-episodes-the-bad-there-may-be-a-97-chance-of-one-right-now-8ca55732?mod=mw_rss_topstories",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "MarketWatch",
+"summary": "It turns out, the business media cries wolf about impending stock-market doom too frequently. But that doesn\u2019t mean that the warnings have no predictive value.",
+"tags": [],
+"title": "The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.",
+"ts": 1795000980,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -615,9 +655,9 @@
 },
 "last_date": "2026-11-17"
 },
-"_last_check": 1794997243.197577
+"_last_check": 0
 },
-"last_run": 1795000776.899404,
+"last_run": 1795001519.4584432,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -6233,6 +6273,7 @@
 "53f465a1d2efcd90": 1794733251.876912,
 "53fe61532391058a": 1794078625.195159,
 "5403e86422504b3d": 1794928827.552128,
+"5406a6a20e2ead07": 1795001443.8920128,
 "541383b309059d67": 1794784823.9320164,
 "5417d462573b08b9": 1794985252.4753754,
 "5417ff75eab20b2c": 1794559221.9447162,
@@ -8114,6 +8155,7 @@
 "70dabe3b0c869378": 1794227444.8368437,
 "70db20f76bfaf0e6": 1794441023.1432993,
 "70e03866a6f3fe63": 1794946228.4226394,
+"70e13d23c83621cd": 1795001443.8920128,
 "70e47c16a70cd035": 1794295841.2960658,
 "70e9a1a260939eeb": 1794295841.2960658,
 "70ebd53e8f13e36f": 1794343822.9605784,
@@ -10662,6 +10704,7 @@
 "98852f882dfe8048": 1794867023.8853343,
 "98897c9d67b6af5b": 1794825041.4304469,
 "989523c8471f14db": 1794516025.4582257,
+"98967bcee91c8839": 1795001443.8920128,
 "989bb07282b94b60": 1794985252.4753754,
 "989d1dd966845322": 1794833424.9627757,
 "98a38a915ba3f9af": 1794812457.8102336,
@@ -11629,6 +11672,7 @@
 "a7a637f20a024b06": 1794812457.8102336,
 "a7a745c91b8f4b4d": 1794999655.7817144,
 "a7a9d6ed870a1f22": 1794300023.3124595,
+"a7ab4eae34bb7f77": 1795001443.8920128,
 "a7abb46dd4afabad": 1794900643.8440216,
 "a7b20d6e44924fde": 1794231625.7466462,
 "a7bc9314ccce6a33": 1794496825.0216095,
@@ -14762,6 +14806,7 @@
 "d580bdbd0f197def": 1794554424.4818478,
 "d582fb89aba295a8": 1794352223.2402766,
 "d586c19016ea4651": 1794053146.8970654,
+"d5876ebad149c0c5": 1795001443.8920128,
 "d58923c79d7cbbc4": 1794058663.5416367,
 "d58bfce313f7073c": 1794466847.0948906,
 "d58c5a0735e2e76e": 1794588625.1002343,
@@ -22305,6 +22350,7 @@
 "4eca3a9e4a5db738": 1794590425.47367,
 "4ece1730348989df": 1794569442.764256,
 "4ed2f2e0461fbb86": 1794812457.8102336,
+"4eda67c168ef61c2": 1795001443.8920128,
 "4edba8aa0c4d4d53": 1794812457.8102336,
 "4edf8ad3718f8fea": 1794927030.8551636,
 "4ee4ca75a287d800": 1794490241.0443716,
@@ -22498,6 +22544,7 @@
 "52052b04f22dde66": 1794388822.6516917,
 "52083e00a4d36708": 1794639651.002237,
 "520d949fe0e48a69": 1794784823.9320164,
+"5213b0b80b14d981": 1795001443.8920128,
 "521827791a56e4d8": 1794435624.6895678,
 "5228423fd4ef287b": 1794835224.5721529,
 "522aa25dff9e9b13": 1794864023.5449986,
@@ -24436,6 +24483,7 @@
 "72ecd824b47ff7e1": 1794842428.1811297,
 "72f23bae6e1f4b03": 1794333323.0978487,
 "72fb31bc94488d9c": 1794222054.6299663,
+"72fc96173c4af4dd": 1795001443.8920128,
 "73014cdda3dd4dc4": 1794090024.092463,
 "730ff31883c55857": 1794858625.342549,
 "73174dff38ab6199": 1794466847.0948906,
@@ -26752,6 +26800,7 @@
 "99e1f4142fac6553": 1794216642.1444197,
 "99e2f0f46afdfd49": 1794125424.4951053,
 "99e750d890952acf": 1794985252.4753754,
+"99e9b0015f4cef10": 1795001443.8920128,
 "99e9e14b5f268dde": 1794577228.5573788,
 "99edbf8316231631": 1794399624.5316026,
 "99f651cd34c1d4d4": 1794380451.074071,
@@ -28869,6 +28918,7 @@
 "bbe79b881f2bbddf": 1794424169.3167956,
 "bbe8a5f5d1d5f703": 1794991224.6561258,
 "bbea9d3d67aaf682": 1794499252.6606731,
+"bbeb0d43b29933e3": 1795001443.8920128,
 "bbeb286653751ce5": 1794322224.436821,
 "bbede93b125e3f26": 1794223228.835452,
 "bbf2ddfc368ee2fb": 1794347425.5105855,
