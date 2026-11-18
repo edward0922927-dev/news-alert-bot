@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1794996064.1285036,
+"ai_last_review": 1794997288.2397192,
 "ai_log": [
-{
-"err": "",
-"kept": 47,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 144,
-"ok": true,
-"t": "11-17 07:01"
-},
 {
 "err": "",
 "kept": 2,
@@ -540,163 +531,24 @@
 "n": 15,
 "ok": true,
 "t": "11-18 10:01"
+},
+{
+"err": "",
+"kept": 5,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 25,
+"ok": true,
+"t": "11-18 10:21"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2I2VUVtVGJ2bkVvY3lRcXRLbVcwVUktMkc5b3k2cTJrOEdCcTJEQW1ZUnliVG56ZlYzaFUtYkctRHNtMHVNU1pfblgtLTh1Mm1kVk5OMWtGeUxNN2RQbUwxYjRGUmJGZ3dHeE94QU03Ymg0eTl5Y19VaFNYVTQxbEV4UHNtZkhhUzJrM012bExTcXBnYUE1WHVjZmtjUGY2MFRNS1B6VUU1d0VzWkg5TTFCaVhKRlFj?oc=5",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Modi\u2019s Main Rival Warns India Is Sitting on an Economic Disaster &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Modi\u2019s Main Rival Warns India Is Sitting on an Economic Disaster - Bloomberg.com",
-"ts": 1794980344,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaDhzZEk3LWh5X255cUFCZWFpNExoVzBXQk1idWhGakprTjQtQ0xMbkhPZjluaThIeFF5NjVVYWcxNzExaVNpdHNLX1oxRlM5ejhYaU8xS0FYbW00LVZxdDI2M2JXRktNRmRjcEx0TjhwQy1DV0lYWHhzZ29FR1RoejJxeEVSZXNGdDVNU0F6REFKcnk2M3BOOU4zdnhkWUFEZ3BFdUJEM2ZPMk00NjFjNURWSTRydw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "QatarEnergy's LNG expansion may leave it bigger but not less exposed &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "QatarEnergy's LNG expansion may leave it bigger but not less exposed - Reuters",
-"ts": 1794981960,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjVDZnN0eU4wT3hZNUEycDIwbnA1OVNad3dreDZaMmFYZXppSU5WSlhGcGRqRndpaElmbnVwS3pubmV2TWhzUEVEX1ZuY1dpbnl3YnRKckhfUXhhZDNMNzB6X0R4bGh5NWc3THlLbFR6bnF2eTFMRHU0RXc3TFBEMGxRRjR6LXJQaXM1STBod0VfY0s2SXc4VVcyNjR4eVhxM193cDBDdzdmMGdiQWM4?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
-"summary": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"BTC"
-],
-"title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com",
-"ts": 1794995109,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674051-kurv-yield-premium-strategy-apple-aapl-etf-declares-030-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Kurv Yield Premium Strategy Apple AAPL ETF declares $0.30 dividend",
-"ts": 1794996208,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/dj-zedd-sells-his-hollywood-hills-home-for-4-million-92a04353?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "DJ and producer Zedd has offloaded his Hollywood Hills pad for $4.25 million to a couple who plan to carry out a complete overhaul of one of the rooms.",
-"tags": [],
-"title": "DJ Zedd sells his Hollywood Hills home for $4 million",
-"ts": 1794996300,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674047-am-need-to-know-costco-stockpiling-huangs-senate-testimony-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "AM Need to Know: Costco stockpiling, Huang's Senate testimony & more",
-"ts": 1794996345,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674052-kurv-yield-premium-strategy-google-googl-etf-declares-045-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"GOOGL"
-],
-"title": "Kurv Yield Premium Strategy Google GOOGL ETF declares $0.45 dividend",
-"ts": 1794996347,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674053-kurv-equity-option-income-etf-declares-0083-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Kurv Equity Option Income ETF declares $0.083 weekly dividend",
-"ts": 1794996394,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674046-euro-area-inflation-rises-to-4-in-october-meeting-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Euro Area inflation rises to 4% in October, meeting estimates",
-"ts": 1794996427,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674054-kurv-silver-enhanced-income-etf-declares-050-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Kurv Silver Enhanced Income ETF declares $0.50 dividend",
-"ts": 1794996441,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674055-kurv-high-income-etf-declares-008-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Kurv High Income ETF declares $0.08 weekly dividend",
-"ts": 1794996485,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-12T13:00"
 },
-"last_date": "2026-11-18T08:00"
+"last_date": "2026-11-18T09:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -706,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-18T08:00"
+"last_date": "2026-11-18T09:00"
 },
 "FNG": {
 "cool": {
@@ -730,11 +582,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-18T08:00"
+"last_date": "2026-11-18T09:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-18T08:00"
+"last_date": "2026-11-18T09:00"
 },
 "UST10Y": {
 "cool": {
@@ -763,9 +615,9 @@
 },
 "last_date": "2026-11-17"
 },
-"_last_check": 1794993636.0194798
+"_last_check": 1794997243.197577
 },
-"last_run": 1794996639.144724,
+"last_run": 1794997298.4018846,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -817,6 +669,7 @@
 "002acc2db0498f71": 1794729650.1855493,
 "0030124ea28e209a": 1794846042.8849766,
 "003474a109a0a8f6": 1794906055.0815465,
+"003664118e3e755f": 1794997234.1731262,
 "003dfff8a86da063": 1794639651.002237,
 "00401a848f64b5d4": 1794380451.074071,
 "00442295b020d5c3": 1794517823.0717008,
@@ -2179,6 +2032,7 @@
 "15f6b4fa22d0143a": 1794598241.8747663,
 "15fd94a81d5c7b4a": 1794466847.0948906,
 "15fde33e1db30507": 1794144023.650658,
+"15feb3ea503b5f7e": 1794997234.1731262,
 "1602fde173ef5db6": 1794053146.8970654,
 "1609961f1398f901": 1794331841.6847267,
 "160dd2e37aa6da7b": 1794573633.2208738,
@@ -2558,6 +2412,7 @@
 "1b6e4c32f8b179e0": 1794945033.7249732,
 "1b6e9ba3c3de6eba": 1794601856.2003725,
 "1b7a10adbf417069": 1794599423.2374692,
+"1b7b84609003056c": 1794997234.1731262,
 "1b8ae73228188648": 1794579024.9057784,
 "1b8ee0f57f9ad073": 1794503768.242245,
 "1b8fab8ec363ef98": 1794825041.4304469,
@@ -3063,6 +2918,7 @@
 "232a28b1dc4f88b3": 1794949257.8199666,
 "2331c31dead0a4fc": 1794348622.3454998,
 "233611467b8effd7": 1794090024.092463,
+"2338881fd6e470a2": 1794997234.1731262,
 "233a4c554f4672fa": 1794409250.9206789,
 "233ac4ff36525055": 1794207655.353521,
 "233d3560ce5b1256": 1794090024.092463,
@@ -3919,6 +3775,7 @@
 "2f9d236175722d27": 1794571266.8124526,
 "2fa1c9e8dd922980": 1794215424.0711486,
 "2fa481379806e834": 1794922826.4302015,
+"2fae7788ebfec9ee": 1794997234.1731262,
 "2fb304d97cfacea7": 1794828024.2634065,
 "2fb5caedb53f991b": 1794304852.8805614,
 "2fb85f96b005d09b": 1794265255.9845357,
@@ -4333,6 +4190,7 @@
 "359223443ddfadeb": 1794147624.409764,
 "3595718bfd417fb2": 1794736860.6169236,
 "3598ea19ecdb834a": 1794510065.4285805,
+"3599e2e61d1f1ff9": 1794997234.1731262,
 "359ace35c148b7b1": 1794515442.8235493,
 "35a1693522ad64bd": 1794210624.6922936,
 "35a45040da9c7a52": 1794516624.7725692,
@@ -6973,6 +6831,7 @@
 "5d8f462bae502b95": 1794869421.973218,
 "5d8fe1813795254b": 1794937829.209939,
 "5d93e6aba52019e4": 1794072642.3225284,
+"5d9da37880d2be69": 1794997234.1731262,
 "5db1b681800aaa7f": 1794900033.2937236,
 "5db768e9ec72efa6": 1794090024.092463,
 "5dbc41d12fe9039b": 1794763227.6773348,
@@ -7397,6 +7256,7 @@
 "63fbe14ac42f4d0b": 1794229828.2811856,
 "63fe99d18d4c3d48": 1794553252.738333,
 "64040c325258345b": 1794612030.327053,
+"640887536809b39e": 1794997234.1731262,
 "6408e772407f3ca6": 1794294057.2981856,
 "640fefda427e21d9": 1794726050.5794117,
 "641135940d505add": 1794230425.0439425,
@@ -8258,6 +8118,7 @@
 "714948f3d31420c8": 1794934856.0150769,
 "715892bbdde352c5": 1794948026.0694823,
 "715b59e739cb8cca": 1794836437.4633808,
+"7169909c9877e398": 1794997234.1731262,
 "716ada89d8659342": 1794589259.3099487,
 "71704f7b866caa30": 1794408026.6576438,
 "71743b3553e53fda": 1794294057.2981856,
@@ -9991,6 +9852,7 @@
 "8c4dc7a91ab0db20": 1794331227.4269834,
 "8c5740cbab8d0882": 1794053146.8970654,
 "8c582637c48ebb85": 1794558639.9624033,
+"8c5dc68508dc8768": 1794997234.1731262,
 "8c5ef7c1d42c4a68": 1794661257.6211615,
 "8c5f9c6d1a63496f": 1794380451.074071,
 "8c668cf2ca24a9a0": 1794343822.9605784,
@@ -11063,6 +10925,7 @@
 "9d61e6640472ef08": 1794068425.5875695,
 "9d6cfb5edf61defd": 1794321043.2025392,
 "9d6d9e368c437fd7": 1794304852.8805614,
+"9d6f70491a78c97c": 1794997234.1731262,
 "9d7050313ff2472e": 1794597026.5485523,
 "9d714734ad79897c": 1794747886.992174,
 "9d72aee6f9527ac9": 1794517191.9281797,
@@ -12712,6 +12575,7 @@
 "b681fd7320a58d5e": 1794606637.7515986,
 "b6838fca615e8988": 1794946837.5472765,
 "b68477fe7f06cf1b": 1794952853.524244,
+"b684bf67a7ca33f8": 1794997234.1731262,
 "b684fc9be0f519f2": 1794053146.8970654,
 "b6878b7e9dd168f1": 1794766822.8655136,
 "b68b7cce063eae10": 1794426622.2772443,
@@ -13677,6 +13541,7 @@
 "c46d7799c245cc1c": 1794726050.5794117,
 "c47aa7be87f32657": 1794395417.5307865,
 "c47bdc2cb512abda": 1794869421.973218,
+"c47d8e2b8e668c4d": 1794997234.1731262,
 "c48075d766ad8f47": 1794298226.443851,
 "c4822e8223056158": 1794867023.8853343,
 "c48bd6088070c404": 1794604223.4254403,
@@ -14041,6 +13906,7 @@
 "c9955137d8de9af6": 1794672623.5060716,
 "c9963ec2bde9fda2": 1794380451.074071,
 "c99b00d5f55e12c0": 1794590425.47367,
+"c99f240cc33c8730": 1794997234.1731262,
 "c9a57cc3a9f42ac6": 1794812457.8102336,
 "c9adabc416e759e5": 1794234645.282263,
 "c9ade53105210c95": 1794597626.0547297,
@@ -14518,6 +14384,7 @@
 "d0d48e55c16514fa": 1794639651.002237,
 "d0d511afa20266c4": 1794934856.0150769,
 "d0de1e602d8d11da": 1794838833.3740227,
+"d0df3b609ddcf9b2": 1794997234.1731262,
 "d0e2b3fca384f5a8": 1794405650.4852784,
 "d0e611cfa940535e": 1794664849.8725064,
 "d0e61ae7ca29c267": 1794573047.278476,
@@ -15277,6 +15144,7 @@
 "dc1ef78f8774789c": 1794553252.738333,
 "dc2083e496e56ce4": 1794936645.8912413,
 "dc273750c5913539": 1794554424.4818478,
+"dc27c4abeed930ce": 1794997234.1731262,
 "dc27de51babb162a": 1794483042.7861938,
 "dc2f4eef08824761": 1794063069.3473625,
 "dc3330d7c042fc39": 1794389438.4958024,
@@ -16243,6 +16111,7 @@
 "ebc300a3bfa9e519": 1794774024.7173462,
 "ebc4a0f8ef50699a": 1794053146.8970654,
 "ebc658d9cf0465ec": 1794236457.02748,
+"ebd87fae2ea28909": 1794997234.1731262,
 "ebd8ba210e6d2c76": 1794664849.8725064,
 "ebda2c963200afe4": 1794250228.0065682,
 "ebdf8ed1936eff36": 1794294057.2981856,
@@ -17396,6 +17265,7 @@
 "fd5d9ffa620ce99f": 1794496825.0216095,
 "fd6069ab736b93c0": 1794222625.9546466,
 "fd6507e7fc3a2e4e": 1794610854.8571496,
+"fd66659c07b29986": 1794997234.1731262,
 "fd67b00c8da5e25d": 1794324648.7021484,
 "fd6989d41e2e44ee": 1794903624.3495505,
 "fd6ab0b8892271ff": 1794912025.7195742,
@@ -18372,6 +18242,7 @@
 "0d1d5eba59cebd7b": 1794432030.7467659,
 "0d1e4cf83e5a84d6": 1794299443.3490458,
 "0d250903793c7f48": 1794934228.5984814,
+"0d2ad69dbdd078e8": 1794997234.1731262,
 "0d2d70bd2f40bc20": 1794910238.702595,
 "0d31a7d7a6d7d187": 1794469221.7331192,
 "0d32d2c70d7ad563": 1794898855.1759124,
@@ -18514,6 +18385,7 @@
 "0f57bacb5c78af3e": 1794646850.1928723,
 "0f5849986efc7598": 1794067878.5266922,
 "0f5b25a2c01468fe": 1794777624.2384558,
+"0f5c71bbdc6ba9fe": 1794997234.1731262,
 "0f60b46d8c0f4e72": 1794261023.1557755,
 "0f613306cdc56d48": 1794493226.1332557,
 "0f6439e523de17f6": 1794937228.7412548,
@@ -19880,6 +19752,7 @@
 "264f077a66212285": 1794985252.4753754,
 "26509c4a0b8efe47": 1794519043.7777076,
 "26511cd848004fc6": 1794325825.7082462,
+"26545e5e53145aa7": 1794997234.1731262,
 "265a53ac4499e81d": 1794918028.1423836,
 "265f006b6d79fa81": 1794609625.5616333,
 "265f8e93694fcda6": 1794325226.4663944,
@@ -20845,6 +20718,7 @@
 "359beb9967948946": 1794664849.8725064,
 "359d9af81afcb46c": 1794729650.1855493,
 "35a160986b2b4560": 1794592867.1170218,
+"35a5d66bcf848c85": 1794997234.1731262,
 "35ae8d616beb0760": 1794572423.7774122,
 "35afedfa5a8c2db3": 1794900643.8440216,
 "35bc064a33607b21": 1794466847.0948906,
@@ -21158,6 +21032,7 @@
 "3aca4c3b30537d62": 1794914426.4172485,
 "3ad3addf434ff8e4": 1794900033.2937236,
 "3ad7e04dd6011b9b": 1794687025.0344095,
+"3ae4be4f70a8891b": 1794997234.1731262,
 "3ae685951856e9ea": 1794781226.0454638,
 "3ae766aa2b4631b2": 1794520849.7436028,
 "3ae832102efa9915": 1794516025.4582257,
@@ -21974,6 +21849,7 @@
 "48a84216295cec27": 1794563426.5895348,
 "48b00cda8d5fab21": 1794380451.074071,
 "48b49fcb9c775b9c": 1794147624.409764,
+"48b6f3769c358cb8": 1794997234.1731262,
 "48ba627c3f713156": 1794515442.8235493,
 "48c22af990e075d8": 1794900643.8440216,
 "48c878f4ebab09ac": 1794165625.0596616,
@@ -22332,6 +22208,7 @@
 "4e848350a21f0af9": 1794847227.3353586,
 "4e853dbc0958a093": 1794385221.6704128,
 "4e8742282e336565": 1794901835.131311,
+"4e90fc540e30b219": 1794997234.1731262,
 "4e9462c3ea112216": 1794583227.8628414,
 "4e96344db91dcfb6": 1794933050.2404807,
 "4e97a268ac9b2c71": 1794911445.7081077,
@@ -22949,6 +22826,7 @@
 "593bdd3e6bc6bfb9": 1794557426.661249,
 "593f5b2a3253ea8a": 1794346240.584557,
 "5944b8ed41bbca03": 1794333323.0978487,
+"594806349131b0e3": 1794997234.1731262,
 "594a9a6e5a969309": 1794083441.9529276,
 "594e81a68a8fdfa6": 1794430653.1918259,
 "594e976a4ff77bdf": 1794483623.074817,
@@ -24043,6 +23921,7 @@
 "6b923fb926808666": 1794053146.8970654,
 "6b93d04e20b63e4d": 1794580829.6408918,
 "6b9f13c761c892a0": 1794831630.3882475,
+"6ba21333b0e6e952": 1794997234.1731262,
 "6ba78637dca9434a": 1794657652.7046778,
 "6ba7e5f3adcdaecc": 1794931258.5398288,
 "6bb25e65ae6c5929": 1794063069.3473625,
@@ -24332,6 +24211,7 @@
 "7098f42f03414942": 1794053146.8970654,
 "709c93128656aeb4": 1794941436.9141734,
 "70a8a3d6ce5e4587": 1794207655.353521,
+"70ad34c36eb022ec": 1794997234.1731262,
 "70af4a70e701ab9a": 1794380451.074071,
 "70b2a3604ae98b11": 1794180024.180841,
 "70bb5fe5e269efdb": 1794436824.2970095,
@@ -28087,6 +27967,7 @@
 "af1b2dbe1b2c3a75": 1794058663.5416367,
 "af1dccef77293b81": 1794488450.726929,
 "af2133c7d1f1ccce": 1794580245.1336462,
+"af23b5666efd19a7": 1794997234.1731262,
 "af28b751e0d39f08": 1794985252.4753754,
 "af2a7be539a39956": 1794819024.9944906,
 "af316b9ba9fc0b6f": 1794466847.0948906,
@@ -29564,6 +29445,7 @@
 "c613f69bed1add9c": 1794588025.8512602,
 "c61904e43ee55e8f": 1794949905.0488856,
 "c61c85cc58f96130": 1794090024.092463,
+"c628b5a53e939eb1": 1794997234.1731262,
 "c62963e8e41314ba": 1794397829.6326773,
 "c637ba7955d7b372": 1794426025.3083632,
 "c638b22946250cbc": 1794063069.3473625,
@@ -30154,6 +30036,7 @@
 "cff215c314810ec5": 1794553252.738333,
 "cff7084a976b2a92": 1794510065.4285805,
 "cffd49f832fd2a5c": 1794090024.092463,
+"d0024667c8f4c67e": 1794997234.1731262,
 "d004cc8dd277cc62": 1794382824.7473376,
 "d0053910d2b4a502": 1794916225.5401983,
 "d007ce296bcdd122": 1794812457.8102336,
@@ -31006,6 +30889,7 @@
 "dd6f92fd1559ea81": 1794229254.159377,
 "dd702edba2089bd9": 1794144023.650658,
 "dd704f2faae818a1": 1794053146.8970654,
+"dd77923ef2e04756": 1794997234.1731262,
 "dd7b75b066e9a303": 1794140423.8128505,
 "dd7b7b74ea160e04": 1794058663.5416367,
 "dd7d76464c9afb63": 1794242424.5403016,
@@ -31862,6 +31746,7 @@
 "ebb3a053837b214c": 1794125424.4951053,
 "ebb3fcf6ec04d34b": 1794588025.8512602,
 "ebb6c43b212b25f1": 1794812457.8102336,
+"ebb71b1ece8a1275": 1794997234.1731262,
 "ebbab83c8d6c523a": 1794951041.4843895,
 "ebbfd65b1ef9b25f": 1794300023.3124595,
 "ebc070d8f876b501": 1794729650.1855493,
@@ -32860,6 +32745,7 @@
 "fc0b62c7c5429bb8": 1794240054.5770936,
 "fc144b7dd1c83d7e": 1794922826.4302015,
 "fc1482c872d50667": 1794726050.5794117,
+"fc19d6bd0a2f3e2a": 1794997234.1731262,
 "fc1b70e8511fbe13": 1794553252.738333,
 "fc23b516836725cb": 1794990024.1693873,
 "fc23ed68785c8abc": 1794657652.7046778,
@@ -32892,6 +32778,7 @@
 "fc940a04f08352d0": 1794435021.8575943,
 "fc9f7c57210606de": 1794404423.5930965,
 "fca0a65dfe1aa45c": 1794747886.992174,
+"fca557ebc03d4247": 1794997234.1731262,
 "fca7ed9a9778ab6b": 1794575425.1386402,
 "fcaae001a735877a": 1794488450.726929,
 "fcb1d5e57703e262": 1794297025.7499537,
