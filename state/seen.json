@@ -542,7 +542,64 @@
 "t": "11-19 19:01"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVBRbVlJeWNzSU9zRE1jUlFNT3lpMy1CSTJraEpmVjNmZHBUNjhIZlA1eTUyLXpXTVVQOWsyQlRZWGNnamVyaHFLRWQwZU5CWkdCWm8xQVhGdDlaMXlyNDlzTnlMOU5jaVhSb0oxNkxXdkpnYkFLclpOLUJ0THBQeFpqTnJPSGRCb0lDYjZzWHhzcVFQVGJ6cVJtSDJkcExfdGpjRFo2NHJKeWQ5UnNrWG1Dek1ZZw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u57fa\u5efa",
+"summary": "Amazon Ups Pressure on NYC Delivery Bill With Threat to Move Out &nbsp;&nbsp; Bloomberg.com",
+"tags": [
+"AMZN"
+],
+"title": "Amazon Ups Pressure on NYC Delivery Bill With Threat to Move Out - Bloomberg.com",
+"ts": 1795109829,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Block",
+"summary": "Ripple\u2019s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
+"tags": [],
+"title": "Ripple\u2019s Alderoty doubts Elizabeth Warren will \u2018set crypto policy in this country,\u2019 backs durable agency rules",
+"ts": 1795114050,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4674846-insmed-may-be-worth-170-to-210-a-share-in-takeover-analyst?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Insmed may be worth $170 to $210 a share in takeover, analyst",
+"ts": 1795114886,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Decrypt",
+"summary": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.",
+"tags": [
+"BTC"
+],
+"title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+"ts": 1795115304,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -615,9 +672,9 @@
 },
 "last_date": "2026-11-18"
 },
-"_last_check": 1795111835.335843
+"_last_check": 0
 },
-"last_run": 1795114884.154422,
+"last_run": 1795115509.5807312,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1595,6 +1652,7 @@
 "0d27b10716478ea1": 1794223228.835452,
 "0d291bde96c45bce": 1794679824.3245559,
 "0d2cd6be50ae6d4d": 1794526824.824283,
+"0d2fe5929678045b": 1795115426.0910778,
 "0d2ff7875cc3eb17": 1794053146.8970654,
 "0d3013b74d51009b": 1795098026.560795,
 "0d310843bfc3ed03": 1794927662.4408813,
@@ -4960,6 +5018,7 @@
 "38bc804e89c5e610": 1794483042.7861938,
 "38be4fc83f491d62": 1794394221.942005,
 "38c1c3b6c0ccf287": 1795071657.072108,
+"38c567df60be0639": 1795115426.0910778,
 "38c9898fc17bc21c": 1794154823.0343263,
 "38ce438cf42be7e2": 1794129624.9673119,
 "38cfd5c511520c95": 1795098026.560795,
@@ -7279,6 +7338,7 @@
 "56e0e5b53aa5e44d": 1794833424.9627757,
 "56e16260266f7b59": 1794955223.4901257,
 "56e1eedb376827aa": 1794125424.4951053,
+"56e544d804fb60c5": 1795115426.0910778,
 "56e59f3dc555a7ad": 1794207655.353521,
 "56ec986aeade57a1": 1794388822.6516917,
 "56f01f71baab845d": 1794380451.074071,
@@ -14542,6 +14602,7 @@
 "b792bdc640cac4e9": 1794510065.4285805,
 "b79306ef12f64032": 1794483042.7861938,
 "b797418bf7b72910": 1794294057.2981856,
+"b798e5c163e4a5b7": 1795115426.0910778,
 "b799e6b336cfabdc": 1794466847.0948906,
 "b79c1ce4bd089277": 1794417625.2380702,
 "b79ed399ff33ce84": 1795033225.744228,
@@ -16197,6 +16258,7 @@
 "cc7c08bda8f863d2": 1794844224.1648452,
 "cc7fea508e3f69da": 1794230425.0439425,
 "cc81f48b5b1950a1": 1794401423.3914762,
+"cc8f77c59281b67a": 1795115426.0910778,
 "cc90aa2980b6eae9": 1794466847.0948906,
 "cc910e95320d0264": 1794697827.267664,
 "cc96306c9060949a": 1795015844.7403495,
@@ -18257,6 +18319,7 @@
 "e7bc577c41e77109": 1794597026.5485523,
 "e7bdb250acea7888": 1794747886.992174,
 "e7be479222dbe39e": 1794490241.0443716,
+"e7bea875b4adb1ec": 1795115426.0910778,
 "e7c088fcdce57ef6": 1794726050.5794117,
 "e7c403275f97f2df": 1794351023.4319475,
 "e7c47aae9fc039b5": 1795008645.6568637,
@@ -21519,6 +21582,7 @@
 "143fe6e958038cb6": 1795013425.3251805,
 "144a7a84c031bdfb": 1794676225.6021314,
 "144be7a54c9432c3": 1794466847.0948906,
+"144f8bc9a39f2e42": 1795115426.0910778,
 "1453e199d6ce45b1": 1794898855.1759124,
 "145bf37ba894452a": 1794740464.3976526,
 "14614aa267d58da6": 1794090024.092463,
@@ -22411,6 +22475,7 @@
 "20fd5d6f655184b2": 1794567024.531577,
 "20fddbe44686cc6f": 1794496825.0216095,
 "2100089dd259f658": 1794227444.8368437,
+"2102442cd8ebf099": 1795115426.0910778,
 "210df5390a607023": 1794473421.2667904,
 "21144b8894c06fe6": 1794985252.4753754,
 "2114bada0658022c": 1795105856.1784246,
@@ -24061,6 +24126,7 @@
 "3811301b28557acd": 1794331841.6847267,
 "381493fd57f702cd": 1794569442.764256,
 "38178dcf07ca09e1": 1795077625.7047555,
+"381e4fdf0fadaab7": 1795115426.0910778,
 "381fdfe255b2db0b": 1794053146.8970654,
 "3830c54d1a15a200": 1794239425.4260268,
 "3835ac7d53509650": 1794294057.2981856,
@@ -27530,6 +27596,7 @@
 "69e1833d8079d57b": 1794380451.074071,
 "69e2d8ea065de2c6": 1794243026.4460754,
 "69e8314cfce8dd8c": 1794380451.074071,
+"69eaffcf59af6e94": 1795115426.0910778,
 "69fa12885fa9cc43": 1794864023.5449986,
 "69fb9efce3659e83": 1794507627.84046,
 "69fba6837ad0eb61": 1794937228.7412548,
@@ -30826,6 +30893,7 @@
 "9a46bcc34be59326": 1794466847.0948906,
 "9a4944945609528c": 1794953424.1165793,
 "9a4b7cebd8b46d4e": 1794058663.5416367,
+"9a4c6824d21b565f": 1795115426.0910778,
 "9a52afb29bf3b05f": 1794207655.353521,
 "9a56b3ad0fb02f87": 1794729650.1855493,
 "9a5a50dd7ffa3518": 1795035662.9652836,
@@ -36937,6 +37005,7 @@
 "ef73673c1b0a0708": 1795088426.8173113,
 "ef7ed515757cb993": 1794315657.2528052,
 "ef807825819e5c9d": 1794826856.7571714,
+"ef83f919d938d736": 1795115426.0910778,
 "ef86452677d49352": 1794216024.5700488,
 "ef89c2d8dc5284ff": 1794207655.353521,
 "ef8a6c482c28fbdd": 1794521423.7718086,
