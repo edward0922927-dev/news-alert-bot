@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795117238.7141252,
+"ai_last_review": 1795118525.3710132,
 "ai_log": [
-{
-"err": "",
-"kept": 2,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 27,
-"ok": true,
-"t": "11-18 15:42"
-},
 {
 "err": "\u8d85\u6642\uff08[gemma-4-31b-it] ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)\uff09",
 "kept": 7,
@@ -540,79 +531,18 @@
 "n": 19,
 "ok": true,
 "t": "11-19 19:40"
+},
+{
+"err": "",
+"kept": 2,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 7,
+"ok": true,
+"t": "11-19 20:02"
 }
 ],
-"ai_queue": [
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXZuZnVfZUVZT3kzMm8tOUdmbXVfYk9YeXl4Y1dndWtwTXRYRERISER0YURHWFRVc1dmNXdfejVWaXZwcFJzQm9VeTNjQkxmckZYLTREWU5TTHhVaXc1QW5Kd0JDU1BUNVd4VGNUcUh2a0s2VEtKeHJSM1p1NFlFcGlrUXlvbEQyTjhXdExqOF83SE43ZVlhLWhzcE5VMmVJYnNXVlZoZGVDelExdVpBc0J5MlRSZVdNMVluSjJ2STlYUnB4dWlv?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "Trump's defamation case against New York Times and Penguin Random House may proceed, judge rules &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Trump's defamation case against New York Times and Penguin Random House may proceed, judge rules - Reuters",
-"ts": 1795113991,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cryptoslate.com/anthropics-1-5-trillion-ipo-exposes-bankrupt-ftxs-40-billion-missed-fortune/",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "CryptoSlate",
-"summary": "Anthropic shares owned by FTX and sold for around $2 billion would now be worth more than $40 billion as the artificial intelligence company finally goes public on Nov. 19. The difference highlights one of the largest missed windfalls from FTX&#039;s bankruptcy, after administrators and US authorities liquidated investments originally made by Sam Bankman-Fried and\u2026 Read the full story on CryptoSla",
-"tags": [
-"bankruptcy"
-],
-"title": "Anthropic\u2019s $1.5 trillion IPO exposes bankrupt FTX\u2019s $40 billion missed fortune",
-"ts": 1795117253,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/cae-gains-morgan-stanley-upgrade-as-transformation-progress-strengthens-outlook-5039817",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "CAE gains Morgan Stanley upgrade as transformation progress strengthens outlook",
-"ts": 1795117323,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/procter--gamble-targets-up-to-10-billion-in-productivity-savings-cfo-says-5039819",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Procter & Gamble targets up to $10 billion in productivity savings, CFO says",
-"ts": 1795117344,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/regulation/binance-us-says-perps-bid-clears-cftc-completeness-check",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "The exchange seeks trading and clearing registrations for a US derivatives offering. Neither has been approved, and Binance.US says it offers no derivatives yet.",
-"tags": [
-"Binance"
-],
-"title": "Binance.US Says Perps Bid Clears CFTC Completeness Check",
-"ts": 1795117715,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -687,7 +617,7 @@
 },
 "_last_check": 1795116035.7717712
 },
-"last_run": 1795117840.6418355,
+"last_run": 1795118529.8575106,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -8247,6 +8177,7 @@
 "625ce808c842700f": 1794322856.5589402,
 "625dee2cb1176f6f": 1794207655.353521,
 "625ecc6fcc9f5855": 1794385837.7839928,
+"6262f495ff14bb35": 1795118472.3337471,
 "62643807a74a1e6c": 1794053146.8970654,
 "626a737783831378": 1795029627.0842295,
 "626fb0a23faf0ebc": 1794381624.5089903,
@@ -19286,6 +19217,7 @@
 "f37d670d78f8ecea": 1794898855.1759124,
 "f381058007e1bec5": 1794505825.2474673,
 "f383d9725dcfb78f": 1794697827.267664,
+"f384cc7741d9bf89": 1795118472.3337471,
 "f385a052cc49cac7": 1794263443.2975552,
 "f389aeccae4fe4cb": 1795086624.8128257,
 "f393a6fcecbcb696": 1794553252.738333,
@@ -31289,6 +31221,7 @@
 "9e683b38ed772e43": 1794948623.2692866,
 "9e689e6143b763e2": 1794937829.209939,
 "9e6b449c215f3c46": 1794436824.2970095,
+"9e6d60c919ff3875": 1795118472.3337471,
 "9e6ffc8c4d2a40c0": 1794499252.6606731,
 "9e70213cc54b5c2f": 1794814242.1111767,
 "9e76f1d57a9a680e": 1794694224.7511728,
@@ -38188,6 +38121,7 @@
 "febb424476be9104": 1794608434.8443968,
 "fec32acbc55540e9": 1794236457.02748,
 "fec5c06f2921d876": 1794331227.4269834,
+"fec8448172b4967f": 1795118472.3337471,
 "fec8c51445517481": 1795071657.072108,
 "fed2c6de8cd00fee": 1794337825.344606,
 "fed3bb93f7a9f39e": 1794478222.0113163,
