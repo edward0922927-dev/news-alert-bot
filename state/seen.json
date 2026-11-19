@@ -542,13 +542,163 @@
 "t": "11-19 10:32"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/trump-unveils-17-billion-of-southeast-asia-deals-for-us-firms-white-house-says-5038267",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Trump unveils $17 billion of Southeast Asia deals for US firms, White House says",
+"ts": 1795083868,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4674602-hoegh-autoliners-asa-gaap-eps-of-0_38?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "H\u00f6egh Autoliners ASA GAAP EPS of $0.38",
+"ts": 1795084109,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-114-5038276",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "India stocks higher at close of trade; Nifty 50 up 1.14%",
+"ts": 1795084205,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4674584-earnings-snapshot-alibaba-posts-53-surge-in-ai-cloud-revenue-in-fq2-top-line-beats-while-adjusted-epads-misses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"AI Cloud"
+],
+"title": "Earnings Snapshot: Alibaba posts 53% surge in AI Cloud revenue in FQ2; top line beats while adjusted EPADS misses",
+"ts": 1795084288,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "Cointelegraph",
+"summary": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.",
+"tags": [
+"SOL"
+],
+"title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+"ts": 1795084325,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/morgan-stanley-cuts-accor-on-debt-concerns-and-reduced-buyback-room-5038287",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Morgan Stanley cuts Accor on debt concerns and reduced buyback room",
+"ts": 1795084352,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-slipping-today-93CH-5038289",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Why is Alibaba stock slipping today?",
+"ts": 1795084419,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4674603-nkt-a-s-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "NKT A/S reports Q3 results",
+"ts": 1795084452,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/frontier/ai/ai-labs-say-their-models-are-speeding-up-ai-research",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "METR estimates Anthropic's benchmark progress has nearly doubled in pace. OpenAI reports higher estimated task-success rates without human intervention, with wide variation by task.",
+"tags": [
+"OpenAI"
+],
+"title": "AI Labs Say Their Models Are Speeding Up AI Research",
+"ts": 1795084479,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Block",
+"summary": "Ant launched the Whale Orchestration Protocol to enable settlement between tokenized deposits and tokenized money market funds.",
+"tags": [],
+"title": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
+"ts": 1795084769,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "CoinDesk",
+"summary": "",
+"tags": [],
+"title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+"ts": 1795084776,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-19T07:00"
+"last_date": "2026-11-19T09:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +708,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-19T07:00"
+"last_date": "2026-11-19T09:00"
 },
 "FNG": {
 "cool": {
@@ -582,11 +732,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-19T07:00"
+"last_date": "2026-11-19T09:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-19T07:00"
+"last_date": "2026-11-19T09:00"
 },
 "UST10Y": {
 "cool": {
@@ -615,9 +765,9 @@
 },
 "last_date": "2026-11-18"
 },
-"_last_check": 0
+"_last_check": 1795084837.409363
 },
-"last_run": 1795084341.9874086,
+"last_run": 1795084877.5818553,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1000,6 +1150,7 @@
 "05725133f59f0d4d": 1794825041.4304469,
 "057271663c13b249": 1794090024.092463,
 "05737b6f815c4ce0": 1794639651.002237,
+"0575722846f2a345": 1795084826.7229445,
 "057a598f3a2b2218": 1794420624.586875,
 "057b3052ecc2df10": 1794813634.065804,
 "057d9ed77038df25": 1795035029.6229646,
@@ -1502,6 +1653,7 @@
 "0c8082ff5a2dfb77": 1794431426.5168767,
 "0c839ff8319cf1ef": 1795076428.3749444,
 "0c8b3a95b436f449": 1794520849.7436028,
+"0c8f82875dac447b": 1795084826.7229445,
 "0c91697696a72f04": 1794985252.4753754,
 "0c91c485d1ddcb31": 1794812457.8102336,
 "0c963573b6bb70da": 1794586827.1055727,
@@ -2683,6 +2835,7 @@
 "1cc06944f443023f": 1794474627.5078099,
 "1cc6253daf0c19cf": 1795084241.8486466,
 "1cce03a37e31c443": 1794607823.8860877,
+"1cd0cddc0e08e4d2": 1795084826.7229445,
 "1cd679d02dd237aa": 1795007427.269039,
 "1cdcba18f22670b7": 1794936645.8912413,
 "1cde162ed3adea32": 1794060010.396961,
@@ -5467,6 +5620,7 @@
 "41a864ccf3aeeda6": 1794844224.1648452,
 "41b067d23fa96368": 1794500033.245441,
 "41b0ab90b9c3b74b": 1794262824.4868238,
+"41b1640124c3d295": 1795084826.7229445,
 "41b380f887376556": 1794985252.4753754,
 "41b4a6a887f1965d": 1794208823.7725184,
 "41b6029c59022f93": 1794865225.5430987,
@@ -9654,6 +9808,7 @@
 "7c8bb25c95b0ef17": 1794591053.6013825,
 "7c8d62bcd17657cf": 1794349221.7950053,
 "7c8e31fc12d9d23f": 1794244826.386174,
+"7c9734e562a931c4": 1795084826.7229445,
 "7c9a006dcf162f88": 1794228625.7348583,
 "7c9fcc3b851904c9": 1794073224.1004374,
 "7ca02d38307d9494": 1795041049.6610858,
@@ -12013,6 +12168,7 @@
 "9d5842d4dc7ee70f": 1794904241.504226,
 "9d5d70ee73509c84": 1795040426.1665328,
 "9d61e6640472ef08": 1794068425.5875695,
+"9d686b469026f9f5": 1795084826.7229445,
 "9d6cfb5edf61defd": 1794321043.2025392,
 "9d6d9e368c437fd7": 1794304852.8805614,
 "9d6f70491a78c97c": 1794997234.1731262,
@@ -12332,6 +12488,7 @@
 "a223fdabe5618671": 1795078857.1948605,
 "a2286096167a3796": 1794488450.726929,
 "a2287294eff3fc0a": 1794397829.6326773,
+"a22c2f8c37c1dc72": 1795084826.7229445,
 "a2377832f2005565": 1794864642.7476947,
 "a2398744051a7baa": 1794417111.777808,
 "a23a75712165f9fa": 1794854423.910638,
@@ -12961,6 +13118,7 @@
 "aaca1f079356e413": 1795038024.384281,
 "aacc53555e6c17ca": 1794938454.9176507,
 "aacde5d894b6dd6c": 1794646850.1928723,
+"aace5a0add5ddb7f": 1795084826.7229445,
 "aad6063f8b483693": 1794414698.6025398,
 "aad618118999f94e": 1794985252.4753754,
 "aad7c88a87f3c32a": 1794295841.2960658,
@@ -15292,6 +15450,7 @@
 "c94c3a4a06ed8dc0": 1794520225.482529,
 "c954f779b4378847": 1794985252.4753754,
 "c95831a6012622ee": 1795014063.728437,
+"c95838a05335da3e": 1795084826.7229445,
 "c95c3c6d06fbd67d": 1794861043.083342,
 "c9608ee47a1d4d72": 1794212427.3416302,
 "c96197dfbabde50e": 1794812457.8102336,
@@ -15879,6 +16038,7 @@
 "d122bb3d92d551e3": 1794574855.4473867,
 "d1236762f05076eb": 1794325226.4663944,
 "d123ce5f706bc7b2": 1794223228.835452,
+"d12577199ad523b1": 1795084826.7229445,
 "d12c517e28118c12": 1794584426.2584767,
 "d12e911cb95794f0": 1794521423.7718086,
 "d13015cca1747d3d": 1794827425.4141595,
@@ -16131,6 +16291,7 @@
 "d4830eff52d16d1f": 1794829227.3251061,
 "d4851d382945b6e9": 1794777624.2384558,
 "d487458efe0d40d4": 1794385221.6704128,
+"d490458d9eb692b7": 1795084826.7229445,
 "d49337ee565fb7e7": 1794342640.7023919,
 "d4958b7f4501077f": 1794751824.973813,
 "d496a15674bb91dd": 1794816624.697216,
@@ -16520,6 +16681,7 @@
 "d99642dfac597544": 1794251432.9348457,
 "d998417e7ca6ac3e": 1794856223.5274317,
 "d99b6c6eccb4b20f": 1794220827.8644307,
+"d99bcf76db13b0e9": 1795084826.7229445,
 "d9a658353482923d": 1794606028.3801425,
 "d9b7a56915abbd4e": 1794090024.092463,
 "d9c07ab02dc0d97b": 1794729650.1855493,
@@ -17717,6 +17879,7 @@
 "eae96e94e92aee07": 1794090024.092463,
 "eaf4a11d1365feff": 1794246025.5884385,
 "eafb083e9e87c4ef": 1794834626.435269,
+"eb0114635f5f6d16": 1795084826.7229445,
 "eb03676985e9323a": 1794415827.7010334,
 "eb03fc918110320d": 1794833424.9627757,
 "eb058cf3224fbe3d": 1795071657.072108,
@@ -18393,6 +18556,7 @@
 "f3c87c6dcf90b507": 1794400239.7773461,
 "f3cafa568d69e1ea": 1795027824.3007407,
 "f3cddd1f0a5f176e": 1794346240.584557,
+"f3cf77cd5eba60b9": 1795084826.7229445,
 "f3d2e7e0fd478c3b": 1795071657.072108,
 "f3d4645694fd8f2b": 1794784823.9320164,
 "f3d4b974a8523746": 1795013425.3251805,
@@ -20060,6 +20224,7 @@
 "0b7e25719e2e5b88": 1795040426.1665328,
 "0b7ff05cc2ed4370": 1794129624.9673119,
 "0b812227c710a1dd": 1794466847.0948906,
+"0b8334f9aaad581b": 1795084826.7229445,
 "0b846ec9ae5ccd5f": 1794996050.8808162,
 "0b86197129fcf565": 1794812457.8102336,
 "0b86497dfb3335bb": 1795014063.728437,
@@ -20574,6 +20739,7 @@
 "13201e6e559e443a": 1794928827.552128,
 "13289f6245bc7fe4": 1794252026.8992693,
 "132be5a54bb38647": 1794493226.1332557,
+"132c0a98700f6588": 1795084826.7229445,
 "132d25d10b8408c7": 1794404423.5930965,
 "132e5fe9bc80ad51": 1794949257.8199666,
 "13316ec198a388d9": 1794402054.0077875,
@@ -23931,6 +24097,7 @@
 "448e8c39a1c2b3b2": 1794871839.1299171,
 "4492f9e9285476e5": 1794868822.816396,
 "449378d9c0872f7b": 1794227444.8368437,
+"44942f50a06e3209": 1795084826.7229445,
 "449961ecd2ac4879": 1794949905.0488856,
 "4499d388fab82dcc": 1794299443.3490458,
 "449c2981fa6d12d8": 1794060010.396961,
@@ -24524,6 +24691,7 @@
 "4d665966a58fb346": 1794830462.0540502,
 "4d69ad3ab16b078b": 1794954038.3001463,
 "4d6aef9fc1a8e3ae": 1794473421.2667904,
+"4d6d7ee24dd59594": 1795084826.7229445,
 "4d710736a0b26539": 1794423649.5969415,
 "4d737382a832e1cd": 1794420624.586875,
 "4d786b13e733b919": 1794837653.5733871,
@@ -25882,6 +26050,7 @@
 "621245682614f9b0": 1794244224.5102243,
 "6212df444933d6c2": 1794129624.9673119,
 "6222062286dcec5c": 1794521423.7718086,
+"6223ca7aca28429c": 1795084826.7229445,
 "622445601222fd28": 1794672623.5060716,
 "622523a1db642c5f": 1794390025.792391,
 "62279c0ea0c4be0f": 1794303626.3132353,
@@ -29867,6 +30036,7 @@
 "9ea7c6a524ab0945": 1794918028.1423836,
 "9eab58de373aa79e": 1794478222.0113163,
 "9eb26af8813e2cad": 1794820823.8602707,
+"9eb4a36f24ad9ad0": 1795084826.7229445,
 "9ebc6d484964a951": 1794900643.8440216,
 "9ec17918ded256c1": 1794821440.8058648,
 "9ec8d61ffec25ec4": 1794826856.7571714,
@@ -31337,6 +31507,7 @@
 "b4b07fb4a57ca495": 1794657652.7046778,
 "b4b561d31d356791": 1794410424.1208882,
 "b4b88421729c86dd": 1794841825.0479877,
+"b4c39a39dd4729af": 1795084826.7229445,
 "b4c84c0e1b3f0bff": 1794431426.5168767,
 "b4c90ea70e73ca53": 1794601224.3173718,
 "b4cc548c7a6dab46": 1794486640.0102599,
@@ -32169,6 +32340,7 @@
 "c02ea59727a93752": 1794079839.2548869,
 "c031f4f6cb0ddc38": 1794562241.9332683,
 "c034d2d23582eac4": 1794654052.6240277,
+"c0352231a920867f": 1795084826.7229445,
 "c0356aad94729b64": 1794090024.092463,
 "c03633d480f20936": 1794502224.8850534,
 "c03be38fb3b13ec1": 1794759035.471768,
@@ -33474,6 +33646,7 @@
 "d2fefb628f703b25": 1794994244.1278844,
 "d303786e017ae537": 1794466847.0948906,
 "d3047fff90c9efb4": 1794307223.432283,
+"d312a479a0773fb0": 1795084826.7229445,
 "d318c75053df6b37": 1794489626.5939486,
 "d31dd648a8ab4fdb": 1794985252.4753754,
 "d31f0686984ef4e7": 1794243659.0740352,
@@ -33536,6 +33709,7 @@
 "d3e2b30c4112e5db": 1794812457.8102336,
 "d3f18e498d17e77b": 1794466847.0948906,
 "d3f2358038f6b47d": 1794466847.0948906,
+"d3f50ce140312613": 1795084826.7229445,
 "d3f98b853fee450f": 1794129624.9673119,
 "d3fa800a93b166f8": 1794390025.792391,
 "d3fd232432b1aa16": 1794380451.074071,
@@ -34613,6 +34787,7 @@
 "e362440a5f6542e5": 1795073423.1091006,
 "e371de2cc04a74ce": 1794489036.1626346,
 "e372d9150c9b39b7": 1794985252.4753754,
+"e3734ab5fa7a6257": 1795084826.7229445,
 "e375eda66b228e2c": 1794162024.6325307,
 "e37a5250a501d6ba": 1794477651.6975112,
 "e37c9b65c300748e": 1794940245.5150964,
@@ -35578,6 +35753,7 @@
 "f1cbde42d2033cdb": 1794603612.7931938,
 "f1d0c25bbcf62018": 1794309624.5737193,
 "f1d41b936076011f": 1794207655.353521,
+"f1df49787b908c0a": 1795084826.7229445,
 "f1e373fef75739ad": 1794053146.8970654,
 "f1ed5174c936d101": 1795071657.072108,
 "f1f52101a7989043": 1794747886.992174,
@@ -35586,6 +35762,7 @@
 "f1fad2e6dd133c9c": 1794932430.6081858,
 "f1fc4db646177543": 1794838224.3695483,
 "f1ffd4c7950680bf": 1794066518.762267,
+"f208ce932b123e79": 1795084826.7229445,
 "f2108e77b05e4605": 1794481825.880578,
 "f2144ad336c8b519": 1794225653.3544042,
 "f221db139240f2fd": 1794835224.5721529,
