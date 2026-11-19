@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795118525.3710132,
+"ai_last_review": 1795119682.178141,
 "ai_log": [
-{
-"err": "\u8d85\u6642\uff08[gemma-4-31b-it] ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)\uff09",
-"kept": 7,
-"missing": 0,
-"model": "",
-"n": 23,
-"ok": false,
-"t": "11-18 16:03"
-},
 {
 "err": "",
 "kept": 3,
@@ -540,252 +531,24 @@
 "n": 7,
 "ok": true,
 "t": "11-19 20:02"
+},
+{
+"err": "",
+"kept": 1,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 21,
+"ok": true,
+"t": "11-19 20:21"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUFyUG9ub000OG9nT2lKaFI2VmpBc1h2Wk9SM044dEZVTzFMaVhtQVFkTVBVTkF3QlZjRlZWZklFcWNjRHlFN2ZmdEh3QmZXdmxZb3hqNmFOd0NVSkFIZnBWNDhRTVltZmdkQjZEQUtkZ1JCbWpoNktyX19tdHkyS3NadXJoTU1aNHlGcGhCYnJCMm44TllBV1FxRHVrV0hvMFVkUWtLQVYtdDlGVlBBbXp3?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Trump Sold Home Depot, McDonald\u2019s as Portfolio Shifted to ETFs &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Trump Sold Home Depot, McDonald\u2019s as Portfolio Shifted to ETFs - Bloomberg.com",
-"ts": 1795107430,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeWo3b2xmVzRIMWV2XzM3b1NVaHlqMDM2ZDVWX2l0RXRuWHJnSFVEUElVaS1SZ0w0cGFKQ3RxcU52Tkk4c2RZZEpoQlV0TnBFdk5Cd3kwbUFmRko4U3BYZjZtRDRJVkFhTXZ1SnpFRmI5bjRvR0s3Tk9fTWNqRzdCcmVGUmVwR0VnYlZIdkIybWo0cmRFSXhN?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
-"summary": "Rhino Bitcoin\u2019s Strategic SPLD Holding Aligns Shareholders with Quantum-Secure Tokenization Infrastructure &nbsp;&nbsp; Financial Times",
-"tags": [
-"BTC"
-],
-"title": "Rhino Bitcoin\u2019s Strategic SPLD Holding Aligns Shareholders with Quantum-Secure Tokenization Infrastructure - Financial Times",
-"ts": 1795113944,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSlhpc3VjQlJUMS1pb2FxdTNFSFlNODl6NFB5RXlnMlljcXI5dGl0emdoTkpFNmRRWnJzOXhVakxhQWdWb1hvb2tnaFZkLWZoYUFTc1lEQ0VmOXBETkp6TDQ0Tk84QWhWWlVqUFM3bG0tVXk5YVVveU91TU1MUHpvdVk4TTdBLVQtZGs0enhlZ290bjUzbDRQU1liWmVpUQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "Netherlands summons Russian ambassador as Kyiv embassy hit &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Netherlands summons Russian ambassador as Kyiv embassy hit - Reuters",
-"ts": 1795114179,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHJXdkkwa0tVNC1mczJJUjloOWczMTJBNWpTN0d4R0p3c1RZLVdvNkpOU3RtWTlJejMyNlVORjZ1bjVoOTIya2Qyd1NzVi1FWGV4cnVWeFJ4TXRaNU9OQXh6ZnNhNUxnQV8tQjJUbm1FMDVpSmRLc19mdVR1UVQ1aGM2MmZPWFAzeXRteWRpQ2VraHY4X1ozMnh1UDBpSkRQWW9rRHBZTzkwUQ?oc=5",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Reuters \u5b8f\u89c0",
-"summary": "Elior profit falls as Italian rail contract dispute weighs &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Elior profit falls as Italian rail contract dispute weighs - Reuters",
-"ts": 1795114478,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQWI3Zy1rQ1RPOXd0YVJXTXlxNUFoY1N5VlRtcWNBRnFNdXgybGIxdV96SmRSVnpPbFU1RzJnQTRtMC1BUGpfbXAwNGlwMTBITGJTNUdBZGlXVXc3MW1GRU1rVGxueFg1RG9PSzl4UW92TjdDRGpWT2Z6MTBwb05mZi1kY3haRkxzZkE3X09XYmFtWG9uNFZFWHlEQTd3UTRYZXZxYTdtOHZucHVRdXVQdm44TUJRaDB4WWpobWQ5dlVpVThlRFo3NzJ5SmxmQkxKcXlkaHJsMTBmdw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "EXCLUSIVE: US should restrict investments in China's aerospace sector, not certify Chinese aircraft, lawmakers say &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "EXCLUSIVE: US should restrict investments in China's aerospace sector, not certify Chinese aircraft, lawmakers say - Reuters",
-"ts": 1795116411,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjVV9RVUhpYlFpQ3RzeTMzRGVKUE45YWJPQllNWlJPLVlLWUNkVERBaFJoMUJfR2pfbHdSNE8zVy1fcl9qanFJZFFkUDI1VEZCMlY5SjBJaGxFN2Z0OE9mS21hTjhYamc?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Kushner says Trump is open to security guarantees for Ukraine &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Kushner says Trump is open to security guarantees for Ukraine - Reuters",
-"ts": 1795116563,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczhzMjlHbHFCXzdwV1doS3hlTmM0dXdsNHVNU19lNzJoU1FuRjdPRDBLRGx6cVk4REVpeWpEVGRiUG9mNHhYaTZTNm5xSFRTcGs4Q05uVXJvX2kzU0F0X2NieFZXemJGX0toUWpQT2l2MEJBcXdBZ0FvMXVTbldJYi04QkQ2NGs4SjJRTXdiWGh3LW9icUFlNW1ocXJtbVhXcVkxSA?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters \u5b8f\u89c0",
-"summary": "Canadian dollar steadies near 19-month low as stocks slide &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Canadian dollar steadies near 19-month low as stocks slide - Reuters",
-"ts": 1795117585,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/meta-trades-at-21x-pe-yet-shareholders-face-a-massive-new-bill-5039109",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Meta trades at 21x P/E, yet shareholders face a massive new bill",
-"ts": 1795118080,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/boeing-is-down-15-yet-this-quiet-aviation-stock-has-surged-32-5039022",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Boeing is down 15%, yet this quiet aviation stock has surged 32%",
-"ts": 1795118164,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-spacexs-latest-move-has-tmobile-investors-on-edge-5039002",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why SpaceX\u2019s latest move has T-Mobile investors on edge",
-"ts": 1795118230,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/lumentums-sales-surged-137so-why-is-its-stock-crashing-5038995",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Lumentum\u2019s sales surged 137%\u2014so why is its stock crashing?",
-"ts": 1795118313,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-jpmorgans-13x-pe-isnt-the-bargain-it-looks-like-5038962",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why JPMorgan\u2019s 13x P/E isn\u2019t the bargain it looks like",
-"ts": 1795118353,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674862-spire-downgraded-at-jefferies-ahead-of-rate-case-outcomes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Spire downgraded at Jefferies ahead of rate case outcomes",
-"ts": 1795118368,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/wall-street-slides-as-anthropics-debut-fails-to-revive-ai-enthusiasm-5039839",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Wall Street slides as Anthropic\u2019s debut fails to revive AI enthusiasm",
-"ts": 1795118426,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674865-maximus-forecasts-700m-800m-fiscal-2027-free-cash-flow-while-integrating-agile-defense?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Maximus forecasts $700M-$800M fiscal 2027 free cash flow while integrating Agile Defense",
-"ts": 1795118636,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXNreldUaXJvV194SFcxMDRWWlpSeldPQ1ZzOVhsTHFydF9OX0haUXRLRTNoZVZTUGphWmNiM1Q3NHJsRTdPZlFuUXdkWVVMcXNhOXhWLWJyLUhhV0pxYU9TYkxTbnp0SUtFaW9ISVYySWJQUEtYVURkeWhEQjVlSGdwaGdrNHp0WDlsczFjQ2M4RWxBV0diRnF2QnZ1Rjc3OUVxamd4R2c2d00tQ1l2MC1KMjVYYzlWNzdUaVYwSQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Trump's $15 billion defamation case against New York Times may proceed, judge rules &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Trump's $15 billion defamation case against New York Times may proceed, judge rules - Reuters",
-"ts": 1795118663,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Cointelegraph",
-"summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
-"tags": [],
-"title": "Trump\u2019s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-"ts": 1795118794,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674868-it-s-a-dark-period-for-tech-as-anthropic-debuts-ipo-dan-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "It\u2019s a \u2018dark period for tech\u2019 as Anthropic debuts IPO \u2013 Dan Ives",
-"ts": 1795118906,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-19T18:00"
+"last_date": "2026-11-19T19:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -795,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-19T18:00"
+"last_date": "2026-11-19T19:00"
 },
 "FNG": {
 "cool": {
@@ -819,11 +582,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-19T18:00"
+"last_date": "2026-11-19T19:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-19T18:00"
+"last_date": "2026-11-19T19:00"
 },
 "UST10Y": {
 "cool": {
@@ -852,9 +615,9 @@
 },
 "last_date": "2026-11-18"
 },
-"_last_check": 1795116035.7717712
+"_last_check": 1795119638.1083457
 },
-"last_run": 1795119036.5129817,
+"last_run": 1795119684.4189887,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -5040,6 +4803,7 @@
 "365845ea8477baab": 1794380451.074071,
 "3659aa125e9f5878": 1794837025.5415325,
 "3661ac39e6eee878": 1794234645.282263,
+"3662bfd695334f48": 1795119627.7798326,
 "366885493dd1090a": 1794409250.9206789,
 "366a21f19219cda0": 1794430653.1918259,
 "3672110e738023e2": 1794070201.937629,
@@ -6998,6 +6762,7 @@
 "4fa22953e1d96501": 1794522643.152942,
 "4fa81f2077fb6c98": 1794415827.7010334,
 "4fa96ed6e84bed14": 1794412225.421576,
+"4fab54a97323b822": 1795119627.7798326,
 "4fac913cae497fbf": 1794828642.7782462,
 "4fad6f1e2e1f87a1": 1794492052.5954537,
 "4fb08a5a47ddf49a": 1794217228.4060323,
@@ -7044,6 +6809,7 @@
 "502d66225eafba26": 1794866465.1514442,
 "50307c4acf76839c": 1794491425.9515207,
 "5032e58e7e9d80b8": 1794423022.5466254,
+"5033554c89f3bd67": 1795119627.7798326,
 "503590fc3112d166": 1794436824.2970095,
 "50404effba66c590": 1794668452.1981072,
 "5041012a3af952cf": 1794857444.4482071,
@@ -7301,6 +7067,7 @@
 "538c5fbf6935dc6b": 1794920454.7222776,
 "5396fa0ab0a12e7e": 1794413426.5364234,
 "5398ea801ed39c4e": 1794466847.0948906,
+"539a5190e73e12ea": 1795119627.7798326,
 "539c4081eb3f1994": 1794481251.5846794,
 "539ebd87f16f5807": 1794664849.8725064,
 "53a67c6a73fe4b6f": 1795027225.027129,
@@ -13326,6 +13093,7 @@
 "a4903cff6b8ee744": 1794342025.2153375,
 "a491275e7cdd2d4f": 1794466847.0948906,
 "a49ae049af4feebd": 1794125424.4951053,
+"a49c324d39ca9a4a": 1795119627.7798326,
 "a49e00e4e60799a8": 1794264026.1524632,
 "a49fc6ef5dc89eb4": 1794312627.9335868,
 "a4a536480a7727a1": 1794129624.9673119,
@@ -16301,6 +16069,7 @@
 "c9fabc430f46fabe": 1794176424.6910276,
 "c9fc1a163bdde197": 1794294057.2981856,
 "c9fca68b1905091f": 1794471021.9148986,
+"c9fe30e1bb99b190": 1795119627.7798326,
 "ca0b2f0366eca62b": 1795114863.8460736,
 "ca10523557533746": 1794919227.5566733,
 "ca109988a6daf374": 1794821440.8058648,
@@ -17011,6 +16780,7 @@
 "d31a83c97af5d98f": 1794477651.6975112,
 "d3204e6b1dd46b76": 1794661257.6211615,
 "d324c63d83402860": 1794496825.0216095,
+"d32c66f2b00e35d1": 1795119627.7798326,
 "d3313e562b692056": 1794812457.8102336,
 "d33664958731f316": 1794397829.6326773,
 "d338596e9adba80e": 1794740464.3976526,
@@ -19711,6 +19481,7 @@
 "f67136474186a905": 1794519626.4708598,
 "f673b2c5e6ae539d": 1795005042.7333517,
 "f682b4f1ee7e4589": 1794931258.5398288,
+"f6843f0c25490170": 1795119627.7798326,
 "f686463083ca6495": 1794501042.7863798,
 "f68dcf9641ba31b4": 1794954038.3001463,
 "f6a5e56d2c1efea8": 1794553252.738333,
@@ -21221,6 +20992,7 @@
 "0b4df68a48d4ae15": 1794553252.738333,
 "0b51d264af778e02": 1794121251.8481042,
 "0b56cb6e401ba803": 1794639651.002237,
+"0b572e60451f9723": 1795119627.7798326,
 "0b58dfb8dc2b4ee8": 1794781226.0454638,
 "0b5a2d726a15cc1e": 1794483623.074817,
 "0b5e15bc9228a5ad": 1794956464.2048197,
@@ -23496,6 +23268,7 @@
 "2b8a2cc5dc9a8ffa": 1794650448.3692777,
 "2b8eb624850f5ab6": 1794253825.980711,
 "2b959e91c2d4f37a": 1794469221.7331192,
+"2b960337fd06ccf6": 1795119627.7798326,
 "2ba2e5640bf1b7df": 1794906055.0815465,
 "2ba2f38d905299b5": 1795000224.6231546,
 "2ba7861ed67f981e": 1794994244.1278844,
@@ -29106,6 +28879,7 @@
 "7bfca2a27cd80a47": 1794676225.6021314,
 "7bfdfdee9119c2bc": 1794256827.896565,
 "7c01cc57c967c310": 1794154823.0343263,
+"7c032c7a03c2638d": 1795119627.7798326,
 "7c05eedd13f6f305": 1794466847.0948906,
 "7c0b9252f0775be3": 1794555623.064874,
 "7c0d6941fb15d0ee": 1794751824.973813,
@@ -30616,6 +30390,7 @@
 "91fc2575e83b7ce5": 1794848455.616578,
 "91fd17681187a5df": 1794759035.471768,
 "9200f7d012496580": 1794766822.8655136,
+"920404846ec6f6c0": 1795119627.7798326,
 "92071a69f041ac22": 1794329428.1954625,
 "920e2f68c94afe17": 1794261654.088547,
 "921a0a3e177b896e": 1795091448.8885486,
@@ -34438,6 +34213,7 @@
 "c6c120450a1805d6": 1794865225.5430987,
 "c6c210aaa491de21": 1794985252.4753754,
 "c6c85d4ec7785848": 1794953424.1165793,
+"c6cb1228aa28a694": 1795119627.7798326,
 "c6d1b4c4e9b614fd": 1794327026.3092759,
 "c6dc720eb60d87af": 1794914426.4172485,
 "c6df8193ab35fd68": 1794559823.6296525,
@@ -37815,6 +37591,7 @@
 "f5feaaea53a420a3": 1794554424.4818478,
 "f60071f81829b4c2": 1794352822.6411858,
 "f602b2c5c6390f04": 1794317448.4307733,
+"f60761c9612ccb96": 1795119627.7798326,
 "f607c46e43835db2": 1794604223.4254403,
 "f6080e5a221d84ac": 1794838833.3740227,
 "f6089d3e53fd91e0": 1794466847.0948906,
