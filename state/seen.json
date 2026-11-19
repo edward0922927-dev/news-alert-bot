@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795084335.628864,
+"ai_last_review": 1795085438.5446837,
 "ai_log": [
-{
-"err": "\u8d85\u6642\uff08[gemma-4-31b-it] ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)\uff09",
-"kept": 43,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 150,
-"ok": false,
-"t": "11-18 07:03"
-},
 {
 "err": "",
 "kept": 3,
@@ -540,159 +531,18 @@
 "n": 16,
 "ok": true,
 "t": "11-19 10:32"
+},
+{
+"err": "",
+"kept": 2,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 13,
+"ok": true,
+"t": "11-19 10:50"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/trump-unveils-17-billion-of-southeast-asia-deals-for-us-firms-white-house-says-5038267",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Trump unveils $17 billion of Southeast Asia deals for US firms, White House says",
-"ts": 1795083868,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674602-hoegh-autoliners-asa-gaap-eps-of-0_38?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "H\u00f6egh Autoliners ASA GAAP EPS of $0.38",
-"ts": 1795084109,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-114-5038276",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "India stocks higher at close of trade; Nifty 50 up 1.14%",
-"ts": 1795084205,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674584-earnings-snapshot-alibaba-posts-53-surge-in-ai-cloud-revenue-in-fq2-top-line-beats-while-adjusted-epads-misses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"AI Cloud"
-],
-"title": "Earnings Snapshot: Alibaba posts 53% surge in AI Cloud revenue in FQ2; top line beats while adjusted EPADS misses",
-"ts": 1795084288,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Cointelegraph",
-"summary": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.",
-"tags": [
-"SOL"
-],
-"title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-"ts": 1795084325,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/morgan-stanley-cuts-accor-on-debt-concerns-and-reduced-buyback-room-5038287",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Morgan Stanley cuts Accor on debt concerns and reduced buyback room",
-"ts": 1795084352,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-slipping-today-93CH-5038289",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Alibaba stock slipping today?",
-"ts": 1795084419,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4674603-nkt-a-s-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "NKT A/S reports Q3 results",
-"ts": 1795084452,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/frontier/ai/ai-labs-say-their-models-are-speeding-up-ai-research",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "METR estimates Anthropic's benchmark progress has nearly doubled in pace. OpenAI reports higher estimated task-success rates without human intervention, with wide variation by task.",
-"tags": [
-"OpenAI"
-],
-"title": "AI Labs Say Their Models Are Speeding Up AI Research",
-"ts": 1795084479,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Block",
-"summary": "Ant launched the Whale Orchestration Protocol to enable settlement between tokenized deposits and tokenized money market funds.",
-"tags": [],
-"title": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
-"ts": 1795084769,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "CoinDesk",
-"summary": "",
-"tags": [],
-"title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
-"ts": 1795084776,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -767,7 +617,7 @@
 },
 "_last_check": 1795084837.409363
 },
-"last_run": 1795084877.5818553,
+"last_run": 1795085443.002931,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -3040,6 +2890,7 @@
 "1f4ae4564037c77c": 1794818423.9958396,
 "1f4be4033582fc0f": 1794668452.1981072,
 "1f4c1bfb1d0e0167": 1794294057.2981856,
+"1f503057e054ef4f": 1795085425.5946856,
 "1f556469ab0d24b8": 1794391797.617886,
 "1f5741bbbbcda268": 1794834626.435269,
 "1f5c75cde7207746": 1794920454.7222776,
@@ -5860,6 +5711,7 @@
 "44fbdac220f6774f": 1794819655.1615279,
 "44fe062c189da40a": 1794212427.3416302,
 "44ff54beee931e82": 1794055787.7739694,
+"44ffc06361017096": 1795085425.5946856,
 "45165a4da39d1f36": 1794147624.409764,
 "4518ef96a89b4bff": 1794066518.762267,
 "45193cf6df1171ad": 1794227444.8368437,
@@ -6792,6 +6644,7 @@
 "51b7cdeb38b6fc6b": 1794668452.1981072,
 "51b80afabd3faf6d": 1794864642.7476947,
 "51b84a54df462084": 1794586827.1055727,
+"51be542302f8a26e": 1795085425.5946856,
 "51c58095c12f17b2": 1794213626.9912028,
 "51c73dc6c384ae66": 1794812457.8102336,
 "51ca81b48bfa40b1": 1794238824.4766295,
@@ -14203,6 +14056,7 @@
 "b8f33aee4e6684a8": 1794425437.8749177,
 "b8f5bb77fe1e6c19": 1794523223.4129152,
 "b8f880ca2ac466fe": 1794941436.9141734,
+"b8f938411d293c56": 1795085425.5946856,
 "b8f98e1e6e9dfda6": 1794125424.4951053,
 "b8fe277b4a5a918f": 1794294057.2981856,
 "b901363cd92d3778": 1794058663.5416367,
@@ -14951,6 +14805,7 @@
 "c2fbb1d6d4c38a07": 1794231625.7466462,
 "c2fcb684933592f2": 1794582626.619808,
 "c2fda3c16df754bc": 1795017037.8184426,
+"c30411ae36698b87": 1795085425.5946856,
 "c3078b6498061842": 1795021825.045495,
 "c308fda71236b965": 1794871225.0409687,
 "c30c935e645aeb48": 1795029627.0842295,
@@ -20529,6 +20384,7 @@
 "0fce30c7b01bb77d": 1794294057.2981856,
 "0fd0a10e58edb504": 1794439835.9165068,
 "0fda8c1deb429b84": 1794900643.8440216,
+"0fe80f1fdb0e4ba2": 1795085425.5946856,
 "0fe8d40a8d1d2544": 1794466847.0948906,
 "0feb16ba41d11b61": 1794341426.2465568,
 "0ff230a29f08ed1e": 1794568231.101077,
@@ -26685,6 +26541,7 @@
 "6bb5f2f96c47e9cc": 1795020631.558756,
 "6bbc366c209f105c": 1795026027.4124646,
 "6bc16c29c9ee8039": 1794078625.195159,
+"6bc8ae0c63cb0bf8": 1795085425.5946856,
 "6bcf46f370c98e76": 1794946837.5472765,
 "6bd1feea009f4e18": 1794151225.6597934,
 "6bd98c45172303c9": 1794212427.3416302,
@@ -29204,6 +29061,7 @@
 "9298d5507a0fe32c": 1794733251.876912,
 "929db4b5fec4bb2e": 1794556225.832143,
 "92a008f04dcec9e6": 1794506777.1747909,
+"92a24bcce2ac64aa": 1795085425.5946856,
 "92a8d82086f2d39e": 1794825041.4304469,
 "92acaae4d6285530": 1794063069.3473625,
 "92b24d607fb40df8": 1794925844.5959115,
@@ -29301,6 +29159,7 @@
 "93f5c1b3c3fc0b02": 1794466847.0948906,
 "93f690508c49b026": 1794834626.435269,
 "93f81dfb2d377522": 1794151225.6597934,
+"93fa138002e9e4e8": 1795085425.5946856,
 "9409388e32015056": 1794466847.0948906,
 "940c10629e333d56": 1794781226.0454638,
 "940c5cd5c637bc2c": 1794484849.540856,
@@ -31663,6 +31522,7 @@
 "b71117ece098a296": 1794828642.7782462,
 "b711370a6139a26c": 1794309027.4508862,
 "b71149a0f754af74": 1794591626.535744,
+"b7118136d37bdc00": 1795085425.5946856,
 "b71284053738ab98": 1794898855.1759124,
 "b712b11aae0316a0": 1794687025.0344095,
 "b7161ae8c88233fc": 1794668452.1981072,
