@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795130440.0326,
+"ai_last_review": 1795131661.8683083,
 "ai_log": [
-{
-"err": "",
-"kept": 3,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 11,
-"ok": true,
-"t": "11-18 19:51"
-},
 {
 "err": "",
 "kept": 2,
@@ -540,96 +531,24 @@
 "n": 26,
 "ok": true,
 "t": "11-19 23:20"
+},
+{
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 12,
+"ok": true,
+"t": "11-19 23:41"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVE54c3Eza3gxMTYwRmh4U0tZR0ZvWmctdm1OV1dkN1BzZXNXdFFiTjZkZlc5Mk01YVQzN2ZkZFZzUVVPdmMtc3ZzRjJZY28wdFE3ejFtcnlkbWZmUkZicXFKMU1ydEJZalZwZlFnQkhWSGVaMXFUUkt5T0pVaUp1WUxJMjdiVDhCWnlOLXRKaFh2UXhvQnNNQnNnZVBkWEdwMFBPOEEtc1ZzOTFIOHNfZklhZWJuQVVJaDBpU3hPNk4ycllOcTg4WmZoRG5zaDg?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Iraqi forces strike compromise with powerful pro-Iran militia, security officials say &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Iraqi forces strike compromise with powerful pro-Iran militia, security officials say - Reuters",
-"ts": 1795113558,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPancyR3hqXzc1cWJHZDlBeDc5Wk50dkNqX0R4VlFEUFV2V2FLNlkzVTlRd0lxQ3h1S1FrWHQ1UG9UM3NwT1RuZUdUVWszek1FR2xzRDhZM0RWNGcyWm9SZVR2NDV4Mm1UTXlLUm5XMUlFMUY0bmhtS0QyM3N1bzRVNE1YSVREbms2UTYtQVVPaXpXcVZRTG5haVVWYXRKZw?oc=5",
-"sent": "\ud83d\udcc8",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "Who is getting rich from Anthropic's record IPO &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Who is getting rich from Anthropic's record IPO - Reuters",
-"ts": 1795129122,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/bill-holdings-to-be-taken-private-by-tpg-and-corpay-in-6-billion-cash-deal-5040298",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "BILL Holdings to be taken private by TPG and Corpay in $6 billion cash deal",
-"ts": 1795129724,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/analysisanthropic-listing-extends-nasdaqs-dominant-run-against-archrival-nyse-5040302",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Analysis-Anthropic listing extends Nasdaq\u2019s dominant run against arch-rival NYSE",
-"ts": 1795129973,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/anthropics-15-trillion-debut-rewrites-venture-capitals-playbook-5040303",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Anthropic\u2019s $1.5 trillion debut rewrites venture capital\u2019s playbook",
-"ts": 1795129987,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/nyc-lawmakers-weigh-compromise-on-amazon-delivery-worker-bill-bloomberg-reports-5040311",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"AMZN"
-],
-"title": "NYC lawmakers weigh compromise on Amazon delivery worker bill, Bloomberg reports",
-"ts": 1795130233,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-19T21:00"
+"last_date": "2026-11-19T22:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -639,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-19T21:00"
+"last_date": "2026-11-19T22:00"
 },
 "FNG": {
 "cool": {
@@ -663,11 +582,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-19T21:00"
+"last_date": "2026-11-19T22:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-19T21:00"
+"last_date": "2026-11-19T22:00"
 },
 "UST10Y": {
 "cool": {
@@ -696,9 +615,9 @@
 },
 "last_date": "2026-11-18"
 },
-"_last_check": 0
+"_last_check": 1795131635.6055424
 },
-"last_run": 1795131127.7721584,
+"last_run": 1795131668.5650315,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1429,6 +1348,7 @@
 "09e26575e64e0cec": 1794218488.7102273,
 "09e5377f0348badb": 1794263443.2975552,
 "09e993b46e0ee974": 1795000755.6748123,
+"09ea8919d164a7c4": 1795131625.2936537,
 "09ebbe678a32e85c": 1794812457.8102336,
 "09f16b76b8106e34": 1795117225.4014702,
 "09f2571d5468537d": 1794313222.9578052,
@@ -2296,6 +2216,7 @@
 "1529b8d5922e2da9": 1794294057.2981856,
 "15314b85a7207107": 1794898855.1759124,
 "1531f7f2dbf8d069": 1794402054.0077875,
+"153b09ebe306caed": 1795131625.2936537,
 "153b84a435dfbce5": 1794502224.8850534,
 "1541039c9b47d4ce": 1794553252.738333,
 "1546bd85cb6f59fe": 1794601224.3173718,
@@ -3080,6 +3001,7 @@
 "1ef21f48e3940577": 1794388822.6516917,
 "1ef322ed79db32a2": 1795084241.8486466,
 "1ef345ba7c5064fd": 1794812457.8102336,
+"1efb1713660fe001": 1795131625.2936537,
 "1efb91a543062712": 1794998426.5098376,
 "1efe3f625c33a9c8": 1794388822.6516917,
 "1f022ffe8dac2d61": 1795021825.045495,
@@ -3153,6 +3075,7 @@
 "1fd447fab499f65d": 1794309624.5737193,
 "1fd498088a2199cf": 1794825652.9827077,
 "1fd4ef7513b3911d": 1794520849.7436028,
+"1fd5c9c4d52643b9": 1795131625.2936537,
 "1fd6a13a4295914a": 1794697827.267664,
 "1fd6d915701137f5": 1795012825.724214,
 "1fd70bce9056c3bc": 1794898855.1759124,
@@ -5018,6 +4941,7 @@
 "3727c3fb73547664": 1794207655.353521,
 "37294b697308991a": 1795072824.4776285,
 "372aa591d8fbd2b7": 1795035029.6229646,
+"372cde7dfc2df9b6": 1795131625.2936537,
 "373244ceecb09835": 1794240627.3822312,
 "3740be824e1079bb": 1794993625.4312236,
 "37430a8fac840946": 1794165625.0596616,
@@ -6627,6 +6551,7 @@
 "4b9c9581e3361f3c": 1794480024.280059,
 "4b9cf663734cc8ea": 1794601224.3173718,
 "4b9eb946232f1820": 1794946837.5472765,
+"4ba32987d694d219": 1795131625.2936537,
 "4ba3f5b7d0e117c2": 1794829227.3251061,
 "4ba42ce779e7188f": 1794084624.3653798,
 "4ba4925b30cced44": 1794489036.1626346,
@@ -9157,6 +9082,7 @@
 "6c6aa9e069818730": 1794053146.8970654,
 "6c727f88b0132922": 1794574855.4473867,
 "6c72d6ef338b051c": 1794090024.092463,
+"6c7b59390933edd0": 1795131625.2936537,
 "6c7cbc4168fc3eec": 1794207655.353521,
 "6c887bbfc9681f4a": 1794053146.8970654,
 "6c8b12d079ead961": 1794404423.5930965,
@@ -11927,6 +11853,7 @@
 "908345dda4cdd0e8": 1794324648.7021484,
 "908365482e6c70d3": 1794090024.092463,
 "9083e847427ff8a9": 1794228023.5425556,
+"908528ed4ba166a9": 1795131625.2936537,
 "9085d46b3fbe0936": 1794869421.973218,
 "908bc9568aa6f07c": 1795011628.9120867,
 "908d540406886ecf": 1794861627.5459855,
@@ -20338,6 +20265,7 @@
 "fcbcd25246235301": 1795088426.8173113,
 "fcc71a92a26b4aa9": 1794296423.7597058,
 "fcd2f09ea16c0baa": 1794154823.0343263,
+"fcd4a9602dbef462": 1795131625.2936537,
 "fcddca929ce20cc2": 1794391797.617886,
 "fce441391ef86475": 1794554424.4818478,
 "fce63631d69a188c": 1795101625.6528518,
@@ -20859,6 +20787,7 @@
 "03b4c15d7e65cd90": 1795125025.4211006,
 "03b9e44347e915fe": 1794305426.239695,
 "03c8ca031e967682": 1794931258.5398288,
+"03cdb5322d169896": 1795131625.2936537,
 "03cf428497a9fb21": 1794475838.7704628,
 "03d0e2d98f921afc": 1794726050.5794117,
 "03d1031985e143c2": 1794906055.0815465,
@@ -29950,6 +29879,7 @@
 "83b353bcc47fa1be": 1794345025.53064,
 "83b4226c43f84812": 1794383424.7516904,
 "83b462f1fb2629cd": 1794639651.002237,
+"83b5a217a04f944a": 1795131625.2936537,
 "83ba50ba38fe5111": 1795075825.2355335,
 "83ba678fc8e6d6fb": 1794263443.2975552,
 "83bb891ad7ae15e2": 1794424831.721633,
@@ -29991,6 +29921,7 @@
 "84244ad758880eee": 1794501042.7863798,
 "842b50abbfc72267": 1794820223.9736097,
 "842d87e767a090b6": 1794504641.9706995,
+"84320a7c4742bfec": 1795131625.2936537,
 "8433a09d27125c9e": 1795004427.1938674,
 "843990648fdcde50": 1794687025.0344095,
 "843c8360eddb9559": 1794391797.617886,
@@ -34897,6 +34828,7 @@
 "c75c69fe038e6a24": 1794496825.0216095,
 "c7601f4a1f6aa019": 1794085249.7228966,
 "c760ff32a721b9d5": 1794147624.409764,
+"c763adcbac2205d9": 1795131625.2936537,
 "c76cadd6fc37899d": 1795018397.3489969,
 "c771752c14e40a08": 1794495024.9189398,
 "c775dde7e2532d45": 1794553252.738333,
@@ -35931,6 +35863,7 @@
 "d5bacd05d31e0608": 1795021825.045495,
 "d5bb4a2ca1785112": 1794304225.7589512,
 "d5bbc50c37743ce2": 1794812457.8102336,
+"d5bd81cd869242ec": 1795131625.2936537,
 "d5c0e16a2b976298": 1794812457.8102336,
 "d5c2912ed065755e": 1794812457.8102336,
 "d5c7f0e87e48ca6d": 1794853231.40962,
@@ -36212,6 +36145,7 @@
 "d996dded51ba79a9": 1794207655.353521,
 "d99cedfa0c1c6d4a": 1794387024.263017,
 "d9a0c4aee9074be2": 1794848455.616578,
+"d9a1ed018164aac1": 1795131625.2936537,
 "d9a6802a256976f1": 1794300023.3124595,
 "d9addb0878f2ce82": 1794957635.5242722,
 "d9aee602cb1c6bc5": 1794501042.7863798,
@@ -36644,6 +36578,7 @@
 "df28d8d6b2225263": 1795083623.9712727,
 "df2b50fc52e02f5e": 1794487221.4696975,
 "df2dbfa1290ec475": 1794918643.9808466,
+"df31bc2b949d22e3": 1795131625.2936537,
 "df331896b6b15d7a": 1794501042.7863798,
 "df341cbff74a2b38": 1794256242.8438334,
 "df381878419905e9": 1794553252.738333,
@@ -37655,6 +37590,7 @@
 "edb0d295bccf73e5": 1794484224.3376696,
 "edb1428b74669758": 1795090824.4418364,
 "edb1e683f9172213": 1794294057.2981856,
+"edb6ee2b08885aa1": 1795131625.2936537,
 "edb9fbcc03225861": 1795035662.9652836,
 "edbbd39d42ac6729": 1795079916.549704,
 "edbf95bfacf49953": 1794595228.1283655,
