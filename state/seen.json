@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795210841.6860173,
+"ai_last_review": 1795212145.0380845,
 "ai_log": [
-{
-"err": "",
-"kept": 1,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 18,
-"ok": true,
-"t": "11-19 19:01"
-},
 {
 "err": "",
 "kept": 4,
@@ -540,90 +531,18 @@
 "n": 31,
 "ok": true,
 "t": "11-20 21:40"
+},
+{
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 16,
+"ok": true,
+"t": "11-20 22:02"
 }
 ],
-"ai_queue": [
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEpMaDlsUTFiYjhJM3FqV1pkcmFoUFoxOUZXdmZzaGpCYkhac1BSdndxbVJRMWhrSW1HZFNTSXN1OEI0OVpxS3laOWxpUzY2X3BnV0s2clgyZ1doYTNXTlVOWjhXV3dhemxYRTI3bmYtSVJiUFExSFNEVEEzdnlyaUJ6UU0?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "Donald Trump threatens \u2018tremendous\u2019 tax on data centres built outside US &nbsp;&nbsp; Financial Times",
-"tags": [],
-"title": "Donald Trump threatens \u2018tremendous\u2019 tax on data centres built outside US - Financial Times",
-"ts": 1795205849,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnV5bk5IeHVoMU8tQ0M1UUlBSVBIaWFGUS1XMmdPR2FCX3lRMUFNdFY1VFZveWJCSGkyS01hTE5aTHpfSGVZS3ZSdW84T3pfNDFUM2YzTkxxZzlKX0pKRU1DRXNOWWtlaHVvNkNWbWdSOHRCazg0aEZfem1VbGQtVjhySFBFV2xmTjNDa196Z3JmeENBSHBIT3g4NHRsaS1RbVFyMXRB?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
-"summary": "Twenty One Capital Purchases an Additional $10 Million Worth of Bitcoin, Increasing Holdings to Approximately 43,841 BTC \u2013 Company Announcement - FT.com &nbsp;&nbsp; Financial Times",
-"tags": [
-"BTC"
-],
-"title": "Twenty One Capital Purchases an Additional $10 Million Worth of Bitcoin, Increasing Holdings to Approximately 43,841 BTC \u2013 Company Announcement - FT.com - Financial Times",
-"ts": 1795210440,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/gm-board-evaluates-ceo-succession-options-with-sterling-anderson-in-focus--report-5042699",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "GM board evaluates CEO succession options with Sterling Anderson in focus - report",
-"ts": 1795211052,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675360-the-marketing-alliance-authorizes-repurchase-of-up-to-800000-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "The Marketing Alliance authorizes repurchase of up to 800,000 shares",
-"ts": 1795211161,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675359-oatly-gets-413-per-ads-cash-tender-offer-from-shareholder-verlinvest?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Oatly gets $4.13 per ADS cash tender offer from shareholder Verlinvest",
-"ts": 1795211171,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675356-insulet-downgraded-baird-concerns-insulin-pump-loyalty?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Insulet downgraded at Baird on concerns over insulin pump loyalty",
-"ts": 1795211173,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -674,16 +593,18 @@
 },
 "UST10Y": {
 "cool": {
+"chg1d": "2026-11-20",
 "chg5d+": "2026-11-13",
-"lv5.0+": "2026-11-12"
+"lv5.0+": "2026-11-12",
+"lv5.0-": "2026-11-20"
 },
-"last_date": "2026-11-19"
+"last_date": "2026-11-20"
 },
 "UST2Y": {
 "cool": {
 "chg1d": "2026-11-10"
 },
-"last_date": "2026-11-19"
+"last_date": "2026-11-20"
 },
 "VIX": {
 "cool": {
@@ -699,9 +620,9 @@
 },
 "last_date": "2026-11-19"
 },
-"_last_check": 1795208444.7070286
+"_last_check": 0
 },
-"last_run": 1795211442.1669154,
+"last_run": 1795212250.4005554,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1789,6 +1710,7 @@
 "0d193df230818ca5": 1794639651.002237,
 "0d1ad3f1c2a3e92f": 1794985252.4753754,
 "0d1f0d1e63c6c912": 1794589828.9299436,
+"0d203cce32a06a4f": 1795212055.6085382,
 "0d2212a3c7a493e3": 1794740464.3976526,
 "0d248a0c31dd5672": 1794397829.6326773,
 "0d2502678f200ee6": 1794226823.8223224,
@@ -1924,6 +1846,7 @@
 "0ec5b2289d5ea063": 1794495024.9189398,
 "0ec753db2fac1c8b": 1794812457.8102336,
 "0ec8259e50eae5f7": 1794590425.47367,
+"0ecd1473e2be18bc": 1795212055.6085382,
 "0ecd9d06152d2d48": 1795071657.072108,
 "0ece86e4db1fe664": 1794214856.1278765,
 "0ecee4c7609bfa8b": 1795127441.015189,
@@ -3087,6 +3010,7 @@
 "1c561c12c587255d": 1794401423.3914762,
 "1c594d49b3790eea": 1794207655.353521,
 "1c6ad4532925bce3": 1794383424.7516904,
+"1c6bbd0525e8c81d": 1795212055.6085382,
 "1c6ef49ca52dc8bb": 1794053146.8970654,
 "1c796710aee83a67": 1794989436.1674829,
 "1c7d42a33a23ba3e": 1794955829.64089,
@@ -7398,6 +7322,7 @@
 "4e84cc590bbfaa34": 1794310242.809073,
 "4e8a93217c167727": 1794560452.434531,
 "4e8e1130744c7807": 1794553252.738333,
+"4e8eb7612774244b": 1795212055.6085382,
 "4e8f81c687c2f205": 1794579024.9057784,
 "4e95076afe5b3e6d": 1794121251.8481042,
 "4e9a44d55380f8a5": 1794508823.8400886,
@@ -9482,6 +9407,7 @@
 "6740381b10d52352": 1794207655.353521,
 "6741d2736c095731": 1794294057.2981856,
 "6742c099322e2480": 1794337825.344606,
+"67476efbb848bfe5": 1795212055.6085382,
 "674a83167f584c5d": 1794524453.1112177,
 "674e4d6f9dbfc7c1": 1794053146.8970654,
 "675987989996866b": 1794432640.6076887,
@@ -10882,6 +10808,7 @@
 "78efc880d4305cb1": 1794998426.5098376,
 "78f3dfecf151b2cc": 1794297654.3266497,
 "78fa8d03a76bffae": 1794133224.9019783,
+"78fe8a91d4a1994b": 1795212055.6085382,
 "78ff76e2892dbb1b": 1794820823.8602707,
 "78fff8a9c9cc9997": 1794129624.9673119,
 "79033dfc06377d1c": 1794215424.0711486,
@@ -12140,6 +12067,7 @@
 "87af99a8584b69e8": 1794520849.7436028,
 "87b1bed03623ed0e": 1794729650.1855493,
 "87b4506eb1d002fd": 1794588625.1002343,
+"87b5571e8f1b8818": 1795212055.6085382,
 "87ba8ac678b5ac91": 1794958240.5109558,
 "87bccdaba9f0e306": 1795076428.3749444,
 "87bd7f51db79d289": 1794216024.5700488,
@@ -12273,6 +12201,7 @@
 "893eacbd0f044ccc": 1795042865.478248,
 "893f7f6eb477fe8a": 1795006855.398147,
 "893fe01b9c3ce128": 1794639651.002237,
+"8944ef94d70720e6": 1795212055.6085382,
 "89453ce67096e9d8": 1794342640.7023919,
 "8948117f8f428eb3": 1795078226.0945482,
 "894f31d8bcf35439": 1794395417.5307865,
@@ -12986,6 +12915,7 @@
 "915aaabfe432fa8e": 1794336628.7999065,
 "915ac7c7ad788ae7": 1794433226.3689482,
 "91607fe8d560c424": 1795123843.479108,
+"916873a00a5ef9c5": 1795212055.6085382,
 "916a317b81fdeaa8": 1795021825.045495,
 "916c8b5b26599b97": 1794938454.9176507,
 "91723f02b7ff6aae": 1794506777.1747909,
@@ -14287,6 +14217,7 @@
 "a1e1cd5f1b576c5a": 1794664849.8725064,
 "a1e1defe27bb281e": 1794388822.6516917,
 "a1e5355b3661cf16": 1795041049.6610858,
+"a1e59b06088aa124": 1795212055.6085382,
 "a1e5f1d7b55fd4d6": 1794906055.0815465,
 "a1e7bcd15cd02489": 1794524453.1112177,
 "a1eed89f94377709": 1794573047.278476,
@@ -14936,6 +14867,7 @@
 "a95851cf65e5133e": 1795114863.8460736,
 "a95d6b9a11c586fd": 1794607823.8860877,
 "a9603baa2aa0e87a": 1795071657.072108,
+"a967a3b3069a302f": 1795212055.6085382,
 "a97259dbd1993fab": 1794853231.40962,
 "a974320f24ee532b": 1794222625.9546466,
 "a97581111c5f5cbd": 1794932430.6081858,
@@ -16814,6 +16746,7 @@
 "beff574ee0f5d8b9": 1794349221.7950053,
 "bf00164ff41929f9": 1794129624.9673119,
 "bf017575d997a2e4": 1794207655.353521,
+"bf0295e2115a60f2": 1795212055.6085382,
 "bf038714e0fca6c6": 1794820223.9736097,
 "bf04fdfc20a790bb": 1795159223.9439034,
 "bf051685db64d00d": 1794511843.3080857,
@@ -24965,6 +24898,7 @@
 "20dfbf6ced4e1b7f": 1794985252.4753754,
 "20e014f22bca729b": 1794844224.1648452,
 "20e5e5c059d7d1bf": 1794176424.6910276,
+"20e6387577b5c65d": 1795212055.6085382,
 "20ea1bc19b2220ff": 1794345622.3845239,
 "20ecc06fa6beb702": 1794466847.0948906,
 "20ed8290132282e3": 1795188651.3739147,
@@ -27761,6 +27695,7 @@
 "44442a80f6ccb54c": 1794726050.5794117,
 "444616be9c3c6b13": 1794937829.209939,
 "44467e41ae55084d": 1794327630.5502307,
+"44497144b3acab6a": 1795212055.6085382,
 "444e9d2f1cecd50c": 1795035662.9652836,
 "4453303a50ef8035": 1794766822.8655136,
 "4458961638bf6ebc": 1794380451.074071,
@@ -29919,6 +29854,7 @@
 "6082bc0ef54120a6": 1795182034.240582,
 "60868369b8e6de83": 1794471021.9148986,
 "6088fd3dc494574a": 1794864642.7476947,
+"608c2048d9cbe606": 1795212055.6085382,
 "608c4042589e6d69": 1795071657.072108,
 "608d7ab7017b524d": 1794484224.3376696,
 "608fa9af8f2c7a2e": 1794410424.1208882,
@@ -30550,6 +30486,7 @@
 "68aac8a31fda1ea4": 1795192831.486683,
 "68ae3fa5355ed8f9": 1795071657.072108,
 "68b07670ff818d88": 1794733251.876912,
+"68b45b6290bfd788": 1795212055.6085382,
 "68b4b3a0aec0a782": 1794211253.7643282,
 "68b7d76fe81f4757": 1794090024.092463,
 "68bf6542bd84f660": 1794478222.0113163,
@@ -30567,6 +30504,7 @@
 "68d8aa8008beba96": 1794898855.1759124,
 "68d908a3a5a98ebc": 1794151225.6597934,
 "68db60aed29cf0d1": 1795040426.1665328,
+"68dcb15d5ea17a9d": 1795212055.6085382,
 "68e05bb6e90ee717": 1794856223.5274317,
 "68e54d64c6f44925": 1795075252.8239434,
 "68e8506c605a7bfb": 1794154823.0343263,
@@ -30975,6 +30913,7 @@
 "6df06d07f679e9e9": 1794498623.3847704,
 "6df7f9d456919b2c": 1794835843.278346,
 "6df8efbb727daf97": 1795158052.8119109,
+"6dfce40a88a8b070": 1795212055.6085382,
 "6dfd6c0d2d39c14d": 1795197028.6909475,
 "6e0887795cb5da8d": 1794162024.6325307,
 "6e0e8215e855753a": 1794490843.0898888,
@@ -31071,6 +31010,7 @@
 "6f3ae27bb5ee3d70": 1794380451.074071,
 "6f3d9a369a7124bf": 1794348622.3454998,
 "6f3eb703dcabcb06": 1795073423.1091006,
+"6f41f33aaf0b507c": 1795212055.6085382,
 "6f443c4cf90f1b6c": 1794494426.657751,
 "6f4470896f8f8690": 1794985252.4753754,
 "6f4b837f7c9e442d": 1794432640.6076887,
@@ -31805,6 +31745,7 @@
 "79371b843555e93a": 1794521423.7718086,
 "7937d7e5b75ae71b": 1794330055.137018,
 "79387037a2697e81": 1795071657.072108,
+"793f0224efad571e": 1795212055.6085382,
 "793f692a127288ae": 1794309027.4508862,
 "7940c89e60e00268": 1794215424.0711486,
 "7943380f0a3836b6": 1795092626.6994026,
@@ -33703,6 +33644,7 @@
 "923b54d16b938df2": 1795030246.582958,
 "923eb152f1dd4d7a": 1794207655.353521,
 "9243766b2c6b78dd": 1794568827.5417576,
+"924460113b946a07": 1795212055.6085382,
 "9245dee4ead7e0f1": 1794865824.424357,
 "924e845d8e539fdd": 1795171841.2384393,
 "924e912f0dc1f50a": 1794385837.7839928,
@@ -39400,6 +39342,7 @@
 "d9a0c4aee9074be2": 1794848455.616578,
 "d9a1ed018164aac1": 1795131625.2936537,
 "d9a6802a256976f1": 1794300023.3124595,
+"d9a6872f6294f900": 1795212055.6085382,
 "d9addb0878f2ce82": 1794957635.5242722,
 "d9aee602cb1c6bc5": 1794501042.7863798,
 "d9b07d8fb29d5da9": 1794393621.6505487,
@@ -40402,6 +40345,7 @@
 "e66dd82bc85fd9ac": 1794608434.8443968,
 "e66e70e01dbaf99e": 1794939626.9929001,
 "e66fb970c41be495": 1794594024.9582636,
+"e6703f333e4307d0": 1795212055.6085382,
 "e67099f4b34a496c": 1794934228.5984814,
 "e6766dbf53a7e15e": 1794639651.002237,
 "e679ff77d6f8d4e1": 1794487221.4696975,
@@ -41981,6 +41925,7 @@
 "fab110319b5287fe": 1794613228.4424767,
 "fab31bfe2756feca": 1794844224.1648452,
 "fab8aba5c8f6c314": 1794090024.092463,
+"fabc06b0912c9c86": 1795212055.6085382,
 "fabcc84a0c66cd21": 1794901225.4603486,
 "fabe489e359b5eb0": 1795205430.6687367,
 "fac0c4044781ff45": 1795071657.072108,
