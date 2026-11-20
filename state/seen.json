@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795159311.379772,
+"ai_last_review": 1795160477.2553165,
 "ai_log": [
-{
-"err": "",
-"kept": 3,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 13,
-"ok": true,
-"t": "11-18 20:52"
-},
 {
 "err": "",
 "kept": 5,
@@ -540,96 +531,24 @@
 "n": 16,
 "ok": true,
 "t": "11-20 07:21"
+},
+{
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 10,
+"ok": true,
+"t": "11-20 07:41"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnByMFFxbTFGcDQtQjNfZHpEeUJSZ2E2Y2tfaFZScEJYUzN6VmhtelBFSlpjOEMyTDE0X0NUUUJCUjRkVzFGVW9TLXFBSzBlQklHRzVzQnowWXE4b2g5VVMtVUdLUC1STzBxdjJNRWxSc0xSVGtJVzZxMTByUmk5VEtyMHV5TnIwbmZpdTF1bVktTDZ2VGdybnlNUm9QZ1NqNFRBRjIxaHZZMkxvUDE0U1p0Zw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Australia\u2019s Leader to Navigate Trade, Security in Talks With Xi &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Australia\u2019s Leader to Navigate Trade, Security in Talks With Xi - Bloomberg.com",
-"ts": 1795141860,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3l1cjlfLXdHMjhLTVg5RTJSbFVJNmJoRWE2eXNiYXFBQUNKRE5VeWVldlRVejdiVl9yc1VCQzNpenJDWndtWURiaVM5OVFnZWo3NXRfNllxdmYtbzZ0Tm94dWZlN2V6YWwwajVvN0JYQV85RkdRTzlRYkpWZlJnTDdLeXBxM2RCX3lhV3o5OU1ERUlUb3o3eW5lSl8yNUtjd2htNWRyS0tuNDJwUVlvSA?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "Senate Passes Landmark Bill to Overhaul US Energy Permitting &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Senate Passes Landmark Bill to Overhaul US Energy Permitting - Bloomberg.com",
-"ts": 1795144200,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeU84OXZxbno1dGNIaFh0YjI0SDN0dk94TmtDTmJRNjhzbUp1bXNEcHoyMUxnMjZjUFpLQXJqR1YxbmFyb1djNXJBaVROV2kybWxNT1pHT0RGMVJINXl0VkpJajdzWUE5QUdFTTVxWWtyZF9obm9qSXhmY29VQTVSZXpqRGpFWXNyNFp2RDJKUjNCLWFQajNKSURBTkxRM29tZVdlMHpGaEJwbGJudUtDTWV4dTk0UmJ1Z3ZOWG5XZFdfcE54RzJaWVJfdnlzZw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg \u5b8f\u89c0",
-"summary": "Israel Pivots to Cheaper Air Defense With Iran Tensions Rising &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Israel Pivots to Cheaper Air Defense With Iran Tensions Rising - Bloomberg.com",
-"ts": 1795152600,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/as-tech-stocks-go-on-sale-dont-wait-for-black-friday-to-get-55-off-investingpro-5040802",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "As tech stocks go on sale, don\u2019t wait for Black Friday to get 55% off InvestingPro",
-"ts": 1795158547,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://en.yna.co.kr/view/AEN20261120007100320",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Yonhap",
-"summary": "SEOUL, Nov. 20 (Yonhap) -- South Korea&apos;s transport ministry said Friday it canno...",
-"tags": [
-"TSLA"
-],
-"title": "S. Korea declines to review Tesla's FSD exemption request",
-"ts": 1795159273,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675047-kbr-prices-500m-of-7_25-percent-senior-notes-for-planned-trinzic-spin-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "KBR prices $500M of 7.25% senior notes for planned Trinzic spin-off",
-"ts": 1795159327,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-19T22:00"
+"last_date": "2026-11-20T06:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -639,13 +558,13 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-19T22:00"
+"last_date": "2026-11-20T06:00"
 },
 "FNG": {
 "cool": {
 "lv20-": "2026-11-13"
 },
-"last_date": "2026-11-19"
+"last_date": "2026-11-20"
 },
 "HY_OAS": {
 "cool": {},
@@ -663,11 +582,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-19T22:00"
+"last_date": "2026-11-20T06:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-19T22:00"
+"last_date": "2026-11-20T06:00"
 },
 "UST10Y": {
 "cool": {
@@ -687,18 +606,18 @@
 "lv20+": "2026-11-16",
 "lv25+": "2026-11-17"
 },
-"last_date": "2026-11-18"
+"last_date": "2026-11-19"
 },
 "VIX_TERM": {
 "cool": {
 "lv0+": "2026-11-17",
 "lv0-": "2026-11-09"
 },
-"last_date": "2026-11-18"
+"last_date": "2026-11-19"
 },
-"_last_check": 0
+"_last_check": 1795160434.467298
 },
-"last_run": 1795159922.316073,
+"last_run": 1795160483.3768106,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -755,6 +674,7 @@
 "0030124ea28e209a": 1794846042.8849766,
 "003474a109a0a8f6": 1794906055.0815465,
 "003664118e3e755f": 1794997234.1731262,
+"003c3eb89b415a7a": 1795160424.8028219,
 "003dfff8a86da063": 1794639651.002237,
 "00401a848f64b5d4": 1794380451.074071,
 "00442295b020d5c3": 1794517823.0717008,
@@ -2637,6 +2557,7 @@
 "190fb95437deb29c": 1795132233.8140883,
 "191021b6548eb5d9": 1794322224.436821,
 "191051239b5092f5": 1794241225.0884333,
+"1912fa5b6307acc8": 1795160424.8028219,
 "191580b8f7dace8a": 1794069041.6001287,
 "1915f317ce441ab6": 1795116025.3176084,
 "191c6a63cc628967": 1794828024.2634065,
@@ -7604,6 +7525,7 @@
 "56804f9699497f87": 1794318026.068809,
 "568687c478ce72a8": 1795114863.8460736,
 "568690698fd23277": 1795095043.0046604,
+"568a0dd13710d67c": 1795160424.8028219,
 "568c81f16f7bc347": 1794589828.9299436,
 "568f9157f630cf02": 1794261023.1557755,
 "568fb5b209f18932": 1794784823.9320164,
@@ -12706,6 +12628,7 @@
 "97d6f4a6dc8e750b": 1794084023.8763885,
 "97d8406d11493b2c": 1794053146.8970654,
 "97d973245edc9215": 1794812457.8102336,
+"97dcdbf1cdf2cc49": 1795160424.8028219,
 "97ddff9dad094f45": 1794053146.8970654,
 "97e1af96805a477a": 1794247257.3744018,
 "97e3ab1cf99ab8b9": 1794839441.845789,
@@ -13611,6 +13534,7 @@
 "a400665faaa1d59c": 1794058663.5416367,
 "a401de912d37d26a": 1794228023.5425556,
 "a404b7c165b4d8c6": 1794866465.1514442,
+"a406202e225cf93d": 1795160424.8028219,
 "a407e6a8dd9bc0e7": 1795127441.015189,
 "a40914b4c67075f8": 1794864023.5449986,
 "a40f01add2929713": 1795035029.6229646,
@@ -14622,6 +14546,7 @@
 "b05b3b4b5283f8e5": 1794906055.0815465,
 "b05eef57384d4e20": 1794936645.8912413,
 "b061273a221e721f": 1795124425.6352081,
+"b0662560dc79a7b2": 1795160424.8028219,
 "b0722b5c0d0b6de2": 1794414698.6025398,
 "b073d2da80188e65": 1794390621.9689424,
 "b0759791cae16732": 1794522022.9497743,
@@ -16635,6 +16560,7 @@
 "c8d9b65912a8e1b5": 1794350423.088423,
 "c8ddfad28fa10f6a": 1794497444.5440981,
 "c8df741a00602ea7": 1794294057.2981856,
+"c8e1ef566f944765": 1795160424.8028219,
 "c8e4e7f28e72d96e": 1795012825.724214,
 "c8e91e0398123f5b": 1794207655.353521,
 "c8e9ce93d69c25f3": 1794322856.5589402,
@@ -18222,6 +18148,7 @@
 "dc58569c84dc0aea": 1794380451.074071,
 "dc5d56e64bb6a421": 1794053146.8970654,
 "dc5db8c8ade4d1b5": 1794224423.8500595,
+"dc6170dbb9047d51": 1795160424.8028219,
 "dc62695984dadb87": 1794825041.4304469,
 "dc65e5d1f656541f": 1794227444.8368437,
 "dc68c24c8c2d66da": 1794387652.7155762,
@@ -18276,6 +18203,7 @@
 "dd1847fa27bb1eac": 1794053146.8970654,
 "dd1de9c3e96728bf": 1794337252.3296568,
 "dd24d2966a2a2bcc": 1795012825.724214,
+"dd29285925470401": 1795160424.8028219,
 "dd324e9cf7976a2e": 1794320424.8171039,
 "dd32688c5ba99c00": 1794439835.9165068,
 "dd34814aed879955": 1794813634.065804,
@@ -21194,6 +21122,7 @@
 "024b6df8092ed6c1": 1794217228.4060323,
 "02546e244ff6ece9": 1794401423.3914762,
 "025af6d48403b439": 1794925225.416021,
+"025ed703d48ffd2f": 1795160424.8028219,
 "0267a61c9c226c1a": 1794508823.8400886,
 "0269e6faf4ad4013": 1794868242.389731,
 "026de6b2b0f1529c": 1794258020.3289478,
@@ -21508,6 +21437,7 @@
 "06d036af88ace3a2": 1794580245.1336462,
 "06d2b11cb463753e": 1794747886.992174,
 "06d494a4b59ced94": 1794949257.8199666,
+"06d7c79fcb835aaf": 1795160424.8028219,
 "06d89cf3d29e66a0": 1794606637.7515986,
 "06deff092451612e": 1794441023.1432993,
 "06e51010ab71fbc5": 1795159223.9439034,
@@ -22590,6 +22520,7 @@
 "159c40751bc2824d": 1794231044.761608,
 "159e3d09c3c5f9c5": 1794066518.762267,
 "159e934609750f56": 1794898855.1759124,
+"159ef180c9a6f3e0": 1795160424.8028219,
 "15a34fb5b643fa8a": 1794490241.0443716,
 "15a79251a62fc887": 1794664849.8725064,
 "15a8c248cdb70f76": 1794237626.3538754,
@@ -29653,6 +29584,7 @@
 "763a8cba8ae159e3": 1794812457.8102336,
 "763effc283893cd1": 1794812457.8102336,
 "764366e6842b2ce8": 1794067878.5266922,
+"7644793750018a18": 1795160424.8028219,
 "7646f1d389453754": 1794327630.5502307,
 "7649f26b44817608": 1794058663.5416367,
 "764c86b393e71957": 1795158052.8119109,
@@ -30164,6 +30096,7 @@
 "7da7892ba93e5f4a": 1794417111.777808,
 "7db828143a07714b": 1794090024.092463,
 "7db93dd96f879dcf": 1795074638.3321574,
+"7dc0ebc5f4f3c75a": 1795160424.8028219,
 "7dc1f2304e4f7698": 1794516025.4582257,
 "7dc9024d9858fbd8": 1794943846.3159235,
 "7dc923673bea0ba8": 1794323425.210853,
@@ -33565,6 +33498,7 @@
 "ac47efde44ba7935": 1794343822.9605784,
 "ac496604c0e72daf": 1794336024.4023893,
 "ac4aebc70232cbb8": 1794344455.684342,
+"ac532dd40da618ca": 1795160424.8028219,
 "ac5ca5775f56b1ee": 1794915041.7684574,
 "ac642473038c44d6": 1794502224.8850534,
 "ac6498cd7af01d47": 1794311424.003163,
@@ -38267,6 +38201,7 @@
 "eb4433d564869bbe": 1794053146.8970654,
 "eb47a2481a837069": 1794866465.1514442,
 "eb47f32b50afc1e3": 1795071657.072108,
+"eb4c2a515cd9018c": 1795160424.8028219,
 "eb4e4eb15e1fbfa3": 1794435021.8575943,
 "eb5165e2070843a6": 1794294057.2981856,
 "eb54e332cfc20c35": 1794726050.5794117,
