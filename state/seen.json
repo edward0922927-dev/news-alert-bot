@@ -542,13 +542,94 @@
 "t": "11-20 08:40"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnFtVFJIbVUwbVhGaGxrWkQ4VkhHalFlREVtSlBMazJkeDd0NmJpNU10UGhHaXdFeGdKcTdfRmpGWm5QZFdMRFo1eEFiZlRrQV8zaDFRbWM5S0pqcFQxVUNsU25fMXdTeW9jd25GX1F2b1BqMmx0UjhWNU9rbnFQc2NRWW5adzQ0VzlSSi0tRkRpcjBNaXVrMng2VzY2NzlsNmpJRzhVeG51R3dVelAzYkJ4UGtvc0lETUNWNTJWcXRWQjhf?oc=5",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Why Indonesia\u2019s Rupiah Keeps Hitting Record Lows &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Why Indonesia\u2019s Rupiah Keeps Hitting Record Lows - Bloomberg.com",
+"ts": 1795153320,
+"unmatched": true
+},
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcllmMzNOT2xmX0RuZ1Nic05ja0ZoNExVRzZtcHNFVlhJV0tPZEJucmt3eG40RU1sNE9USTVqQXZ4dHMtVW52NFNwZXhLSnEyVFlpUWUtdE93eklxVTdtYmxJT3RkdHRQRXhic3pLWUlhQjJMOVY5UXRjMHJfaXZyenJjeUg?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u878d\u8cc7",
+"summary": "A bubble in . . . defensive stocks? &nbsp;&nbsp; Financial Times",
+"tags": [],
+"title": "A bubble in . . . defensive stocks? - Financial Times",
+"ts": 1795156556,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-076-5040946",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.76%",
+"ts": 1795163703,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/why-is-benefit-systems-stock-surging-today-93CH-5040967",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Why is Benefit Systems stock surging today?",
+"ts": 1795164018,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/news/cefi/rupee-withdrawal-problems-hit-three-crypto-exchanges",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "Coinbase is routing new requests through support, CoinDCX reports slower transfers, and ZebPay has reported bank-related delays.",
+"tags": [
+"COIN"
+],
+"title": "Rupee Withdrawal Problems Hit Three Crypto Exchanges",
+"ts": 1795164077,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aYkY4R0RZTk9iTk5xWkxYay1WbXJ5WGFvV1pPSXR3X2NvMDNlUnJLODVXTEEza0cxZGlRTVlhZlZ3M2RQek84Z1NaTEExbGMyRi1Sdi1mUjYwUnhNUFdRS05xV2hrSlQxaEFoeTAwVHZSUURKS3BsTnJBTVRSUQ?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Flooding submerges Florida neighborhood &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Flooding submerges Florida neighborhood - Reuters",
+"ts": 1795164211,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-20T06:00"
+"last_date": "2026-11-20T07:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +639,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-20T06:00"
+"last_date": "2026-11-20T07:00"
 },
 "FNG": {
 "cool": {
@@ -582,11 +663,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-20T06:00"
+"last_date": "2026-11-20T07:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-20T06:00"
+"last_date": "2026-11-20T07:00"
 },
 "UST10Y": {
 "cool": {
@@ -615,9 +696,9 @@
 },
 "last_date": "2026-11-19"
 },
-"_last_check": 1795160434.467298
+"_last_check": 1795164636.2686718
 },
-"last_run": 1795164044.7652028,
+"last_run": 1795164676.9704626,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -937,6 +1018,7 @@
 "03dfdcbf113950df": 1794469822.9927154,
 "03e00a0498165bc9": 1794944427.3033056,
 "03e019919659dcdc": 1794294057.2981856,
+"03e3e3dc4c1555fc": 1795164625.55377,
 "03e401a005d5d53c": 1794650448.3692777,
 "03e8a74aee081a4c": 1794869421.973218,
 "03ebca1064900b3c": 1795023632.0380168,
@@ -1438,6 +1520,7 @@
 "0ac0bceeaae82ab2": 1794736860.6169236,
 "0ac8d8010160a1dd": 1794053146.8970654,
 "0acdd0e5e11a6338": 1794136824.1662278,
+"0acebedba6035169": 1795164625.55377,
 "0ad052ce1e75aeec": 1795105856.1784246,
 "0ad215e61fc6b8f8": 1794385221.6704128,
 "0ad3b5da567cfed6": 1794437421.737116,
@@ -1551,6 +1634,7 @@
 "0c1e2f97cb38c85e": 1795078857.1948605,
 "0c1f17aa8a09ce87": 1794430653.1918259,
 "0c2652631fe5d9b2": 1795129253.5418503,
+"0c28e8d36184e8f8": 1795164625.55377,
 "0c2e83ad44eeab53": 1795026027.4124646,
 "0c2fa9508cfbb18a": 1794522022.9497743,
 "0c2ff414146f2b91": 1794487221.4696975,
@@ -3462,6 +3546,7 @@
 "23d4ccba7853cc51": 1794053146.8970654,
 "23d6f81a1884a9c4": 1795161653.0612464,
 "23dfa9fcac1ade50": 1794812457.8102336,
+"23e11d5054c205c5": 1795164625.55377,
 "23ec21899a8afc8c": 1794553252.738333,
 "23efb01c0bf074b8": 1794490843.0898888,
 "23f0c37ca42e5d99": 1794207655.353521,
@@ -4045,6 +4130,7 @@
 "2a6199efc4685721": 1794492052.5954537,
 "2a62ab16853f5499": 1795083024.3557622,
 "2a6323c6784f20e9": 1794415827.7010334,
+"2a6c44cf96f7e666": 1795164625.55377,
 "2a6ea7267155151c": 1794385837.7839928,
 "2a708ea7f0a80e13": 1794389438.4958024,
 "2a73171958b661ed": 1794053146.8970654,
@@ -4735,6 +4821,7 @@
 "32ea8a36111eb0b2": 1794330627.8580275,
 "32eb15d67d2bc436": 1794333323.0978487,
 "32efc939c8450d77": 1794053146.8970654,
+"32f25649ca242c02": 1795164625.55377,
 "32fec96e61d5f703": 1794180024.180841,
 "33010d985b35313f": 1794385221.6704128,
 "33035ff2c82b9f60": 1794898855.1759124,
@@ -5848,6 +5935,7 @@
 "40c63c425297d1a0": 1795032632.267427,
 "40c6e4cce6ed153b": 1795158052.8119109,
 "40ca375df2b7783a": 1794247875.6926105,
+"40cb9b8773ceaff0": 1795164625.55377,
 "40ccb9614820d64d": 1794577228.5573788,
 "40cd860de7bf89fe": 1794129624.9673119,
 "40cd923b4ee0b0aa": 1794562241.9332683,
@@ -14500,6 +14588,7 @@
 "af246650c1514cbd": 1795108830.446544,
 "af2627b210522098": 1794558639.9624033,
 "af262eb6043520d4": 1794927030.8551636,
+"af274df6cc28b02c": 1795164625.55377,
 "af29e108b273486c": 1794331841.6847267,
 "af2ad99393fdeb8c": 1794945033.7249732,
 "af2c95ab784de60d": 1794053146.8970654,
@@ -14559,6 +14648,7 @@
 "afd18db80f8d954a": 1794136824.1662278,
 "afd1f2d41f07fb4a": 1794426025.3083632,
 "afd2862f69bfcac8": 1794511224.5455616,
+"afd2e13225a45919": 1795164625.55377,
 "afd49167bf99febc": 1794380451.074071,
 "afd56ab472074a45": 1794480621.4125366,
 "afdb67114ea3eb4e": 1795127441.015189,
@@ -15375,6 +15465,7 @@
 "b9f6c197f7c80043": 1794224423.8500595,
 "b9f932b92bd70911": 1795104055.213969,
 "b9faea41c9e8a1b1": 1794759035.471768,
+"ba04c3a0ec595048": 1795164625.55377,
 "ba067e7ae53d7584": 1794133224.9019783,
 "ba0742147b98da64": 1794228023.5425556,
 "ba098e2b1c6f0041": 1794232853.9654045,
@@ -16710,6 +16801,7 @@
 "c9b9beb61bfd53a9": 1794217228.4060323,
 "c9bba0f558fc4286": 1795022427.2771587,
 "c9c47328257a4c5f": 1795032632.267427,
+"c9c5d6150367271a": 1795164625.55377,
 "c9c6b6bb49f2a2f4": 1794812457.8102336,
 "c9c745038a1fec18": 1794910825.2196436,
 "c9c793413ef0f6ab": 1794833424.9627757,
@@ -21189,6 +21281,7 @@
 "020974a1cdcc0e8d": 1794904827.2581468,
 "020ce99c7f66f27e": 1794733251.876912,
 "020ddec43ee39f41": 1794053146.8970654,
+"020f037dd8ae4ca4": 1795164625.55377,
 "020f133ee4e1b175": 1794852053.4398386,
 "021217ca7dc806c1": 1795073423.1091006,
 "02141bc14b113823": 1794854423.910638,
@@ -23385,6 +23478,7 @@
 "200cada8fa3d00cb": 1794295224.707564,
 "200d40c1e5a5f85d": 1794389438.4958024,
 "200d65dde17819fc": 1794348047.2236443,
+"20194ea7b6a685a8": 1795164625.55377,
 "2020467e9dedecd8": 1794416450.9334848,
 "2024497d854e2001": 1794828024.2634065,
 "2026840ccad703dc": 1794389438.4958024,
@@ -29296,6 +29390,7 @@
 "7022c7b03cc2c957": 1794516624.7725692,
 "7025537058991050": 1794436236.6229744,
 "70260631237d8517": 1795087232.2239647,
+"7028fd12b789a2cb": 1795164625.55377,
 "7029f9a4354e8f1a": 1794562823.5870972,
 "702a00d2985615db": 1794058663.5416367,
 "703232051945cff9": 1794247257.3744018,
@@ -32543,6 +32638,7 @@
 "9d995382479a56f6": 1794923427.6688526,
 "9d9edb8c0dd50c59": 1794583227.8628414,
 "9d9f2fa28e583199": 1794906639.260199,
+"9da012ba9c4bb7dc": 1795164625.55377,
 "9da1a5e17f59f283": 1794133224.9019783,
 "9da4b6158e9c37f6": 1795126823.4683802,
 "9daed4862b86ddee": 1794411039.5612423,
@@ -33373,6 +33469,7 @@
 "a8acb93b95973c66": 1794381624.5089903,
 "a8b0484e564d428d": 1794295224.707564,
 "a8b5d3ecf7b85ee5": 1794133224.9019783,
+"a8b759d6c6eb376d": 1795164625.55377,
 "a8c2b4878c24bae4": 1794252642.0442708,
 "a8cad79c0527ff58": 1794069624.2005684,
 "a8d73514362ec1ef": 1794747886.992174,
@@ -35625,6 +35722,7 @@
 "c61d131c5c5c6fb7": 1795163442.7197275,
 "c628b5a53e939eb1": 1794997234.1731262,
 "c62963e8e41314ba": 1794397829.6326773,
+"c629714fc2eaa783": 1795164625.55377,
 "c637ba7955d7b372": 1794426025.3083632,
 "c638b22946250cbc": 1794063069.3473625,
 "c63973055170c1ff": 1794350423.088423,
@@ -36167,6 +36265,7 @@
 "cd82e942be090429": 1794318026.068809,
 "cd87c3482025d99f": 1795124425.6352081,
 "cd8bc8e6890af404": 1794310242.809073,
+"cd8e9952051cc9fe": 1795164625.55377,
 "cd935b4feb883d21": 1794417625.2380702,
 "cd965c0173ef2787": 1794687025.0344095,
 "cd9ba434fef20072": 1794328242.1321893,
@@ -37028,6 +37127,7 @@
 "d90818517a116e36": 1794812457.8102336,
 "d90ac7a236054e86": 1794345622.3845239,
 "d90afe4cf09138f9": 1794176424.6910276,
+"d90f171016cc0fed": 1795164625.55377,
 "d911f32854d36ea5": 1794483042.7861938,
 "d91355628a042edb": 1794591626.535744,
 "d915cf0664478032": 1795041049.6610858,
