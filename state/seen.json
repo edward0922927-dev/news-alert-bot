@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795165265.2973115,
+"ai_last_review": 1795166444.4451294,
 "ai_log": [
-{
-"err": "",
-"kept": 7,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 32,
-"ok": true,
-"t": "11-18 22:41"
-},
 {
 "err": "",
 "kept": 3,
@@ -540,252 +531,18 @@
 "n": 8,
 "ok": true,
 "t": "11-20 09:01"
+},
+{
+"err": "",
+"kept": 5,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 21,
+"ok": true,
+"t": "11-20 09:20"
 }
 ],
-"ai_queue": [
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUjhzWEFvU2JQejNHQlFBZTJDV0hqdk1WTGFIdHpjejZQTU9waGtlVGZBZnhGbjdCUUpuREk3SWl2eHVoSXAyZkpudDRtaDFqeTIzOWNEMHlkdE9UVnF1RHoweXNNVHhMai1Tcm9MSTlYOVBpeEV6eWJOWVR1b3Z2Vlo5dno0b2h1OTF1NGVjbmFZZHo5WlBPaU5FVlBOOGdUbm5FNWxXTQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "AI data center construction demand holds firm despite labor shortages as Acter's order backlog reaches NT$84 billion &nbsp;&nbsp; digitimes",
-"tags": [
-"data center"
-],
-"title": "AI data center construction demand holds firm despite labor shortages as Acter's order backlog reaches NT$84 billion - digitimes",
-"ts": 1795162687,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGpDd1FDYVhFa0gtNFdieUFPdGtDVUR0eGktbzAtRWxJX25iS1R4eHFLZzc5RGNTQTNHMG9uUDlrTWRraDdfd0FVNHBTQ29MTXcwSmQwX0pGTVpFVlFFQXdnOUxZbVBwRHdQczdXeU9IaHZxY1h5NlpubnFvNzZNbGNWUW9xbnc4bHp3aGFPWElCWnlNMWc?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Huang's exit tests Nvidia's annual chip cadence and Taiwan suppliers' customer mix &nbsp;&nbsp; digitimes",
-"tags": [
-"NVDA"
-],
-"title": "Huang's exit tests Nvidia's annual chip cadence and Taiwan suppliers' customer mix - digitimes",
-"ts": 1795162800,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/pharos-energy-shares-fall-as-egypt-blocks-ratio-acquisition-93CH-5040968",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Pharos Energy shares fall as Egypt blocks Ratio acquisition",
-"ts": 1795164271,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/european-ailinked-shares-fall-as-anthropics-debut-fails-to-spark-rally-93CH-5040976",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "European AI-linked shares fall as Anthropic\u2019s debut fails to spark rally",
-"ts": 1795164381,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-vallourec-stock-tumbling-today-93CH-5040977",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Vallourec stock tumbling today?",
-"ts": 1795164457,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/exclusivebeijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5040979",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Exclusive-Beijing to bar young \u2019red-chip\u2019 firms from listing outside mainland China, sources say",
-"ts": 1795164520,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-pharos-energy-stock-sliding-today-93CH-5040982",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Pharos Energy stock sliding today?",
-"ts": 1795164671,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-unicredit-stock-on-strong-earnings-outlook-93CH-5040984",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Deutsche Bank upgrades Unicredit stock on strong earnings outlook",
-"ts": 1795164885,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/deutz-shares-gain-after-company-responds-to-short-seller-93CH-5040986",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Deutz shares gain after company responds to short seller",
-"ts": 1795165064,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMFl1eUlMa19YWnhjNGRYU21GRGl5V1RXc2c5N0doT21rZ2c0S2tRdzk4VUxCNTAtRk1VQnRzNGlmUlBXR1g1UWFQbVF2czN1bXpUcnZaalViX0lqcXhPLWlhMnVZRTIxR0FnSk9rbE9EdmpNT3RfTVpUN0xiYWVNZ2Q1VWhqanFOU2F2UHd4SHduQ0FTRUpkc0EwYXBXbmcxeUE?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "South Korea surpasses US$1 trillion in annual exports, powered by AI &nbsp;&nbsp; digitimes",
-"tags": [],
-"title": "South Korea surpasses US$1 trillion in annual exports, powered by AI - digitimes",
-"ts": 1795165078,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675053-nyc-delivery-bill-amazon-warning-shoppers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"AMZN"
-],
-"title": "NYC delivery bill:\u00a0Amazon warns shoppers of higher prices; Mamdani says it's greed",
-"ts": 1795165129,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmRleDdMbF9lVVBFeGRnM1JBWEt3YVRzb3RLdnFwTG0xalVpYnhMbTRlN1ZyVEJCOWpLRTBPSFhCN20yNjJPTmxhdkhtMnFTUGFUeWRBcDFERlc5UTdpYWcxamRtT2pYbXg0UWlFWXFOUktST3h0cmhTT3R5dmpxVGlsX05LaGxSYUlMMlNzaUtUdGJNbWc?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption &nbsp;&nbsp; digitimes",
-"tags": [
-"TSM"
-],
-"title": "TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption - digitimes",
-"ts": 1795165204,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMGlWUGtGM2JYZjJ1TXF4T3JWQUVtVXlsTVNlLW5nUTdXOHpQel94ZWQyNlhibEQzMzZpOW4zN2w2NXRnd2QwcWpuRUg3eWZ6cHJMMXdsWVBNd0hVS2RESFNWZ002d1R6YkYtbTc4MWc2Ry0yZDNQVlhqdUpITmY0MURGbUU0d1RuaGJTUkthU1BhUDYwcEZOV0R0MnYwT1JiY2Z5VE5fZi00dF84SkdN?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "The AI Trade Has a New Main Character &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "The AI Trade Has a New Main Character - Bloomberg.com",
-"ts": 1795165255,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675009-citi-underestimated-risky-assets-by-35b-after-trade-errors-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Citi underestimated risky assets by $35B after trade errors: Reuters",
-"ts": 1795165257,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/oaknorth-becomes-first-foreign-digital-bank-to-get-us-charter-93CH-5040995",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "OakNorth becomes first foreign digital bank to get US charter",
-"ts": 1795165343,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-var-energi-stock-sliding-today-93CH-5040996",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Var Energi stock sliding today?",
-"ts": 1795165347,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675054-european-indexes-in-red-as-ai-worries-fuel-tech-sell-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "European indexes in red as AI worries fuel tech sell-off",
-"ts": 1795165525,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/exclusivesignal-restricts-screenshots-to-block-ai-agents-from-reading-messages-5040998",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Exclusive-Signal restricts screenshots to block AI agents from reading messages",
-"ts": 1795165584,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -860,7 +617,7 @@
 },
 "_last_check": 1795164636.2686718
 },
-"last_run": 1795165835.011143,
+"last_run": 1795166455.0399888,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -4274,6 +4031,7 @@
 "2a1e85b0d994f7f4": 1795011628.9120867,
 "2a210e874516f50d": 1794490843.0898888,
 "2a2334b805d729a9": 1795009825.2768826,
+"2a2f06377639f770": 1795166430.5589674,
 "2a3274d21692fc88": 1794226224.6034505,
 "2a38bfbb9304ed20": 1794556225.832143,
 "2a3a0a1f26fd6699": 1794948026.0694823,
@@ -10548,6 +10306,7 @@
 "79e03a1c11873a0f": 1794380451.074071,
 "79e59a2609c6652d": 1794841825.0479877,
 "79ebf644b299f1e1": 1795037444.7079654,
+"79f0de438afeac49": 1795166430.5589674,
 "79f1bc3d5856db83": 1795128626.024686,
 "79f1df7efb505b32": 1795158052.8119109,
 "79f682bbbff4e79d": 1795007427.269039,
@@ -11538,6 +11297,7 @@
 "864e5fa5cfc9785d": 1794085249.7228966,
 "864ebfcdf973e9dd": 1794494426.657751,
 "865533f94f99c946": 1794408026.6576438,
+"865b84f9c168620a": 1795166430.5589674,
 "865e49a14d8f0d64": 1794225653.3544042,
 "865f65847bc2dcd3": 1794303041.7631679,
 "86647753a465361a": 1794207655.353521,
@@ -15539,6 +15299,7 @@
 "b88165e471182a31": 1795101625.6528518,
 "b881732576362597": 1794937829.209939,
 "b8832c1bbd675cb0": 1794608434.8443968,
+"b88991d11c2adca2": 1795166430.5589674,
 "b88e17ae0887c81e": 1794090024.092463,
 "b88f817f62118ea0": 1794843229.2204437,
 "b897b605eac1b762": 1794294057.2981856,
@@ -18672,6 +18433,7 @@
 "deaa8c7a446e2fc1": 1794553252.738333,
 "deab107738683127": 1794553252.738333,
 "dead01a4e88091de": 1794441023.1432993,
+"deaed9c9d9614eac": 1795166430.5589674,
 "deb1ceea205947f2": 1794078625.195159,
 "deba1469de817de0": 1794431426.5168767,
 "debf79cf1c96b8bc": 1794553252.738333,
@@ -29653,6 +29415,7 @@
 "713dd6b778b17261": 1794072642.3225284,
 "71412122edffcfc3": 1794639651.002237,
 "7144cad56422a1ae": 1794255028.7159631,
+"7147d719d18ce884": 1795166430.5589674,
 "7147fc7d2f3fec8b": 1794129624.9673119,
 "7149d49822576aae": 1794951624.2213807,
 "714b8cf2a93a8cf3": 1794812457.8102336,
@@ -31370,6 +31133,7 @@
 "89bbe1510d323e59": 1794518426.1797802,
 "89bc7d0ba5076a68": 1794847227.3353586,
 "89bd16122d13686f": 1794898855.1759124,
+"89bfdbd11b5b436d": 1795166430.5589674,
 "89caedb501764d49": 1794562241.9332683,
 "89cc15ba0c5184e8": 1794229254.159377,
 "89da33018ac6bd6d": 1795159843.3521225,
@@ -32082,6 +31846,7 @@
 "93a5dbcd66bd1b3a": 1794070201.937629,
 "93a87b6fb415b079": 1794489626.5939486,
 "93aa9510c2e1f279": 1794639651.002237,
+"93ab288582da8b65": 1795166430.5589674,
 "93ab4ebc8720aa8a": 1794262226.7977734,
 "93acec1c03f2278a": 1794585657.8760312,
 "93afb4b622cf9f6a": 1794664849.8725064,
@@ -35769,6 +35534,7 @@
 "c4048e8cb6dacb82": 1795090824.4418364,
 "c40a8788896e849f": 1794553252.738333,
 "c40b57b137634c60": 1795019447.141901,
+"c410dc18d9c7d978": 1795166430.5589674,
 "c413171c48135c20": 1794694224.7511728,
 "c414746cfe16a85d": 1794906055.0815465,
 "c414b8d83552b241": 1794294057.2981856,
