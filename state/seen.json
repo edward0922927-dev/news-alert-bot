@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795198885.106347,
+"ai_last_review": 1795200051.9216025,
 "ai_log": [
-{
-"err": "",
-"kept": 5,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 27,
-"ok": true,
-"t": "11-19 15:12"
-},
 {
 "err": "\u8d85\u6642\uff08[gemma-4-31b-it] HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemma-4-31b-it:generateCon",
 "kept": 4,
@@ -540,137 +531,18 @@
 "n": 13,
 "ok": true,
 "t": "11-20 18:21"
+},
+{
+"err": "",
+"kept": 3,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 14,
+"ok": true,
+"t": "11-20 18:40"
 }
 ],
-"ai_queue": [
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQczk4dUpiVmg1ZTBUWENxNzVrMm5iMEV1VmdnQnMwZ1NQa3IwY1ZsUTJzUGliZ2E4aWI1Nm5tT0dJYk1TckVSd051OXU4T3QzME41LWRSREtXN0Q0M1JZY3BVZU84azF1VGZXZmtQY2lXNHlvcWRodGRTMkhvQkxQa2g0MFM?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "Betfred blames UK gambling tax rise as it shuts 73 stores &nbsp;&nbsp; Financial Times",
-"tags": [],
-"title": "Betfred blames UK gambling tax rise as it shuts 73 stores - Financial Times",
-"ts": 1795184794,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JRGVqM1Z4V2NpZ3Z4QWU0YTlvMzVZNDRyRFBxbW5JUktoRzVhWW1sTTh0UE13aWw1UmFiUTFUN3BkRHNpVURLdlNqMVVLWkJNUTlGc2pIaVN1S2xPUllGeGdFTWdnOVRGajUxUTBGdGhueXMwc1NKUEYwemPSAYIBQVVfeXFMTkplV2N4Mk5zbGJBNndiWVFBS3FSNGV4WkRzYWJGNXU3THB6QTR2eGRuWTFkQkYtM3lRb0dJRDNrRDN4Ymp1QlNoNXNqZHEyTE5BczVhRXgtNS1DM2tHbUc0cUVjalNUdEs3RmJuZlRuRk5aWHMxNmFJR1VJQU5LR01sZw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax' &nbsp;&nbsp; CNBC",
-"tags": [
-"data centers"
-],
-"title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax' - CNBC",
-"ts": 1795196738,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1d21RTzVvekNZQ1l0dUlzbC1ZS3hoaGlRVG1KSXJFVUo3REh1YVYxSmpOR09DZHBZRm9FUmJOdkZ3RTBEUlJZQmRfMG44VjFMRGc?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
-"summary": "Real Estate: Trending News, Latest Updates, Analysis &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "Real Estate: Trending News, Latest Updates, Analysis - Bloomberg.com",
-"ts": 1795196925,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3hLaXdod0Myc1NGcVJDbHZlMEEyaS1FdzJpVmZKeEVLN3BRQzIzVDJXd1g3RXdzVHVlaXJuOWpmQ1ZwZ0IyVGJPMHVMLWhKZHluYjRmYXhQZkZWOXY3Z0ItS0NHREE0a05KUUVuUUM5MDdpb3drSzhzb2hHdjlvTHNOY2lnOXViSkdKUXI4cndxMjZocEx5LTM5TnFYRzlLY1NBdHY4VFZTdm53MHl0Rw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Microsoft to Pay Top Cloud Workers More, Crack Down on Others &nbsp;&nbsp; Bloomberg.com",
-"tags": [
-"MSFT"
-],
-"title": "Microsoft to Pay Top Cloud Workers More, Crack Down on Others - Bloomberg.com",
-"ts": 1795197946,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675263-nextera-dominion-merger-cleared-by-doj-antitrust-division?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "NextEra-Dominion merger cleared by DoJ antitrust division",
-"ts": 1795198762,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-goldman-sachs-stock-sliding-today-93CH-5042387",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Goldman Sachs stock sliding today?",
-"ts": 1795198842,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Block",
-"summary": "Elliptic says little has likely been cashed out, despite a sharp rise in bitcoin mixing since Nov. 17.",
-"tags": [
-"BTC",
-"Binance",
-"hack"
-],
-"title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
-"ts": 1795198959,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675266-geospace-outlines-path-to-profitability-in-fiscal-2027-with-backlog-exceeding-100m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Geospace outlines path to profitability in fiscal 2027 with backlog exceeding $100M",
-"ts": 1795199036,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Trump says US to penalize firms building data centers abroad &nbsp;&nbsp; Reuters",
-"tags": [
-"data centers"
-],
-"title": "Trump says US to penalize firms building data centers abroad - Reuters",
-"ts": 1795199140,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -747,7 +619,7 @@
 },
 "_last_check": 1795198841.4893208
 },
-"last_run": 1795199456.2337475,
+"last_run": 1795200058.0335896,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1792,6 +1664,7 @@
 "0cc4cf06d83cc446": 1795027824.3007407,
 "0cc63150ed6cc1b1": 1794295224.707564,
 "0cc6a125555b8ea4": 1795113043.7219627,
+"0ccf28745bd5f1ed": 1795200040.6171563,
 "0cd5a3d905b7634e": 1794996629.057507,
 "0cd5b45c053c06de": 1794387024.263017,
 "0cdd6c217ec81b31": 1795041623.7036307,
@@ -2924,6 +2797,7 @@
 "1a4de5a941f49b81": 1794690623.5489624,
 "1a4e89d47475043e": 1794943846.3159235,
 "1a4f9c30f4871018": 1794380451.074071,
+"1a504a3ea2bf2ffd": 1795200040.6171563,
 "1a53f65407c010e9": 1794736860.6169236,
 "1a54aff9173eb585": 1794468024.138138,
 "1a5525fe8142da54": 1795189234.9460638,
@@ -6014,6 +5888,7 @@
 "3e814192aab75119": 1794555623.064874,
 "3e8ae05591548307": 1794121251.8481042,
 "3e92225b887fdcdd": 1794920454.7222776,
+"3e93c47edbf3a33d": 1795200040.6171563,
 "3e9573c6d8a87970": 1794380451.074071,
 "3e9cc9291ac7e6e9": 1794736860.6169236,
 "3e9ccf54019a81af": 1794385837.7839928,
@@ -7202,6 +7077,7 @@
 "4cb0603dfe28c1d5": 1795017037.8184426,
 "4cb52d68349e63d4": 1794483623.074817,
 "4cb8309c570b93c5": 1795003826.8305173,
+"4cbc99c09f02020c": 1795200040.6171563,
 "4cbe60c9359e8b7c": 1794553252.738333,
 "4cbec7e745c00dc9": 1794207655.353521,
 "4cbf57c27b68185c": 1794408026.6576438,
@@ -11162,6 +11038,7 @@
 "7d4f693449e79849": 1794812457.8102336,
 "7d545c6fae7a5e1b": 1795096852.1642742,
 "7d55561a503a07b2": 1794297654.3266497,
+"7d60e7b46cab5fe7": 1795200040.6171563,
 "7d64829da067ab8c": 1794865824.424357,
 "7d64a4bbe5ff775b": 1794676225.6021314,
 "7d67a882f7c8f6a1": 1794053146.8970654,
@@ -13623,6 +13500,7 @@
 "9af5c81a6b2eb183": 1795167639.892964,
 "9af793daca7fdfcd": 1795086624.8128257,
 "9af9761e09142963": 1795095043.0046604,
+"9afdc879390767a4": 1795200040.6171563,
 "9b090ca26706c78f": 1794315657.2528052,
 "9b0cb0f3b8bddcb4": 1794349844.933684,
 "9b104a9d44e7c9ca": 1794604223.4254403,
@@ -15857,6 +15735,7 @@
 "b59a81a734bfcf72": 1794818423.9958396,
 "b59ab7b78aaa69bd": 1794564640.4195065,
 "b59ce88b7a060aea": 1794898855.1759124,
+"b59de08683e82212": 1795200040.6171563,
 "b5a3aa9c37ded2f4": 1794324648.7021484,
 "b5a6f5c84025a8d9": 1794733251.876912,
 "b5a7adec914612f6": 1794305426.239695,
@@ -17984,6 +17863,7 @@
 "ce679d9e210b9418": 1795081825.5670738,
 "ce67e2fa78c4fd07": 1795015226.4846294,
 "ce6ad990041319c8": 1794489626.5939486,
+"ce74ee6bb46f7752": 1795200040.6171563,
 "ce752f1a7e0594b6": 1794240054.5770936,
 "ce7703e82f7c67e5": 1794090024.092463,
 "ce7bb3781b4c3890": 1794825041.4304469,
@@ -19118,6 +18998,7 @@
 "db84c29540db3ddc": 1795116025.3176084,
 "db84e28016670b62": 1795129253.5418503,
 "db8a35b0f72db699": 1794410424.1208882,
+"db8ab4205316baa4": 1795200040.6171563,
 "db9264b8b55e8822": 1794489626.5939486,
 "db93955d213706d7": 1794085249.7228966,
 "db9823dad7f9b4c4": 1794508823.8400886,
@@ -26735,6 +26616,7 @@
 "3b850593708db07f": 1794613228.4424767,
 "3b8a505f01a0c119": 1795071657.072108,
 "3b8c0a815fde3449": 1794553252.738333,
+"3b91aa2c8861c70c": 1795200040.6171563,
 "3b99e01b4b6b0946": 1795183257.1690297,
 "3b9bad70eb02aa57": 1794476423.816981,
 "3b9c69df786b7c31": 1794900643.8440216,
@@ -28111,6 +27993,7 @@
 "4d9138739779fdfe": 1794468024.138138,
 "4d92b7c4d67b8b8b": 1794639651.002237,
 "4d94c541e62fab44": 1794600050.9773862,
+"4d9725dde262bad6": 1795200040.6171563,
 "4d98961ca248ddf5": 1794900643.8440216,
 "4d9d2ac752fa1ca2": 1794913255.6691341,
 "4da7b04ae080f37d": 1795095635.5499814,
@@ -29874,6 +29757,7 @@
 "6507b0108e31e41c": 1794510065.4285805,
 "650844421c3b98c4": 1795044642.5017974,
 "6510271d547fe0c8": 1794400828.886451,
+"6526d7f59e62e6e6": 1795200040.6171563,
 "65276f5c96f6a02f": 1795098026.560795,
 "6528a19389941c9e": 1794985252.4753754,
 "652b3bdb6e9f1d5c": 1794898855.1759124,
@@ -30787,6 +30671,7 @@
 "712985e79125683b": 1794516025.4582257,
 "712d5a2863f74965": 1794821440.8058648,
 "7131c7d1ac6c3c71": 1794605443.9812016,
+"7134aab3abf4da08": 1795200040.6171563,
 "713cfb6dfb4d8f75": 1794090024.092463,
 "713dd6b778b17261": 1794072642.3225284,
 "71412122edffcfc3": 1794639651.002237,
@@ -30833,6 +30718,7 @@
 "71c6b9ed4ad49e12": 1794661257.6211615,
 "71c74cebec742895": 1794521423.7718086,
 "71c90c3d60fff431": 1795020631.558756,
+"71ccdf87bc9037cb": 1795200040.6171563,
 "71cdd7c76fe023fa": 1794327026.3092759,
 "71cf4bf1a57bef07": 1794347425.5105855,
 "71cfcfd1adfd43cd": 1795126823.4683802,
@@ -32847,6 +32733,7 @@
 "8d3b773c47b4d5e4": 1795129825.1984618,
 "8d3d8c22bc83679f": 1794569442.764256,
 "8d3fd6cf866f7a1e": 1794873034.3945842,
+"8d41c4db03e558c0": 1795200040.6171563,
 "8d443dda222c6b9e": 1794427822.4253979,
 "8d4c0b27c1a87004": 1794180024.180841,
 "8d4e8faf7d83011c": 1794726050.5794117,
@@ -34112,6 +33999,7 @@
 "9d3e379c61e8ad31": 1795035662.9652836,
 "9d45442359dae96f": 1795128626.024686,
 "9d476a5393bab72b": 1794610854.8571496,
+"9d48b8c8da48075d": 1795200040.6171563,
 "9d4a1ff24ed14315": 1794349221.7950053,
 "9d4e035f591a6d81": 1794235227.58563,
 "9d52a0c584083ae4": 1795113043.7219627,
@@ -36033,6 +35921,7 @@
 "b647101f87ac1f52": 1794579629.967614,
 "b64fd089703ca06d": 1794069041.6001287,
 "b64fe62c8440f99b": 1794311424.003163,
+"b65198ac03409cb1": 1795200040.6171563,
 "b655262d332043c4": 1794990024.1693873,
 "b65c16919ff2bc90": 1795159223.9439034,
 "b65c78d2edf6da30": 1794985252.4753754,
