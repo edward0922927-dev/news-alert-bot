@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795207315.2773013,
+"ai_last_review": 1795208469.7128165,
 "ai_log": [
-{
-"err": "\u8d85\u6642\uff08[gemma-4-31b-it] ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)\uff09",
-"kept": 7,
-"missing": 0,
-"model": "",
-"n": 22,
-"ok": false,
-"t": "11-19 17:52"
-},
 {
 "err": "\u8d85\u6642\uff08[gemini-3.8-flash] ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)\uff09",
 "kept": 6,
@@ -540,205 +531,24 @@
 "n": 22,
 "ok": true,
 "t": "11-20 20:41"
+},
+{
+"err": "",
+"kept": 1,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 20,
+"ok": true,
+"t": "11-20 21:01"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVVTRHZ4Q0NxLThIeDI5d09DVVhMY3hGQm9QSlo1V3dGLWJMbFBNaFZoZjV5WlhSaU55NVdDb096SWp6cFUzUUYteW9kTnlMUzdXVmZBUS1fbGpUM1FfNzlHRXdMeFYxWWV0NGlmVk9IbDdBdlNNN0E5d2VuUnF4SlA2RjVqRWd3VHR5NDVPVW9EV2FsQWJKSlVEVWJrekt1TDA4WFVVU2U?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "UK stocks sink as global selloff weighs on banks and miners &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "UK stocks sink as global selloff weighs on banks and miners - Reuters",
-"ts": 1795197804,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTmhITDNJWDN0aFIyMjg5dmx0bWFQS0RJcDZ4RDVUTEF4T3gzVUZ3VzZRVjRNMk1sdy0zaXdyWHBGdVBWQjI3V0FaRnhwbDJJQ2FqdjhIeFhMdEVDVWRadUs5M2tyM2RfTHNBVks3SVU0RkN2cXFwc2FPZWJfbHppVXhkVmZrbnVVOS14bVVaX1pRWG1yZEVvbm5GOVZDYWlQTEtvcmNyYUZWQQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Trump says more work to be done to achieve fair trade deal with Canada &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Trump says more work to be done to achieve fair trade deal with Canada - Reuters",
-"ts": 1795199246,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3JPLTZVMmozZDY5c0piSTJBajFkeXRoMVc0UWVRRVVtZTdHb3BNcU8temVfeW1TNWRzZzBGVVVTUEs4TGl3eFpuSGNCNFpsLUpPRE1PSjdQYzZDbl9LM2NkMlo3TmpFVEV5QkNhODJyZy1qTUc3U0VNSFhUZHhqWWowLUxSamJlUlIxYjgyVV81ZjFOYmM0ZjdDUQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Trump cites good talks with Putin on Ukraine, holds back on security guarantees &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Trump cites good talks with Putin on Ukraine, holds back on security guarantees - Reuters",
-"ts": 1795205093,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/chip-stocks-to-consider-on-the-dip-micron-and-nvidia-lead-the-screen-93CH-5042540",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA",
-"MU"
-],
-"title": "Chip stocks to consider on the dip: Micron and Nvidia lead the screen",
-"ts": 1795206076,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/christian-dior-board-approves-agache-merger-terms-93CH-5042545",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Christian Dior board approves Agache merger terms",
-"ts": 1795206483,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/honda-to-recall-more-than-800000-us-vehicles-over-takata-air-bag-rupture-risk-5042550",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Honda to recall more than 800,000 US vehicles over Takata air bag rupture risk",
-"ts": 1795206640,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "MarketWatch",
-"summary": "Also in Weekend Reads: Full coverage of the Anthropic IPO, the \u201cdeath cross\u201d for small-cap stocks and advice from The Moneyist.",
-"tags": [],
-"title": "\u2018GTA 6\u2019 has taken over. Is it too late to buy the developer\u2019s stock?",
-"ts": 1795206720,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/td-cowen-names-unitedhealth-its-2027-best-idea-upgrades-shares-5042562",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "TD Cowen names UnitedHealth its 2027 best idea, upgrades shares",
-"ts": 1795207115,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675330-bitcoin-plunges-6-percent-dips-under-58k?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"BTC"
-],
-"title": "Bitcoin plunges 6%, dips under $58K",
-"ts": 1795207148,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675315-business-development-companies-post-hit-to-q3-nav-on-realized-unrealized-losses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Business development companies post hit to Q3 NAV on realized, unrealized losses",
-"ts": 1795207175,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675251-microvision-shutterstock-among-technology-stocks-to-join-russell-microcap-ouster-penguin-solutions-to-exit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Microvision, Shutterstock among technology stocks to join Russell Microcap; Ouster, Penguin Solutions to exit",
-"ts": 1795207514,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675250-shopify-nxp-semiconductors-among-technology-stocks-to-join-russell-3000-index-one-stop-systems-veritone-to-exit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Shopify, NXP Semiconductors among technology stocks to join Russell 3000 index; One Stop Systems, Veritone to exit",
-"ts": 1795207527,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675324-kobeissi-isn-t-buying-the-ai-bubble-crash-narrative?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"AI bubble"
-],
-"title": "Kobeissi isn\u2019t buying the AI bubble crash narrative",
-"ts": 1795207691,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675321-applied-materials-slides-10-amid-tech-sector-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Applied Materials slides 10% amid tech sector selloff",
-"ts": 1795207739,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-20T17:00"
+"last_date": "2026-11-20T20:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -746,9 +556,10 @@
 "ETH_PX": {
 "cool": {
 "low": "2026-11-20T17:00",
-"pct1-": "2026-11-08T21:00"
+"pct1-": "2026-11-08T21:00",
+"pct24-": "2026-11-20T20:00"
 },
-"last_date": "2026-11-20T17:00"
+"last_date": "2026-11-20T20:00"
 },
 "FNG": {
 "cool": {
@@ -774,11 +585,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-20T17:00"
+"last_date": "2026-11-20T20:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-20T17:00"
+"last_date": "2026-11-20T20:00"
 },
 "UST10Y": {
 "cool": {
@@ -807,9 +618,9 @@
 },
 "last_date": "2026-11-19"
 },
-"_last_check": 0
+"_last_check": 1795208444.7070286
 },
-"last_run": 1795207922.7615235,
+"last_run": 1795208474.0850716,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -2603,6 +2414,7 @@
 "15a83f9ecd8bd686": 1794475223.5479877,
 "15ab58f24fcdd881": 1794294057.2981856,
 "15af306805825787": 1795179034.7516718,
+"15b4615c6ed92653": 1795208434.0947232,
 "15b4b4b5fa4c87a3": 1794053146.8970654,
 "15b8ab2a430130a6": 1794503768.242245,
 "15bb2af16a6b1226": 1794522643.152942,
@@ -3206,6 +3018,7 @@
 "1cc6253daf0c19cf": 1795084241.8486466,
 "1cce03a37e31c443": 1794607823.8860877,
 "1cd0cddc0e08e4d2": 1795084826.7229445,
+"1cd62154b6f8c640": 1795208434.0947232,
 "1cd679d02dd237aa": 1795007427.269039,
 "1cdcba18f22670b7": 1794936645.8912413,
 "1cde162ed3adea32": 1794060010.396961,
@@ -6674,6 +6487,7 @@
 "44e2eefcb2475f34": 1794129624.9673119,
 "44e6a03c497c25c9": 1795167045.950594,
 "44ea9746aa3862c5": 1794495024.9189398,
+"44ee20ed29ef6c10": 1795208434.0947232,
 "44f16964c7fb2c7c": 1794129624.9673119,
 "44f3d5e0c8100b14": 1794225653.3544042,
 "44f3fc7b3ff855e7": 1794935720.874189,
@@ -6796,6 +6610,7 @@
 "4676a96608ced6d5": 1794694224.7511728,
 "467852003131d23b": 1794826856.7571714,
 "4678894d16767419": 1795124425.6352081,
+"467cde1d13fa0b01": 1795208434.0947232,
 "467fab27ab43010e": 1794520225.482529,
 "467ffc6566d7a40a": 1794267626.597747,
 "4683b1cb8e335399": 1794812457.8102336,
@@ -11927,6 +11742,7 @@
 "844cd757e4298963": 1794898855.1759124,
 "844e09e8aca6d392": 1794903624.3495505,
 "8452ee7cc8388b05": 1794751824.973813,
+"8455d3c3a4e2d040": 1795208434.0947232,
 "84566c8f6efb995f": 1795093256.5200539,
 "8457c717ed0f93d4": 1795167639.892964,
 "845fcd6919e761f1": 1794489036.1626346,
@@ -14440,6 +14256,7 @@
 "a2ef6f97a9e1bf6d": 1794812457.8102336,
 "a2f179ac839d2175": 1794222054.6299663,
 "a2f310c248002c49": 1795019447.141901,
+"a2f6089bb899e718": 1795208434.0947232,
 "a2fd9b3d2b1536ab": 1794729650.1855493,
 "a2ffed0b987496a2": 1794985252.4753754,
 "a300578e7a0a5141": 1794231044.761608,
@@ -18738,6 +18555,7 @@
 "d3eefa70fcfa55fe": 1795099239.6035929,
 "d3f3961522639bdf": 1794553252.738333,
 "d3fab0ef8e1da529": 1794318026.068809,
+"d3fc663ae3df583c": 1795208434.0947232,
 "d40662082a20c83f": 1795071657.072108,
 "d40690507e7bc244": 1794207655.353521,
 "d40c06f5799a8ead": 1794380451.074071,
@@ -22463,6 +22281,7 @@
 "008e2c9c53a37535": 1794218488.7102273,
 "0091601297742bbf": 1794418239.536956,
 "0095113aa80b7a6c": 1794243026.4460754,
+"009622f87e27d107": 1795208434.0947232,
 "00a40184c8b5be4a": 1794129624.9673119,
 "00a4f77bf3cb14be": 1794261023.1557755,
 "00a581b80514ab54": 1794934228.5984814,
@@ -32152,6 +31971,7 @@
 "7dfce4798621d887": 1795179660.8202858,
 "7dfd6b072f92474f": 1794058663.5416367,
 "7dfe1ba0d4975771": 1794573047.278476,
+"7e0b25e7e6a8cfbb": 1795208434.0947232,
 "7e108357763d3fed": 1794294057.2981856,
 "7e1386bdaa44a8a3": 1794661257.6211615,
 "7e13d6b0e40d8da0": 1794928827.552128,
@@ -32469,6 +32289,7 @@
 "826c17ad93c08b5d": 1794825041.4304469,
 "826da0cfc8d201ac": 1794581426.666685,
 "826eededd189da1d": 1794587446.8583572,
+"8271600581c20633": 1795208434.0947232,
 "827331eb8aee1015": 1794827425.4141595,
 "8273983f6574736d": 1794432030.7467659,
 "827881a368cfc1f8": 1794814242.1111767,
@@ -33686,6 +33507,7 @@
 "922817cf4f07184e": 1795181448.7451098,
 "922de5a769daa6f3": 1794591053.6013825,
 "922df68ce77cfa18": 1795114863.8460736,
+"922f7e9834463508": 1795208434.0947232,
 "9230ca0a1d535d80": 1795039825.6283536,
 "9232a4919b3e082f": 1795191632.7663097,
 "92336333bbef027e": 1794053146.8970654,
@@ -34934,6 +34756,7 @@
 "a2157d1e8b84d748": 1794573047.278476,
 "a21ca0bad084de68": 1795040426.1665328,
 "a21d38812573b63d": 1795158052.8119109,
+"a21e4407a076fc33": 1795208434.0947232,
 "a22cfff91654e787": 1794900643.8440216,
 "a231eca98ad875ba": 1795159223.9439034,
 "a232396bdef78c88": 1795044035.52038,
@@ -36669,6 +36492,7 @@
 "b81f5ce14f24fa54": 1794469221.7331192,
 "b820f6c914bc08dd": 1794211253.7643282,
 "b8210a1c091571fe": 1794574224.2361157,
+"b82145581bce0d65": 1795208434.0947232,
 "b827eb1f6f25d9c6": 1794435021.8575943,
 "b830845788b6839b": 1794172824.1624086,
 "b8316d93a6480a65": 1794501042.7863798,
@@ -38845,6 +38669,7 @@
 "d2fefb628f703b25": 1794994244.1278844,
 "d303786e017ae537": 1794466847.0948906,
 "d3047fff90c9efb4": 1794307223.432283,
+"d30f8a97fbc39643": 1795208434.0947232,
 "d312a479a0773fb0": 1795084826.7229445,
 "d31318fb6fd9fc2b": 1795161653.0612464,
 "d318c75053df6b37": 1794489626.5939486,
