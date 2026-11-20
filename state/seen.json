@@ -542,7 +542,51 @@
 "t": "11-20 07:41"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEtNSkpaRzhCMEhmdmNVX245cUtVVDZUR1MzQWZRdlk1bUNyTkU3THZTbEZyZEozYWxjTTBINjZVSlJKV0lyRGJZX0g1Rkktb3hDZHp2ZmxsNUhLbmF1ams3TGM1STZ0OUlmRC0xUUpvOWg2X1NLU1VPNUdIVzRTU2ViRHFqSmJRTTFnZWJsWllwc1BGYjZEaFhsX3VfRl85UE1mTmxxZVo2TklfRmFrTHNR?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "White House Dismisses Trump\u2019s Cyber Security Chief Cairncross &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "White House Dismisses Trump\u2019s Cyber Security Chief Cairncross - Bloomberg.com",
+"ts": 1795145280,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4675025-asia-tech-stocks-reel-from-anthropic-ipo-as-softbank-samsung-and-tsmc-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [
+"TSM"
+],
+"title": "Asia tech stocks reel from Anthropic IPO as SoftBank, Samsung, and TSMC slide",
+"ts": 1795160438,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.koreatimes.co.kr/business/companies/20261120/korea-declines-to-review-teslas-fsd-exemption-request?utm_source=rss",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Korea Times",
+"summary": "Korea's transport ministry said Friday it cannot review Tesla Inc.'s request for an exemption from local vehicle safety standards to offer its Full Self-Driving (FSD) feature, citing insufficient documentation. The Ministry of Land, Infrastructure and Transport said the Korea Transportation Safety Authority notified Tesla Korea that further verification and supplementary documentation were needed ",
+"tags": [
+"TSLA"
+],
+"title": "Korea declines to review Tesla's FSD exemption request",
+"ts": 1795160823,
+"unmatched": false
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -617,7 +661,7 @@
 },
 "_last_check": 1795160434.467298
 },
-"last_run": 1795160483.3768106,
+"last_run": 1795161033.65945,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1523,6 +1567,7 @@
 "0bdb055aff71ddb2": 1794985252.4753754,
 "0bdcc5da44396f5b": 1795071657.072108,
 "0be7c5aaa21b3bc0": 1794925225.416021,
+"0bede194920a4667": 1795161024.8439593,
 "0bf48148e19b8672": 1795107657.157931,
 "0bfdeb7b4c3d9cbf": 1794835843.278346,
 "0bfe5d2edd118b12": 1794151225.6597934,
@@ -3219,6 +3264,7 @@
 "211bbadca36719c4": 1794607823.8860877,
 "2122a850efb8413a": 1794490843.0898888,
 "2126b71ff15b93da": 1794069624.2005684,
+"212a2206759d4b6c": 1795161024.8439593,
 "212c603eafd1a439": 1795096224.5426471,
 "212ef7464efa2dbc": 1794871839.1299171,
 "2132ec1216d63a3e": 1795041623.7036307,
@@ -9554,6 +9600,7 @@
 "7073831eee662ebd": 1794597026.5485523,
 "7077328867f45b0d": 1795005042.7333517,
 "7078604faff963e5": 1794493226.1332557,
+"7078a46e6cad2c2d": 1795161024.8439593,
 "70798175ece8881d": 1794934228.5984814,
 "707bc055469bdc8c": 1794588025.8512602,
 "707be8dd7f0a97f5": 1794327026.3092759,
@@ -11639,6 +11686,7 @@
 "8b2b4bcdfa0d7e6e": 1794916854.9105375,
 "8b2d23b258f0b6fd": 1794067878.5266922,
 "8b2d5881969e8e35": 1794154823.0343263,
+"8b2fa6c33afe5199": 1795161024.8439593,
 "8b34898f661e5f22": 1794812457.8102336,
 "8b36fb00ba8d26e1": 1794225653.3544042,
 "8b3a0cf2b87521de": 1795119024.903376,
@@ -16055,6 +16103,7 @@
 "c2fda72cd3842a02": 1795101625.6528518,
 "c30411ae36698b87": 1795085425.5946856,
 "c304b175a7e6a882": 1795158052.8119109,
+"c3055cace2d518bf": 1795161024.8439593,
 "c3078b6498061842": 1795021825.045495,
 "c308fda71236b965": 1794871225.0409687,
 "c30c935e645aeb48": 1795029627.0842295,
@@ -17625,6 +17674,7 @@
 "d5bda600ef08d239": 1794870624.8617263,
 "d5bdea4aedbd3261": 1794585024.6252208,
 "d5bebfa0cc34303a": 1795026027.4124646,
+"d5c1e74bd0ff17f0": 1795161024.8439593,
 "d5c77a5c07411397": 1794248479.105261,
 "d5cb2deffded45d2": 1795158052.8119109,
 "d5d01863d4d13328": 1794900643.8440216,
@@ -18766,6 +18816,7 @@
 "e4518066a74a665f": 1794850826.4347599,
 "e45361b95e1eb0f3": 1794900643.8440216,
 "e45569db28db1200": 1794594645.7815912,
+"e456ff20ed9de327": 1795161024.8439593,
 "e457166c0e74d805": 1794610854.8571496,
 "e45f473a3347b9ce": 1794835224.5721529,
 "e462069ab09a469e": 1795036825.3187943,
@@ -22634,6 +22685,7 @@
 "1734653fac967ac5": 1794871839.1299171,
 "1736d3d71764c167": 1794906055.0815465,
 "1738411388a15cc2": 1794766822.8655136,
+"173b33a4a428b0a0": 1795161024.8439593,
 "173d9168467e6c36": 1794172824.1624086,
 "1743c23a5e30fb17": 1794553252.738333,
 "1751024d5dfd3d86": 1794415827.7010334,
@@ -23592,6 +23644,7 @@
 "2449950f99de157e": 1794090024.092463,
 "244b9c5b307d0cd5": 1795103425.424573,
 "2451d9a9572d64cc": 1794777624.2384558,
+"245979a25d14d0ef": 1795161024.8439593,
 "245de16d9d1d3854": 1794301258.7214239,
 "2468569939fb2a65": 1794828642.7782462,
 "246a96d630d63ba6": 1794380451.074071,
@@ -25578,6 +25631,7 @@
 "3ed0a26b7a3811f5": 1794914426.4172485,
 "3ed3440457e7f06a": 1794985252.4753754,
 "3ed9ec5f0df18fac": 1794639651.002237,
+"3edc971c0d02a960": 1795161024.8439593,
 "3ee1c5e0bb8a54c7": 1794522643.152942,
 "3ee215b4ac4ef8c1": 1794942881.587334,
 "3ee4bb5b06a95a24": 1794380451.074071,
@@ -28129,6 +28183,7 @@
 "61b68f809989b7ba": 1795009226.0205479,
 "61b7a7fccdfc061e": 1794900643.8440216,
 "61ba7155e8c7241b": 1794216642.1444197,
+"61bdabf1d01115e4": 1795161024.8439593,
 "61c50e8d26e9bbcc": 1794915041.7684574,
 "61c6ad0714d66910": 1794504641.9706995,
 "61ce7d707a86f907": 1795120246.4621665,
@@ -29742,6 +29797,7 @@
 "78693c4fefcd8beb": 1794226224.6034505,
 "786b6b1f9eecc4d7": 1794339626.7924395,
 "7876d4ec27e2e6ee": 1794078625.195159,
+"7877056615c965da": 1795161024.8439593,
 "7878a5a7469fa9c6": 1794352223.2402766,
 "787bad21e47a5198": 1794832825.1507735,
 "7882ef13bd315bc2": 1795041623.7036307,
@@ -34296,6 +34352,7 @@
 "b76347569f4dcfc8": 1795039825.6283536,
 "b764afaa5c73561c": 1795038024.384281,
 "b76a0de422d09917": 1794834626.435269,
+"b76af3237169c5be": 1795161024.8439593,
 "b76ec301dac80585": 1794207655.353521,
 "b77464d426ef77a7": 1795101625.6528518,
 "b77517bd9bc8871b": 1794498623.3847704,
@@ -37945,6 +38002,7 @@
 "e798912199084dc9": 1794129624.9673119,
 "e79d6f928ef59255": 1794840636.8185883,
 "e79fd46cd14a1357": 1794856223.5274317,
+"e7a2c3db4f54c89e": 1795161024.8439593,
 "e7a38cc08adfeed8": 1794244826.386174,
 "e7a6abb3d34c121f": 1794207655.353521,
 "e7a73e0e412d80c9": 1795107032.192029,
