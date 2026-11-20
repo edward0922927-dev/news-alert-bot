@@ -542,13 +542,131 @@
 "t": "11-20 09:40"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZjFXSFhBMWQyYXI3NHVqZG9ZX0NnQUgwRDR0UXdFNGdDMHRpT1Bnc3VMSEVHWFZ5Ylk4RVdHWHhpcHRkZU8zdm9FendJVjRzWWU0dFc2bjExalVVbi1UV0RDZ0lEb0xjaE10aGhjVE9qMHAxZDN5dUR3VDVITTB6UVR0M29xRzRTX0JGWHdyajJUbllDMW1qcGszcnA3QktoVEtXaFZfcDN0UG1HdUNCUU0xbTg?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "Australian Stocks Post Worst Week Since 2022 as Miners Tumble &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "Australian Stocks Post Worst Week Since 2022 as Miners Tumble - Bloomberg.com",
+"ts": 1795153740,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0Q0NG1GZUktaG1ySzN4aU9KN2NodjJCN3lNZU83U2g1LTlFYzdyUmd3b2RrZWg3Q0k2ZkxVQXZIcXFidERkMHB3RHR0OGhHcnVFb1gtV2FEdzJ5TXFxS3c4U2lhTXppLWt3SVYxbjVtV0Izc3p2aS10anZxay1YTXJsLXNYcENSd1hwYVNMYUcxS09ydDlxQWMxLTdQUFQzRnBpVTVQMXN4akNIclRPUGR5ay0?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg \u5b8f\u89c0",
+"summary": "What France Can Do to Break Its Budget Deadlock &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "What France Can Do to Break Its Budget Deadlock - Bloomberg.com",
+"ts": 1795155300,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/why-is-ross-stores-stock-sliding-today-93CH-5041017",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Why is Ross Stores stock sliding today?",
+"ts": 1795166692,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/why-is-gap-stock-rallying-today-93CH-5041018",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Why is Gap stock rallying today?",
+"ts": 1795166725,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/why-is-deutsche-bank-stock-declining-today-93CH-5041032",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Why is Deutsche Bank stock declining today?",
+"ts": 1795167447,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4675061-guardforce-ai-to-implement-1-for-40-reverse-share-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Guardforce AI to implement 1-for-40 reverse share split",
+"ts": 1795167471,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/deutsche-bank-shares-fall-32-amid-compliance-crisis-fallout-93CH-5041036",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Deutsche Bank shares fall 3.2% amid compliance crisis fallout",
+"ts": 1795167559,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4675065-rlx-technology-non-gaap-epads-of-003-in-line-revenue-of-2859m-beats-by-2394m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\ud83d\udcc8",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "RLX Technology Non-GAAP EPADS of $0.03 in-line, revenue of $285.9M beats by $23.94M",
+"ts": 1795167893,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "CoinDesk",
+"summary": "",
+"tags": [],
+"title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
+"ts": 1795168132,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-20T07:00"
+"last_date": "2026-11-20T08:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +676,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-20T07:00"
+"last_date": "2026-11-20T08:00"
 },
 "FNG": {
 "cool": {
@@ -582,11 +700,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-20T07:00"
+"last_date": "2026-11-20T08:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-20T07:00"
+"last_date": "2026-11-20T08:00"
 },
 "UST10Y": {
 "cool": {
@@ -615,9 +733,9 @@
 },
 "last_date": "2026-11-19"
 },
-"_last_check": 1795164636.2686718
+"_last_check": 1795168242.0846875
 },
-"last_run": 1795167654.3263133,
+"last_run": 1795168264.0784366,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -774,6 +892,7 @@
 "0183e33c0ecbb5c8": 1794438621.879703,
 "01852c717077ffdb": 1794555041.917416,
 "01873232f2f3addf": 1794813634.065804,
+"018a5d0257eff1fd": 1795168232.0968616,
 "01907b13734dbe82": 1795005042.7333517,
 "0194d607402092bb": 1794502224.8850534,
 "019ea16bf6277d80": 1794933625.5760596,
@@ -1113,6 +1232,7 @@
 "0669c66fc32696b7": 1794921641.788313,
 "066c945792985c6b": 1795023042.8947868,
 "0670c7f9a05f8a16": 1794588625.1002343,
+"067d83a9bc837d22": 1795168232.0968616,
 "0680fa7d7dd09126": 1794413426.5364234,
 "06838ed3215e106f": 1795159223.9439034,
 "068ccfd66883efc2": 1795099239.6035929,
@@ -1596,6 +1716,7 @@
 "0c9c03cd3160e30e": 1795096224.5426471,
 "0c9d3eab256ef726": 1795104847.6336546,
 "0ca23739945945db": 1794380451.074071,
+"0ca6df6f1784879f": 1795168232.0968616,
 "0ca73d2db248cbc5": 1794561624.144115,
 "0ca8c57385acc761": 1794380451.074071,
 "0ca93af21ea5c68a": 1794384051.3623385,
@@ -4373,6 +4494,7 @@
 "2e53129007d93bd4": 1795113637.7196538,
 "2e56fefab6868d24": 1794925844.5959115,
 "2e5818b76efa1337": 1794848455.616578,
+"2e5a920a398d361f": 1795168232.0968616,
 "2e61edeff0f281d6": 1794929444.6381776,
 "2e62443db908b567": 1794553252.738333,
 "2e6440a8c204973d": 1794250228.0065682,
@@ -4464,6 +4586,7 @@
 "2f82894db7c6d5da": 1794311424.003163,
 "2f8545366553115f": 1794987042.2980814,
 "2f87f0bb0c9a0d2a": 1794216024.5700488,
+"2f95592c5f25ffc9": 1795168232.0968616,
 "2f96773f538c33b2": 1794736860.6169236,
 "2f9893e234724728": 1795099239.6035929,
 "2f98f571c9f17d6e": 1794911445.7081077,
@@ -4567,6 +4690,7 @@
 "30bc1beb3f61017b": 1794468024.138138,
 "30be4e5d55796c06": 1795032054.2465568,
 "30beb36f4ab6714f": 1794140423.8128505,
+"30c135492557c1af": 1795168232.0968616,
 "30c1fd84a752f5ba": 1794298226.443851,
 "30c28c76a6524e56": 1794053146.8970654,
 "30d0de412e8e1664": 1794812457.8102336,
@@ -12821,6 +12945,7 @@
 "992d8eb79cd7cd18": 1794210624.6922936,
 "992dcc1710bb01e0": 1794586827.1055727,
 "992de0d32378fbf7": 1794263443.2975552,
+"99321994e8054ef7": 1795168232.0968616,
 "9932cca019c7d91b": 1794207655.353521,
 "9939d91a12fa4a31": 1794949905.0488856,
 "993dc71e96e89d20": 1794440422.6466875,
@@ -13987,6 +14112,7 @@
 "a81fa5303f717035": 1795031428.3236907,
 "a824235107af9b31": 1794687025.0344095,
 "a827eb728858c1f8": 1794241225.0884333,
+"a82810d066c49571": 1795168232.0968616,
 "a84c69a13aa01994": 1794053146.8970654,
 "a84ea8b483805e5e": 1795110626.6560023,
 "a854b64ca4986897": 1794553252.738333,
@@ -15631,6 +15757,7 @@
 "bc438eca75267601": 1794900033.2937236,
 "bc4c1badc29a3854": 1794409250.9206789,
 "bc4d2006ff9db8ef": 1794486023.9169981,
+"bc4d51672897c21b": 1795168232.0968616,
 "bc52ae191242ac2e": 1794385221.6704128,
 "bc547421b7296d65": 1794252642.0442708,
 "bc5c7a7f91a3c7d2": 1794589828.9299436,
@@ -17733,6 +17860,7 @@
 "d55869c54901b708": 1794259224.3903115,
 "d55b3545b7056dd1": 1794576029.428241,
 "d5619bdd6d7edcfa": 1794380451.074071,
+"d5631fda78a7898a": 1795168232.0968616,
 "d56579329f157dd9": 1794812457.8102336,
 "d56b28f7c1ed1cf9": 1794207655.353521,
 "d56c69f66d783e7b": 1794901225.4603486,
@@ -18825,6 +18953,7 @@
 "e2dedc68f127661f": 1794090024.092463,
 "e2e04aaaaa0ddba8": 1795096224.5426471,
 "e2e5a6fb3b58c1bb": 1794504641.9706995,
+"e2eca1ccf67cee76": 1795168232.0968616,
 "e2f39af54eb6aa5e": 1794812457.8102336,
 "e2fd146c28899d43": 1794857444.4482071,
 "e2fd810d53252c89": 1794431426.5168767,
@@ -19241,6 +19370,7 @@
 "e870bce2a710350b": 1794495024.9189398,
 "e876db07c777da5b": 1794487822.3175094,
 "e87c2762c79b9dc1": 1794176424.6910276,
+"e88901e5d5d2e316": 1795168232.0968616,
 "e8910b307a45893b": 1794129624.9673119,
 "e891118bcdbdce3e": 1794553252.738333,
 "e891dc745d6304c5": 1795092626.6994026,
@@ -22596,6 +22726,7 @@
 "13cc8d6412e86e61": 1794380451.074071,
 "13d53d21c70ccff3": 1794486023.9169981,
 "13d7e1006484b2fb": 1794225025.2256005,
+"13d893b5341b77bb": 1795168232.0968616,
 "13da8c34abe481e3": 1794553252.738333,
 "13db293bac146218": 1794488450.726929,
 "13db53030c9015d8": 1795011628.9120867,
@@ -24181,6 +24312,7 @@
 "299e2b4fa6c3bd15": 1794489036.1626346,
 "29a18fd1f22e2623": 1794227444.8368437,
 "29a30d8b78ea91a9": 1794344455.684342,
+"29a539e56604f69f": 1795168232.0968616,
 "29a720bf98f15080": 1794151225.6597934,
 "29a9027dcfc94651": 1794853231.40962,
 "29a92f6f1e3ac208": 1794985252.4753754,
@@ -28439,6 +28571,7 @@
 "62abe3f8d4c40fee": 1794941436.9141734,
 "62b4260ba5f8d8f3": 1795073423.1091006,
 "62b4b2d4436d545b": 1794468641.438573,
+"62bb98163b7379ac": 1795168232.0968616,
 "62c90b938b719d35": 1794985252.4753754,
 "62d2b7f96c928fb4": 1794321626.205444,
 "62d38ad448f0ec39": 1795074025.2757008,
@@ -31087,6 +31220,7 @@
 "8831dae892238bf3": 1794650448.3692777,
 "88396685cc364c39": 1794223842.150146,
 "883e03705f8e69bf": 1794523824.2808256,
+"883fe45d98a809e3": 1795168232.0968616,
 "8845aa18b8e71546": 1795165824.4402552,
 "8849cf6ead72fe13": 1794945657.6829984,
 "884d73c97d282af4": 1795036825.3187943,
@@ -31554,6 +31688,7 @@
 "8eaf409215983371": 1794668452.1981072,
 "8eb09223e72b2e1e": 1794090024.092463,
 "8eb0a709aae71830": 1794520849.7436028,
+"8eb20970014dd53e": 1795168232.0968616,
 "8eb6d7799e78e031": 1794945657.6829984,
 "8ebffe599d1a6612": 1794380451.074071,
 "8ec29014bb2991bf": 1794860426.1956923,
@@ -31813,6 +31948,7 @@
 "91fd17681187a5df": 1794759035.471768,
 "9200f7d012496580": 1794766822.8655136,
 "920404846ec6f6c0": 1795119627.7798326,
+"9205074241c7fe9b": 1795168232.0968616,
 "92071a69f041ac22": 1794329428.1954625,
 "920e2f68c94afe17": 1794261654.088547,
 "921a0a3e177b896e": 1795091448.8885486,
@@ -33122,6 +33258,7 @@
 "a3ea2b6c33a628c3": 1795117225.4014702,
 "a3eaab1e6a9d514e": 1794493226.1332557,
 "a3eb39de3ff45bb0": 1794307223.432283,
+"a3ed2f0d62f652ef": 1795168232.0968616,
 "a3ef55c6ec8cb257": 1795158052.8119109,
 "a3ef57f581274551": 1795107657.157931,
 "a3f0722b3c686940": 1795071657.072108,
@@ -33608,6 +33745,7 @@
 "aa18208d3c8ee3ec": 1794664849.8725064,
 "aa1a99929688e752": 1794058663.5416367,
 "aa1ecfc8a2de39a6": 1794941436.9141734,
+"aa204b9221eb618d": 1795168232.0968616,
 "aa24934649144d11": 1794176424.6910276,
 "aa25de1514e75ac8": 1794812457.8102336,
 "aa2863da3cd77a00": 1795159223.9439034,
@@ -38386,6 +38524,7 @@
 "e91a882498f6e92b": 1794501042.7863798,
 "e91f729663235d8a": 1794473421.2667904,
 "e9215778d1cc7e39": 1794466847.0948906,
+"e926731af3fccbae": 1795168232.0968616,
 "e92bc5e2ac35ec54": 1794990024.1693873,
 "e92c2bce7a9dbc5a": 1794294057.2981856,
 "e933cc29b8a373bb": 1794865225.5430987,
@@ -39316,6 +39455,7 @@
 "f5a427fbb247f51f": 1794397224.4272263,
 "f5a62e5bfa96f77f": 1795096224.5426471,
 "f5acab234d43c529": 1794858625.342549,
+"f5af04d722c98124": 1795168232.0968616,
 "f5af8eee726a081d": 1794294057.2981856,
 "f5b11fa628d0d114": 1794381624.5089903,
 "f5b1cd617c7df150": 1794726050.5794117,
