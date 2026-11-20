@@ -542,13 +542,131 @@
 "t": "11-20 13:42"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlI0dGVodzVRdEFEcXRpUkRnS0tadkFkT1VwLTNPTFRtR2hUMHVrWUIycVZSSzJHb2IwRXVrMmdBRDZ1M2pnanIxZldKTjV6dkgtdmQ3NGRVczhoVUw4N3BKSVZ6TVRhdmthbFhKak1fNVpzV3dPOUlqYmQyVlVOanpHUFhBRG5KRUNqaU41Vlhmcms1NFczQ0lhSWxVQ3V1VzBVd3dNdjlLVjlqb0Q5UXVqcWQ?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u57fa\u5efa",
+"summary": "GTA6 Success Is Testament to the Power of Teams Sticking Together &nbsp;&nbsp; Bloomberg.com",
+"tags": [],
+"title": "GTA6 Success Is Testament to the Power of Teams Sticking Together - Bloomberg.com",
+"ts": 1795176121,
+"unmatched": false
+},
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG9yeTU0MG01cm1TS2ZBUUFldGw2V3c3alNleVZRcUJZc0dRWmpXN3FUeVZ2TlhFLWFDM250VWswdDlpczhkVXFFbjF5VlZtVkU1NTdoOFBac1VqWk5qZ0xGNXp2YWdMQnp1cWFpQlZUY3paZ3JiZXFWcW96OTdIU0NR?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "AI \u57fa\u5efa",
+"summary": "Global equity funds attract inflows for a ninth straight week &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Global equity funds attract inflows for a ninth straight week - Reuters",
+"ts": 1795178623,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFRZLXRpZ3l4cURJRTFHakoybEV5aVV6MmZMZWt5aGNxazc3MlRrZklsWGlyOE9HcFBVWXdIWGEzRmNXVjZjcDlPTjdPRnN6d2JnNWtPem45bGZxM3I3N3VhWkZZMXp1Y3VDMzFMUTVncGJYOEFKRTY1Y19ZNHpZeWhxUjMxczEtZE82cVRWaERoZmwwUkdXNWFqNjlpVUZ4azg5V191T3E2Nm9VanZwYU1uOS1sakNSUFVwaXBUaTFJclI5bXc?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Anthropic IPO haul rises to $93.5 billion after underwriters exercise greenshoe &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Anthropic IPO haul rises to $93.5 billion after underwriters exercise greenshoe - Reuters",
+"ts": 1795179213,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXY4NFVCUWN4dXYxTGRtTkl6TlBsZHhURllXWDNCam5UT2xVMHduTWdVTDNlWnNNdDI4Y2N6SzFfZFZVdHV0cGpOcFE3SWhuQVVjX3JERTZRc09ESFIxVFZRTHNrR3RVWFRsQlZuT0NJX0VDTnlRdU9lWFExMm5KeWcxa3haa2dsam84d2VYOF94WDkyYVVuaVotUFdTNzFCU2dwZWRUcElRUQ?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters \u5b8f\u89c0",
+"summary": "SocGen sees S&amp;P 500 ending 2027 at 8,500 on AI, earnings support &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "SocGen sees S&P 500 ending 2027 at 8,500 on AI, earnings support - Reuters",
+"ts": 1795181911,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4675148-consumer-staples-companies-with-the-highest-eps-surprises?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Consumer staples companies with the highest EPS surprises",
+"ts": 1795182065,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4675155-ft-confluence-bdc-and-specialty-finance-income-etf-declares-0_14-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "FT Confluence BDC & Specialty Finance Income ETF declares $0.14 dividend",
+"ts": 1795182174,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4675144-td-cowen-backs-unitedhealth-humana-with-buy-upgrades-shares-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "TD Cowen backs UnitedHealth & Humana with buy upgrades, shares rise",
+"ts": 1795182244,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://seekingalpha.com/news/4675145-anthropics-aggregate-gross-proceeds-reach-93_5b-from-landmark-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "SA \u5feb\u8a0a",
+"summary": "",
+"tags": [],
+"title": "Anthropic's aggregate gross proceeds reach $93.5B from landmark IPO",
+"ts": 1795182500,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://thedefiant.io/frontier/ai/anthropic-nears-ipo-price-after-27-fall-from-high",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "The Defiant",
+"summary": "ANT traded at $83.81 before the open on Nov. 20, down 13.75% from its first-day close and barely above its $83 offering price.",
+"tags": [],
+"title": "Anthropic Nears IPO Price After 27% Fall From High",
+"ts": 1795182569,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-20T10:00"
+"last_date": "2026-11-20T12:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -558,7 +676,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-20T10:00"
+"last_date": "2026-11-20T12:00"
 },
 "FNG": {
 "cool": {
@@ -582,11 +700,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-20T10:00"
+"last_date": "2026-11-20T12:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-20T10:00"
+"last_date": "2026-11-20T12:00"
 },
 "UST10Y": {
 "cool": {
@@ -615,9 +733,9 @@
 },
 "last_date": "2026-11-19"
 },
-"_last_check": 0
+"_last_check": 1795182646.300642
 },
-"last_run": 1795182134.0813882,
+"last_run": 1795182668.8625882,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1598,6 +1716,7 @@
 "0c62a49bf10d5a43": 1794471624.4228327,
 "0c64ec3e1bc49138": 1794345622.3845239,
 "0c6cca0e81500661": 1795165253.618001,
+"0c6f88c5f52fb012": 1795182634.3003929,
 "0c6fefe76bdbbaf5": 1794898855.1759124,
 "0c70135afebcaa1b": 1795000755.6748123,
 "0c716c4ceec1d7d2": 1794606637.7515986,
@@ -1842,6 +1961,7 @@
 "0f61a2e18c4b7749": 1794466847.0948906,
 "0f64e9924c6c8bf3": 1794559823.6296525,
 "0f6c734d10aa30ee": 1794380451.074071,
+"0f6ff667eb32ffcb": 1795182634.3003929,
 "0f723eb6e710d195": 1794812457.8102336,
 "0f73d912f20fe88c": 1794426622.2772443,
 "0f785bbed59808f1": 1794243659.0740352,
@@ -2886,6 +3006,7 @@
 "1bf4a31f977375f0": 1794380451.074071,
 "1bf4f3e0df408d81": 1794849634.504655,
 "1bf625cd0a370f07": 1794996629.057507,
+"1bf846ad2a7b9097": 1795182634.3003929,
 "1bfb973d9435b90c": 1794949905.0488856,
 "1c0300c5974c8975": 1795110626.6560023,
 "1c09e39d8c8aeeea": 1794488450.726929,
@@ -5502,6 +5623,7 @@
 "3b22b6356bf163ed": 1794180024.180841,
 "3b296b496c55bcf7": 1794985252.4753754,
 "3b2ba9b55ac6174d": 1794216024.5700488,
+"3b33ed20362196bb": 1795182634.3003929,
 "3b34ffa227e9fc2d": 1794433226.3689482,
 "3b35c4bf4c60c184": 1795121428.379849,
 "3b37aa7b80c948ae": 1794298226.443851,
@@ -6893,6 +7015,7 @@
 "4c26580e4440bdb4": 1794512437.91084,
 "4c27f8a208969acc": 1794988853.42858,
 "4c2cfab68fdc8316": 1794422424.8166234,
+"4c32291429ee55fc": 1795182634.3003929,
 "4c3702f5bf34b002": 1794222054.6299663,
 "4c3af4d56d56aef6": 1794851423.403938,
 "4c3b8928ec9523da": 1795096852.1642742,
@@ -7276,6 +7399,7 @@
 "50b418416f4134a7": 1794129624.9673119,
 "50b5ec8b030bda58": 1794466847.0948906,
 "50b6829961d770c7": 1794774024.7173462,
+"50ba49cf8e668ace": 1795182634.3003929,
 "50be9860bc49301e": 1794812457.8102336,
 "50c9aeb04e96f32f": 1794349221.7950053,
 "50cb9826175ab264": 1794342025.2153375,
@@ -7361,6 +7485,7 @@
 "51d5a258a41cc91a": 1794220827.8644307,
 "51d6285a91200629": 1794825041.4304469,
 "51d65bfc8677ddb6": 1794207655.353521,
+"51d75e5ebe86ca16": 1795182634.3003929,
 "51d82d6c06ef061b": 1794925225.416021,
 "51d91a9bb284fa88": 1795041049.6610858,
 "51da15cd8abc221a": 1794584426.2584767,
@@ -11288,6 +11413,7 @@
 "8350d62f5a4f5544": 1794495654.5774844,
 "8359f0dcaa2815e1": 1794247257.3744018,
 "835a8e8358103bd6": 1794478222.0113163,
+"835bff6dee68d6a1": 1795182634.3003929,
 "835e88722ef2d792": 1794340225.1290472,
 "8362cfcdd34a3110": 1794832825.1507735,
 "8368c44f4738709e": 1794945033.7249732,
@@ -11693,6 +11819,7 @@
 "885bad0681d9e008": 1795127441.015189,
 "885bb8b7f323f0d1": 1794932430.6081858,
 "885e95383b5994ea": 1795131042.4367738,
+"8860317d7eb8ff6a": 1795182634.3003929,
 "886132128955a76c": 1795036825.3187943,
 "8863dd93bea15246": 1794597026.5485523,
 "8866942fdb81b347": 1794252642.0442708,
@@ -16931,6 +17058,7 @@
 "c7e01b3457c79e16": 1794246025.5884385,
 "c7e32b00be18e05c": 1794850826.4347599,
 "c7e4f88f98caf321": 1794931258.5398288,
+"c7e66a3158a81b6e": 1795182634.3003929,
 "c7e8d8d51e69ed00": 1795158052.8119109,
 "c7e9b7b7dddba96b": 1794946228.4226394,
 "c7eeaaa8eb84e13e": 1794600624.6036332,
@@ -19831,6 +19959,7 @@
 "eba3dc02a183f8c4": 1794990024.1693873,
 "eba783e2b3fc7e63": 1794553252.738333,
 "eba7f05ee36d023a": 1794988233.2019053,
+"ebb0c201f7e8edfe": 1795182634.3003929,
 "ebb2b1d03f22e6fe": 1794323425.210853,
 "ebb66718ca24e331": 1794473421.2667904,
 "ebb8177a0993361d": 1794851423.403938,
@@ -20041,6 +20170,7 @@
 "ee3bd6fcf3ea1068": 1795079425.2441561,
 "ee3c2d3ecb243341": 1794487822.3175094,
 "ee43950fe7ff00d6": 1794436236.6229744,
+"ee43b320f98e898d": 1795182634.3003929,
 "ee4bb86c397e24b0": 1794388822.6516917,
 "ee4c41c617804d1e": 1794058663.5416367,
 "ee4cd5dd36b1afa0": 1794812457.8102336,
@@ -21277,6 +21407,7 @@
 "fd2a99c778a556f0": 1794430653.1918259,
 "fd2dd66fce70304d": 1795158052.8119109,
 "fd303b86d187055c": 1795113043.7219627,
+"fd37cd9cb02f8b40": 1795182634.3003929,
 "fd38b5b6060be737": 1795132233.8140883,
 "fd3bb857fa766e12": 1795083623.9712727,
 "fd3ef354093a4b34": 1794516025.4582257,
@@ -26492,6 +26623,7 @@
 "41d0c538d5d0dea6": 1794523223.4129152,
 "41d8000043843239": 1795084241.8486466,
 "41e63c4c8154b5dd": 1794234029.8370936,
+"41e9c74971413de6": 1795182634.3003929,
 "41ef0ef332719ae4": 1794210025.2421503,
 "41f68f0c2c19f0a5": 1794207655.353521,
 "41fe49fd1724aa41": 1794759035.471768,
@@ -29263,6 +29395,7 @@
 "6708fbcf7a86594e": 1794914426.4172485,
 "67123798250135c9": 1794953424.1165793,
 "671421ba2ac2f25e": 1794303041.7631679,
+"6714af54ae8f122c": 1795182634.3003929,
 "6715a3a4dec9f5a3": 1795111253.2671387,
 "67191f04d5d4a2ee": 1794426025.3083632,
 "6719ff341004a8b5": 1794933625.5760596,
@@ -30363,6 +30496,7 @@
 "75deb7a90459b29b": 1794399624.5316026,
 "75e35c8cc9218d1d": 1794067878.5266922,
 "75e87925e636891a": 1795071657.072108,
+"75eb550e783edd8d": 1795182634.3003929,
 "75ed9e462cfdc223": 1794953424.1165793,
 "75f45e3340c56c7a": 1794690623.5489624,
 "75f53d38c0e16289": 1795091448.8885486,
@@ -31581,6 +31715,7 @@
 "87010b9b5e58ff81": 1794812457.8102336,
 "8701c6b68af938ce": 1795039825.6283536,
 "87096cbd1c5fc4f6": 1794076826.2653458,
+"870b9e324b61bf12": 1795182634.3003929,
 "870d888bf815f5c5": 1795113637.7196538,
 "870df1ab15e36796": 1795158052.8119109,
 "870e4884871cad49": 1794343223.611575,
@@ -33088,6 +33223,7 @@
 "9aeaeeef26ae00f2": 1794729650.1855493,
 "9af05b0e8717e0e7": 1794211829.3207283,
 "9af4698cfcb37d43": 1794898855.1759124,
+"9af4ed120bc3f107": 1795182634.3003929,
 "9af618c986c845f7": 1794211829.3207283,
 "9afa8bb3381becc7": 1795159223.9439034,
 "9affea7c0aed1120": 1794579024.9057784,
@@ -33251,6 +33387,7 @@
 "9d1d2579ccb38d25": 1794564053.8815415,
 "9d1dbcdf171c8ccc": 1795180832.7807841,
 "9d1fd384345d9d7c": 1794158423.5148294,
+"9d20273f68f9d309": 1795182634.3003929,
 "9d25d8f5762d3a86": 1794140423.8128505,
 "9d27ee3a78378610": 1794053146.8970654,
 "9d2cd750e10f9bdc": 1794231625.7466462,
@@ -38246,6 +38383,7 @@
 "ddb5426348f5dccd": 1794994824.4493225,
 "ddbb2b885bf0eeca": 1794439835.9165068,
 "ddbd953494362038": 1794090024.092463,
+"ddbfc3138ce58207": 1795182634.3003929,
 "ddbfe30f5748c1cf": 1794318026.068809,
 "ddc7f3a08d4ec819": 1794942881.587334,
 "ddd54b8ff36f4b2e": 1794129624.9673119,
@@ -38387,6 +38525,7 @@
 "df6d7f748de39114": 1794844853.2735066,
 "df6d85f1468e304b": 1794466847.0948906,
 "df76478fc46b1bcd": 1795012825.724214,
+"df7d6580b56601ac": 1795182634.3003929,
 "df8077206c1656c2": 1794507627.84046,
 "df80b8fe828611eb": 1794313222.9578052,
 "df870d5040e1551b": 1794834626.435269,
@@ -38616,6 +38755,7 @@
 "e2906dd6780a1b9f": 1794129624.9673119,
 "e29723bcbd640a74": 1794380451.074071,
 "e29922aab20c2306": 1794991826.9316912,
+"e29e18823d0941bd": 1795182634.3003929,
 "e29eb09077bf4a6c": 1794923427.6688526,
 "e2a96a9253faf903": 1795086624.8128257,
 "e2aca92c44744ce1": 1794063069.3473625,
@@ -39654,6 +39794,7 @@
 "f0c186fdc342692c": 1795158052.8119109,
 "f0c2e3ddfc155b78": 1795021825.045495,
 "f0ce0f883410fb65": 1794751824.973813,
+"f0ce9667d3cda526": 1795182634.3003929,
 "f0d203f59c550865": 1794214856.1278765,
 "f0d223f988708bfb": 1794058663.5416367,
 "f0d326359d2bfb30": 1794294057.2981856,
@@ -40138,6 +40279,7 @@
 "f6ce748bba048dd3": 1794129624.9673119,
 "f6d013a4ace0dd02": 1795039189.7800527,
 "f6d12beaa635edcc": 1794129624.9673119,
+"f6d1b3d71689524d": 1795182634.3003929,
 "f6d27b7ccecbc9ae": 1794951624.2213807,
 "f6de3e004f885a5e": 1795000224.6231546,
 "f6df99e3b5e2c713": 1794208823.7725184,
