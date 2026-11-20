@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795171244.0938528,
+"ai_last_review": 1795172542.7400408,
 "ai_log": [
-{
-"err": "",
-"kept": 1,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 9,
-"ok": true,
-"t": "11-19 07:21"
-},
 {
 "err": "",
 "kept": 2,
@@ -540,243 +531,24 @@
 "n": 17,
 "ok": true,
 "t": "11-20 10:40"
+},
+{
+"err": "",
+"kept": 5,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 20,
+"ok": true,
+"t": "11-20 11:02"
 }
 ],
-"ai_queue": [
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zV0llcDB0ZEdKczNWVUc4TGxPSVVxVkxmWW9FS0loSjdSOVZZc3BBaVM4ZjhUZ2p3TzJJdFk1SGVjWUpaZ2l2MVJPd2V2bVkxbWFheEk4X3dGSnQydDRHS1ZMeHBsREVXdGdV?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters \u5b8f\u89c0",
-"summary": "AWLNF.PK &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "AWLNF.PK - Reuters",
-"ts": 1795150400,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSVlPdzVMNENSSDIwVW5mMmlNZkwwXzlHVVhqWll6bjkzS0RYM2M2TWo0STdENjF5QmF6T2VIaWdnZ240YU1HYUhfT3pQbkk2ZldKdXFucFphRW00dHl3dmE1NnRQNXZkV0VOVXBHSFlwd2NBNlc5dWtPVkRIRjhDTVB2MFozZw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters \u5b8f\u89c0",
-"summary": "SNXP.WA &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "SNXP.WA - Reuters",
-"ts": 1795152429,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdERQSHBUWVRvbktIZEo4ZDFTS2FKNzZjRUwzamQ5VjkwUE9RQl9KSkoxdmJ2QmNnT2tzNkdKc2dYNjNNQ2Q3RVNERlB3X1NOa3FUTU5XdmNocGtRdWdSSzIyelZhd3Mwc0JEd0t6dXhicEd4TVRPclNPcy1TTkQwcFE5OVV1WFBrUmNEcWFRenA0TGJYMDh2OWMtaV9PZmd1LXJWa0hUMWU1bE5JSjcwTw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Trump's personalized diplomacy hits its limits with 3-way summit &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Trump's personalized diplomacy hits its limits with 3-way summit - Reuters",
-"ts": 1795154580,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0JQZlN6SGkwam1OZkRINnJITDdYX25FenEyTmlOYWFtRy0yRXE0Uk5LcWs3ZldQMGo1ZXlrbXd2elJjM19pOEg0cW1lVVZXdU5VS19vd3pOQWFkTXNoSmFvRTRqUFBBbVE2TWZKRC1qUTF0VUdmdUU1OFhZMXlZZTNmZXN5a1FQU0IwUUw1ZTVOSk9MeENkQ3UyVlpMUmRydFdEWHZCLVVuSjN6dENGSDNiOENWdDNONkVyQkR4ZmxpLUV5SmoyOVMtWQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "Magnitude 5.1 earthquake strikes near California's Monterey County, USGS says &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Magnitude 5.1 earthquake strikes near California's Monterey County, USGS says - Reuters",
-"ts": 1795158420,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2NCeURnMlNOTWoyc0lXdTQ4dFM4aUNNTVVDaVI5TEFQY0ZCU3hXcEVIalBnRGFLOS1qM195dG9qTlB5R2pXcG93eVFuVElWTnpJbW4wbUxicUl1aWxITjRYeTZHZVFtc09ha0JiX0J3NDlFa0w5bmZtNXozSGtDd2lMVGRIeWFXb0M0dUJTWktGUjdKWGRUeUsxOGdQUVF1SFdSYVdneHVITVFkNC1wci1wUQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters",
-"summary": "ECB to make euro swaps more accessible in global push, Lagarde says &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "ECB to make euro swaps more accessible in global push, Lagarde says - Reuters",
-"ts": 1795166376,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-112-5041131",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "India stocks higher at close of trade; Nifty 50 up 1.12%",
-"ts": 1795170606,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/premarket-movers-anthropic-slides-after-debut-intuit-tumbles-on-mailchimp-sale-5041130",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Premarket movers: Anthropic slides after debut, Intuit tumbles on Mailchimp sale",
-"ts": 1795170636,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Wall St futures slip as Anthropic debut fails to reassure AI investors &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "Wall St futures slip as Anthropic debut fails to reassure AI investors - Reuters",
-"ts": 1795171064,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675067-gold-slide-deepens-as-market-anxiety-overtakes-real-rate-pressures?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Gold slide deepens as market anxiety overtakes real-rate pressures",
-"ts": 1795171191,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-legrand-stock-sliding-today-93CH-5041156",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Legrand stock sliding today?",
-"ts": 1795171226,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675062-am-need-to-know-alibaba-faces-megaspeed-lawsuit-nvidia-eyes-ai-acquisition-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "AM Need to Know: Alibaba faces Megaspeed lawsuit, Nvidia eyes AI acquisition & more",
-"ts": 1795171229,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/why-is-schneider-electric-stock-sliding-today-93CH-5041157",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Why is Schneider Electric stock sliding today?",
-"ts": 1795171240,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4675055-us-lawmakers-near-deal-to-ban-chinese-cars-with-potential-exemption-for-mercedes-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "US lawmakers near deal to ban Chinese cars, with potential exemption for Mercedes: report",
-"ts": 1795171266,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/wall-streets-fear-gauge-touches-sevenmonth-high-as-ai-worries-mount-5041172",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Wall Street\u2019s fear gauge touches seven-month high as AI worries mount",
-"ts": 1795171409,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://thedefiant.io/news/regulation/kalshi-says-proposed-new-york-order-could-shut-exchange",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "The Defiant",
-"summary": "New York\u2019s gambling-enforcement case has returned to state court. Kalshi argues the proposed restrictions would reach customers nationwide because it operates from New York.",
-"tags": [],
-"title": "Kalshi Says Proposed New York Order Could Shut Exchange",
-"ts": 1795171543,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/symbol/NVDA/news?source=feed_symbol_NVDA",
-"sent": "\ud83d\udcc9",
-"skip_ai": false,
-"source": "SA NVDA",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "Democrats seek records on Nvidia sway in Megaspeed probe",
-"ts": 1795171634,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "CoinDesk",
-"summary": "",
-"tags": [
-"COIN"
-],
-"title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-"ts": 1795171684,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-20T08:00"
+"last_date": "2026-11-20T10:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -786,7 +558,7 @@
 "low": "2026-11-12T13:00",
 "pct1-": "2026-11-08T21:00"
 },
-"last_date": "2026-11-20T08:00"
+"last_date": "2026-11-20T10:00"
 },
 "FNG": {
 "cool": {
@@ -810,11 +582,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-20T08:00"
+"last_date": "2026-11-20T10:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-20T08:00"
+"last_date": "2026-11-20T10:00"
 },
 "UST10Y": {
 "cool": {
@@ -843,9 +615,9 @@
 },
 "last_date": "2026-11-19"
 },
-"_last_check": 0
+"_last_check": 1795172465.7882092
 },
-"last_run": 1795171924.8873568,
+"last_run": 1795172553.9246917,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -2506,6 +2278,7 @@
 "151d851389176252": 1794639651.002237,
 "152274c79869eaf2": 1794766822.8655136,
 "15255ab51f1c0c15": 1794300023.3124595,
+"15265ee99109e44b": 1795172457.7657194,
 "15296a9231dc23f1": 1794639651.002237,
 "1529b8d5922e2da9": 1794294057.2981856,
 "15314b85a7207107": 1794898855.1759124,
@@ -3514,6 +3287,7 @@
 "21536b340ba0cd20": 1794388822.6516917,
 "21588672ec885f68": 1794553252.738333,
 "215af0bda36d9abd": 1794211829.3207283,
+"215d1f791e68db4d": 1795172457.7657194,
 "2162655cb8149332": 1795019447.141901,
 "21627dec4cece1e4": 1795171841.2384393,
 "21636525dc7ef09d": 1794726050.5794117,
@@ -6349,6 +6123,7 @@
 "434dea3091148b71": 1794597626.0547297,
 "434eea5dbe6fc807": 1794570626.8175335,
 "4350149f5b936392": 1794726050.5794117,
+"4352e667f6a4003b": 1795172457.7657194,
 "4353405465af67cc": 1794553252.738333,
 "435478a42b3bcd91": 1794063069.3473625,
 "43560e96ed232fb8": 1795071657.072108,
@@ -11118,6 +10893,7 @@
 "7ff2497d72d8fe11": 1794435021.8575943,
 "7ff4e497de6a4adf": 1794589828.9299436,
 "7ff6e1957236fcc8": 1794604830.1292682,
+"7ff7c5e830bdda34": 1795172457.7657194,
 "7ff7f81fb022ca04": 1794639651.002237,
 "7ffa9922ce2d391f": 1795071657.072108,
 "7ffaba07a052dfcf": 1794493226.1332557,
@@ -12178,6 +11954,7 @@
 "8ce6e875a8f20d25": 1794090024.092463,
 "8ce868e29de53438": 1794330055.137018,
 "8ceb084dc744b153": 1794335440.520374,
+"8cee5b55a842cf5a": 1795172457.7657194,
 "8cf74844a77ae658": 1794381624.5089903,
 "8cfed09f0115208a": 1795015226.4846294,
 "8d0bcf8aecfa1c9b": 1794986424.3968105,
@@ -12686,6 +12463,7 @@
 "933e8c3dec6a36b5": 1794074452.1558738,
 "9340519f1db22fff": 1795033851.2319648,
 "9342b8822c67e653": 1794553252.738333,
+"93458b8a8fdfe818": 1795172457.7657194,
 "934a6b5fa63429ee": 1794572423.7774122,
 "934f6b50dd9e1c18": 1794303626.3132353,
 "9354c92a8f38c78f": 1794940245.5150964,
@@ -15237,6 +15015,7 @@
 "b34c7689d0f678a5": 1794229254.159377,
 "b34cdec69470fc61": 1794207655.353521,
 "b34fea4615d0a2a4": 1794496825.0216095,
+"b35a93aeeccf5432": 1795172457.7657194,
 "b35b5ddd5d2c94c6": 1794207655.353521,
 "b35c68d4c412090d": 1794121251.8481042,
 "b3614f2c2c1e4c75": 1794263443.2975552,
@@ -15702,6 +15481,7 @@
 "b90c8cb59075eb59": 1794073224.1004374,
 "b90cfb66bcdd75ae": 1794985252.4753754,
 "b90e5c14ae86b50d": 1794639651.002237,
+"b90ea8faacc9ae59": 1795172457.7657194,
 "b90ec93f03348751": 1794570626.8175335,
 "b912aa558e75e0a3": 1794915041.7684574,
 "b913edf05db51cfd": 1794510065.4285805,
@@ -21848,6 +21628,7 @@
 "04de7002a7b6ecfa": 1794759035.471768,
 "04e6ccf870333d00": 1794755433.9717534,
 "04e7710fdf266ef5": 1794058663.5416367,
+"04f226e3b21a4df0": 1795172457.7657194,
 "04f75d0e00c4b569": 1794726050.5794117,
 "04fa19471eecbb6c": 1794834626.435269,
 "04fad73661c85c46": 1794226224.6034505,
@@ -22269,6 +22050,7 @@
 "0a81c93d0811f37c": 1794053146.8970654,
 "0a83d2c3540fd207": 1794405650.4852784,
 "0a866d076f955d9c": 1794496825.0216095,
+"0a8be54206a19fd0": 1795172457.7657194,
 "0a8ef68347b36aad": 1794524453.1112177,
 "0a8efd914000870f": 1794922826.4302015,
 "0a91f01d4c56cb65": 1794302427.8214426,
@@ -27946,6 +27728,7 @@
 "56c4fbb38d8bd6d7": 1795071657.072108,
 "56c70a93f3d02143": 1794058663.5416367,
 "56c8348f1b98bc1b": 1794639651.002237,
+"56ca15491c6044d1": 1795172457.7657194,
 "56d326fb1b1acf78": 1794053146.8970654,
 "56da71311cf9ab59": 1794466847.0948906,
 "56e0a0051d65c449": 1794512437.91084,
@@ -28935,6 +28718,7 @@
 "6436705c454f7ef5": 1794410424.1208882,
 "643794912a0ef5bd": 1794294057.2981856,
 "643a49f51e636899": 1794225025.2256005,
+"643ad59fc68ae403": 1795172457.7657194,
 "64443fddee78aa57": 1794240627.3822312,
 "6449505709ddaa34": 1794849634.504655,
 "64495abe9008f316": 1794500033.245441,
@@ -30241,6 +30025,7 @@
 "763effc283893cd1": 1794812457.8102336,
 "764366e6842b2ce8": 1794067878.5266922,
 "7644793750018a18": 1795160424.8028219,
+"76465217ee3e80e4": 1795172457.7657194,
 "7646f1d389453754": 1794327630.5502307,
 "7649f26b44817608": 1794058663.5416367,
 "764c86b393e71957": 1795158052.8119109,
@@ -31775,6 +31560,7 @@
 "8bcce4253da76e4b": 1794090024.092463,
 "8bcf816731f152a8": 1794140423.8128505,
 "8bdf58427bb9f806": 1794397829.6326773,
+"8bdf7bb116cf4d0f": 1795172457.7657194,
 "8bdfe743336340ed": 1794263443.2975552,
 "8be3f3e0e2577950": 1794383424.7516904,
 "8be786a1fea16578": 1794207655.353521,
@@ -36271,6 +36057,7 @@
 "c6a33541951c1766": 1794380451.074071,
 "c6a455288794c63c": 1795038624.6958375,
 "c6a5445e670f7b4e": 1794608434.8443968,
+"c6a5edf17c3b9860": 1795172457.7657194,
 "c6a6162e2ee837be": 1795017658.4363215,
 "c6aa8eed3d180e3a": 1794129624.9673119,
 "c6af1353b74b1180": 1794991224.6561258,
