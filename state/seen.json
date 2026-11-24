@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795516310.4089527,
+"ai_last_review": 1795517465.7491574,
 "ai_log": [
-{
-"err": "",
-"kept": 44,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 150,
-"ok": true,
-"t": "11-23 07:02"
-},
 {
 "err": "",
 "kept": 1,
@@ -540,122 +531,24 @@
 "n": 16,
 "ok": true,
 "t": "11-24 10:31"
+},
+{
+"err": "",
+"kept": 0,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 9,
+"ok": true,
+"t": "11-24 10:51"
 }
 ],
-"ai_queue": [
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1saWNVNU1FUlplUVhJN3Y4N0gyX1BnNUQ1TjQwOW1oRVBTNDMyN1VmNEJqYjcxajdoZllKaGdNcVZCNjRxR3huRnd6Wlc1MEJQck93ZndQUHd6cTJyajZPVG9jdlpCZ1MwSS1sSzRtYUtETEdKMFhvWmthRzk1Q28?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "NEWSLETTER: Modi talks tough to India Inc &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "NEWSLETTER: Modi talks tough to India Inc - Reuters",
-"ts": 1795498200,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnVEM0Z0aU1CeF9YR3RCbU9Rcl9CT0I2WUlvQ0FtaE8yaTBCNk5PWlhpcnluVF9QVUlSNUZzTDdLVF90OG9sNWNMTXNyZEpHLUVReUxuWlc5aGZXdVRJS2tudk0zdVJDb21TSFlScVZEZWlzTmFmemRhb0FMYjJlVlpzRU12UW8?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Reuters \u5b8f\u89c0",
-"summary": "SWX.TH &nbsp;&nbsp; Reuters",
-"tags": [],
-"title": "SWX.TH - Reuters",
-"ts": 1795498888,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFlzMFE1YnAybnhxbkVOM1I0VERWWXUybENVVVhXc0Vtakwzc0IzVzFzbHRINmZsWXE1TU9QNTk4dHZFXzhpeVJOMlNqekJpSnBaMm1hSzlVc29YU2UyNVBBYkhtaTJXSzJyRTFEQkMyTXdBUU01VU9sT05XM3ZleVZNdTEzQ3gzRU1zdksyWVlsdUs0VWlmZWVrRDBwM192TGlhU2tPa3BiVDEwSXl1b1pn?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Bloomberg",
-"summary": "JPMorgan and HSBC Trade Digital Gold in London for the First Time &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "JPMorgan and HSBC Trade Digital Gold in London for the First Time - Bloomberg.com",
-"ts": 1795507200,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOblpqRHFoR1hadk9iVTR0amhmU2lLR2Q0bnMteFNua3NsYlBXV0ZYUlg3RG9pMFhzNF9yaFY4cUEzS3JydmxqRDJIMmx5cVV0aUQydGNuS0pGR05oTHFDSDkzMV8yU3FmWHVBZDh6TG03VXJoRXdIdURsem9WNlR0Wjc2YmFhMlkzQlZDZ2VnSkJNbUlZMHE5N1hTQml2VG5ITUt6YjRFcUplM19odFE?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
-"summary": "DRW Plans Asset Management Foray With Compute Focus &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "DRW Plans Asset Management Foray With Compute Focus - Bloomberg.com",
-"ts": 1795515046,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [
-"NVDA"
-],
-"title": "U.S. stock futures slip after Nvidia-led Wall Street rally",
-"ts": 1795515468,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/barclays-sees-marketshare-gains-concentrating-among-uk-grocers-5047503",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Barclays sees market-share gains concentrating among UK grocers",
-"ts": 1795515730,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4676037-alta-equipment-to-buy-jackson-group-peterbilt-for-399m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Alta Equipment to buy Jackson Group Peterbilt for ~$399M",
-"ts": 1795516097,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4676025-chinese-automakers-gain-ground-in-europe-as-eu-car-sales-rise-54-ytd?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [],
-"title": "Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD",
-"ts": 1795516236,
-"unmatched": true
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-24T06:00"
+"last_date": "2026-11-24T09:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -666,7 +559,7 @@
 "pct1-": "2026-11-08T21:00",
 "pct24-": "2026-11-20T20:00"
 },
-"last_date": "2026-11-24T06:00"
+"last_date": "2026-11-24T09:00"
 },
 "FNG": {
 "cool": {
@@ -696,11 +589,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-24T06:00"
+"last_date": "2026-11-24T09:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-24T06:00"
+"last_date": "2026-11-24T09:00"
 },
 "UST10Y": {
 "cool": {
@@ -733,9 +626,9 @@
 },
 "last_date": "2026-11-23"
 },
-"_last_check": 0
+"_last_check": 1795517441.889701
 },
-"last_run": 1795516917.6199641,
+"last_run": 1795517465.749163,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -995,7 +888,6 @@
 "02d8a0a723e5743c": 1794466847.0948906,
 "02d942179eef4591": 1794380451.074071,
 "02d9e1b4790c9a07": 1794898855.1759124,
-"02dbbfb2b39c685e": 1794307825.328837,
 "02df489b6c846459": 1794481251.5846794,
 "02e7465cabff02ac": 1794839441.845789,
 "02e804f89fea6165": 1795467652.091851,
@@ -2965,7 +2857,6 @@
 "1a9e7bceccfa6057": 1795103425.424573,
 "1a9fab78c3e23ce7": 1794840636.8185883,
 "1aa58f1e49577f25": 1794607823.8860877,
-"1aa7b57d7ccaeeda": 1794307825.328837,
 "1aaa05019c9b8cb9": 1794315026.6277947,
 "1aae6c6443e13f6d": 1794751824.973813,
 "1ab00d9488c4256d": 1795165824.4402552,
@@ -4024,7 +3915,6 @@
 "26dd917093a7b686": 1794679824.3245559,
 "26deb1ecc93064c2": 1794523824.2808256,
 "26df69f3362ceb19": 1794827425.4141595,
-"26e3217567142b8d": 1794307825.328837,
 "26e42762d103a663": 1794812457.8102336,
 "26ea10c6acdc29ad": 1794487822.3175094,
 "26eb255939e35364": 1794654052.6240277,
@@ -7384,6 +7274,7 @@
 "4eeed1e3dda03059": 1795288830.0626028,
 "4ef243aa58250b19": 1795449029.0228658,
 "4ef6e963f0116f10": 1794405024.213529,
+"4efb400f084dbff9": 1795517432.2343717,
 "4effff1a65d95a3e": 1794573633.2208738,
 "4f02e449cda0383a": 1795077625.7047555,
 "4f03bc385b744b67": 1794910825.2196436,
@@ -8401,7 +8292,6 @@
 "5b1868f8c1a887cf": 1795030825.857825,
 "5b1a87cb20dddeb9": 1795368640.7004595,
 "5b20cd66ea30a506": 1794916854.9105375,
-"5b2195c83c79098e": 1794307825.328837,
 "5b2673a61528526c": 1794496825.0216095,
 "5b2e977592caa1ad": 1794836437.4633808,
 "5b2f322e1cf45194": 1795417253.931719,
@@ -11061,7 +10951,6 @@
 "7b88f08fe2aecea0": 1794380451.074071,
 "7b8b89382a7faf6e": 1795361444.3173711,
 "7b8ed0c44155aed2": 1795196433.1242383,
-"7b92f681b87d642d": 1794307825.328837,
 "7b95935d9d621ec7": 1794937829.209939,
 "7b97204b60de11eb": 1794432640.6076887,
 "7b983ad83a8b07cf": 1794476423.816981,
@@ -13211,7 +13100,6 @@
 "950fdafa503b4392": 1795095635.5499814,
 "95101139ece159bc": 1794844853.2735066,
 "95105e2bae5fb101": 1795504830.6007786,
-"95106149075281ce": 1794307825.328837,
 "9516224b148d73be": 1795303229.7491117,
 "9517074e58b61234": 1794414698.6025398,
 "951770e3f1792ec5": 1795015226.4846294,
@@ -15876,6 +15764,7 @@
 "b5202df074077080": 1794516025.4582257,
 "b52a43e7423fb582": 1795200634.7005014,
 "b52ae7c5227a4c35": 1795244453.4863303,
+"b52b687bed0e8ecb": 1795517432.2343717,
 "b5323487575b1c6b": 1794577823.9210808,
 "b5390a2206b6000e": 1794812457.8102336,
 "b539eff695f214ec": 1795005042.7333517,
@@ -16186,7 +16075,6 @@
 "b8cd88cbeafec4af": 1795000224.6231546,
 "b8cf0713de53d881": 1794650448.3692777,
 "b8cfb287fc94c3ca": 1794922826.4302015,
-"b8d4fe164047c7d8": 1794307825.328837,
 "b8d71e10126652d1": 1795038024.384281,
 "b8d96b42b554852f": 1794726050.5794117,
 "b8ddcb9981d7b25d": 1795296030.3754878,
@@ -21808,7 +21696,6 @@
 "fb816bd749180fda": 1795000755.6748123,
 "fb81d6e812e367c9": 1794502854.2969291,
 "fb863a8457e34b6c": 1794820223.9736097,
-"fb8bb0ab59ace388": 1794307825.328837,
 "fb8c33d92a9580f7": 1794312627.9335868,
 "fb95a6f1afad6c59": 1794853231.40962,
 "fb999d65a9d96b8a": 1794939626.9929001,
@@ -27069,7 +26956,6 @@
 "3feec652bd8125b7": 1795091448.8885486,
 "3ff02acbd9ddfad0": 1795072824.4776285,
 "3ff2f6ff66c03976": 1794440422.6466875,
-"3ff33dca7c5f5bc6": 1794307825.328837,
 "3ff3fa5f97e33153": 1794466847.0948906,
 "3ff99cc72ed10612": 1794403223.1118846,
 "3ffcf12c0aefac5e": 1794494426.657751,
@@ -27720,7 +27606,6 @@
 "4821921fb50b87a5": 1794953424.1165793,
 "482945abb4e2d93e": 1794577228.5573788,
 "482b7210c3f13aa9": 1795117225.4014702,
-"482c884e1d421ead": 1794307825.328837,
 "482d27df85e57031": 1795167045.950594,
 "482ef02a6d7c16a5": 1795180832.7807841,
 "482f22ea60f67216": 1795165824.4402552,
@@ -27996,7 +27881,6 @@
 "4b9e3560887bc878": 1794394851.7678685,
 "4ba0f31f20041252": 1795417253.931719,
 "4ba350c18c7d36c0": 1794471021.9148986,
-"4bb08a974aa5480d": 1794307825.328837,
 "4bb3d1071277d179": 1794697827.267664,
 "4bb7f570a375407e": 1794985252.4753754,
 "4bbd96e4ffebb642": 1795074638.3321574,
@@ -28266,7 +28150,6 @@
 "4f3d77e655e2cace": 1794687025.0344095,
 "4f418a0cceda7df2": 1794342640.7023919,
 "4f45f187b8991992": 1795113043.7219627,
-"4f48aad55e786f7f": 1794307825.328837,
 "4f502fd7fb5e0f1c": 1795452640.6060836,
 "4f51492ad76ed010": 1795206646.9615252,
 "4f58900afa4a5932": 1794336628.7999065,
@@ -29036,7 +28919,6 @@
 "5987c667be86f33f": 1795159223.9439034,
 "598982d117d9d42b": 1795193432.5016456,
 "598c0ad22a241d88": 1794759035.471768,
-"598f8bf7d92eab2d": 1794307825.328837,
 "59923c10e9487fd6": 1795126823.4683802,
 "599410bf727eb79e": 1794848455.616578,
 "5997d48cbfc5b4ef": 1795453830.7496858,
@@ -31382,6 +31264,7 @@
 "7943380f0a3836b6": 1795092626.6994026,
 "794406437e76acd5": 1794687025.0344095,
 "79448ddba8f31806": 1795435253.4146247,
+"794a48dd07b3881e": 1795517432.2343717,
 "794a8e7e5a055943": 1795093826.9410768,
 "794d76861395494e": 1794469221.7331192,
 "794ee7017a74c4e5": 1794396642.0870447,
@@ -34564,6 +34447,7 @@
 "a2d208336ca263cc": 1794573047.278476,
 "a2de945838e42d19": 1795449658.994981,
 "a2e01c657d5f6a4f": 1794818423.9958396,
+"a2e6454010a09d8d": 1795517432.2343717,
 "a2e744843abffb22": 1794514824.538045,
 "a2ec9909b7e9bb3a": 1794380451.074071,
 "a2f081836297a559": 1794483623.074817,
@@ -35118,7 +35002,6 @@
 "a9dc5204ab4ae6a8": 1794927030.8551636,
 "a9dd6e8c235d8cb4": 1794601224.3173718,
 "a9e27279ade0685d": 1795365050.8993125,
-"a9eeb752c20c6eed": 1794307825.328837,
 "a9f3f926178a7be8": 1794380451.074071,
 "a9f94d10a51b1d40": 1794494426.657751,
 "a9fa9961062fc95e": 1795512646.8371634,
@@ -39319,7 +39202,6 @@
 "df65576e4307256e": 1795206037.6246805,
 "df668a55f5c511b1": 1795183842.2914605,
 "df67f15f3b06f1d5": 1795099827.6985195,
-"df6ab197a149cb0e": 1794307825.328837,
 "df6b19ef58338b1b": 1794486640.0102599,
 "df6d7f748de39114": 1794844853.2735066,
 "df6d85f1468e304b": 1794466847.0948906,
@@ -40789,7 +40671,6 @@
 "f3954291b96964d1": 1794415827.7010334,
 "f39820aae620a2a7": 1794603612.7931938,
 "f398c81ff4691b59": 1795285229.0986185,
-"f399d718360199a2": 1794307825.328837,
 "f39d9d46a300b8d7": 1794348622.3454998,
 "f39e3ce0e455ddea": 1794814826.9861326,
 "f3a2675cc7ebb3cd": 1794898855.1759124,
