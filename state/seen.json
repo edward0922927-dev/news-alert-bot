@@ -542,13 +542,159 @@
 "t": "11-25 20:41"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmItUFQ0TDJDczBHR3RFWDhnTWd1MkVMcjcwOVAwSmxxYTNqcWlqUEpYY21kZXFnUWtBMndyWW9JeUtHdVB1dV9hVUtMQUtVcDVFTk9XLW5McVNxcnNCdGpOd3oyTDBlbnJpQndONWpFNVRSYk40R2gycHVIQ0p1blVGWmFDeS1CdUxEZ3FvcThZZHZmWENsODYzY1M4UklWVU5SLWI2NGwyLVhFSGc?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "BoE's Bailey sees lower inflation peak if energy prices stabilise &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "BoE's Bailey sees lower inflation peak if energy prices stabilise - Reuters",
+"ts": 1795623648,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjlYUGF2ZUpQdTZlbXF1VUZFd0RsWS16MEgzdnBpY3pMOGNvYXBQWnpuVkNWS2Q0aUEzZk5nczlQTUhjMEVjV1N2cl9CRy1FVDBvZUNuUTFTQnl2MWc2MG9WME90NXA1VVFyR3MwRWVDTF85NEdVSThKTm1wbzBnVEo0a2FuVDJUOUZ4Ty1ZVmFOUldoU080U1dHeGMyeEY5TnV1Sko0eEJoZDI4RGY5b0J5ZDlBUExR?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Trump proposes raising tarifss on China, India and other major trading partners - as it happened &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Trump proposes raising tarifss on China, India and other major trading partners - as it happened - Reuters",
+"ts": 1795629778,
+"unmatched": true
+},
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13U0V3M2tSSWR2RzVhTHRWR25HT2RfeXctSndWMEFRYWstQ2xMU3UxLWNmRGtpV0RVNkRsQU43dW8zbFpMMHlCeHE2T1RwSm5RTVNSWUxyMGFRWm8yQjE2aUhYc2NKZGh5TWJtWmdURGJfOFBSN0dnZFFxdw?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Crypto \u4e3b\u6d41\u5a92\u9ad4",
+"summary": "BTC50010:IND | Bloomberg Bitcoin US 500 10% Index | Indices &nbsp;&nbsp; Bloomberg",
+"tags": [
+"BTC"
+],
+"title": "BTC50010:IND | Bloomberg Bitcoin US 500 10% Index | Indices - Bloomberg",
+"ts": 1795635775,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/hpq-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051411",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "HPQ earnings analysis: questions answered and next catalysts",
+"ts": 1795638027,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/autodesk-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051417",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Autodesk earnings analysis: questions answered and next catalysts",
+"ts": 1795638043,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/urban-outfitters-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051418",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Urban Outfitters earnings analysis: questions answered and next catalysts",
+"ts": 1795638056,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/workday-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051419",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Workday earnings analysis: questions answered and next catalysts",
+"ts": 1795638083,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-166-5051422",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Brazil stocks higher at close of trade; Bovespa up 1.66%",
+"ts": 1795638604,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/wall-street-rebounds-amid-fragile-sentiment-as-nasdaq-recovers-from-steep-morning-drop-93CH-5051426",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Wall Street rebounds amid fragile sentiment as Nasdaq recovers from steep morning drop",
+"ts": 1795638828,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/ai-spending-leads-the-biggest-market-risks-heading-into-2027-93CH-5051429",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "AI spending leads the biggest market risks heading into 2027",
+"ts": 1795639062,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/citadel-to-return-35b-to-clients-amid-strong-2026-gains-5051431",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Citadel to return $3.5B to clients amid strong 2026 gains",
+"ts": 1795639494,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-25T17:00"
+"last_date": "2026-11-25T19:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -559,7 +705,7 @@
 "pct1-": "2026-11-08T21:00",
 "pct24-": "2026-11-20T20:00"
 },
-"last_date": "2026-11-25T17:00"
+"last_date": "2026-11-25T19:00"
 },
 "FNG": {
 "cool": {
@@ -589,11 +735,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-25T17:00"
+"last_date": "2026-11-25T19:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-25T17:00"
+"last_date": "2026-11-25T19:00"
 },
 "UST10Y": {
 "cool": {
@@ -626,9 +772,9 @@
 },
 "last_date": "2026-11-24"
 },
-"_last_check": 0
+"_last_check": 1795639840.691296
 },
-"last_run": 1795639324.2043943,
+"last_run": 1795639863.3054605,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1841,6 +1987,7 @@
 "0e0983345d92ac60": 1794919227.5566733,
 "0e0a9b0ef9c0f21c": 1794468024.138138,
 "0e0e19d80f0d855b": 1795423238.3045192,
+"0e11bbc07c2be76a": 1795639828.9470375,
 "0e17a0db829610f8": 1794838224.3695483,
 "0e19342373948b05": 1795511429.4994345,
 "0e1be4c9a1c427ec": 1794661257.6211615,
@@ -2797,6 +2944,7 @@
 "195e5c40280dbeec": 1794993625.4312236,
 "19628d1f4cd242b5": 1795074638.3321574,
 "1964edacd7f06649": 1795158052.8119109,
+"196723de157a9e77": 1795639828.9470375,
 "19696d1cc932670a": 1794589259.3099487,
 "196ca4c826b3a427": 1795105856.1784246,
 "196d83130b3f837e": 1795071657.072108,
@@ -5063,6 +5211,7 @@
 "3399782b4195c367": 1795417253.931719,
 "339ae19d13a293d9": 1795638031.9336524,
 "339d2ef63cb463e2": 1794939031.424695,
+"339fd0531a2d63d0": 1795639828.9470375,
 "33a3a799efdc53f6": 1794812457.8102336,
 "33a5bf87d1298a31": 1795012825.724214,
 "33a62668e8b4b24f": 1795418428.136051,
@@ -7356,6 +7505,7 @@
 "4e9d4ccf418ea4ee": 1795000224.6231546,
 "4ea0c7d703cf5b68": 1795417253.931719,
 "4eac69150b3d5e23": 1795042225.465798,
+"4eb113f62f8d01a7": 1795639828.9470375,
 "4eb425ac6f04bdc6": 1794901225.4603486,
 "4eb8730c839eda92": 1794690623.5489624,
 "4eb932825593c99e": 1794839441.845789,
@@ -10148,6 +10298,7 @@
 "703567a20da0352e": 1795512028.924125,
 "70363c9b200b07ab": 1795267232.6333885,
 "70367df3f9ac49b2": 1794953424.1165793,
+"703be286fbbe5c04": 1795639828.9470375,
 "7041d438f1a44dd1": 1794830462.0540502,
 "70485d5f0189fc26": 1794553252.738333,
 "704e03a2df7dfc0c": 1795094425.92926,
@@ -10332,6 +10483,7 @@
 "7256aae0d1a5852b": 1795103425.424573,
 "7256f76a8f4cced9": 1795072824.4776285,
 "725eb4617c001319": 1795473629.8285642,
+"726257b6f0126364": 1795639828.9470375,
 "7264a5c91dba1049": 1795506030.3055909,
 "7269087f4726c72b": 1795617059.3518445,
 "7269e6bdc8da5c1f": 1795100457.2598467,
@@ -10584,6 +10736,7 @@
 "757d03b7cb3ecd55": 1795011628.9120867,
 "757dfaed32d3727f": 1795330854.3874993,
 "757ffe70ee594e28": 1794558027.197113,
+"75891df4483fdf0f": 1795639828.9470375,
 "758b9c2c08fed5f3": 1795126823.4683802,
 "758d693e66974ca7": 1794901225.4603486,
 "75902381c61c4fa6": 1794918643.9808466,
@@ -11637,6 +11790,7 @@
 "8202718cca008f21": 1795503652.5968435,
 "8202842c50586909": 1794650448.3692777,
 "82029c3d76ea23f4": 1795593027.5061767,
+"82086ecb5c9a83d8": 1795639828.9470375,
 "8209b563adf96542": 1794726050.5794117,
 "820be427f3e9fc31": 1794955223.4901257,
 "820cc1cfda97dd78": 1794500033.245441,
@@ -15497,6 +15651,7 @@
 "afc68ccb7ad662a3": 1794871225.0409687,
 "afc6e76e8851a2ae": 1795189831.5996313,
 "afc71cb3709a9d11": 1795503652.5968435,
+"afc742eb56ab9f8f": 1795639828.9470375,
 "afc9ec0a61ece6a3": 1795194634.617977,
 "afcaad2922fa4a38": 1795017037.8184426,
 "afcd58a2b4a3ff15": 1794466847.0948906,
@@ -16551,6 +16706,7 @@
 "bbcc1db1c4bef486": 1794466847.0948906,
 "bbcf031e553098a4": 1794580245.1336462,
 "bbcf6a8516ac22a2": 1795303229.7491117,
+"bbd8e08e899e7578": 1795639828.9470375,
 "bbdb91d0cd3faaa8": 1794561624.144115,
 "bbeb60c91bf37c7a": 1795417253.931719,
 "bbf5ba14b11949bf": 1794849634.504655,
@@ -18889,6 +19045,7 @@
 "d6ebaf4ae95c260b": 1794812457.8102336,
 "d6f128fbd7e8a0dd": 1794466847.0948906,
 "d6f2aefb3e9cbc55": 1794898855.1759124,
+"d6f676ccd7e046c2": 1795639828.9470375,
 "d6f85bd9c4a5a502": 1794898855.1759124,
 "d6fc50c47f457232": 1794873034.3945842,
 "d6fde63f98751ac0": 1794516025.4582257,
@@ -20887,6 +21044,7 @@
 "ef8cac9a865b863e": 1794505825.2474673,
 "ef8e67fa7922a1f0": 1795010455.9775739,
 "ef901d2a2c039926": 1795522831.0620425,
+"ef94f2d54812e6b5": 1795639828.9470375,
 "ef99eaa0fdbcf199": 1795092626.6994026,
 "ef99fd9c9b32e09a": 1794781226.0454638,
 "ef9a025cc1ee59f0": 1795504830.6007786,
@@ -22550,6 +22708,7 @@
 "02ccf92d84d988d8": 1795203048.0303638,
 "02d3b01e592f1cda": 1795450232.051331,
 "02d5bbbc84a57ec7": 1794578453.55955,
+"02d8a3f73feac52a": 1795639828.9470375,
 "02d8d58d466bc57e": 1794500033.245441,
 "02da00dc8a64b9fa": 1795512028.924125,
 "02da0916838f4f9f": 1794437999.1397626,
@@ -25225,6 +25384,7 @@
 "25ef9862a4f64319": 1794898855.1759124,
 "25f0007f22a8ca2c": 1795041049.6610858,
 "25f587d404db708c": 1795552243.1271229,
+"25f822fe2a705a1e": 1795639828.9470375,
 "260101ff44a0093f": 1794946228.4226394,
 "2603e13e70166254": 1795071657.072108,
 "26059f1160732b0a": 1795129825.1984618,
@@ -27018,6 +27178,7 @@
 "3d351627899d2aec": 1794985252.4753754,
 "3d3c8495915fb997": 1794514824.538045,
 "3d417c46812eaed3": 1794469221.7331192,
+"3d43c489307c67c8": 1795639828.9470375,
 "3d4492c60f4c7a3b": 1795244453.4863303,
 "3d44f56459a8909d": 1795113043.7219627,
 "3d48ef12b0663127": 1795458034.7524655,
@@ -28982,6 +29143,7 @@
 "56d5d67a054cca34": 1795503652.5968435,
 "56da71311cf9ab59": 1794466847.0948906,
 "56dce0c64aad25ca": 1795506030.3055909,
+"56df58940eb976ac": 1795639828.9470375,
 "56e0a0051d65c449": 1794512437.91084,
 "56e4be761c2e5e43": 1795449029.0228658,
 "56ecee0ddf874ff4": 1794923427.6688526,
@@ -29201,6 +29363,7 @@
 "599f1080763a917f": 1795206646.9615252,
 "59a63a5ecbeb0ed7": 1795183842.2914605,
 "59a7da87695e1531": 1794858042.1584058,
+"59a9cf026ca68893": 1795639828.9470375,
 "59ac77153ca3208c": 1795596028.8142822,
 "59ace34ef8264eb5": 1794825041.4304469,
 "59b01121f01b0b98": 1795165824.4402552,
@@ -30766,6 +30929,7 @@
 "6e52d8b39833286b": 1795473629.8285642,
 "6e5572b8f0a091b3": 1794572423.7774122,
 "6e55f85042ab3082": 1795467030.6505184,
+"6e56db8eb65781f5": 1795639828.9470375,
 "6e57ab6401d926de": 1795260033.994427,
 "6e659f5993381868": 1794576029.428241,
 "6e68519054f93116": 1795158052.8119109,
@@ -31990,6 +32154,7 @@
 "7f61ddf5fa66ae04": 1795522831.0620425,
 "7f6e57ab5723a9e9": 1795012825.724214,
 "7f71a640f0c4d8a5": 1795630834.2857125,
+"7f80a2a16819e211": 1795639828.9470375,
 "7f831aac8bfff2bf": 1795462258.056507,
 "7f88b3918b48534c": 1794918028.1423836,
 "7f8ba9c539905974": 1794927030.8551636,
@@ -34087,6 +34252,7 @@
 "9a96c14308119b3e": 1794870053.4392674,
 "9a9887ad280f9d09": 1795590061.8943424,
 "9a98b46f083eb9d5": 1794553252.738333,
+"9a9960b1b9bae8fb": 1795639828.9470375,
 "9a9964025fdd6a2f": 1795450232.051331,
 "9a9ba8e3c00182b1": 1795158052.8119109,
 "9aa6a38ca98d404f": 1795182034.240582,
@@ -34800,6 +34966,7 @@
 "a3b63126adbe347b": 1795547537.8540668,
 "a3b6e460e024c998": 1794985252.4753754,
 "a3bf0ec1c1bed434": 1795630228.6639032,
+"a3c0d24eddf467d0": 1795639828.9470375,
 "a3c2d4ee57d32f90": 1795256429.6,
 "a3c7766c82cee38b": 1795456230.0593777,
 "a3cc6d059d4091bf": 1794900643.8440216,
@@ -36291,6 +36458,7 @@
 "b6bd4f3f8aee7b09": 1794643251.6467984,
 "b6bfc14cf9c2c9e8": 1795417253.931719,
 "b6c0351939986f63": 1794524453.1112177,
+"b6ca1010546f8295": 1795639828.9470375,
 "b6ca228f14050b07": 1794871839.1299171,
 "b6d3116382a9451c": 1794434449.3275425,
 "b6d6b5402d675df4": 1794864642.7476947,
@@ -38152,6 +38320,7 @@
 "ce5c927ee1a471df": 1795090824.4418364,
 "ce60da70c44fb6ae": 1795175429.7888956,
 "ce612cf32b3aa255": 1795447846.4216607,
+"ce61f4b761824be0": 1795639828.9470375,
 "ce6543d0fcd5ed05": 1794561624.144115,
 "ce69a1fa1ce78816": 1794898855.1759124,
 "ce6bca6a95555431": 1794864642.7476947,
@@ -40403,6 +40572,7 @@
 "ec9b3322f00db527": 1795440032.2972095,
 "ec9d14bb8298a1f8": 1795107032.192029,
 "eca00dfe1cb3808e": 1795468229.2670856,
+"eca176e367cc7200": 1795639828.9470375,
 "eca2c6f75e99e19e": 1794501042.7863798,
 "eca90bc348a6b232": 1795003826.8305173,
 "ecaa363317fa3979": 1794510065.4285805,
