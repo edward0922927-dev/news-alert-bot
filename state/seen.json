@@ -542,13 +542,68 @@
 "t": "11-26 15:02"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": true,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmxwMmtQa1lwcUFzZ1hzajduYW1aX1BrM1E0Y1RDdF8xLXdfclRIcnozUjRldDN5dGhEVUZsMDViTjlkSk5TMFkxRXhKOFZuNVpoOE4zOXJPaVdZYjVtVFJaRzZsMEZob2ZyTmFzV2hlMG1qMzNHTjQ5d01iQmQ3d25pSFpraUpJOFVGQjU2ZEstLTVQTjhLMG9PZG9XbXhnSUJDaC1Wd0xVQQ?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "\u6676\u7247\u4f9b\u61c9\u93c8",
+"summary": "UAE's Nvidia free pass is less free than it was &nbsp;&nbsp; Breakingviews",
+"tags": [
+"NVDA"
+],
+"title": "UAE's Nvidia free pass is less free than it was - Breakingviews",
+"ts": 1795689858,
+"unmatched": false
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDhULTVaMkhMdkEyVG04ZmVLemw0QlJNLTAxczdvRlF0Zy04Q3p4VlhSal9IdnBmODMtU1dWMmx6bEprUUV1ZVdpS0lSa1c0VHpRY29TcHhyWmk2aGdWWjNSVGRyV2lYbVhIZktFS19oODJaXzF3ajg5c215VDNZaldaWHBtaVBPcHdyRFNBN3JtWFNKRTBxQ2NlOUZtRjYxX3p5d2lua00ySFQ3R2xpMTl1V1Y?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Bloomberg",
+"summary": "Congo Closes on Top Copper Supplier Chile as Exports Soar Again &nbsp;&nbsp; Bloomberg",
+"tags": [],
+"title": "Congo Closes on Top Copper Supplier Chile as Exports Soar Again - Bloomberg",
+"ts": 1795695847,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Investing.com",
+"summary": "",
+"tags": [],
+"title": "Marlboro maker Altria explores takeover of UK\u2019s Imperial Brands",
+"ts": 1795704891,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://cryptoslate.com/ai-agents-can-pass-every-accuracy-test-and-still-put-your-money-at-risk/",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "CryptoSlate",
+"summary": "In ShellBench, 2,589 of 26,151 runs that met every correctness criterion still failed at least one safety requirement. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+"tags": [],
+"title": "AI agents can pass every accuracy test and still put your money at risk",
+"ts": 1795705207,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-26T10:00"
+"last_date": "2026-11-26T14:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -559,7 +614,7 @@
 "pct1-": "2026-11-08T21:00",
 "pct24-": "2026-11-20T20:00"
 },
-"last_date": "2026-11-26T10:00"
+"last_date": "2026-11-26T14:00"
 },
 "FNG": {
 "cool": {
@@ -589,11 +644,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-26T10:00"
+"last_date": "2026-11-26T14:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-26T10:00"
+"last_date": "2026-11-26T14:00"
 },
 "UST10Y": {
 "cool": {
@@ -626,9 +681,9 @@
 },
 "last_date": "2026-11-25"
 },
-"_last_check": 0
+"_last_check": 1795705850.4659674
 },
-"last_run": 1795705345.1458623,
+"last_run": 1795705872.5795467,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -4689,6 +4744,7 @@
 "2f609187ed710a6b": 1795555842.034609,
 "2f63031f49fc060c": 1794740464.3976526,
 "2f647f161afbc4e1": 1795018397.3489969,
+"2f65536ed06a345c": 1795705840.908299,
 "2f6775914aaa4f69": 1794516025.4582257,
 "2f680df0a013a859": 1795590061.8943424,
 "2f68269fb6bc906a": 1794827425.4141595,
@@ -13189,6 +13245,7 @@
 "955e99ba21b698d2": 1795444255.2891965,
 "9563c2c6b570eb27": 1795437044.2825282,
 "9566da1d4cca0eb9": 1794554424.4818478,
+"956703e496ceca6f": 1795705840.908299,
 "9569d31cf6a96998": 1795017037.8184426,
 "957a845689e619d1": 1794944427.3033056,
 "957b47c9f48daede": 1794577228.5573788,
@@ -14488,6 +14545,7 @@
 "a5c1d976110ed8ea": 1794639651.002237,
 "a5c63212cb0cc1b6": 1795158052.8119109,
 "a5d0a6786937d94b": 1795627852.352331,
+"a5d102ad7711df84": 1795705840.908299,
 "a5d433197d516db7": 1794854423.910638,
 "a5ddcfc2cb562527": 1794554424.4818478,
 "a5de4e310ae8a486": 1795098026.560795,
@@ -18909,6 +18967,7 @@
 "d9aed15c502693bc": 1795183842.2914605,
 "d9b4dc78e92d1be2": 1795645843.929369,
 "d9ba5b30003274e2": 1795547537.8540668,
+"d9be452d8dad0d8e": 1795705840.908299,
 "d9c07ab02dc0d97b": 1794729650.1855493,
 "d9c1271249f8eb3c": 1795625432.3475084,
 "d9c4d72bc67bcbf9": 1795032632.267427,
@@ -21790,6 +21849,7 @@
 "fcf84b5d56e7939c": 1794864642.7476947,
 "fcf92289cd585f7b": 1795040426.1665328,
 "fcf99cba4eff7d2c": 1795425029.6716764,
+"fd0431e2fc304aec": 1795705840.908299,
 "fd04577a6edf4510": 1795031428.3236907,
 "fd06f6254cb3876d": 1794679824.3245559,
 "fd07664da1f54c13": 1795460453.0623782,
@@ -24059,6 +24119,7 @@
 "199e040da1a84242": 1795123843.479108,
 "19a0e27eccf4426b": 1794844224.1648452,
 "19a4f11352f734dc": 1795612230.3018715,
+"19a5f643bbc9e774": 1795705840.908299,
 "19a6e056c1c08a90": 1795676460.7256558,
 "19a8fc8302e2b754": 1795459843.705956,
 "19aae331d47dd08e": 1794958823.3386009,
@@ -31378,6 +31439,7 @@
 "7cb12b0a784d6c5e": 1794676225.6021314,
 "7cb66860dd4465bd": 1794506777.1747909,
 "7cbb9a006aeaa1f8": 1794991826.9316912,
+"7cbc3dcaf46a91c6": 1795705840.908299,
 "7cbe6d67bf1f2ba4": 1795448430.763344,
 "7cbf7d42b3875a75": 1795197658.0387223,
 "7cc00c7602b6d21a": 1794828642.7782462,
@@ -37622,6 +37684,7 @@
 "ce11426a5bf71176": 1795548641.5636756,
 "ce1179fdd05b01dc": 1795101625.6528518,
 "ce1827a952c8eba8": 1794553252.738333,
+"ce192e5b97c2fc5a": 1795705840.908299,
 "ce1f99efa1d7be02": 1794932430.6081858,
 "ce27acae21f3c171": 1795436434.2709458,
 "ce3545f94ce73f3a": 1795125660.6716516,
@@ -38489,6 +38552,7 @@
 "d9446f1e3f9900cc": 1794561624.144115,
 "d94513ba84575ec2": 1795093826.9410768,
 "d9456498f20a465d": 1795429229.2000046,
+"d94702cf207ae3a7": 1795705840.908299,
 "d94af4b83cb4bca3": 1795071657.072108,
 "d94d3e1cec11b633": 1795473629.8285642,
 "d94de01e170ec8d0": 1795458034.7524655,
@@ -40508,6 +40572,7 @@
 "f5378c9efd3bfed5": 1795008645.6568637,
 "f53f9b32e30baa3b": 1794646850.1928723,
 "f545f9d6128de9d7": 1795627852.352331,
+"f54c6e441c99f5f4": 1795705840.908299,
 "f54e8b14e95d47a3": 1794600624.6036332,
 "f54f1bd46c6019ba": 1795698058.4019163,
 "f550fd83912f888b": 1794519043.7777076,
