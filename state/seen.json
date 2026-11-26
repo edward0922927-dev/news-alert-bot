@@ -542,13 +542,40 @@
 "t": "11-26 17:31"
 }
 ],
-"ai_queue": [],
+"ai_queue": [
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUlh1aXJHRXBESmZFWlZxOVZaYzNjR2JFVkVOc3NzV0pjbks2NE9HclFKS1ZzeUR4ODJOMEl5MnRIZFRRQjhfanVCazN5OGszYnNnMXZCOXJNQ2t6c0RlMk9ycVNLa2Z6UUF1aWRoU3pxbHRhQW9WaHRDUUszZF9YSjdxb3Rhc2x3T0ZpdERfQ3A1a2FaZjRqQmZSYjVpREkxM28teHF1SG53NU5LUXI2Z1NNRlpDclBYNEFPdlVqR3E0dHFrS0FXaDBzb0FqZUF2YWc?oc=5",
+"sent": "\ud83d\udcc9",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "Ukraine says North Korea temporarily halted missile shipments to ally Russia &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "Ukraine says North Korea temporarily halted missile shipments to ally Russia - Reuters",
+"ts": 1795708955,
+"unmatched": true
+},
+{
+"ai_required": false,
+"discord_env": null,
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazQ1LXNCQnNXd2lVdDExZDdCQVFxV2NwTmluQ1FXU2wzUkN5REwxYWVzdFdOVS1LN1ZrcEllQ0lleGdic2VHai1VTldNOS1TTXAyQVpiWmhKbXhLaTI3eFNNQnRNMzlFZUpUamI4R0VqS2pBY2NwQkItUm1MeHhacldyQ3FiUm1tUmVzdEM4ZTJndHpteFY2LUthU18weTdMdTZN?oc=5",
+"sent": "\u25ab\ufe0f",
+"skip_ai": false,
+"source": "Reuters",
+"summary": "ECB turns to crisis veteran De Cos as new strains loom &nbsp;&nbsp; Reuters",
+"tags": [],
+"title": "ECB turns to crisis veteran De Cos as new strains loom - Reuters",
+"ts": 1795710244,
+"unmatched": true
+}
+],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-26T15:00"
+"last_date": "2026-11-26T16:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -559,7 +586,7 @@
 "pct1-": "2026-11-08T21:00",
 "pct24-": "2026-11-20T20:00"
 },
-"last_date": "2026-11-26T15:00"
+"last_date": "2026-11-26T16:00"
 },
 "FNG": {
 "cool": {
@@ -589,11 +616,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-26T15:00"
+"last_date": "2026-11-26T16:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-26T15:00"
+"last_date": "2026-11-26T16:00"
 },
 "UST10Y": {
 "cool": {
@@ -626,9 +653,9 @@
 },
 "last_date": "2026-11-25"
 },
-"_last_check": 1795710657.7102458
+"_last_check": 1795714842.591564
 },
-"last_run": 1795714260.5839016,
+"last_run": 1795714881.0773158,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -1596,6 +1623,7 @@
 "0bb4f944f33cf69e": 1795530643.2510736,
 "0bbb4d14f766c4b4": 1795036825.3187943,
 "0bbe4a43687143a8": 1795113637.7196538,
+"0bc4d412c86e4191": 1795714832.314768,
 "0bc60e2b6ba66238": 1794828024.2634065,
 "0bc7d66abe42dd54": 1795443037.176791,
 "0bcc7ad24c8c9b3f": 1795449029.0228658,
@@ -4980,6 +5008,7 @@
 "33044e698a30f6f5": 1795365050.8993125,
 "3308e9cd5b2ea715": 1795690233.7869742,
 "331b85edf81df30a": 1794590425.47367,
+"33238660b0128aea": 1795714832.314768,
 "332a065cfe683080": 1795534256.8197846,
 "333534aff371d1f1": 1795303229.7491117,
 "3339bdeb737a52d8": 1795531831.1995533,
@@ -7010,6 +7039,7 @@
 "4b2df761f93f73a0": 1794837653.5733871,
 "4b34a276c0ecd31f": 1794900033.2937236,
 "4b3aef88cce7cd8e": 1795452640.6060836,
+"4b3b7118be6f9cb7": 1795714832.314768,
 "4b3de413ec8a9eb0": 1795555842.034609,
 "4b46afb0eec060e4": 1794952224.5267148,
 "4b49af4626688308": 1794589828.9299436,
@@ -14056,6 +14086,7 @@
 "a10d7d48caa68db2": 1795590061.8943424,
 "a1166dda8bcb6faa": 1795376437.3359482,
 "a11e17a662c22b27": 1795467652.091851,
+"a11ebf2ab03ed091": 1795714832.314768,
 "a1235e7ffc772edd": 1794951624.2213807,
 "a1286729ea368b81": 1794577823.9210808,
 "a1288722fdd2d335": 1795676460.7256558,
@@ -20003,6 +20034,7 @@
 "e86a3386c70260e5": 1794819024.9944906,
 "e86b397e1b58b65d": 1794657652.7046778,
 "e86f1c6df281192c": 1795288830.0626028,
+"e87a2ff4d3fb38d9": 1795714832.314768,
 "e87f149df42b28aa": 1795540230.758373,
 "e87f9d8ebe878d64": 1795623036.0267165,
 "e8864638ff804e5a": 1795357852.4230287,
@@ -20040,6 +20072,7 @@
 "e8d57230f0bfa537": 1795244453.4863303,
 "e8d83b8d9e845bb0": 1795591229.272574,
 "e8e98dd424f337a1": 1795711231.0002213,
+"e8ebedbcf3d232ab": 1795714832.314768,
 "e8ecf9624e1ae7d2": 1795218028.1279197,
 "e8f33c152e11d17e": 1795111253.2671387,
 "e8f5954082bc8dbc": 1794907227.2219234,
@@ -34162,6 +34195,7 @@
 "a2a6001b390684d2": 1794912622.9567125,
 "a2a67f5914cfc0aa": 1795274430.200943,
 "a2ae2537dbf11a3f": 1794561624.144115,
+"a2c3ace4f10ac8af": 1795714832.314768,
 "a2c54043492ccf7d": 1794985252.4753754,
 "a2c61faea63ccc00": 1795296030.3754878,
 "a2c747419fa28f74": 1795557034.571922,
@@ -34942,6 +34976,7 @@
 "ace41c5500001926": 1795540230.758373,
 "ace839fcb53a72b8": 1794934856.0150769,
 "aceb96957304c1f3": 1795445431.26689,
+"acec37cf3ae83bf1": 1795714832.314768,
 "aced09457a32fb01": 1795677633.482194,
 "aced4a61e3f11687": 1795107657.157931,
 "acf392609d535cb8": 1794936645.8912413,
@@ -35853,6 +35888,7 @@
 "b8c3777477ef9fbc": 1795561828.768099,
 "b8c548fa54225566": 1795434627.5843024,
 "b8c58722a495f709": 1795503652.5968435,
+"b8c5dd49932a9ce8": 1795714832.314768,
 "b8c69e0bac35f813": 1795100457.2598467,
 "b8c760abbe466f14": 1794846042.8849766,
 "b8cb3b4d7a58bdfd": 1794582626.619808,
@@ -36280,6 +36316,7 @@
 "be3de77e27fca634": 1795642834.8063383,
 "be407e38cf89bc4d": 1794553252.738333,
 "be420f0333501a73": 1794948026.0694823,
+"be496b879143b487": 1795714832.314768,
 "be5297f16f14d7b0": 1795105856.1784246,
 "be598c2d67997be8": 1795183842.2914605,
 "be5b571ddfe43191": 1794900033.2937236,
