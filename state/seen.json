@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795819845.092399,
+"ai_last_review": 1795821043.6788776,
 "ai_log": [
-{
-"err": "",
-"kept": 0,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 3,
-"ok": true,
-"t": "11-26 19:50"
-},
 {
 "err": "",
 "kept": 0,
@@ -540,51 +531,18 @@
 "n": 2,
 "ok": true,
 "t": "11-27 22:50"
-}
-],
-"ai_queue": [
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0ZyaHo3UzFZZU1XYmpSdnlUc2paM3lIdmZMNUFVejdJYW5UU0pLTFFGVFVHek1hTlo0UGdRWnJiTEw3Tll6T2NhTWQwOUJNbHcxOUZzZmg0ZVBjTEVUbnp6WGRkZkd6VjV4UW04WklYR3B6c2ZXdHFVY1A1dTRRV2N2MVNmbXRvaDFFM3FabUhJM2E0eFRzWFlSdlVfcnd3ZjZuNUtYX2tjWFhpdVpZZkxn?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Pedro S\u00e1nchez Seeks Unlikely Win With Plea for Spaniards to Go Vote &nbsp;&nbsp; Bloomberg",
-"tags": [],
-"title": "Pedro S\u00e1nchez Seeks Unlikely Win With Plea for Spaniards to Go Vote - Bloomberg",
-"ts": 1795811041,
-"unmatched": false
 },
 {
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN0hJMGZtejR0d0NZUXpmYW1VWVJBMl9BeFFGckN3LUZMOXN5elJORW1YUWRGSGRBVkh4d1BZak1WWDQzUFMwSUs2amNZVFEwdjhPV3Fwb25acUs0TWdIVDBXbTg0cEFla3FkSWt5TkpRbURQUTdZNExidkNPYktfMHk5ejJlTmdDV1VGUXdsY1A5MGl1SHgxbW1PSFFfeUp2RC1JeW5CWGgyYjh5anlpbjJnanJHRERQVlYw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "Canada to Put Billions More Toward Tariff-Hit Softwood Lumber Sector &nbsp;&nbsp; Bloomberg",
-"tags": [
-"Tariff"
-],
-"title": "Canada to Put Billions More Toward Tariff-Hit Softwood Lumber Sector - Bloomberg",
-"ts": 1795811615,
-"unmatched": false
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWZXMlNNYkZqRTNXdU8yamZKc2JjQVZWMWQ1TGJueHVOZml3ckVIMXVPdlNsakdFTWY3SThWT05IZ051RWQ1amd0cF95dVdrM196UVRLdHZrVjJWNlk1V2ZrS1NRbndaLWJtUFdOXzVTTzlNSDhuNllyVnB3aUlCQUFqRmYxXzVXWnIycFBjWUpPWVVjeW9oRmFlRWwzTVhlVmY0VElWT2JPdmlad2RDMGpB?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "France Outlook Cut to Negative by S&amp;P in Pre-Election Warning &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "France Outlook Cut to Negative by S&P in Pre-Election Warning - Bloomberg.com",
-"ts": 1795816505,
-"unmatched": false
+"err": "",
+"kept": 0,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 4,
+"ok": true,
+"t": "11-27 23:10"
 }
 ],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
@@ -671,7 +629,7 @@
 },
 "_last_check": 1795818038.3330855
 },
-"last_run": 1795820470.2956324,
+"last_run": 1795821043.6788836,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -839,6 +797,7 @@
 "0194df427454ed34": 1795591229.272574,
 "019ea16bf6277d80": 1794933625.5760596,
 "019f7647e2198199": 1795205430.6687367,
+"01a02cb17f70b7ce": 1795821030.968126,
 "01a37cdff6a4290f": 1795338631.4634516,
 "01a4efd0e722ba5f": 1794733251.876912,
 "01a7bed40b78fa15": 1794784823.9320164,
@@ -4355,6 +4314,7 @@
 "2bedbff6b7a557f4": 1795555232.067856,
 "2bf1d2220dbb81ea": 1795776633.0980277,
 "2bf39edfb9a139a3": 1795629032.4694085,
+"2bf3a9a587287079": 1795821030.968126,
 "2bf3adb566e21894": 1794690623.5489624,
 "2bf9896a90df14c5": 1795159843.3521225,
 "2bf992efb19fc18e": 1794836437.4633808,
@@ -13736,6 +13696,7 @@
 "9fdbf129a71014fc": 1794902455.0339656,
 "9fdcaaa3b5d491cf": 1795361444.3173711,
 "9fdfe72ad4522e1e": 1795818642.4214654,
+"9fe320b49649d833": 1795821030.968126,
 "9fe3e8a716730484": 1795629580.1810784,
 "9fe5d4273f09a25a": 1794934228.5984814,
 "9ff141ad8c094a11": 1795727428.7517068,
@@ -18710,6 +18671,7 @@
 "dc67055727f0491a": 1795712457.6358123,
 "dc69317c230f2823": 1795677633.482194,
 "dc696a1966870af5": 1795215035.5998106,
+"dc6cb7b418d2d037": 1795821030.968126,
 "dc75f666a38f52c3": 1794639651.002237,
 "dc76b9884cf57012": 1795330854.3874993,
 "dc7710dbe26fa67c": 1795590061.8943424,
@@ -19029,6 +18991,7 @@
 "e0637bedf454588d": 1794726050.5794117,
 "e068a291a944be63": 1795609233.3107262,
 "e069e951338b6f9f": 1795558232.1874566,
+"e06a2bfce1825840": 1795821030.968126,
 "e06acf2c3bf494c3": 1795040426.1665328,
 "e06cead3b3aa18f9": 1795252828.6007173,
 "e0743da41330f5d4": 1795638031.9336524,
@@ -20212,6 +20175,7 @@
 "ef99eaa0fdbcf199": 1795092626.6994026,
 "ef99fd9c9b32e09a": 1794781226.0454638,
 "ef9a025cc1ee59f0": 1795504830.6007786,
+"ef9d29b1b4934ff0": 1795821030.968126,
 "efa025c91d346013": 1794821440.8058648,
 "efa81f296c08ff37": 1794985252.4753754,
 "efa97c0680f6fb31": 1794925225.416021,
@@ -25405,6 +25369,7 @@
 "3418a77f55c86ca5": 1795512028.924125,
 "341c1e522f84d66a": 1795073423.1091006,
 "341d189ba529b16c": 1795467030.6505184,
+"341fdc197fa70677": 1795821030.968126,
 "3421539871a7cc50": 1794942881.587334,
 "3425b944e2f2d487": 1795795254.3056738,
 "3426702236e1fb89": 1795303229.7491117,
@@ -28304,6 +28269,7 @@
 "5bed7520d86c3c8e": 1795676460.7256558,
 "5bef6aec19c3336a": 1795440733.3239496,
 "5bf59884d40b9bec": 1794664849.8725064,
+"5bf9cb202fa95c5a": 1795821030.968126,
 "5c0407920feb0a79": 1795526428.431899,
 "5c061352d503d1f3": 1795179034.7516718,
 "5c0d41dc892a9369": 1795503652.5968435,
@@ -30636,6 +30602,7 @@
 "7ca1154886a6b06e": 1795503652.5968435,
 "7ca53e6d57511a91": 1795011628.9120867,
 "7ca7c851501cb347": 1794849634.504655,
+"7ca9130408201310": 1795821030.968126,
 "7cb12b0a784d6c5e": 1794676225.6021314,
 "7cbb9a006aeaa1f8": 1794991826.9316912,
 "7cbc3dcaf46a91c6": 1795705840.908299,
@@ -34395,6 +34362,7 @@
 "af6dea8e1c488304": 1794830462.0540502,
 "af73fc6a246d5300": 1794919826.0019917,
 "af76379de697cc7c": 1795762854.7980394,
+"af82a2a04052b2e6": 1795821030.968126,
 "af84a087a5907a8c": 1794812457.8102336,
 "af856b8a5752966e": 1795801826.8673813,
 "af8a314901b64825": 1795512028.924125,
