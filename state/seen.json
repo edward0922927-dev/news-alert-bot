@@ -1,15 +1,6 @@
 {
-"ai_last_review": 1795766466.8611715,
+"ai_last_review": 1795767680.4923074,
 "ai_log": [
-{
-"err": "",
-"kept": 3,
-"missing": 0,
-"model": "gemini-3.5-flash-lite",
-"n": 22,
-"ok": true,
-"t": "11-25 22:02"
-},
 {
 "err": "",
 "kept": 2,
@@ -540,98 +531,24 @@
 "n": 11,
 "ok": true,
 "t": "11-27 08:01"
+},
+{
+"err": "",
+"kept": 1,
+"missing": 0,
+"model": "gemini-3.5-flash-lite",
+"n": 9,
+"ok": true,
+"t": "11-27 08:21"
 }
 ],
-"ai_queue": [
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV000ZE5HREhkZWdLMHppcVVwODhPQl9Nbk42amNvZURUS1Q0Q1F3Q1RFSTN3V2k0Rl9zSVVtSUZNSTNHajcyVVV1dmxlSFh0ZUdmWVlaOTROX2QwcEEtSWFaSjZuZWFBMTktdlFwcm54WXdaZEVTckFjbUtHN0xsaW51ZzM?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u878d\u8cc7",
-"summary": "\u2018It\u2019s not nation versus nation. It\u2019s hyperscaler versus hyperscaler\u2019 &nbsp;&nbsp; Financial Times",
-"tags": [
-"hyperscaler"
-],
-"title": "\u2018It\u2019s not nation versus nation. It\u2019s hyperscaler versus hyperscaler\u2019 - Financial Times",
-"ts": 1795761137,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/trump-urged-venezuela-iraq-to-leave-opec-and-blocked-dues-reuters-reports-93CH-5053056",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Trump urged Venezuela, Iraq to leave OPEC and blocked dues, Reuters reports",
-"ts": 1795765499,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/indonesian-police-arrest-three-in-dian-swastatika-share-manipulation-case-93CH-5053063",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Indonesian police arrest three in Dian Swastatika share manipulation case",
-"ts": 1795765849,
-"unmatched": true
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://www.investing.com/news/stock-market-news/goldman-sachs-upgrades-fresenius-to-buy-sees-27-upside-on-biosimilars-5053064",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "Investing.com",
-"summary": "",
-"tags": [],
-"title": "Goldman Sachs upgrades Fresenius to Buy, sees 27% upside on biosimilars",
-"ts": 1795765893,
-"unmatched": true
-},
-{
-"ai_required": true,
-"discord_env": null,
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkJ0R2dQX1BpbGtNRlNncDF1aTdiMW9zNlJpQ2VXQXhvQV9aYkt5bE1HdXQ5cF9fYlNlNGFha1BDZkNOeDJrS2RkVk5UbmZaeW16N3RWZ19jUmhVYk5TLVY2ZUI3dkVVbUNhRkJMZXRMSVpuZks2SzAybFJPTGVhOXk0dFhWYTBadDlBamstd2FYaWlNUjd1VkpRRGpUdVEtaWJ2Z3d2SGNQTFpocjNLRTNoZw?oc=5",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "AI \u57fa\u5efa",
-"summary": "US Stocks Set to Bounce as Risk Appetite Returns After Holiday &nbsp;&nbsp; Bloomberg.com",
-"tags": [],
-"title": "US Stocks Set to Bounce as Risk Appetite Returns After Holiday - Bloomberg.com",
-"ts": 1795766160,
-"unmatched": false
-},
-{
-"ai_required": false,
-"discord_env": null,
-"link": "https://seekingalpha.com/news/4676921-spain-prelim-november-cpi-eases-to-41-yoy-retail-sales-fall-1-yoy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-"sent": "\u25ab\ufe0f",
-"skip_ai": false,
-"source": "SA \u5feb\u8a0a",
-"summary": "",
-"tags": [
-"CPI"
-],
-"title": "Spain prelim November CPI eases to 4.1% YoY; retail sales fall 1% YoY",
-"ts": 1795766638,
-"unmatched": false
-}
-],
+"ai_queue": [],
 "data": {
 "BTC_PX": {
 "cool": {
 "low": "2026-11-18T20:00"
 },
-"last_date": "2026-11-27T06:00"
+"last_date": "2026-11-27T07:00"
 },
 "CURVE_10Y3M": {
 "last_date": "2026-11-06"
@@ -642,7 +559,7 @@
 "pct1-": "2026-11-08T21:00",
 "pct24-": "2026-11-20T20:00"
 },
-"last_date": "2026-11-27T06:00"
+"last_date": "2026-11-27T07:00"
 },
 "FNG": {
 "cool": {
@@ -672,11 +589,11 @@
 },
 "USDC_PEG": {
 "cool": {},
-"last_date": "2026-11-27T06:00"
+"last_date": "2026-11-27T07:00"
 },
 "USDT_PEG": {
 "cool": {},
-"last_date": "2026-11-27T06:00"
+"last_date": "2026-11-27T07:00"
 },
 "UST10Y": {
 "cool": {
@@ -709,9 +626,9 @@
 },
 "last_date": "2026-11-25"
 },
-"_last_check": 1795764038.1002066
+"_last_check": 1795767639.6310384
 },
-"last_run": 1795767042.5153437,
+"last_run": 1795767682.6047275,
 "llm_exhausted": {},
 "seeded_feeds": [
 "AI \u57fa\u5efa",
@@ -5372,6 +5289,7 @@
 "37fd796fdc45d09f": 1795425029.6716764,
 "37fe6a5fcc4ae5c5": 1795630834.2857125,
 "37fffe5ff0561830": 1795281628.2852693,
+"38005b6229d5296d": 1795767630.1213825,
 "3803923a8b7d1dc8": 1794588625.1002343,
 "38089519c330f5e5": 1795443037.176791,
 "3808c862528f432e": 1795361444.3173711,
@@ -6031,7 +5949,6 @@
 "3f25bed2d38bb58d": 1794813634.065804,
 "3f28ba1732b869d2": 1795513833.567684,
 "3f2af572199ec407": 1794668452.1981072,
-"3f2bbc364c50584f": 1794558027.197113,
 "3f3434544f9431f9": 1795514451.7026076,
 "3f36397c302bf83e": 1794595228.1283655,
 "3f381fca299ca7d7": 1794990644.313059,
@@ -7346,6 +7263,7 @@
 "4f4bffc20a0c773f": 1795677633.482194,
 "4f4c0d26839ca335": 1795425029.6716764,
 "4f4d35a4fac1a4bc": 1795205430.6687367,
+"4f4e9ccc15c576e1": 1795767630.1213825,
 "4f4ed0a7631a66ee": 1795711838.5573587,
 "4f52e26431f383d1": 1794587446.8583572,
 "4f5424d84fe0a990": 1795731626.7585602,
@@ -9692,6 +9610,7 @@
 "6cccade00a863a54": 1794900643.8440216,
 "6ccd4307c36f547a": 1795100457.2598467,
 "6cd194f18dd35fe5": 1795702230.7007987,
+"6cd4506e72780ac8": 1795767630.1213825,
 "6cd56a7a6d9fc9e5": 1795473629.8285642,
 "6cd94ee223eee948": 1795723253.0166938,
 "6cdcb2ebfc5a5be3": 1794959424.5337644,
@@ -10443,7 +10362,6 @@
 "7579eaf6ec941cbb": 1795021825.045495,
 "757d03b7cb3ecd55": 1795011628.9120867,
 "757dfaed32d3727f": 1795330854.3874993,
-"757ffe70ee594e28": 1794558027.197113,
 "75891df4483fdf0f": 1795639828.9470375,
 "758b9c2c08fed5f3": 1795126823.4683802,
 "758d693e66974ca7": 1794901225.4603486,
@@ -12096,6 +12014,7 @@
 "89f8c9ab1a582c12": 1795764027.8378568,
 "8a023c7dadb23994": 1795186857.1059813,
 "8a029a0f7fbead4d": 1795071657.072108,
+"8a06a91db1ca6087": 1795767630.1213825,
 "8a108b30a0516352": 1795009226.0205479,
 "8a11786e9089b563": 1795123223.867202,
 "8a1248baed4473e2": 1795278032.714273,
@@ -13795,7 +13714,6 @@
 "9e4dde947f7f477e": 1795215035.5998106,
 "9e5147f853367460": 1795044035.52038,
 "9e5491aaf234eb5a": 1795513833.567684,
-"9e56d3512d8dffe2": 1794558027.197113,
 "9e59504fe0e2e915": 1795766455.9619803,
 "9e5aae58fdecc34a": 1795460453.0623782,
 "9e5c4410d2265aca": 1795680058.9546218,
@@ -13822,6 +13740,7 @@
 "9ec3dc9aa278c8a1": 1795590061.8943424,
 "9ec4cafe5a028056": 1794766822.8655136,
 "9ec98ca792963587": 1795601429.5881743,
+"9ecb9712016ccdac": 1795767630.1213825,
 "9ecbfa18d0cab96c": 1795676460.7256558,
 "9ecdf1ccfa142f1f": 1794581426.666685,
 "9ece5604469f3208": 1794820223.9736097,
@@ -14953,6 +14872,7 @@
 "ac90d34bff9bad55": 1794733251.876912,
 "ac95110b50f1dff2": 1794921641.788313,
 "ac9a032c76bfbe84": 1795605041.5442007,
+"ac9d8d75e485803c": 1795767630.1213825,
 "ac9e46a2c1810036": 1795092027.1018486,
 "aca3ad41ca7e0b53": 1795181448.7451098,
 "acac3e3e5ec2e327": 1795260033.994427,
@@ -15906,7 +15826,6 @@
 "b8279aaf9eac45dc": 1795418428.136051,
 "b82a8625d0bf2711": 1795729827.2993307,
 "b82ac8bfb390b608": 1795677633.482194,
-"b82e66009087be5d": 1794558027.197113,
 "b8364b4969de50d9": 1795764027.8378568,
 "b83c6e42f7ccbcec": 1795562435.1769795,
 "b83d8bc265ecc9ee": 1794733251.876912,
@@ -18082,7 +18001,6 @@
 "d1e203cec4021969": 1795244453.4863303,
 "d1e4505f0d328968": 1794575425.1386402,
 "d1e61b81812e672a": 1795180832.7807841,
-"d1e79d684ce2a354": 1794558027.197113,
 "d1e7fda5adc2a747": 1794596453.3442338,
 "d1ead7360de49840": 1795093826.9410768,
 "d1ee75245f09e885": 1794813634.065804,
@@ -20833,7 +20751,6 @@
 "f42f4334e57e9400": 1794816053.4025834,
 "f42f834c709d0317": 1795425029.6716764,
 "f42fc05bd689d690": 1795417253.931719,
-"f430b6e1fc9d12cc": 1794558027.197113,
 "f4341a18ad120b4b": 1794585024.6252208,
 "f43496ae9e234e29": 1794590425.47367,
 "f435ab06c008977b": 1795288830.0626028,
@@ -24885,6 +24802,7 @@
 "2864d8c38841c4dc": 1795183842.2914605,
 "2866b2f4aa75ff45": 1794955829.64089,
 "28699986355e1876": 1795303229.7491117,
+"286d3bf28e67ea8b": 1795767630.1213825,
 "286f21a7a6f05e6a": 1794901225.4603486,
 "287204520365afce": 1794740464.3976526,
 "287601c0e166db2c": 1794985252.4753754,
@@ -28610,7 +28528,6 @@
 "5afdf93591d168b5": 1795525255.0446622,
 "5b03bfd32b347aaa": 1795593027.5061767,
 "5b05946083c81aaf": 1795100457.2598467,
-"5b064f563ba79266": 1794558027.197113,
 "5b096c8f82a84f01": 1795420852.275863,
 "5b12779b4995190a": 1794819655.1615279,
 "5b137a8bfa0d3f8f": 1795027225.027129,
@@ -31993,6 +31910,7 @@
 "89df3fbf4eb709f4": 1795734640.8915656,
 "89ead316cc532cd6": 1795682445.09482,
 "89eae63ecd6b5a71": 1795591229.272574,
+"89f2515cfa2b7377": 1795767630.1213825,
 "89f3e76621dea589": 1795468229.2670856,
 "89f5e6c98cf76000": 1795281628.2852693,
 "89f65606ba8604c1": 1795762854.7980394,
@@ -36570,6 +36488,7 @@
 "c5c67430740be3c1": 1795590061.8943424,
 "c5cb41ed64e67dfb": 1794901225.4603486,
 "c5cf7c0a414ece70": 1795710031.8283439,
+"c5d37ddddb37808c": 1795767630.1213825,
 "c5d9ecbf258dd343": 1794922826.4302015,
 "c5dbcde00c55f688": 1795563042.5781112,
 "c5de8b2fbcab6fa7": 1795598431.8352804,
@@ -36795,7 +36714,6 @@
 "c90497c16d92e234": 1795303229.7491117,
 "c905fbc5019a9508": 1795026027.4124646,
 "c90620114f107f5f": 1795643428.3749917,
-"c90712cca4c2ee8d": 1794558027.197113,
 "c90a255ed4d8112e": 1795504830.6007786,
 "c90c9b1602013d5f": 1795161653.0612464,
 "c90c9c8953209268": 1795676460.7256558,
@@ -37062,6 +36980,7 @@
 "cccacd7f255612cf": 1795468229.2670856,
 "ccd124144e473e55": 1795090170.4035563,
 "ccd54e9bc87e564a": 1795600233.4201007,
+"ccd772977912bf52": 1795767630.1213825,
 "ccd9137d244572a7": 1795087232.2239647,
 "ccdbb6f02870eb84": 1795695031.8096206,
 "ccdbd6e27b5f8396": 1795009226.0205479,
